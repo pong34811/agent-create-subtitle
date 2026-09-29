@@ -1,0 +1,430 @@
+{
+  "timeline_index": 28,
+  "timeline_name": "K404_28_SW005_ShieldRoomCountdown",
+  "source_path": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Soul Walker - 005 ｜ 26⧸09⧸2026 ｜   ​@LaffeyNilvalen.mp4",
+  "duration_seconds": 160.0,
+  "model": "bjak/distill-whisper-th-large-v3",
+  "language": "th",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.06,
+      "text": "คิริโตะฮูงไงเฮีย",
+      "window_start": 0.0
+    },
+    {
+      "start": 2.06,
+      "end": 3.8,
+      "text": "ก่อน",
+      "window_start": 0.0
+    },
+    {
+      "start": 3.8,
+      "end": 4.58,
+      "text": "ๆ",
+      "window_start": 0.0
+    },
+    {
+      "start": 4.58,
+      "end": 5.9,
+      "text": "แคปซูลแม่งจะพังไงเฮีย",
+      "window_start": 0.0
+    },
+    {
+      "start": 5.9,
+      "end": 7.34,
+      "text": "เขามีไว้ตั้งไงเฮีย",
+      "window_start": 0.0
+    },
+    {
+      "start": 7.34,
+      "end": 8.36,
+      "text": "ไม่ได้มีไว้ทำลาย",
+      "window_start": 0.0
+    },
+    {
+      "start": 8.36,
+      "end": 10.34,
+      "text": "บัด",
+      "window_start": 0.0
+    },
+    {
+      "start": 10.34,
+      "end": 11.28,
+      "text": "เอ่อ",
+      "window_start": 0.0
+    },
+    {
+      "start": 11.28,
+      "end": 13.18,
+      "text": "สบายเนาะ",
+      "window_start": 0.0
+    },
+    {
+      "start": 13.18,
+      "end": 18.76,
+      "text": "เวลาก็ช้าจริงจริงไงเฮีย",
+      "window_start": 0.0
+    },
+    {
+      "start": 18.76,
+      "end": 22.08,
+      "text": "ตอนคุณสตรีมนี่มีเวลาผ่านมาอย่างเร็วนะเฮีย",
+      "window_start": 0.0
+    },
+    {
+      "start": 22.08,
+      "end": 24.68,
+      "text": "ชุบ",
+      "window_start": 0.0
+    },
+    {
+      "start": 24.0,
+      "end": 24.64,
+      "text": "ชุบ",
+      "window_start": 24.0
+    },
+    {
+      "start": 26.22,
+      "end": 26.46,
+      "text": "ชุบ",
+      "window_start": 24.0
+    },
+    {
+      "start": 27.32,
+      "end": 27.9,
+      "text": "หนึ่งนาทีครึ่ง",
+      "window_start": 24.0
+    },
+    {
+      "start": 28.64,
+      "end": 29.9,
+      "text": "ใกล้แล้ว",
+      "window_start": 24.0
+    },
+    {
+      "start": 29.9,
+      "end": 33.36,
+      "text": "เหรอ",
+      "window_start": 24.0
+    },
+    {
+      "start": 33.36,
+      "end": 34.78,
+      "text": "ชุบ",
+      "window_start": 24.0
+    },
+    {
+      "start": 35.32,
+      "end": 36.14,
+      "text": "ชุบ",
+      "window_start": 24.0
+    },
+    {
+      "start": 42.739999999999995,
+      "end": 43.3,
+      "text": "เนี่ยคุณเค",
+      "window_start": 24.0
+    },
+    {
+      "start": 43.3,
+      "end": 44.46,
+      "text": "อยากได้ไหม",
+      "window_start": 24.0
+    },
+    {
+      "start": 44.46,
+      "end": 44.980000000000004,
+      "text": "ที่",
+      "window_start": 24.0
+    },
+    {
+      "start": 44.980000000000004,
+      "end": 46.379999999999995,
+      "text": "ที่ช่องแชทบบอกว่า",
+      "window_start": 24.0
+    },
+    {
+      "start": 46.379999999999995,
+      "end": 48.04,
+      "text": "ถ้าเลือกตัวฝั่งซ้ายอะ",
+      "window_start": 24.0
+    },
+    {
+      "start": 48.0,
+      "end": 50.72,
+      "text": "ก่อนจะได้เจอกันอยู่ที่ประมาณทั้งเลเวลห้าสิบอะ",
+      "window_start": 48.0
+    },
+    {
+      "start": 50.72,
+      "end": 51.32,
+      "text": "อ่า",
+      "window_start": 48.0
+    },
+    {
+      "start": 51.32,
+      "end": 54.72,
+      "text": "เนี่ยผมคิดว่าถ้าเลือก",
+      "window_start": 48.0
+    },
+    {
+      "start": 54.72,
+      "end": 57.58,
+      "text": "ถ้าเลือกตัวหัวข่าวที่ใช้หอกอะ",
+      "window_start": 48.0
+    },
+    {
+      "start": 57.58,
+      "end": 59.84,
+      "text": "เราน่าจะเริ่มเราน่าจะเริ่มโต๊ะจากตรงนี้",
+      "window_start": 48.0
+    },
+    {
+      "start": 59.84,
+      "end": 66.94,
+      "text": "อ่า",
+      "window_start": 48.0
+    },
+    {
+      "start": 66.94,
+      "end": 70.8,
+      "text": "นั่นแหละ",
+      "window_start": 48.0
+    },
+    {
+      "start": 70.8,
+      "end": 72.92,
+      "text": "อ่าชงชงชงชง",
+      "window_start": 48.0
+    },
+    {
+      "start": 72.0,
+      "end": 72.28,
+      "text": "ชง",
+      "window_start": 72.0
+    },
+    {
+      "start": 72.88,
+      "end": 73.96,
+      "text": "ชิง",
+      "window_start": 72.0
+    },
+    {
+      "start": 73.96,
+      "end": 74.26,
+      "text": "แข็ง",
+      "window_start": 72.0
+    },
+    {
+      "start": 74.26,
+      "end": 74.54,
+      "text": "ฮัง",
+      "window_start": 72.0
+    },
+    {
+      "start": 74.86,
+      "end": 75.66,
+      "text": "นั่นแหละ",
+      "window_start": 72.0
+    },
+    {
+      "start": 75.66,
+      "end": 78.64,
+      "text": "ตัวละครที่มันอยู่ที่มันอยู่ในแคปซูลก็คือตัวนั่นแหละ",
+      "window_start": 72.0
+    },
+    {
+      "start": 78.64,
+      "end": 80.68,
+      "text": "มันไปอยู่ทำไมวะ",
+      "window_start": 72.0
+    },
+    {
+      "start": 80.68,
+      "end": 82.1,
+      "text": "ไม่รู้",
+      "window_start": 72.0
+    },
+    {
+      "start": 82.1,
+      "end": 84.58,
+      "text": "เนี่ยมันเป็นเรื่องที่เป็นปริศนามากเลย",
+      "window_start": 72.0
+    },
+    {
+      "start": 84.58,
+      "end": 85.22,
+      "text": "อยู่ดิ",
+      "window_start": 72.0
+    },
+    {
+      "start": 85.22,
+      "end": 85.8,
+      "text": "ไม่นอน",
+      "window_start": 72.0
+    },
+    {
+      "start": 85.8,
+      "end": 87.12,
+      "text": "ไม่นอนเตียงบ้านเตียงเมืองวะ",
+      "window_start": 72.0
+    },
+    {
+      "start": 87.12,
+      "end": 88.38,
+      "text": "อยู่แคปซูลทำไมเนี่ย",
+      "window_start": 72.0
+    },
+    {
+      "start": 88.38,
+      "end": 91.08,
+      "text": "แคปซูลนี่แม่งแดกเข้าไฟด้วยนะปัญหา",
+      "window_start": 72.0
+    },
+    {
+      "start": 91.08,
+      "end": 97.12,
+      "text": "ผมว่ามันไม่แดกหนักเท่า",
+      "window_start": 72.0
+    },
+    {
+      "start": 96.0,
+      "end": 97.22,
+      "text": "ว่ามันไม่แดกหนักเข้า",
+      "window_start": 96.0
+    },
+    {
+      "start": 97.22,
+      "end": 99.86,
+      "text": "เข้ากำแพงห้องเหรอคุณเก",
+      "window_start": 96.0
+    },
+    {
+      "start": 99.86,
+      "end": 101.24,
+      "text": "เอ่อตู้เซิร์ฟเว่อ่ะ",
+      "window_start": 96.0
+    },
+    {
+      "start": 101.24,
+      "end": 108.34,
+      "text": "เอ้ยเอ้ยเอ้ยเอ้ยเอ้ยเย้ยเป็นไทยแล้วเว้ย",
+      "window_start": 96.0
+    },
+    {
+      "start": 108.34,
+      "end": 109.46000000000001,
+      "text": "หมดแล้ว",
+      "window_start": 96.0
+    },
+    {
+      "start": 109.46000000000001,
+      "end": 110.92,
+      "text": "หมดสักที",
+      "window_start": 96.0
+    },
+    {
+      "start": 110.92,
+      "end": 120.38,
+      "text": "เย้ยปล่อยกูไป",
+      "window_start": 96.0
+    },
+    {
+      "start": 120.0,
+      "end": 120.38,
+      "text": "กูไป",
+      "window_start": 120.0
+    },
+    {
+      "start": 120.38,
+      "end": 124.44,
+      "text": "จบหรือยัง",
+      "window_start": 120.0
+    },
+    {
+      "start": 124.44,
+      "end": 126.06,
+      "text": "เอ๊ย",
+      "window_start": 120.0
+    },
+    {
+      "start": 126.06,
+      "end": 127.52,
+      "text": "แคปทูนฮิลเลือดตัวเองได้ด้วย",
+      "window_start": 120.0
+    },
+    {
+      "start": 127.52,
+      "end": 128.1,
+      "text": "ใช่",
+      "window_start": 120.0
+    },
+    {
+      "start": 128.1,
+      "end": 128.26,
+      "text": "ๆ",
+      "window_start": 120.0
+    },
+    {
+      "start": 128.26,
+      "end": 128.96,
+      "text": "ฮิลเลือดตัวเองได้",
+      "window_start": 120.0
+    },
+    {
+      "start": 128.96,
+      "end": 138.78,
+      "text": "แต่เพราะว่ายังไงอะ",
+      "window_start": 120.0
+    },
+    {
+      "start": 138.78,
+      "end": 145.3,
+      "text": "คุยคัคซีน",
+      "window_start": 120.0
+    },
+    {
+      "start": 144.0,
+      "end": 145.3,
+      "text": "คุยคัตซีน",
+      "window_start": 144.0
+    },
+    {
+      "start": 145.3,
+      "end": 147.66,
+      "text": "เราคัตซีนเหรอ",
+      "window_start": 144.0
+    },
+    {
+      "start": 147.66,
+      "end": 154.56,
+      "text": "อ่อ",
+      "window_start": 144.0
+    },
+    {
+      "start": 154.56,
+      "end": 155.86,
+      "text": "มันคุยอยู่",
+      "window_start": 144.0
+    },
+    {
+      "start": 155.86,
+      "end": 157.32,
+      "text": "ฮึ",
+      "window_start": 144.0
+    },
+    {
+      "start": 158.78,
+      "end": 159.04,
+      "text": "ฮึ",
+      "window_start": 144.0
+    },
+    {
+      "start": 159.46,
+      "end": 159.9,
+      "text": "ฮ",
+      "window_start": 144.0
+    }
+  ]
+}

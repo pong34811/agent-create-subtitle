@@ -1,0 +1,64 @@
+﻿[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Mitr,66,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,100,100,360,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.27,Default,,0,0,0,,คิด
+Dialogue: 0,0:00:01.28,0:00:01.99,Default,,0,0,0,,คิดแต่ว่า
+Dialogue: 0,0:00:01.99,0:00:02.62,Default,,0,0,0,,โอเค
+Dialogue: 0,0:00:02.62,0:00:03.23,Default,,0,0,0,,เกาะ
+Dialogue: 0,0:00:03.23,0:00:03.83,Default,,0,0,0,,ไหว
+Dialogue: 0,0:00:03.83,0:00:04.42,Default,,0,0,0,,ขนาดนั้นแล้วเจอ
+Dialogue: 0,0:00:04.42,0:00:05.02,Default,,0,0,0,,คุรุยาคุ
+Dialogue: 0,0:00:05.02,0:00:06.12,Default,,0,0,0,,ร้าจัง
+Dialogue: 0,0:00:09.01,0:00:09.89,Default,,0,0,0,,ทุกทิ้ง
+Dialogue: 0,0:00:09.89,0:00:11.08,Default,,0,0,0,,ร้าจัง
+Dialogue: 0,0:00:11.35,0:00:12.05,Default,,0,0,0,,ต้อย
+Dialogue: 0,0:00:12.05,0:00:12.95,Default,,0,0,0,,มัน
+Dialogue: 0,0:00:13.98,0:00:14.58,Default,,0,0,0,,มัน
+Dialogue: 0,0:00:16.14,0:00:16.74,Default,,0,0,0,,มัน
+Dialogue: 0,0:00:18.00,0:00:19.26,Default,,0,0,0,,มัน
+Dialogue: 0,0:00:19.87,0:00:20.46,Default,,0,0,0,,มัน
+Dialogue: 0,0:00:24.00,0:00:24.78,Default,,0,0,0,,งาน
+Dialogue: 0,0:00:24.78,0:00:25.39,Default,,0,0,0,,อะ
+Dialogue: 0,0:00:33.98,0:00:34.99,Default,,0,0,0,,ตายแล้วครับ
+Dialogue: 0,0:00:34.99,0:00:35.59,Default,,0,0,0,,พี่
+Dialogue: 0,0:00:35.59,0:00:36.19,Default,,0,0,0,,คุณตามขนาด
+Dialogue: 0,0:00:36.19,0:00:36.79,Default,,0,0,0,,นี้แล้ว
+Dialogue: 0,0:00:36.79,0:00:37.41,Default,,0,0,0,,โอ้
+Dialogue: 0,0:00:43.89,0:00:44.50,Default,,0,0,0,,เยี่ย
+Dialogue: 0,0:00:44.50,0:00:45.10,Default,,0,0,0,,ดาบแตก
+Dialogue: 0,0:00:45.10,0:00:45.69,Default,,0,0,0,,อ่า
+Dialogue: 0,0:00:46.53,0:00:47.14,Default,,0,0,0,,อ่า
+Dialogue: 0,0:00:47.14,0:00:47.74,Default,,0,0,0,,เรื่องของ
+Dialogue: 0,0:00:47.74,0:00:48.34,Default,,0,0,0,,พี่แล้ว
+Dialogue: 0,0:00:48.34,0:00:48.94,Default,,0,0,0,,ตีหม้อ
+Dialogue: 0,0:00:48.94,0:00:49.54,Default,,0,0,0,,ไป
+Dialogue: 0,0:00:49.54,0:00:50.81,Default,,0,0,0,,คิดตีด่าแม่ง
+Dialogue: 0,0:00:50.81,0:00:51.41,Default,,0,0,0,,เลย
+Dialogue: 0,0:00:51.41,0:00:52.33,Default,,0,0,0,,ใช่ตอนนี้เปลี่ยน
+Dialogue: 0,0:00:52.33,0:00:53.14,Default,,0,0,0,,มาใช้ดาบรูป
+Dialogue: 0,0:01:08.28,0:01:09.38,Default,,0,0,0,,อุ๊ย
+Dialogue: 0,0:01:12.00,0:01:12.81,Default,,0,0,0,,หนีไป
+Dialogue: 0,0:01:12.81,0:01:13.41,Default,,0,0,0,,ไหน
+Dialogue: 0,0:01:17.70,0:01:18.62,Default,,0,0,0,,ฝ่อ
+Dialogue: 0,0:01:18.62,0:01:19.22,Default,,0,0,0,,น
+Dialogue: 0,0:01:29.37,0:01:30.64,Default,,0,0,0,,แพง
+Dialogue: 0,0:01:36.00,0:01:36.59,Default,,0,0,0,,แพง
+Dialogue: 0,0:01:38.73,0:01:39.33,Default,,0,0,0,,แพง
+Dialogue: 0,0:01:39.33,0:01:39.93,Default,,0,0,0,,เอเฮียเรียบร้อย
+Dialogue: 0,0:01:39.93,0:01:40.53,Default,,0,0,0,,แตก
+Dialogue: 0,0:01:40.53,0:01:41.13,Default,,0,0,0,,นะ
+Dialogue: 0,0:01:42.40,0:01:43.67,Default,,0,0,0,,แพง
+Dialogue: 0,0:01:48.26,0:01:49.53,Default,,0,0,0,,เฮ้อ
+Dialogue: 0,0:01:50.76,0:01:51.35,Default,,0,0,0,,เฮ้อ
+Dialogue: 0,0:01:52.85,0:01:53.45,Default,,0,0,0,,เฮ้อ
+Dialogue: 0,0:01:54.70,0:01:55.00,Default,,0,0,0,,เฮ้อ

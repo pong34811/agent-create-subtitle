@@ -1,0 +1,53 @@
+﻿[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Mitr,66,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,100,100,185,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.74,0:00:01.34,Default,,0,0,0,,มาแล้วมาแล้ว
+Dialogue: 0,0:00:01.34,0:00:01.94,Default,,0,0,0,,มาแล้ว
+Dialogue: 0,0:00:03.46,0:00:04.89,Default,,0,0,0,,ลูกตา
+Dialogue: 0,0:00:06.71,0:00:07.61,Default,,0,0,0,,ตามใครอ่ะขี้
+Dialogue: 0,0:00:07.61,0:00:09.26,Default,,0,0,0,,หรอไม่
+Dialogue: 0,0:00:09.40,0:00:10.06,Default,,0,0,0,,มั่นใจไม่มั่นใจ
+Dialogue: 0,0:00:10.49,0:00:11.49,Default,,0,0,0,,ระวังนะตรงตรง
+Dialogue: 0,0:00:11.49,0:00:12.47,Default,,0,0,0,,มีลูกตาสองตัว
+Dialogue: 0,0:00:12.49,0:00:13.92,Default,,0,0,0,,โอเค
+Dialogue: 0,0:00:14.18,0:00:15.61,Default,,0,0,0,,โอ้โห
+Dialogue: 0,0:00:15.88,0:00:16.48,Default,,0,0,0,,ไม่ชอบทีนาย
+Dialogue: 0,0:00:16.48,0:00:17.44,Default,,0,0,0,,กันก็บอกเอ้ย
+Dialogue: 0,0:00:17.44,0:00:18.50,Default,,0,0,0,,โอ้โหเอ้ยปั๊บ
+Dialogue: 0,0:00:18.50,0:00:19.38,Default,,0,0,0,,อย่าว่าปรับบ้าน
+Dialogue: 0,0:00:19.38,0:00:20.06,Default,,0,0,0,,ก่อนน่ะเดี๋ยวลอก
+Dialogue: 0,0:00:20.06,0:00:20.66,Default,,0,0,0,,ออกก่อน
+Dialogue: 0,0:00:23.31,0:00:24.74,Default,,0,0,0,,โอ้โห
+Dialogue: 0,0:00:25.37,0:00:25.97,Default,,0,0,0,,โอ้โห
+Dialogue: 0,0:00:26.01,0:00:27.44,Default,,0,0,0,,โอ้โห
+Dialogue: 0,0:00:45.88,0:00:46.56,Default,,0,0,0,,ตามตามราฟี่
+Dialogue: 0,0:00:46.56,0:00:47.16,Default,,0,0,0,,อยู่อ่ะ
+Dialogue: 0,0:00:47.60,0:00:48.80,Default,,0,0,0,,ไม่ไม่ผมตาย
+Dialogue: 0,0:00:48.80,0:00:50.31,Default,,0,0,0,,อยู่ระวัง
+Dialogue: 0,0:00:50.81,0:00:51.69,Default,,0,0,0,,น่ะน่าจะดัก
+Dialogue: 0,0:00:51.69,0:00:52.29,Default,,0,0,0,,เกิดอ่ะ
+Dialogue: 0,0:00:55.95,0:00:57.38,Default,,0,0,0,,ใช่
+Dialogue: 0,0:00:58.31,0:00:58.91,Default,,0,0,0,,ใช่จุดเกิด
+Dialogue: 0,0:00:58.91,0:01:00.20,Default,,0,0,0,,เดี๋ยว
+Dialogue: 0,0:01:02.06,0:01:03.28,Default,,0,0,0,,ถ้าถึงขวา
+Dialogue: 0,0:01:03.28,0:01:03.88,Default,,0,0,0,,สุดเดี๋ยวพา
+Dialogue: 0,0:01:03.88,0:01:04.48,Default,,0,0,0,,กลับน่ะ
+Dialogue: 0,0:01:04.48,0:01:05.94,Default,,0,0,0,,คุณเดี๋ยว
+Dialogue: 0,0:01:05.94,0:01:06.54,Default,,0,0,0,,ขึ้นเข้าบนได้
+Dialogue: 0,0:01:11.48,0:01:12.62,Default,,0,0,0,,มามาได้
+Dialogue: 0,0:01:12.62,0:01:13.22,Default,,0,0,0,,ยกกลับ
+Dialogue: 0,0:01:13.22,0:01:14.37,Default,,0,0,0,,ล่ะ
+Dialogue: 0,0:01:45.76,0:01:46.36,Default,,0,0,0,,เฮ้ย
+Dialogue: 0,0:01:46.36,0:01:46.96,Default,,0,0,0,,อะไรอ่ะอันนี้เหรอ
+Dialogue: 0,0:01:46.96,0:01:48.15,Default,,0,0,0,,อุ้ย
+Dialogue: 0,0:01:49.17,0:01:49.83,Default,,0,0,0,,ดาบดาบ

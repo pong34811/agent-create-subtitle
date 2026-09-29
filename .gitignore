@@ -1,0 +1,18 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.env
+.venv/
+env/
+venv/
+
+# Large media files (rendered overlays)
+*.mov
+*.mp4
+*.mkv
+*.avi
+
+# OS files
+.DS_Store
+Thumbs.db

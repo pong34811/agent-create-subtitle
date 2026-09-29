@@ -1,0 +1,67 @@
+﻿[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Mitr,66,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,100,100,185,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.14,Default,,0,0,0,,เร็วกว่านี้คิส
+Dialogue: 0,0:00:01.14,0:00:02.04,Default,,0,0,0,,โตฮูไอ้เหี้ย
+Dialogue: 0,0:00:02.04,0:00:03.39,Default,,0,0,0,,ก่อน
+Dialogue: 0,0:00:03.84,0:00:04.82,Default,,0,0,0,,ฮูก่อนก่อนแคป
+Dialogue: 0,0:00:04.82,0:00:05.42,Default,,0,0,0,,ซูนแม่ง
+Dialogue: 0,0:00:05.42,0:00:06.02,Default,,0,0,0,,จะพังไอ้เหี้ย
+Dialogue: 0,0:00:06.02,0:00:07.06,Default,,0,0,0,,เขามีไว้ตั้ง
+Dialogue: 0,0:00:07.06,0:00:07.66,Default,,0,0,0,,ไอ้เหี้ยไม่ได้
+Dialogue: 0,0:00:07.66,0:00:08.26,Default,,0,0,0,,มีไว้
+Dialogue: 0,0:00:08.26,0:00:09.04,Default,,0,0,0,,ทำลายบัตรยัง
+Dialogue: 0,0:00:09.04,0:00:09.64,Default,,0,0,0,,ยังไม่
+Dialogue: 0,0:00:09.64,0:00:10.76,Default,,0,0,0,,ยังไม่
+Dialogue: 0,0:00:10.76,0:00:11.86,Default,,0,0,0,,ถึงเลยน่ะน่ะ
+Dialogue: 0,0:00:11.86,0:00:13.25,Default,,0,0,0,,ชิ
+Dialogue: 0,0:00:13.56,0:00:14.16,Default,,0,0,0,,วชิวชิ
+Dialogue: 0,0:00:14.16,0:00:14.76,Default,,0,0,0,,ว
+Dialogue: 0,0:00:17.45,0:00:18.31,Default,,0,0,0,,เวลาก็ช้าจริง
+Dialogue: 0,0:00:18.31,0:00:18.91,Default,,0,0,0,,จริงไอ้เหี้ย
+Dialogue: 0,0:00:18.91,0:00:20.33,Default,,0,0,0,,ตอนคุณ
+Dialogue: 0,0:00:20.33,0:00:20.97,Default,,0,0,0,,สตรีงนี่เวลา
+Dialogue: 0,0:00:20.97,0:00:21.57,Default,,0,0,0,,ผ่าน
+Dialogue: 0,0:00:27.60,0:00:29.03,Default,,0,0,0,,ไป
+Dialogue: 0,0:00:50.97,0:00:52.64,Default,,0,0,0,,อ่าเนี้ย
+Dialogue: 0,0:00:52.64,0:00:53.24,Default,,0,0,0,,ผม
+Dialogue: 0,0:00:53.40,0:00:54.38,Default,,0,0,0,,คิดว่าถ้า
+Dialogue: 0,0:00:54.38,0:00:55.48,Default,,0,0,0,,เลือกถ้า
+Dialogue: 0,0:00:55.52,0:00:56.61,Default,,0,0,0,,เลือกตัวหัว
+Dialogue: 0,0:00:56.65,0:00:57.49,Default,,0,0,0,,ขาวที่ใช้หอก
+Dialogue: 0,0:00:57.49,0:00:58.09,Default,,0,0,0,,อ่ะ
+Dialogue: 0,0:00:58.09,0:00:59.04,Default,,0,0,0,,เราน่าจะเริ่มเรา
+Dialogue: 0,0:00:59.04,0:00:59.64,Default,,0,0,0,,น่าจะเริ่มตัวจาก
+Dialogue: 0,0:00:59.64,0:01:00.24,Default,,0,0,0,,ตรงนี้
+Dialogue: 0,0:01:00.83,0:01:02.26,Default,,0,0,0,,โอ้
+Dialogue: 0,0:01:12.10,0:01:13.00,Default,,0,0,0,,ชุ่งชุ่งชุ่ง
+Dialogue: 0,0:01:13.70,0:01:14.92,Default,,0,0,0,,ชิงแข็งฮังชิง
+Dialogue: 0,0:01:14.92,0:01:16.26,Default,,0,0,0,,นั่นแหละตัว
+Dialogue: 0,0:01:16.26,0:01:17.14,Default,,0,0,0,,ละครที่มันอยู่
+Dialogue: 0,0:01:17.14,0:01:17.74,Default,,0,0,0,,ที่มันอยู่
+Dialogue: 0,0:01:17.74,0:01:18.91,Default,,0,0,0,,ใน
+Dialogue: 0,0:01:46.24,0:01:47.46,Default,,0,0,0,,เย้ไป
+Dialogue: 0,0:01:47.46,0:01:48.36,Default,,0,0,0,,ท้ายแล้วเว้ย
+Dialogue: 0,0:01:48.36,0:01:49.79,Default,,0,0,0,,หมด
+Dialogue: 0,0:01:50.17,0:01:50.97,Default,,0,0,0,,ซักที
+Dialogue: 0,0:01:50.97,0:01:52.32,Default,,0,0,0,,เย้
+Dialogue: 0,0:01:58.54,0:02:00.20,Default,,0,0,0,,ปล่อยกู
+Dialogue: 0,0:02:00.20,0:02:01.85,Default,,0,0,0,,ไปแคป
+Dialogue: 0,0:02:06.38,0:02:06.98,Default,,0,0,0,,ซูนฮิว
+Dialogue: 0,0:02:06.98,0:02:07.58,Default,,0,0,0,,เลือดตัวเองได้ด้วย
+Dialogue: 0,0:02:07.80,0:02:08.54,Default,,0,0,0,,ใช่ใช่หิวเลือด
+Dialogue: 0,0:02:08.54,0:02:09.14,Default,,0,0,0,,ตัวเองได้
+Dialogue: 0,0:02:09.14,0:02:10.39,Default,,0,0,0,,เพราะว่า
+Dialogue: 0,0:02:18.32,0:02:18.92,Default,,0,0,0,,ยังไงอ่ะ
+Dialogue: 0,0:02:26.48,0:02:27.91,Default,,0,0,0,,มัน
+Dialogue: 0,0:02:35.39,0:02:35.99,Default,,0,0,0,,คุยอยู่

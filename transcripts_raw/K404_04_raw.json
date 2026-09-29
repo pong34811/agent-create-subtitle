@@ -1,0 +1,2727 @@
+{
+  "timeline_index": 4,
+  "timeline_name": "K404_04_MC002_Creeper ระเบิดข้างกรง แต่กรงยังรอด",
+  "source_path": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Minecraft - 002  ｜ 14⧸09⧸2569 ｜ #katy404live.mp4",
+  "source_start_seconds": 2442,
+  "source_end_seconds": 2522,
+  "duration_seconds": 80.0,
+  "language": "th",
+  "language_probability": 1.0,
+  "model": "large-v3",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.44,
+      "text": "เก็บของ",
+      "avg_logprob": -0.25126485188802083,
+      "no_speech_prob": 0.21466563642024994,
+      "compression_ratio": 2.7777777777777777,
+      "words": [
+        {
+          "start": 0.0,
+          "end": 0.08,
+          "text": "เก",
+          "probability": 0.85326287150383
+        },
+        {
+          "start": 0.08,
+          "end": 0.14,
+          "text": "็",
+          "probability": 0.9976824522018433
+        },
+        {
+          "start": 0.14,
+          "end": 0.14,
+          "text": "บ",
+          "probability": 0.9984024167060852
+        },
+        {
+          "start": 0.14,
+          "end": 0.28,
+          "text": "ข",
+          "probability": 0.9625821709632874
+        },
+        {
+          "start": 0.28,
+          "end": 0.44,
+          "text": "อง",
+          "probability": 0.9949010610580444
+        }
+      ]
+    },
+    {
+      "start": 1.1,
+      "end": 3.88,
+      "text": "มันเป็นซอมมี่หรอ",
+      "avg_logprob": -0.25126485188802083,
+      "no_speech_prob": 0.21466563642024994,
+      "compression_ratio": 2.7777777777777777,
+      "words": [
+        {
+          "start": 1.1,
+          "end": 1.3,
+          "text": "ม",
+          "probability": 0.7473610043525696
+        },
+        {
+          "start": 1.76,
+          "end": 1.96,
+          "text": "ั",
+          "probability": 0.9985097050666809
+        },
+        {
+          "start": 1.96,
+          "end": 1.98,
+          "text": "น",
+          "probability": 0.9998340606689453
+        },
+        {
+          "start": 1.98,
+          "end": 2.08,
+          "text": "เป",
+          "probability": 0.9962814450263977
+        },
+        {
+          "start": 2.08,
+          "end": 2.32,
+          "text": "็",
+          "probability": 0.996908962726593
+        },
+        {
+          "start": 2.32,
+          "end": 2.5,
+          "text": "น",
+          "probability": 0.9918580651283264
+        },
+        {
+          "start": 2.5,
+          "end": 2.94,
+          "text": "ซ",
+          "probability": 0.621444821357727
+        },
+        {
+          "start": 2.94,
+          "end": 3.02,
+          "text": "อ",
+          "probability": 0.9225043654441833
+        },
+        {
+          "start": 3.02,
+          "end": 3.04,
+          "text": "ม",
+          "probability": 0.9973692893981934
+        },
+        {
+          "start": 3.04,
+          "end": 3.16,
+          "text": "ม",
+          "probability": 0.6615997552871704
+        },
+        {
+          "start": 3.16,
+          "end": 3.42,
+          "text": "ี่",
+          "probability": 0.8762602806091309
+        },
+        {
+          "start": 3.42,
+          "end": 3.56,
+          "text": "ห",
+          "probability": 0.669710636138916
+        },
+        {
+          "start": 3.56,
+          "end": 3.78,
+          "text": "ร",
+          "probability": 0.9870771169662476
+        },
+        {
+          "start": 3.78,
+          "end": 3.88,
+          "text": "อ",
+          "probability": 0.9949787259101868
+        }
+      ]
+    },
+    {
+      "start": 3.88,
+      "end": 5.36,
+      "text": "ซอมมี่",
+      "avg_logprob": -0.25126485188802083,
+      "no_speech_prob": 0.21466563642024994,
+      "compression_ratio": 2.7777777777777777,
+      "words": [
+        {
+          "start": 3.88,
+          "end": 4.26,
+          "text": "ซ",
+          "probability": 0.6439353823661804
+        },
+        {
+          "start": 4.92,
+          "end": 5.0,
+          "text": "อ",
+          "probability": 0.9911003708839417
+        },
+        {
+          "start": 5.0,
+          "end": 5.04,
+          "text": "ม",
+          "probability": 0.9998101592063904
+        },
+        {
+          "start": 5.04,
+          "end": 5.14,
+          "text": "ม",
+          "probability": 0.4957095980644226
+        },
+        {
+          "start": 5.14,
+          "end": 5.36,
+          "text": "ี่",
+          "probability": 0.9922894835472107
+        }
+      ]
+    },
+    {
+      "start": 5.36,
+      "end": 9.25,
+      "text": "ซอมมี่หรอ",
+      "avg_logprob": -0.25126485188802083,
+      "no_speech_prob": 0.21466563642024994,
+      "compression_ratio": 2.7777777777777777,
+      "words": [
+        {
+          "start": 5.36,
+          "end": 5.6,
+          "text": "ซ",
+          "probability": 0.3037174642086029
+        },
+        {
+          "start": 5.6,
+          "end": 5.9,
+          "text": "อ",
+          "probability": 0.9505525231361389
+        },
+        {
+          "start": 8.83,
+          "end": 8.83,
+          "text": "ม",
+          "probability": 0.9995779395103455
+        },
+        {
+          "start": 8.83,
+          "end": 8.89,
+          "text": "ม",
+          "probability": 0.9983581900596619
+        },
+        {
+          "start": 8.89,
+          "end": 8.89,
+          "text": "ี่",
+          "probability": 0.998663067817688
+        },
+        {
+          "start": 8.89,
+          "end": 9.03,
+          "text": "ห",
+          "probability": 0.8898029327392578
+        },
+        {
+          "start": 9.03,
+          "end": 9.17,
+          "text": "ร",
+          "probability": 0.9981335997581482
+        },
+        {
+          "start": 9.17,
+          "end": 9.25,
+          "text": "อ",
+          "probability": 0.9978227615356445
+        }
+      ]
+    },
+    {
+      "start": 9.53,
+      "end": 9.93,
+      "text": "ใช่",
+      "avg_logprob": -0.25126485188802083,
+      "no_speech_prob": 0.21466563642024994,
+      "compression_ratio": 2.7777777777777777,
+      "words": [
+        {
+          "start": 9.53,
+          "end": 9.73,
+          "text": "ใช",
+          "probability": 0.6829740405082703
+        },
+        {
+          "start": 9.73,
+          "end": 9.93,
+          "text": "่",
+          "probability": 0.9971367120742798
+        }
+      ]
+    },
+    {
+      "start": 9.93,
+      "end": 11.13,
+      "text": "ซอมมี่มีประโยชน์หรอ",
+      "avg_logprob": -0.25126485188802083,
+      "no_speech_prob": 0.21466563642024994,
+      "compression_ratio": 2.7777777777777777,
+      "words": [
+        {
+          "start": 9.93,
+          "end": 10.11,
+          "text": "ซ",
+          "probability": 0.5602439045906067
+        },
+        {
+          "start": 10.11,
+          "end": 10.15,
+          "text": "อ",
+          "probability": 0.9947776794433594
+        },
+        {
+          "start": 10.15,
+          "end": 10.19,
+          "text": "ม",
+          "probability": 0.9999082088470459
+        },
+        {
+          "start": 10.19,
+          "end": 10.25,
+          "text": "ม",
+          "probability": 0.9996386766433716
+        },
+        {
+          "start": 10.25,
+          "end": 10.39,
+          "text": "ี่",
+          "probability": 0.997956395149231
+        },
+        {
+          "start": 10.39,
+          "end": 10.45,
+          "text": "ม",
+          "probability": 0.4250149130821228
+        },
+        {
+          "start": 10.45,
+          "end": 10.55,
+          "text": "ี",
+          "probability": 0.8513842225074768
+        },
+        {
+          "start": 10.55,
+          "end": 10.69,
+          "text": "ป",
+          "probability": 0.9783777594566345
+        },
+        {
+          "start": 10.69,
+          "end": 10.79,
+          "text": "ระ",
+          "probability": 0.9959967136383057
+        },
+        {
+          "start": 10.79,
+          "end": 10.81,
+          "text": "โ",
+          "probability": 0.997597873210907
+        },
+        {
+          "start": 10.81,
+          "end": 10.89,
+          "text": "ย",
+          "probability": 0.9979438185691833
+        },
+        {
+          "start": 10.89,
+          "end": 10.99,
+          "text": "ช",
+          "probability": 0.9684611558914185
+        },
+        {
+          "start": 10.99,
+          "end": 10.99,
+          "text": "น",
+          "probability": 0.9992918968200684
+        },
+        {
+          "start": 10.99,
+          "end": 10.99,
+          "text": "์",
+          "probability": 0.9996918439865112
+        },
+        {
+          "start": 10.99,
+          "end": 11.13,
+          "text": "ห",
+          "probability": 0.6237502098083496
+        },
+        {
+          "start": 11.13,
+          "end": 11.13,
+          "text": "ร",
+          "probability": 0.998893678188324
+        },
+        {
+          "start": 11.13,
+          "end": 11.13,
+          "text": "อ",
+          "probability": 0.9711828231811523
+        }
+      ]
+    },
+    {
+      "start": 11.13,
+      "end": 13.3,
+      "text": "พี่พูดปุ๊บใช่ไหม",
+      "avg_logprob": -0.25126485188802083,
+      "no_speech_prob": 0.21466563642024994,
+      "compression_ratio": 2.7777777777777777,
+      "words": [
+        {
+          "start": 11.13,
+          "end": 11.29,
+          "text": "พ",
+          "probability": 0.8914399743080139
+        },
+        {
+          "start": 12.52,
+          "end": 12.64,
+          "text": "ี่",
+          "probability": 0.9835196137428284
+        },
+        {
+          "start": 12.64,
+          "end": 12.7,
+          "text": "พ",
+          "probability": 0.9909070730209351
+        },
+        {
+          "start": 12.7,
+          "end": 12.8,
+          "text": "ู",
+          "probability": 0.9985904097557068
+        },
+        {
+          "start": 12.8,
+          "end": 12.82,
+          "text": "ด",
+          "probability": 0.9998425245285034
+        },
+        {
+          "start": 12.82,
+          "end": 12.9,
+          "text": "ป",
+          "probability": 0.9948248863220215
+        },
+        {
+          "start": 12.9,
+          "end": 12.98,
+          "text": "ุ",
+          "probability": 0.9964753985404968
+        },
+        {
+          "start": 12.98,
+          "end": 12.98,
+          "text": "๊",
+          "probability": 0.9892449378967285
+        },
+        {
+          "start": 12.98,
+          "end": 12.98,
+          "text": "บ",
+          "probability": 0.9837400317192078
+        },
+        {
+          "start": 12.98,
+          "end": 13.1,
+          "text": "ใช",
+          "probability": 0.9928162097930908
+        },
+        {
+          "start": 13.1,
+          "end": 13.16,
+          "text": "่",
+          "probability": 0.9998472929000854
+        },
+        {
+          "start": 13.16,
+          "end": 13.22,
+          "text": "ไ",
+          "probability": 0.65234375
+        },
+        {
+          "start": 13.22,
+          "end": 13.3,
+          "text": "หม",
+          "probability": 0.9976019263267517
+        }
+      ]
+    },
+    {
+      "start": 13.3,
+      "end": 16.46,
+      "text": "คีปเปอร์แม่งระเบิดไอ้เทียแล้วดินทัพกงแตรก",
+      "avg_logprob": -0.25126485188802083,
+      "no_speech_prob": 0.21466563642024994,
+      "compression_ratio": 2.7777777777777777,
+      "words": [
+        {
+          "start": 13.3,
+          "end": 13.64,
+          "text": "ค",
+          "probability": 0.3103014826774597
+        },
+        {
+          "start": 13.98,
+          "end": 14.06,
+          "text": "ี",
+          "probability": 0.7475203275680542
+        },
+        {
+          "start": 14.06,
+          "end": 14.08,
+          "text": "ป",
+          "probability": 0.6786500811576843
+        },
+        {
+          "start": 14.08,
+          "end": 14.34,
+          "text": "เป",
+          "probability": 0.9584435224533081
+        },
+        {
+          "start": 14.34,
+          "end": 14.42,
+          "text": "อ",
+          "probability": 0.8195904493331909
+        },
+        {
+          "start": 14.42,
+          "end": 14.42,
+          "text": "ร",
+          "probability": 0.9965733289718628
+        },
+        {
+          "start": 14.42,
+          "end": 14.5,
+          "text": "์",
+          "probability": 0.9986787438392639
+        },
+        {
+          "start": 14.5,
+          "end": 14.54,
+          "text": "แ",
+          "probability": 0.6868762373924255
+        },
+        {
+          "start": 14.54,
+          "end": 14.56,
+          "text": "ม",
+          "probability": 0.9946277737617493
+        },
+        {
+          "start": 14.56,
+          "end": 14.58,
+          "text": "่",
+          "probability": 0.988985538482666
+        },
+        {
+          "start": 14.58,
+          "end": 14.6,
+          "text": "ง",
+          "probability": 0.9949841499328613
+        },
+        {
+          "start": 14.6,
+          "end": 14.72,
+          "text": "ระ",
+          "probability": 0.9884932637214661
+        },
+        {
+          "start": 14.72,
+          "end": 14.84,
+          "text": "เบ",
+          "probability": 0.9980339705944061
+        },
+        {
+          "start": 14.84,
+          "end": 14.92,
+          "text": "ิ",
+          "probability": 0.999447762966156
+        },
+        {
+          "start": 14.92,
+          "end": 14.96,
+          "text": "ด",
+          "probability": 0.9672508835792542
+        },
+        {
+          "start": 14.96,
+          "end": 15.08,
+          "text": "ไ",
+          "probability": 0.8287736177444458
+        },
+        {
+          "start": 15.08,
+          "end": 15.12,
+          "text": "อ",
+          "probability": 0.9974550604820251
+        },
+        {
+          "start": 15.12,
+          "end": 15.12,
+          "text": "้",
+          "probability": 0.8300049901008606
+        },
+        {
+          "start": 15.12,
+          "end": 15.22,
+          "text": "เท",
+          "probability": 0.4990624040365219
+        },
+        {
+          "start": 15.22,
+          "end": 15.22,
+          "text": "ี",
+          "probability": 0.6793310046195984
+        },
+        {
+          "start": 15.22,
+          "end": 15.22,
+          "text": "ย",
+          "probability": 0.889330267906189
+        },
+        {
+          "start": 15.22,
+          "end": 15.32,
+          "text": "แล",
+          "probability": 0.28661102056503296
+        },
+        {
+          "start": 15.32,
+          "end": 15.4,
+          "text": "้",
+          "probability": 0.7981519103050232
+        },
+        {
+          "start": 15.4,
+          "end": 15.4,
+          "text": "ว",
+          "probability": 0.995789110660553
+        },
+        {
+          "start": 15.4,
+          "end": 15.46,
+          "text": "ด",
+          "probability": 0.9423491954803467
+        },
+        {
+          "start": 15.46,
+          "end": 15.5,
+          "text": "ิ",
+          "probability": 0.994231641292572
+        },
+        {
+          "start": 15.5,
+          "end": 15.52,
+          "text": "น",
+          "probability": 0.9966692328453064
+        },
+        {
+          "start": 15.52,
+          "end": 15.66,
+          "text": "ท",
+          "probability": 0.9912859797477722
+        },
+        {
+          "start": 15.66,
+          "end": 15.72,
+          "text": "ั",
+          "probability": 0.9797852635383606
+        },
+        {
+          "start": 15.72,
+          "end": 15.74,
+          "text": "พ",
+          "probability": 0.6926035284996033
+        },
+        {
+          "start": 15.74,
+          "end": 15.84,
+          "text": "ก",
+          "probability": 0.6452843546867371
+        },
+        {
+          "start": 15.84,
+          "end": 16.0,
+          "text": "ง",
+          "probability": 0.8066101670265198
+        },
+        {
+          "start": 16.0,
+          "end": 16.1,
+          "text": "แ",
+          "probability": 0.4885842800140381
+        },
+        {
+          "start": 16.1,
+          "end": 16.24,
+          "text": "ต",
+          "probability": 0.7074646949768066
+        },
+        {
+          "start": 16.24,
+          "end": 16.3,
+          "text": "ร",
+          "probability": 0.7201954126358032
+        },
+        {
+          "start": 16.3,
+          "end": 16.46,
+          "text": "ก",
+          "probability": 0.9799436926841736
+        }
+      ]
+    },
+    {
+      "start": 16.46,
+      "end": 17.5,
+      "text": "โคตรเฮียเลย",
+      "avg_logprob": -0.25126485188802083,
+      "no_speech_prob": 0.21466563642024994,
+      "compression_ratio": 2.7777777777777777,
+      "words": [
+        {
+          "start": 16.46,
+          "end": 16.68,
+          "text": "โ",
+          "probability": 0.8415461778640747
+        },
+        {
+          "start": 16.68,
+          "end": 16.8,
+          "text": "ค",
+          "probability": 0.9627683162689209
+        },
+        {
+          "start": 16.8,
+          "end": 16.86,
+          "text": "ต",
+          "probability": 0.9039510488510132
+        },
+        {
+          "start": 16.86,
+          "end": 16.94,
+          "text": "ร",
+          "probability": 0.9922488927841187
+        },
+        {
+          "start": 16.94,
+          "end": 17.08,
+          "text": "เฮ",
+          "probability": 0.5126790553331375
+        },
+        {
+          "start": 17.08,
+          "end": 17.18,
+          "text": "ี",
+          "probability": 0.55271977186203
+        },
+        {
+          "start": 17.18,
+          "end": 17.2,
+          "text": "ย",
+          "probability": 0.9976810216903687
+        },
+        {
+          "start": 17.2,
+          "end": 17.5,
+          "text": "เลย",
+          "probability": 0.9152740240097046
+        }
+      ]
+    },
+    {
+      "start": 18.1,
+      "end": 19.72,
+      "text": "ฮือ",
+      "avg_logprob": -0.25126485188802083,
+      "no_speech_prob": 0.21466563642024994,
+      "compression_ratio": 2.7777777777777777,
+      "words": [
+        {
+          "start": 18.1,
+          "end": 18.3,
+          "text": "ฮ",
+          "probability": 0.39458393305540085
+        },
+        {
+          "start": 19.46,
+          "end": 19.66,
+          "text": "ื",
+          "probability": 0.14893481135368347
+        },
+        {
+          "start": 19.66,
+          "end": 19.72,
+          "text": "อ",
+          "probability": 0.7633945941925049
+        }
+      ]
+    },
+    {
+      "start": 19.72,
+      "end": 21.89,
+      "text": "ตำรวจระเบิดไปแล้วหรอ",
+      "avg_logprob": -0.25126485188802083,
+      "no_speech_prob": 0.21466563642024994,
+      "compression_ratio": 2.7777777777777777,
+      "words": [
+        {
+          "start": 19.72,
+          "end": 19.78,
+          "text": "ต",
+          "probability": 0.1043475940823555
+        },
+        {
+          "start": 20.73,
+          "end": 20.85,
+          "text": "ำ",
+          "probability": 0.2636614143848419
+        },
+        {
+          "start": 20.85,
+          "end": 20.89,
+          "text": "ร",
+          "probability": 0.12475047260522842
+        },
+        {
+          "start": 20.89,
+          "end": 20.99,
+          "text": "ว",
+          "probability": 0.2666490972042084
+        },
+        {
+          "start": 20.99,
+          "end": 20.99,
+          "text": "จ",
+          "probability": 0.9816789031028748
+        },
+        {
+          "start": 20.99,
+          "end": 21.15,
+          "text": "ระ",
+          "probability": 0.6491668224334717
+        },
+        {
+          "start": 21.15,
+          "end": 21.23,
+          "text": "เบ",
+          "probability": 0.9951367378234863
+        },
+        {
+          "start": 21.23,
+          "end": 21.27,
+          "text": "ิ",
+          "probability": 0.9973732233047485
+        },
+        {
+          "start": 21.27,
+          "end": 21.29,
+          "text": "ด",
+          "probability": 0.9937637448310852
+        },
+        {
+          "start": 21.29,
+          "end": 21.37,
+          "text": "ไป",
+          "probability": 0.7739629149436951
+        },
+        {
+          "start": 21.37,
+          "end": 21.47,
+          "text": "แล",
+          "probability": 0.9483271241188049
+        },
+        {
+          "start": 21.47,
+          "end": 21.53,
+          "text": "้",
+          "probability": 0.9992469549179077
+        },
+        {
+          "start": 21.53,
+          "end": 21.55,
+          "text": "ว",
+          "probability": 0.9973002076148987
+        },
+        {
+          "start": 21.55,
+          "end": 21.67,
+          "text": "ห",
+          "probability": 0.5172955989837646
+        },
+        {
+          "start": 21.67,
+          "end": 21.73,
+          "text": "ร",
+          "probability": 0.9893184304237366
+        },
+        {
+          "start": 21.73,
+          "end": 21.89,
+          "text": "อ",
+          "probability": 0.9850047826766968
+        }
+      ]
+    },
+    {
+      "start": 21.89,
+      "end": 22.53,
+      "text": "ใช่",
+      "avg_logprob": -0.25126485188802083,
+      "no_speech_prob": 0.21466563642024994,
+      "compression_ratio": 2.7777777777777777,
+      "words": [
+        {
+          "start": 21.89,
+          "end": 22.19,
+          "text": "ใช",
+          "probability": 0.945875883102417
+        },
+        {
+          "start": 22.19,
+          "end": 22.53,
+          "text": "่",
+          "probability": 0.9975631237030029
+        }
+      ]
+    },
+    {
+      "start": 22.53,
+      "end": 24.05,
+      "text": "ไอ้เหี้ย",
+      "avg_logprob": -0.25126485188802083,
+      "no_speech_prob": 0.21466563642024994,
+      "compression_ratio": 2.7777777777777777,
+      "words": [
+        {
+          "start": 22.53,
+          "end": 22.79,
+          "text": "ไ",
+          "probability": 0.7151632308959961
+        },
+        {
+          "start": 22.79,
+          "end": 23.05,
+          "text": "อ",
+          "probability": 0.9958834052085876
+        },
+        {
+          "start": 23.61,
+          "end": 23.65,
+          "text": "้",
+          "probability": 0.919845461845398
+        },
+        {
+          "start": 23.65,
+          "end": 23.79,
+          "text": "เห",
+          "probability": 0.6132569313049316
+        },
+        {
+          "start": 23.79,
+          "end": 24.03,
+          "text": "ี้",
+          "probability": 0.2674618661403656
+        },
+        {
+          "start": 24.03,
+          "end": 24.05,
+          "text": "ย",
+          "probability": 0.9935764670372009
+        }
+      ]
+    },
+    {
+      "start": 24.05,
+      "end": 27.67,
+      "text": "คุยเอ้ยแม่งพี่บอกว่ามีประโยชน์หันหลังว่า",
+      "avg_logprob": -0.25126485188802083,
+      "no_speech_prob": 0.21466563642024994,
+      "compression_ratio": 2.7777777777777777,
+      "words": [
+        {
+          "start": 24.05,
+          "end": 24.31,
+          "text": "ค",
+          "probability": 0.535473644733429
+        },
+        {
+          "start": 24.31,
+          "end": 25.33,
+          "text": "ุ",
+          "probability": 0.8504822254180908
+        },
+        {
+          "start": 25.33,
+          "end": 25.41,
+          "text": "ย",
+          "probability": 0.988731861114502
+        },
+        {
+          "start": 25.41,
+          "end": 25.57,
+          "text": "เอ",
+          "probability": 0.5152598023414612
+        },
+        {
+          "start": 25.57,
+          "end": 25.73,
+          "text": "้",
+          "probability": 0.8101089000701904
+        },
+        {
+          "start": 25.73,
+          "end": 25.81,
+          "text": "ย",
+          "probability": 0.9919140338897705
+        },
+        {
+          "start": 25.81,
+          "end": 25.93,
+          "text": "แ",
+          "probability": 0.7067729830741882
+        },
+        {
+          "start": 25.93,
+          "end": 26.03,
+          "text": "ม",
+          "probability": 0.9953833222389221
+        },
+        {
+          "start": 26.03,
+          "end": 26.03,
+          "text": "่",
+          "probability": 0.9908474683761597
+        },
+        {
+          "start": 26.03,
+          "end": 26.09,
+          "text": "ง",
+          "probability": 0.9827688336372375
+        },
+        {
+          "start": 26.09,
+          "end": 26.21,
+          "text": "พ",
+          "probability": 0.9835947155952454
+        },
+        {
+          "start": 26.21,
+          "end": 26.29,
+          "text": "ี่",
+          "probability": 0.9987336993217468
+        },
+        {
+          "start": 26.29,
+          "end": 26.37,
+          "text": "บ",
+          "probability": 0.9235174059867859
+        },
+        {
+          "start": 26.37,
+          "end": 26.49,
+          "text": "อก",
+          "probability": 0.9996463060379028
+        },
+        {
+          "start": 26.49,
+          "end": 26.57,
+          "text": "ว",
+          "probability": 0.6808774471282959
+        },
+        {
+          "start": 26.57,
+          "end": 26.57,
+          "text": "่",
+          "probability": 0.9956393241882324
+        },
+        {
+          "start": 26.57,
+          "end": 26.59,
+          "text": "าม",
+          "probability": 0.8930639028549194
+        },
+        {
+          "start": 26.59,
+          "end": 26.61,
+          "text": "ี",
+          "probability": 0.9392054080963135
+        },
+        {
+          "start": 26.61,
+          "end": 26.73,
+          "text": "ป",
+          "probability": 0.9953420162200928
+        },
+        {
+          "start": 26.73,
+          "end": 26.85,
+          "text": "ระ",
+          "probability": 0.9998053908348083
+        },
+        {
+          "start": 26.85,
+          "end": 26.85,
+          "text": "โ",
+          "probability": 0.9998865127563477
+        },
+        {
+          "start": 26.85,
+          "end": 26.93,
+          "text": "ย",
+          "probability": 0.9983618855476379
+        },
+        {
+          "start": 26.93,
+          "end": 27.03,
+          "text": "ช",
+          "probability": 0.9958362579345703
+        },
+        {
+          "start": 27.03,
+          "end": 27.03,
+          "text": "น",
+          "probability": 0.9997994303703308
+        },
+        {
+          "start": 27.03,
+          "end": 27.03,
+          "text": "์",
+          "probability": 0.9996349811553955
+        },
+        {
+          "start": 27.03,
+          "end": 27.13,
+          "text": "ห",
+          "probability": 0.23950067162513733
+        },
+        {
+          "start": 27.13,
+          "end": 27.21,
+          "text": "ั",
+          "probability": 0.7362247109413147
+        },
+        {
+          "start": 27.21,
+          "end": 27.23,
+          "text": "น",
+          "probability": 0.9796944260597229
+        },
+        {
+          "start": 27.23,
+          "end": 27.35,
+          "text": "ห",
+          "probability": 0.9910140633583069
+        },
+        {
+          "start": 27.35,
+          "end": 27.41,
+          "text": "ล",
+          "probability": 0.9935895204544067
+        },
+        {
+          "start": 27.41,
+          "end": 27.45,
+          "text": "ั",
+          "probability": 0.9989743232727051
+        },
+        {
+          "start": 27.45,
+          "end": 27.45,
+          "text": "ง",
+          "probability": 0.9954730868339539
+        },
+        {
+          "start": 27.45,
+          "end": 27.57,
+          "text": "ว",
+          "probability": 0.7806474566459656
+        },
+        {
+          "start": 27.57,
+          "end": 27.63,
+          "text": "่",
+          "probability": 0.9965469241142273
+        },
+        {
+          "start": 27.63,
+          "end": 27.67,
+          "text": "า",
+          "probability": 0.9965564012527466
+        }
+      ]
+    },
+    {
+      "start": 27.67,
+      "end": 29.65,
+      "text": "ที่เปิดระเบิดทำร้ายหลักฐานเลยอ่ะ",
+      "avg_logprob": -0.2796987070593723,
+      "no_speech_prob": 0.10278011858463287,
+      "compression_ratio": 2.5098039215686274,
+      "words": [
+        {
+          "start": 27.67,
+          "end": 27.67,
+          "text": "ท",
+          "probability": 0.025446612387895584
+        },
+        {
+          "start": 27.67,
+          "end": 27.75,
+          "text": "ี่",
+          "probability": 0.5907350778579712
+        },
+        {
+          "start": 27.75,
+          "end": 27.91,
+          "text": "เป",
+          "probability": 0.7862159609794617
+        },
+        {
+          "start": 27.91,
+          "end": 28.03,
+          "text": "ิ",
+          "probability": 0.9831868410110474
+        },
+        {
+          "start": 28.03,
+          "end": 28.07,
+          "text": "ด",
+          "probability": 0.9187121391296387
+        },
+        {
+          "start": 28.07,
+          "end": 28.21,
+          "text": "ระ",
+          "probability": 0.8858852982521057
+        },
+        {
+          "start": 28.21,
+          "end": 28.31,
+          "text": "เบ",
+          "probability": 0.986542671918869
+        },
+        {
+          "start": 28.31,
+          "end": 28.37,
+          "text": "ิ",
+          "probability": 0.9935351610183716
+        },
+        {
+          "start": 28.37,
+          "end": 28.39,
+          "text": "ด",
+          "probability": 0.9505141973495483
+        },
+        {
+          "start": 28.39,
+          "end": 28.55,
+          "text": "ทำ",
+          "probability": 0.8216325044631958
+        },
+        {
+          "start": 28.55,
+          "end": 28.65,
+          "text": "ร",
+          "probability": 0.33682015538215637
+        },
+        {
+          "start": 28.65,
+          "end": 28.71,
+          "text": "้",
+          "probability": 0.8848678469657898
+        },
+        {
+          "start": 28.71,
+          "end": 28.75,
+          "text": "าย",
+          "probability": 0.999484658241272
+        },
+        {
+          "start": 28.75,
+          "end": 28.85,
+          "text": "ห",
+          "probability": 0.5950244069099426
+        },
+        {
+          "start": 28.85,
+          "end": 28.89,
+          "text": "ล",
+          "probability": 0.9736400246620178
+        },
+        {
+          "start": 28.89,
+          "end": 28.89,
+          "text": "ั",
+          "probability": 0.9981691837310791
+        },
+        {
+          "start": 28.89,
+          "end": 28.89,
+          "text": "ก",
+          "probability": 0.9944985508918762
+        },
+        {
+          "start": 28.89,
+          "end": 28.97,
+          "text": "ฐ",
+          "probability": 0.9862664341926575
+        },
+        {
+          "start": 28.97,
+          "end": 29.19,
+          "text": "าน",
+          "probability": 0.9995643496513367
+        },
+        {
+          "start": 29.19,
+          "end": 29.35,
+          "text": "เลย",
+          "probability": 0.9411777257919312
+        },
+        {
+          "start": 29.35,
+          "end": 29.51,
+          "text": "อ",
+          "probability": 0.3258402645587921
+        },
+        {
+          "start": 29.51,
+          "end": 29.59,
+          "text": "่",
+          "probability": 0.988138735294342
+        },
+        {
+          "start": 29.59,
+          "end": 29.65,
+          "text": "ะ",
+          "probability": 0.9956631064414978
+        }
+      ]
+    },
+    {
+      "start": 29.65,
+      "end": 33.92,
+      "text": "ตอนนี้ไม่ได้มึง",
+      "avg_logprob": -0.2796987070593723,
+      "no_speech_prob": 0.10278011858463287,
+      "compression_ratio": 2.5098039215686274,
+      "words": [
+        {
+          "start": 29.65,
+          "end": 29.97,
+          "text": "ต",
+          "probability": 0.03041647933423519
+        },
+        {
+          "start": 32.9,
+          "end": 33.04,
+          "text": "อน",
+          "probability": 0.8025020956993103
+        },
+        {
+          "start": 33.04,
+          "end": 33.1,
+          "text": "น",
+          "probability": 0.5927419662475586
+        },
+        {
+          "start": 33.1,
+          "end": 33.24,
+          "text": "ี้",
+          "probability": 0.9930235147476196
+        },
+        {
+          "start": 33.24,
+          "end": 33.38,
+          "text": "ไม",
+          "probability": 0.3381184935569763
+        },
+        {
+          "start": 33.38,
+          "end": 33.44,
+          "text": "่",
+          "probability": 0.9994262456893921
+        },
+        {
+          "start": 33.44,
+          "end": 33.54,
+          "text": "ได",
+          "probability": 0.6684933304786682
+        },
+        {
+          "start": 33.54,
+          "end": 33.54,
+          "text": "้",
+          "probability": 0.9940395355224609
+        },
+        {
+          "start": 33.54,
+          "end": 33.66,
+          "text": "ม",
+          "probability": 0.47610336542129517
+        },
+        {
+          "start": 33.66,
+          "end": 33.72,
+          "text": "ึ",
+          "probability": 0.7675907015800476
+        },
+        {
+          "start": 33.72,
+          "end": 33.92,
+          "text": "ง",
+          "probability": 0.9962205290794373
+        }
+      ]
+    },
+    {
+      "start": 34.24,
+      "end": 35.78,
+      "text": "ต้องโฟนฝากไอ้ ๆ เลย",
+      "avg_logprob": -0.2796987070593723,
+      "no_speech_prob": 0.10278011858463287,
+      "compression_ratio": 2.5098039215686274,
+      "words": [
+        {
+          "start": 34.24,
+          "end": 34.44,
+          "text": "ต",
+          "probability": 0.04608587920665741
+        },
+        {
+          "start": 34.44,
+          "end": 34.62,
+          "text": "้",
+          "probability": 0.5467579364776611
+        },
+        {
+          "start": 34.62,
+          "end": 34.62,
+          "text": "อง",
+          "probability": 0.9036902785301208
+        },
+        {
+          "start": 34.62,
+          "end": 34.82,
+          "text": "โ",
+          "probability": 0.43012991547584534
+        },
+        {
+          "start": 34.82,
+          "end": 34.84,
+          "text": "ฟ",
+          "probability": 0.7135128974914551
+        },
+        {
+          "start": 34.84,
+          "end": 34.84,
+          "text": "น",
+          "probability": 0.976193904876709
+        },
+        {
+          "start": 34.84,
+          "end": 34.98,
+          "text": "ฝ",
+          "probability": 0.9124545156955719
+        },
+        {
+          "start": 34.98,
+          "end": 35.16,
+          "text": "าก",
+          "probability": 0.713833749294281
+        },
+        {
+          "start": 35.16,
+          "end": 35.3,
+          "text": "ไ",
+          "probability": 0.24812400341033936
+        },
+        {
+          "start": 35.3,
+          "end": 35.36,
+          "text": "อ",
+          "probability": 0.9906400442123413
+        },
+        {
+          "start": 35.36,
+          "end": 35.36,
+          "text": "้",
+          "probability": 0.9073627591133118
+        },
+        {
+          "start": 35.38,
+          "end": 35.58,
+          "text": " ๆ",
+          "probability": 0.7446770071983337
+        },
+        {
+          "start": 35.64,
+          "end": 35.78,
+          "text": " เลย",
+          "probability": 0.5802350640296936
+        }
+      ]
+    },
+    {
+      "start": 35.78,
+      "end": 36.94,
+      "text": "ไอ้ ๆ เอ่ย",
+      "avg_logprob": -0.2796987070593723,
+      "no_speech_prob": 0.10278011858463287,
+      "compression_ratio": 2.5098039215686274,
+      "words": [
+        {
+          "start": 35.78,
+          "end": 35.9,
+          "text": "ไ",
+          "probability": 0.8374853134155273
+        },
+        {
+          "start": 35.9,
+          "end": 35.98,
+          "text": "อ",
+          "probability": 0.9982252717018127
+        },
+        {
+          "start": 35.98,
+          "end": 36.08,
+          "text": "้",
+          "probability": 0.9714906215667725
+        },
+        {
+          "start": 36.08,
+          "end": 36.26,
+          "text": " ๆ",
+          "probability": 0.9775150418281555
+        },
+        {
+          "start": 36.32,
+          "end": 36.48,
+          "text": " เอ",
+          "probability": 0.6547682285308838
+        },
+        {
+          "start": 36.48,
+          "end": 36.56,
+          "text": "่",
+          "probability": 0.31113401055336
+        },
+        {
+          "start": 36.56,
+          "end": 36.94,
+          "text": "ย",
+          "probability": 0.9298789501190186
+        }
+      ]
+    },
+    {
+      "start": 44.2,
+      "end": 45.85,
+      "text": "ไม่ได้เรียกอะไรพี่จ๊ะ",
+      "avg_logprob": -0.2796987070593723,
+      "no_speech_prob": 0.10278011858463287,
+      "compression_ratio": 2.5098039215686274,
+      "words": [
+        {
+          "start": 44.2,
+          "end": 44.4,
+          "text": "ไม",
+          "probability": 0.0684598982334137
+        },
+        {
+          "start": 44.99,
+          "end": 45.19,
+          "text": "่",
+          "probability": 0.9996482133865356
+        },
+        {
+          "start": 45.19,
+          "end": 45.23,
+          "text": "ได",
+          "probability": 0.8784195184707642
+        },
+        {
+          "start": 45.23,
+          "end": 45.23,
+          "text": "้",
+          "probability": 0.9997519850730896
+        },
+        {
+          "start": 45.23,
+          "end": 45.25,
+          "text": "เร",
+          "probability": 0.8486586213111877
+        },
+        {
+          "start": 45.25,
+          "end": 45.39,
+          "text": "ี",
+          "probability": 0.4905778169631958
+        },
+        {
+          "start": 45.39,
+          "end": 45.39,
+          "text": "ย",
+          "probability": 0.9995515942573547
+        },
+        {
+          "start": 45.39,
+          "end": 45.39,
+          "text": "ก",
+          "probability": 0.8158000111579895
+        },
+        {
+          "start": 45.39,
+          "end": 45.49,
+          "text": "อะไร",
+          "probability": 0.8349146842956543
+        },
+        {
+          "start": 45.49,
+          "end": 45.61,
+          "text": "พ",
+          "probability": 0.24084968864917755
+        },
+        {
+          "start": 45.61,
+          "end": 45.67,
+          "text": "ี่",
+          "probability": 0.990638017654419
+        },
+        {
+          "start": 45.67,
+          "end": 45.75,
+          "text": "จ",
+          "probability": 0.9791597127914429
+        },
+        {
+          "start": 45.75,
+          "end": 45.77,
+          "text": "๊",
+          "probability": 0.4514943063259125
+        },
+        {
+          "start": 45.77,
+          "end": 45.85,
+          "text": "ะ",
+          "probability": 0.7143505215644836
+        }
+      ]
+    },
+    {
+      "start": 45.85,
+      "end": 47.78,
+      "text": "ว่า...",
+      "avg_logprob": -0.2796987070593723,
+      "no_speech_prob": 0.10278011858463287,
+      "compression_ratio": 2.5098039215686274,
+      "words": [
+        {
+          "start": 45.85,
+          "end": 46.23,
+          "text": "ว",
+          "probability": 0.1322716772556305
+        },
+        {
+          "start": 47.62,
+          "end": 47.74,
+          "text": "่",
+          "probability": 0.5161414742469788
+        },
+        {
+          "start": 47.74,
+          "end": 47.74,
+          "text": "า",
+          "probability": 0.26985108852386475
+        },
+        {
+          "start": 47.74,
+          "end": 47.78,
+          "text": "...",
+          "probability": 0.12271016836166382
+        }
+      ]
+    },
+    {
+      "start": 49.28,
+      "end": 50.0,
+      "text": "ไอ้ ๆ",
+      "avg_logprob": -0.2796987070593723,
+      "no_speech_prob": 0.10278011858463287,
+      "compression_ratio": 2.5098039215686274,
+      "words": [
+        {
+          "start": 49.28,
+          "end": 49.48,
+          "text": "ไ",
+          "probability": 0.055744607001543045
+        },
+        {
+          "start": 49.48,
+          "end": 49.68,
+          "text": "อ",
+          "probability": 0.5941947102546692
+        },
+        {
+          "start": 49.68,
+          "end": 49.8,
+          "text": "้",
+          "probability": 0.9762520790100098
+        },
+        {
+          "start": 49.88,
+          "end": 50.0,
+          "text": " ๆ",
+          "probability": 0.9690155982971191
+        }
+      ]
+    },
+    {
+      "start": 52.57,
+      "end": 53.75,
+      "text": "ใครทานอีกมั้ย",
+      "avg_logprob": -0.2796987070593723,
+      "no_speech_prob": 0.10278011858463287,
+      "compression_ratio": 2.5098039215686274,
+      "words": [
+        {
+          "start": 52.57,
+          "end": 52.77,
+          "text": "ใ",
+          "probability": 0.011804752983152866
+        },
+        {
+          "start": 52.77,
+          "end": 52.97,
+          "text": "คร",
+          "probability": 0.6958526372909546
+        },
+        {
+          "start": 52.97,
+          "end": 53.05,
+          "text": "ท",
+          "probability": 0.8404882550239563
+        },
+        {
+          "start": 53.05,
+          "end": 53.21,
+          "text": "าน",
+          "probability": 0.658060610294342
+        },
+        {
+          "start": 53.21,
+          "end": 53.27,
+          "text": "อ",
+          "probability": 0.780259370803833
+        },
+        {
+          "start": 53.27,
+          "end": 53.27,
+          "text": "ี",
+          "probability": 0.9960178732872009
+        },
+        {
+          "start": 53.27,
+          "end": 53.37,
+          "text": "ก",
+          "probability": 0.9998185038566589
+        },
+        {
+          "start": 53.37,
+          "end": 53.43,
+          "text": "ม",
+          "probability": 0.6371483206748962
+        },
+        {
+          "start": 53.43,
+          "end": 53.61,
+          "text": "ั้",
+          "probability": 0.9187546968460083
+        },
+        {
+          "start": 53.61,
+          "end": 53.75,
+          "text": "ย",
+          "probability": 0.9959849119186401
+        }
+      ]
+    },
+    {
+      "start": 61.71,
+      "end": 64.39,
+      "text": "เฮ้ย ไอ้ ๆ กรุงไม่แตก",
+      "avg_logprob": -0.2796987070593723,
+      "no_speech_prob": 0.10278011858463287,
+      "compression_ratio": 2.5098039215686274,
+      "words": [
+        {
+          "start": 61.71,
+          "end": 61.91,
+          "text": "เฮ",
+          "probability": 0.6503960490226746
+        },
+        {
+          "start": 62.79,
+          "end": 62.99,
+          "text": "้",
+          "probability": 0.9617703557014465
+        },
+        {
+          "start": 62.99,
+          "end": 63.05,
+          "text": "ย",
+          "probability": 0.997912585735321
+        },
+        {
+          "start": 63.05,
+          "end": 63.25,
+          "text": " ไ",
+          "probability": 0.9964039325714111
+        },
+        {
+          "start": 63.25,
+          "end": 63.31,
+          "text": "อ",
+          "probability": 0.9990014433860779
+        },
+        {
+          "start": 63.31,
+          "end": 63.31,
+          "text": "้",
+          "probability": 0.9940975904464722
+        },
+        {
+          "start": 63.33,
+          "end": 63.45,
+          "text": " ๆ",
+          "probability": 0.8985893130302429
+        },
+        {
+          "start": 63.45,
+          "end": 63.57,
+          "text": " ก",
+          "probability": 0.9473100900650024
+        },
+        {
+          "start": 63.57,
+          "end": 63.67,
+          "text": "ร",
+          "probability": 0.46237051486968994
+        },
+        {
+          "start": 63.67,
+          "end": 63.67,
+          "text": "ุ",
+          "probability": 0.4907117187976837
+        },
+        {
+          "start": 63.67,
+          "end": 63.67,
+          "text": "ง",
+          "probability": 0.9834610223770142
+        },
+        {
+          "start": 63.67,
+          "end": 63.81,
+          "text": "ไม",
+          "probability": 0.960283100605011
+        },
+        {
+          "start": 63.81,
+          "end": 63.87,
+          "text": "่",
+          "probability": 0.999778687953949
+        },
+        {
+          "start": 63.87,
+          "end": 64.03,
+          "text": "แต",
+          "probability": 0.9725452065467834
+        },
+        {
+          "start": 64.03,
+          "end": 64.39,
+          "text": "ก",
+          "probability": 0.9938790798187256
+        }
+      ]
+    },
+    {
+      "start": 64.39,
+      "end": 66.77,
+      "text": "คุณดูกรุงมันมันยังไม่แตก",
+      "avg_logprob": -0.2796987070593723,
+      "no_speech_prob": 0.10278011858463287,
+      "compression_ratio": 2.5098039215686274,
+      "words": [
+        {
+          "start": 64.39,
+          "end": 64.69,
+          "text": "ค",
+          "probability": 0.8574034571647644
+        },
+        {
+          "start": 64.69,
+          "end": 64.79,
+          "text": "ุ",
+          "probability": 0.9976704716682434
+        },
+        {
+          "start": 64.79,
+          "end": 64.79,
+          "text": "ณ",
+          "probability": 0.9892424941062927
+        },
+        {
+          "start": 64.79,
+          "end": 64.95,
+          "text": "ด",
+          "probability": 0.9913833141326904
+        },
+        {
+          "start": 64.95,
+          "end": 65.15,
+          "text": "ู",
+          "probability": 0.9905382394790649
+        },
+        {
+          "start": 65.15,
+          "end": 65.33,
+          "text": "ก",
+          "probability": 0.5357598662376404
+        },
+        {
+          "start": 65.33,
+          "end": 65.37,
+          "text": "ร",
+          "probability": 0.9921402335166931
+        },
+        {
+          "start": 65.37,
+          "end": 65.47,
+          "text": "ุ",
+          "probability": 0.9437284469604492
+        },
+        {
+          "start": 65.47,
+          "end": 65.49,
+          "text": "ง",
+          "probability": 0.9935751557350159
+        },
+        {
+          "start": 65.49,
+          "end": 65.61,
+          "text": "ม",
+          "probability": 0.9820916056632996
+        },
+        {
+          "start": 65.61,
+          "end": 65.63,
+          "text": "ั",
+          "probability": 0.9977782368659973
+        },
+        {
+          "start": 65.63,
+          "end": 65.73,
+          "text": "น",
+          "probability": 0.9988897442817688
+        },
+        {
+          "start": 65.73,
+          "end": 65.75,
+          "text": "ม",
+          "probability": 0.7535006999969482
+        },
+        {
+          "start": 65.75,
+          "end": 65.81,
+          "text": "ั",
+          "probability": 0.6375707983970642
+        },
+        {
+          "start": 65.81,
+          "end": 65.83,
+          "text": "น",
+          "probability": 0.9645233154296875
+        },
+        {
+          "start": 65.83,
+          "end": 65.91,
+          "text": "ย",
+          "probability": 0.979741096496582
+        },
+        {
+          "start": 65.91,
+          "end": 65.97,
+          "text": "ั",
+          "probability": 0.9998375177383423
+        },
+        {
+          "start": 65.97,
+          "end": 65.97,
+          "text": "ง",
+          "probability": 0.9998606443405151
+        },
+        {
+          "start": 65.97,
+          "end": 66.17,
+          "text": "ไม",
+          "probability": 0.9901256561279297
+        },
+        {
+          "start": 66.17,
+          "end": 66.21,
+          "text": "่",
+          "probability": 0.9998838901519775
+        },
+        {
+          "start": 66.21,
+          "end": 66.41,
+          "text": "แต",
+          "probability": 0.9965824484825134
+        },
+        {
+          "start": 66.41,
+          "end": 66.77,
+          "text": "ก",
+          "probability": 0.9962994456291199
+        }
+      ]
+    },
+    {
+      "start": 66.77,
+      "end": 67.77,
+      "text": "เอ้า ไอ้ ๆ ซอมปี้เกิดตอนนั้น",
+      "avg_logprob": -0.2796987070593723,
+      "no_speech_prob": 0.10278011858463287,
+      "compression_ratio": 2.5098039215686274,
+      "words": [
+        {
+          "start": 66.77,
+          "end": 66.93,
+          "text": "เอ",
+          "probability": 0.45586198568344116
+        },
+        {
+          "start": 66.93,
+          "end": 66.99,
+          "text": "้",
+          "probability": 0.792813241481781
+        },
+        {
+          "start": 66.99,
+          "end": 67.01,
+          "text": "า",
+          "probability": 0.9944502115249634
+        },
+        {
+          "start": 67.09,
+          "end": 67.15,
+          "text": " ไ",
+          "probability": 0.479983389377594
+        },
+        {
+          "start": 67.15,
+          "end": 67.15,
+          "text": "อ",
+          "probability": 0.9980880618095398
+        },
+        {
+          "start": 67.15,
+          "end": 67.15,
+          "text": "้",
+          "probability": 0.9989114999771118
+        },
+        {
+          "start": 67.15,
+          "end": 67.23,
+          "text": " ๆ",
+          "probability": 0.9312828183174133
+        },
+        {
+          "start": 67.23,
+          "end": 67.33,
+          "text": " ซ",
+          "probability": 0.8520025014877319
+        },
+        {
+          "start": 67.33,
+          "end": 67.33,
+          "text": "อ",
+          "probability": 0.8330760598182678
+        },
+        {
+          "start": 67.33,
+          "end": 67.35,
+          "text": "ม",
+          "probability": 0.9472566246986389
+        },
+        {
+          "start": 67.35,
+          "end": 67.41,
+          "text": "ป",
+          "probability": 0.5176026821136475
+        },
+        {
+          "start": 67.41,
+          "end": 67.45,
+          "text": "ี้",
+          "probability": 0.9312851428985596
+        },
+        {
+          "start": 67.45,
+          "end": 67.55,
+          "text": "เก",
+          "probability": 0.9581223726272583
+        },
+        {
+          "start": 67.55,
+          "end": 67.55,
+          "text": "ิ",
+          "probability": 0.9811795353889465
+        },
+        {
+          "start": 67.55,
+          "end": 67.55,
+          "text": "ด",
+          "probability": 0.9742413759231567
+        },
+        {
+          "start": 67.55,
+          "end": 67.67,
+          "text": "ต",
+          "probability": 0.9470589756965637
+        },
+        {
+          "start": 67.67,
+          "end": 67.67,
+          "text": "อน",
+          "probability": 0.8244454264640808
+        },
+        {
+          "start": 67.67,
+          "end": 67.71,
+          "text": "น",
+          "probability": 0.906079113483429
+        },
+        {
+          "start": 67.71,
+          "end": 67.77,
+          "text": "ั้",
+          "probability": 0.7953785061836243
+        },
+        {
+          "start": 67.77,
+          "end": 67.77,
+          "text": "น",
+          "probability": 0.9903090596199036
+        }
+      ]
+    },
+    {
+      "start": 68.11,
+      "end": 70.25,
+      "text": "เก่าหรอ เก่าหรอ เก่าหรอ",
+      "avg_logprob": -0.2796987070593723,
+      "no_speech_prob": 0.10278011858463287,
+      "compression_ratio": 2.5098039215686274,
+      "words": [
+        {
+          "start": 68.11,
+          "end": 68.31,
+          "text": "เก",
+          "probability": 0.702345073223114
+        },
+        {
+          "start": 68.31,
+          "end": 68.41,
+          "text": "่",
+          "probability": 0.4646929204463959
+        },
+        {
+          "start": 68.41,
+          "end": 68.43,
+          "text": "า",
+          "probability": 0.9954752326011658
+        },
+        {
+          "start": 68.43,
+          "end": 68.55,
+          "text": "ห",
+          "probability": 0.32995063066482544
+        },
+        {
+          "start": 68.55,
+          "end": 68.61,
+          "text": "ร",
+          "probability": 0.9857859015464783
+        },
+        {
+          "start": 68.61,
+          "end": 68.71,
+          "text": "อ",
+          "probability": 0.9928083419799805
+        },
+        {
+          "start": 68.71,
+          "end": 68.95,
+          "text": " เก",
+          "probability": 0.6291460394859314
+        },
+        {
+          "start": 68.95,
+          "end": 69.05,
+          "text": "่",
+          "probability": 0.9980065226554871
+        },
+        {
+          "start": 69.05,
+          "end": 69.11,
+          "text": "า",
+          "probability": 0.9991058707237244
+        },
+        {
+          "start": 69.11,
+          "end": 69.27,
+          "text": "ห",
+          "probability": 0.9520558714866638
+        },
+        {
+          "start": 69.27,
+          "end": 69.31,
+          "text": "ร",
+          "probability": 0.9998669624328613
+        },
+        {
+          "start": 69.31,
+          "end": 69.41,
+          "text": "อ",
+          "probability": 0.998143196105957
+        },
+        {
+          "start": 69.41,
+          "end": 69.67,
+          "text": " เก",
+          "probability": 0.7127239406108856
+        },
+        {
+          "start": 69.67,
+          "end": 69.77,
+          "text": "่",
+          "probability": 0.998771607875824
+        },
+        {
+          "start": 69.77,
+          "end": 69.85,
+          "text": "า",
+          "probability": 0.9994795918464661
+        },
+        {
+          "start": 69.85,
+          "end": 69.95,
+          "text": "ห",
+          "probability": 0.9911872744560242
+        },
+        {
+          "start": 69.95,
+          "end": 70.05,
+          "text": "ร",
+          "probability": 0.999942421913147
+        },
+        {
+          "start": 70.05,
+          "end": 70.25,
+          "text": "อ",
+          "probability": 0.9992848038673401
+        }
+      ]
+    },
+    {
+      "start": 70.95,
+      "end": 71.63,
+      "text": "เก่าหรอ",
+      "avg_logprob": -0.2796987070593723,
+      "no_speech_prob": 0.10278011858463287,
+      "compression_ratio": 2.5098039215686274,
+      "words": [
+        {
+          "start": 70.95,
+          "end": 71.15,
+          "text": "เก",
+          "probability": 0.8637863993644714
+        },
+        {
+          "start": 71.15,
+          "end": 71.21,
+          "text": "่",
+          "probability": 0.9990004897117615
+        },
+        {
+          "start": 71.21,
+          "end": 71.37,
+          "text": "า",
+          "probability": 0.9993094205856323
+        },
+        {
+          "start": 71.37,
+          "end": 71.37,
+          "text": "ห",
+          "probability": 0.9919081330299377
+        },
+        {
+          "start": 71.37,
+          "end": 71.51,
+          "text": "ร",
+          "probability": 0.9999445676803589
+        },
+        {
+          "start": 71.51,
+          "end": 71.63,
+          "text": "อ",
+          "probability": 0.9997125267982483
+        }
+      ]
+    },
+    {
+      "start": 71.81,
+      "end": 76.23,
+      "text": "ศูนย์สองต่างว่า มันคือตัวนรกชัดๆ เห็นคุณด้วยครับ",
+      "avg_logprob": -0.2053538956974126,
+      "no_speech_prob": 0.1757889837026596,
+      "compression_ratio": 1.8095238095238095,
+      "words": [
+        {
+          "start": 71.81,
+          "end": 71.93,
+          "text": "ศ",
+          "probability": 0.06949835643172264
+        },
+        {
+          "start": 71.93,
+          "end": 71.97,
+          "text": "ู",
+          "probability": 0.7509493827819824
+        },
+        {
+          "start": 71.97,
+          "end": 72.07,
+          "text": "น",
+          "probability": 0.9654363393783569
+        },
+        {
+          "start": 72.07,
+          "end": 72.11,
+          "text": "ย",
+          "probability": 0.9975799322128296
+        },
+        {
+          "start": 72.11,
+          "end": 72.15,
+          "text": "์",
+          "probability": 0.9997177720069885
+        },
+        {
+          "start": 72.15,
+          "end": 72.27,
+          "text": "ส",
+          "probability": 0.6673369407653809
+        },
+        {
+          "start": 72.27,
+          "end": 72.29,
+          "text": "อง",
+          "probability": 0.997606635093689
+        },
+        {
+          "start": 72.29,
+          "end": 72.35,
+          "text": "ต",
+          "probability": 0.4108384847640991
+        },
+        {
+          "start": 72.35,
+          "end": 72.45,
+          "text": "่",
+          "probability": 0.6848804950714111
+        },
+        {
+          "start": 72.45,
+          "end": 72.55,
+          "text": "าง",
+          "probability": 0.8869016766548157
+        },
+        {
+          "start": 72.55,
+          "end": 72.63,
+          "text": "ว",
+          "probability": 0.829451858997345
+        },
+        {
+          "start": 72.63,
+          "end": 72.77,
+          "text": "่",
+          "probability": 0.9993171691894531
+        },
+        {
+          "start": 72.77,
+          "end": 72.79,
+          "text": "า",
+          "probability": 0.9894663691520691
+        },
+        {
+          "start": 72.81,
+          "end": 73.17,
+          "text": " ม",
+          "probability": 0.5670092105865479
+        },
+        {
+          "start": 73.17,
+          "end": 73.89,
+          "text": "ั",
+          "probability": 0.9989325404167175
+        },
+        {
+          "start": 73.89,
+          "end": 73.91,
+          "text": "น",
+          "probability": 0.9995855689048767
+        },
+        {
+          "start": 73.91,
+          "end": 73.97,
+          "text": "ค",
+          "probability": 0.9753596782684326
+        },
+        {
+          "start": 73.97,
+          "end": 74.17,
+          "text": "ื",
+          "probability": 0.9998291730880737
+        },
+        {
+          "start": 74.17,
+          "end": 74.17,
+          "text": "อ",
+          "probability": 0.9955834746360779
+        },
+        {
+          "start": 74.17,
+          "end": 74.31,
+          "text": "ต",
+          "probability": 0.9617288708686829
+        },
+        {
+          "start": 74.31,
+          "end": 74.37,
+          "text": "ั",
+          "probability": 0.9996938705444336
+        },
+        {
+          "start": 74.37,
+          "end": 74.43,
+          "text": "ว",
+          "probability": 0.9946268200874329
+        },
+        {
+          "start": 74.43,
+          "end": 74.45,
+          "text": "น",
+          "probability": 0.8851670622825623
+        },
+        {
+          "start": 74.45,
+          "end": 74.55,
+          "text": "ร",
+          "probability": 0.9941273927688599
+        },
+        {
+          "start": 74.55,
+          "end": 74.71,
+          "text": "ก",
+          "probability": 0.9856736063957214
+        },
+        {
+          "start": 74.71,
+          "end": 74.79,
+          "text": "ช",
+          "probability": 0.682605504989624
+        },
+        {
+          "start": 74.79,
+          "end": 74.87,
+          "text": "ั",
+          "probability": 0.7946728467941284
+        },
+        {
+          "start": 74.87,
+          "end": 74.95,
+          "text": "ด",
+          "probability": 0.9147069454193115
+        },
+        {
+          "start": 74.95,
+          "end": 75.09,
+          "text": "ๆ",
+          "probability": 0.1759386956691742
+        },
+        {
+          "start": 75.09,
+          "end": 75.79,
+          "text": " เห",
+          "probability": 0.7056231796741486
+        },
+        {
+          "start": 75.79,
+          "end": 75.83,
+          "text": "็",
+          "probability": 0.9990058541297913
+        },
+        {
+          "start": 75.83,
+          "end": 75.89,
+          "text": "น",
+          "probability": 0.9991382360458374
+        },
+        {
+          "start": 75.89,
+          "end": 75.93,
+          "text": "ค",
+          "probability": 0.6367877125740051
+        },
+        {
+          "start": 75.93,
+          "end": 75.97,
+          "text": "ุ",
+          "probability": 0.9615594148635864
+        },
+        {
+          "start": 75.97,
+          "end": 76.01,
+          "text": "ณ",
+          "probability": 0.9602722525596619
+        },
+        {
+          "start": 76.01,
+          "end": 76.07,
+          "text": "ด",
+          "probability": 0.989573061466217
+        },
+        {
+          "start": 76.07,
+          "end": 76.13,
+          "text": "้",
+          "probability": 0.9982774257659912
+        },
+        {
+          "start": 76.13,
+          "end": 76.15,
+          "text": "วย",
+          "probability": 0.9994401335716248
+        },
+        {
+          "start": 76.15,
+          "end": 76.17,
+          "text": "คร",
+          "probability": 0.9276219010353088
+        },
+        {
+          "start": 76.17,
+          "end": 76.23,
+          "text": "ั",
+          "probability": 0.9995954632759094
+        },
+        {
+          "start": 76.23,
+          "end": 76.23,
+          "text": "บ",
+          "probability": 0.9998781681060791
+        }
+      ]
+    },
+    {
+      "start": 76.23,
+      "end": 79.5,
+      "text": "คุณดู เดี๋ยวเดี๋ยวกําลังแบบว่า",
+      "avg_logprob": -0.2053538956974126,
+      "no_speech_prob": 0.1757889837026596,
+      "compression_ratio": 1.8095238095238095,
+      "words": [
+        {
+          "start": 76.23,
+          "end": 76.27,
+          "text": "ค",
+          "probability": 0.7389371991157532
+        },
+        {
+          "start": 76.27,
+          "end": 76.39,
+          "text": "ุ",
+          "probability": 0.9969843029975891
+        },
+        {
+          "start": 76.39,
+          "end": 76.39,
+          "text": "ณ",
+          "probability": 0.9999288320541382
+        },
+        {
+          "start": 76.39,
+          "end": 76.43,
+          "text": "ด",
+          "probability": 0.9776102900505066
+        },
+        {
+          "start": 76.43,
+          "end": 76.65,
+          "text": "ู",
+          "probability": 0.997312605381012
+        },
+        {
+          "start": 76.98,
+          "end": 77.98,
+          "text": " เด",
+          "probability": 0.6459452658891678
+        },
+        {
+          "start": 77.98,
+          "end": 78.02,
+          "text": "ี",
+          "probability": 0.9841648936271667
+        },
+        {
+          "start": 78.02,
+          "end": 78.08,
+          "text": "๋",
+          "probability": 0.9940985441207886
+        },
+        {
+          "start": 78.08,
+          "end": 78.08,
+          "text": "ย",
+          "probability": 0.9996059536933899
+        },
+        {
+          "start": 78.08,
+          "end": 78.08,
+          "text": "ว",
+          "probability": 0.6868932843208313
+        },
+        {
+          "start": 78.08,
+          "end": 78.26,
+          "text": "เด",
+          "probability": 0.6303990483283997
+        },
+        {
+          "start": 78.26,
+          "end": 78.32,
+          "text": "ี",
+          "probability": 0.9929777979850769
+        },
+        {
+          "start": 78.32,
+          "end": 78.32,
+          "text": "๋",
+          "probability": 0.9964884221553802
+        },
+        {
+          "start": 78.32,
+          "end": 78.4,
+          "text": "ย",
+          "probability": 0.9999068975448608
+        },
+        {
+          "start": 78.4,
+          "end": 78.4,
+          "text": "วก",
+          "probability": 0.9478884339332581
+        },
+        {
+          "start": 78.4,
+          "end": 78.78,
+          "text": "ํ",
+          "probability": 0.6901808083057404
+        },
+        {
+          "start": 78.78,
+          "end": 78.78,
+          "text": "า",
+          "probability": 0.9959403276443481
+        },
+        {
+          "start": 78.78,
+          "end": 78.84,
+          "text": "ล",
+          "probability": 0.9971912503242493
+        },
+        {
+          "start": 78.84,
+          "end": 78.84,
+          "text": "ั",
+          "probability": 0.9982158541679382
+        },
+        {
+          "start": 78.84,
+          "end": 78.92,
+          "text": "ง",
+          "probability": 0.9998210072517395
+        },
+        {
+          "start": 78.92,
+          "end": 79.0,
+          "text": "แ",
+          "probability": 0.9678341746330261
+        },
+        {
+          "start": 79.0,
+          "end": 79.08,
+          "text": "บ",
+          "probability": 0.9998656511306763
+        },
+        {
+          "start": 79.08,
+          "end": 79.12,
+          "text": "บ",
+          "probability": 0.9998409748077393
+        },
+        {
+          "start": 79.12,
+          "end": 79.16,
+          "text": "ว",
+          "probability": 0.9986816048622131
+        },
+        {
+          "start": 79.16,
+          "end": 79.32,
+          "text": "่",
+          "probability": 0.9997462630271912
+        },
+        {
+          "start": 79.32,
+          "end": 79.5,
+          "text": "า",
+          "probability": 0.9989891648292542
+        }
+      ]
+    }
+  ]
+}

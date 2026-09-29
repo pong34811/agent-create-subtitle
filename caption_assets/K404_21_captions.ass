@@ -1,0 +1,45 @@
+﻿[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Mitr,66,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,100,100,185,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.69,Default,,0,0,0,,คิดคิด
+Dialogue: 0,0:00:01.71,0:00:02.31,Default,,0,0,0,,คิดว่า
+Dialogue: 0,0:00:02.67,0:00:03.63,Default,,0,0,0,,เกาะไว้ขนาดนั้น
+Dialogue: 0,0:00:03.63,0:00:04.35,Default,,0,0,0,,แล้วเจอลาจัง
+Dialogue: 0,0:00:04.35,0:00:05.49,Default,,0,0,0,,ลาจังล้มคลาย
+Dialogue: 0,0:00:05.49,0:00:06.09,Default,,0,0,0,,เลย
+Dialogue: 0,0:00:06.09,0:00:06.87,Default,,0,0,0,,ยังหิงเลย
+Dialogue: 0,0:00:07.67,0:00:09.10,Default,,0,0,0,,ลาจัง
+Dialogue: 0,0:00:09.10,0:00:09.86,Default,,0,0,0,,ทุกทิ้ง
+Dialogue: 0,0:00:09.86,0:00:11.44,Default,,0,0,0,,ลาจัง
+Dialogue: 0,0:00:11.44,0:00:12.64,Default,,0,0,0,,นิดนึงไม่ได้
+Dialogue: 0,0:00:12.64,0:00:13.46,Default,,0,0,0,,มันมัน
+Dialogue: 0,0:00:13.46,0:00:14.66,Default,,0,0,0,,มันล้มคลาย
+Dialogue: 0,0:00:14.66,0:00:15.58,Default,,0,0,0,,มันจับมันจับ
+Dialogue: 0,0:00:15.58,0:00:16.18,Default,,0,0,0,,คลาย
+Dialogue: 0,0:00:17.12,0:00:18.06,Default,,0,0,0,,อ่าจับได้แล้ว
+Dialogue: 0,0:00:18.06,0:00:19.19,Default,,0,0,0,,อึอึ
+Dialogue: 0,0:00:19.29,0:00:20.37,Default,,0,0,0,,อึนี่เนี่ย
+Dialogue: 0,0:00:20.37,0:00:20.99,Default,,0,0,0,,นี่เนี่ย
+Dialogue: 0,0:00:20.99,0:00:21.79,Default,,0,0,0,,ซ้ำเติม
+Dialogue: 0,0:00:46.69,0:00:47.29,Default,,0,0,0,,มันเริ่มของพี่
+Dialogue: 0,0:00:53.46,0:00:54.89,Default,,0,0,0,,ฮะ
+Dialogue: 0,0:01:28.20,0:01:29.23,Default,,0,0,0,,ตีหม้อไป
+Dialogue: 0,0:01:29.23,0:01:29.83,Default,,0,0,0,,ตี
+Dialogue: 0,0:01:30.05,0:01:31.48,Default,,0,0,0,,หม้อ
+Dialogue: 0,0:01:48.46,0:01:49.06,Default,,0,0,0,,ไป
+Dialogue: 0,0:01:50.38,0:01:51.52,Default,,0,0,0,,ฮือฮือฮือ
+Dialogue: 0,0:01:51.52,0:01:52.16,Default,,0,0,0,,ฮือฮือฮือ
+Dialogue: 0,0:01:52.16,0:01:53.10,Default,,0,0,0,,แต่ฝากกุมยังไง
+Dialogue: 0,0:01:53.10,0:01:53.70,Default,,0,0,0,,นะ
+Dialogue: 0,0:01:53.92,0:01:54.72,Default,,0,0,0,,กุมอะไรแต่ฝาก
+Dialogue: 0,0:01:54.72,0:01:55.00,Default,,0,0,0,,กุมนะ

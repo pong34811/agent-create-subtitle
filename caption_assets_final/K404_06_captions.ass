@@ -1,0 +1,46 @@
+﻿[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Mitr,66,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,100,100,360,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.80,Default,,0,0,0,,คือแบบนี้คนดูกำลัง
+Dialogue: 0,0:00:01.87,0:00:03.60,Default,,0,0,0,,หาแบบจุดโลเคชั่น
+Dialogue: 0,0:00:03.60,0:00:04.64,Default,,0,0,0,,ที่มันมีอี
+Dialogue: 0,0:00:04.64,0:00:05.68,Default,,0,0,0,,ปีซีผมหวัง
+Dialogue: 0,0:00:05.68,0:00:06.82,Default,,0,0,0,,ว่ามันคงไม่
+Dialogue: 0,0:00:06.82,0:00:08.07,Default,,0,0,0,,ใช่บ้านเรานะ
+Dialogue: 0,0:00:14.85,0:00:16.66,Default,,0,0,0,,เอ้ยเฮ้ยเช่หมด
+Dialogue: 0,0:00:16.79,0:00:18.59,Default,,0,0,0,,เดินไปเดินมาแม่งมนกลับมา
+Dialogue: 0,0:00:20.10,0:00:21.90,Default,,0,0,0,,บ้านตัวเองก็เยี่ย
+Dialogue: 0,0:00:22.44,0:00:23.04,Default,,0,0,0,,เลย
+Dialogue: 0,0:00:24.00,0:00:25.53,Default,,0,0,0,,เดินไปเดินมาแม่งมนกลับมา
+Dialogue: 0,0:00:25.53,0:00:26.62,Default,,0,0,0,,บ้านตัวเองค่ะเยี่ย
+Dialogue: 0,0:00:26.62,0:00:27.22,Default,,0,0,0,,เลย
+Dialogue: 0,0:00:27.22,0:00:27.82,Default,,0,0,0,,ค่ะ
+Dialogue: 0,0:00:28.74,0:00:30.01,Default,,0,0,0,,ค่ะ
+Dialogue: 0,0:00:31.55,0:00:32.15,Default,,0,0,0,,ค่ะ
+Dialogue: 0,0:00:33.51,0:00:34.11,Default,,0,0,0,,ค่ะ
+Dialogue: 0,0:00:37.06,0:00:37.66,Default,,0,0,0,,ค่ะ
+Dialogue: 0,0:00:38.93,0:00:39.67,Default,,0,0,0,,ค่ะ
+Dialogue: 0,0:00:43.65,0:00:44.25,Default,,0,0,0,,ค่ะ
+Dialogue: 0,0:00:48.00,0:00:49.27,Default,,0,0,0,,ไม่
+Dialogue: 0,0:00:56.28,0:00:58.07,Default,,0,0,0,,พี่ตอนนี้พี่อยู่
+Dialogue: 0,0:00:58.10,0:00:59.77,Default,,0,0,0,,ทางภูเขาที่พี่
+Dialogue: 0,0:00:59.77,0:01:00.80,Default,,0,0,0,,เจออีปีซี
+Dialogue: 0,0:01:00.80,0:01:02.29,Default,,0,0,0,,ตัวแรกอยู่ไหม
+Dialogue: 0,0:01:02.29,0:01:04.02,Default,,0,0,0,,หรือพี่เปลี่ยนแล้ว
+Dialogue: 0,0:01:07.07,0:01:08.87,Default,,0,0,0,,อืออยู่คงแม่น้ำ
+Dialogue: 0,0:01:09.32,0:01:10.89,Default,,0,0,0,,แม่น้ำแห่ง
+Dialogue: 0,0:01:12.00,0:01:13.62,Default,,0,0,0,,ผมอยากเห็นผม
+Dialogue: 0,0:01:13.62,0:01:15.17,Default,,0,0,0,,อยากดูทางอ่ะ
+Dialogue: 0,0:01:15.17,0:01:16.90,Default,,0,0,0,,เดี๋ยวผมอาจเดี๋ยว
+Dialogue: 0,0:01:17.30,0:01:18.54,Default,,0,0,0,,ผมจะไปราก
+Dialogue: 0,0:01:18.54,0:01:19.18,Default,,0,0,0,,มาให้

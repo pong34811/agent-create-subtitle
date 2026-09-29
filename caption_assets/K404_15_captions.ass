@@ -1,0 +1,56 @@
+﻿[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Mitr,66,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,100,100,185,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.01,0:00:01.09,Default,,0,0,0,,ลองแป๊บลองแป๊บ
+Dialogue: 0,0:00:01.09,0:00:01.81,Default,,0,0,0,,ลองแป๊บอ๋อเดี๋ยว
+Dialogue: 0,0:00:01.81,0:00:02.55,Default,,0,0,0,,นะโต๊ะบับเหรอ
+Dialogue: 0,0:00:02.55,0:00:03.43,Default,,0,0,0,,ตอนนี้คุณหมอ
+Dialogue: 0,0:00:03.43,0:00:04.03,Default,,0,0,0,,น่าจะยังไม่ได้
+Dialogue: 0,0:00:04.03,0:00:04.63,Default,,0,0,0,,กดแล้วคุณดู
+Dialogue: 0,0:00:04.63,0:00:05.47,Default,,0,0,0,,เพราะว่าคุณหมอกตาย
+Dialogue: 0,0:00:05.47,0:00:06.07,Default,,0,0,0,,ค่ะ
+Dialogue: 0,0:00:06.27,0:00:06.93,Default,,0,0,0,,แล้วสภาพตัวนี้
+Dialogue: 0,0:00:06.93,0:00:07.59,Default,,0,0,0,,ก็คือแบบน่าจะ
+Dialogue: 0,0:00:07.59,0:00:08.57,Default,,0,0,0,,น่าจะมุงลงแล้ว
+Dialogue: 0,0:00:08.57,0:00:09.17,Default,,0,0,0,,ครับ
+Dialogue: 0,0:00:09.83,0:00:11.26,Default,,0,0,0,,ฝาก
+Dialogue: 0,0:00:11.27,0:00:11.87,Default,,0,0,0,,ฝาก
+Dialogue: 0,0:00:11.87,0:00:12.47,Default,,0,0,0,,ฝากบอลด้วยนะ
+Dialogue: 0,0:00:12.47,0:00:13.07,Default,,0,0,0,,ว่าพากลับบ้านตอน
+Dialogue: 0,0:00:13.07,0:00:13.67,Default,,0,0,0,,ไหนเคปลาฮอง
+Dialogue: 0,0:00:13.67,0:00:14.27,Default,,0,0,0,,อยู่
+Dialogue: 0,0:00:16.72,0:00:18.15,Default,,0,0,0,,คุณหมอ
+Dialogue: 0,0:00:36.93,0:00:37.53,Default,,0,0,0,,ไม่มา
+Dialogue: 0,0:00:37.53,0:00:38.55,Default,,0,0,0,,เออแบ๊ก
+Dialogue: 0,0:00:38.55,0:00:39.61,Default,,0,0,0,,ไหมแบ๊กไหมอยู่
+Dialogue: 0,0:00:39.61,0:00:40.21,Default,,0,0,0,,กับผมหมดเลย
+Dialogue: 0,0:00:40.21,0:00:41.20,Default,,0,0,0,,อ่ะใช่
+Dialogue: 0,0:00:41.20,0:00:41.80,Default,,0,0,0,,คุณหมอ
+Dialogue: 0,0:00:41.80,0:00:42.40,Default,,0,0,0,,หน้าที่อัน
+Dialogue: 0,0:00:42.40,0:00:43.00,Default,,0,0,0,,ทรงเกียรติไง
+Dialogue: 0,0:00:43.32,0:00:44.75,Default,,0,0,0,,สุด
+Dialogue: 0,0:00:45.92,0:00:46.64,Default,,0,0,0,,ได้ได้ได้
+Dialogue: 0,0:00:46.64,0:00:47.72,Default,,0,0,0,,หุ้ยมันโดน
+Dialogue: 0,0:00:47.72,0:00:48.32,Default,,0,0,0,,นี่นี่
+Dialogue: 0,0:00:48.32,0:00:49.00,Default,,0,0,0,,อย่างแม่นเลยอย่าง
+Dialogue: 0,0:00:49.00,0:00:49.64,Default,,0,0,0,,แม่นเลยปลาหก
+Dialogue: 0,0:00:49.64,0:00:50.24,Default,,0,0,0,,อย่างแม่นเลยตอน
+Dialogue: 0,0:00:50.24,0:00:50.84,Default,,0,0,0,,เนี้ยโอ้
+Dialogue: 0,0:00:50.84,0:00:51.44,Default,,0,0,0,,หูเรื่องอะไรเป็น
+Dialogue: 0,0:00:51.44,0:00:52.04,Default,,0,0,0,,น้ํา
+Dialogue: 0,0:00:52.04,0:00:53.40,Default,,0,0,0,,เพราะได้
+Dialogue: 0,0:00:53.40,0:00:54.04,Default,,0,0,0,,เห็นหน้าบอร์ดนั้น
+Dialogue: 0,0:00:54.04,0:00:54.78,Default,,0,0,0,,ส่วนฝั่งกูไม่
+Dialogue: 0,0:00:54.78,0:00:56.13,Default,,0,0,0,,เห็น
+Dialogue: 0,0:00:58.16,0:00:59.71,Default,,0,0,0,,แต่ลูก
+Dialogue: 0,0:01:32.62,0:01:33.36,Default,,0,0,0,,สวัสดีครับ

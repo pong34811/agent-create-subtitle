@@ -1,0 +1,63 @@
+﻿[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Mitr,66,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,100,100,185,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:23.94,0:00:24.54,Default,,0,0,0,,แม่ง
+Dialogue: 0,0:00:24.63,0:00:26.06,Default,,0,0,0,,มัน
+Dialogue: 0,0:00:49.11,0:00:49.71,Default,,0,0,0,,ไม่ขึ้น
+Dialogue: 0,0:00:51.13,0:00:52.01,Default,,0,0,0,,พี่ช่วยด้วย
+Dialogue: 0,0:00:52.01,0:00:53.36,Default,,0,0,0,,พี่
+Dialogue: 0,0:00:55.60,0:00:57.03,Default,,0,0,0,,ช่วยด้วย
+Dialogue: 0,0:00:58.92,0:01:00.04,Default,,0,0,0,,พี่ทุบให้
+Dialogue: 0,0:01:00.04,0:01:00.64,Default,,0,0,0,,หน่อย
+Dialogue: 0,0:01:04.72,0:01:05.52,Default,,0,0,0,,นี่แหม่งถึง
+Dialogue: 0,0:01:05.52,0:01:06.20,Default,,0,0,0,,ทุบดินตรงนี้หน่อย
+Dialogue: 0,0:01:06.20,0:01:07.14,Default,,0,0,0,,เห็นตรงหน้าผมไหม
+Dialogue: 0,0:01:12.21,0:01:13.19,Default,,0,0,0,,อะไรของมึงวะ
+Dialogue: 0,0:01:13.19,0:01:13.79,Default,,0,0,0,,เนี่ย
+Dialogue: 0,0:01:13.79,0:01:14.63,Default,,0,0,0,,มึง
+Dialogue: 0,0:01:14.63,0:01:15.98,Default,,0,0,0,,เหลือ
+Dialogue: 0,0:01:16.18,0:01:16.94,Default,,0,0,0,,เป็นมั้ยเนี่ย
+Dialogue: 0,0:01:16.94,0:01:18.30,Default,,0,0,0,,พี่เสีย
+Dialogue: 0,0:01:18.30,0:01:18.90,Default,,0,0,0,,ดิเนี่ยผมกลัว
+Dialogue: 0,0:01:18.90,0:01:19.90,Default,,0,0,0,,พอมันกระโดดไม่
+Dialogue: 0,0:01:19.90,0:01:20.50,Default,,0,0,0,,ได้
+Dialogue: 0,0:01:20.50,0:01:21.49,Default,,0,0,0,,เนี่ย
+Dialogue: 0,0:01:22.09,0:01:22.69,Default,,0,0,0,,เออผมจะไป
+Dialogue: 0,0:01:22.69,0:01:23.29,Default,,0,0,0,,ทางนี้
+Dialogue: 0,0:01:23.29,0:01:24.28,Default,,0,0,0,,เฮ้ย
+Dialogue: 0,0:01:25.02,0:01:25.88,Default,,0,0,0,,ๆพี่ใจเย็น
+Dialogue: 0,0:01:25.88,0:01:27.48,Default,,0,0,0,,พูดค่อยตา
+Dialogue: 0,0:01:27.48,0:01:28.08,Default,,0,0,0,,กันฮัลโหล
+Dialogue: 0,0:01:28.16,0:01:29.44,Default,,0,0,0,,ยังไม่ได้
+Dialogue: 0,0:01:29.44,0:01:30.38,Default,,0,0,0,,ทำอะไรเลยเฮ้
+Dialogue: 0,0:01:30.38,0:01:31.20,Default,,0,0,0,,มืออ่ะ
+Dialogue: 0,0:01:31.20,0:01:32.22,Default,,0,0,0,,เอ้ยไอ้
+Dialogue: 0,0:01:32.22,0:01:33.26,Default,,0,0,0,,เฮียไอ้เฮีย
+Dialogue: 0,0:01:33.26,0:01:33.86,Default,,0,0,0,,เกือบแล้ว
+Dialogue: 0,0:01:33.86,0:01:35.15,Default,,0,0,0,,งั้น
+Dialogue: 0,0:01:38.05,0:01:39.11,Default,,0,0,0,,งั้นไป
+Dialogue: 0,0:01:39.11,0:01:40.07,Default,,0,0,0,,แล้วไอ้เฮียเจอกัน
+Dialogue: 0,0:01:40.07,0:01:41.42,Default,,0,0,0,,โอ้โห
+Dialogue: 0,0:01:42.27,0:01:42.87,Default,,0,0,0,,แม่งทางแม่
+Dialogue: 0,0:01:42.87,0:01:43.65,Default,,0,0,0,,งโคตรไม่สมประกอบ
+Dialogue: 0,0:01:43.65,0:01:44.25,Default,,0,0,0,,อ่ะ
+Dialogue: 0,0:01:44.25,0:01:45.22,Default,,0,0,0,,พี่
+Dialogue: 0,0:01:47.46,0:01:48.16,Default,,0,0,0,,พี่ต่อพี่ต่อ
+Dialogue: 0,0:01:48.16,0:01:49.06,Default,,0,0,0,,ทางลงแบบให้มัน
+Dialogue: 0,0:01:49.06,0:01:49.90,Default,,0,0,0,,โคตรให้ผมหน่อย
+Dialogue: 0,0:01:49.90,0:01:50.50,Default,,0,0,0,,ได้ไหม
+Dialogue: 0,0:01:50.50,0:01:51.43,Default,,0,0,0,,พี่
+Dialogue: 0,0:01:54.32,0:01:56.01,Default,,0,0,0,,จ๋าพี่
+Dialogue: 0,0:01:56.01,0:01:56.95,Default,,0,0,0,,จ๋าหมายถึงแบบต่อ
+Dialogue: 0,0:01:56.95,0:01:57.59,Default,,0,0,0,,ลงไปข้างล่างนะ
+Dialogue: 0,0:01:57.59,0:01:59.04,Default,,0,0,0,,พี่จ๋า

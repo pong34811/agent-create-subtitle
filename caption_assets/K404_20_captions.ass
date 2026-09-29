@@ -1,0 +1,49 @@
+﻿[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Mitr,66,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,100,100,185,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.39,0:00:01.25,Default,,0,0,0,,-อ๋อต้องคลิก
+Dialogue: 0,0:00:01.25,0:00:01.85,Default,,0,0,0,,ขวาเหรอ?
+Dialogue: 0,0:00:01.85,0:00:02.45,Default,,0,0,0,,-อ๋อต้องคลิก
+Dialogue: 0,0:00:02.45,0:00:03.05,Default,,0,0,0,,-อ๋อต้องคลิก
+Dialogue: 0,0:00:03.05,0:00:03.65,Default,,0,0,0,,เหรอ?
+Dialogue: 0,0:00:06.66,0:00:07.89,Default,,0,0,0,,อ๋อถึงแล้ว?
+Dialogue: 0,0:00:09.99,0:00:10.59,Default,,0,0,0,,อืม
+Dialogue: 0,0:00:11.82,0:00:12.82,Default,,0,0,0,,เออเออ
+Dialogue: 0,0:00:12.82,0:00:14.20,Default,,0,0,0,,-บน
+Dialogue: 0,0:00:15.04,0:00:15.74,Default,,0,0,0,,ฟื้นอ่ะ
+Dialogue: 0,0:00:15.74,0:00:16.94,Default,,0,0,0,,ปล่อยเป็นหน้าที่
+Dialogue: 0,0:00:16.94,0:00:17.86,Default,,0,0,0,,ของคนอื่นฉันวิน
+Dialogue: 0,0:00:17.86,0:00:18.46,Default,,0,0,0,,อย่างเดียว
+Dialogue: 0,0:00:20.33,0:00:21.13,Default,,0,0,0,,อันนี้
+Dialogue: 0,0:00:22.18,0:00:23.50,Default,,0,0,0,,คือม้อนม้อน
+Dialogue: 0,0:00:23.50,0:00:24.46,Default,,0,0,0,,มันโดนดาเมตร
+Dialogue: 0,0:00:24.46,0:00:25.06,Default,,0,0,0,,แรงมากใช่ไหม?
+Dialogue: 0,0:00:25.06,0:00:26.52,Default,,0,0,0,,ใช่ใช่
+Dialogue: 0,0:00:26.52,0:00:27.24,Default,,0,0,0,,มี
+Dialogue: 0,0:00:31.28,0:00:32.52,Default,,0,0,0,,คนทำสตรัคเกอร์ครับคน
+Dialogue: 0,0:00:32.52,0:00:33.12,Default,,0,0,0,,ที่เล่น
+Dialogue: 0,0:00:33.12,0:00:34.25,Default,,0,0,0,,คนดู
+Dialogue: 0,0:00:40.92,0:00:41.72,Default,,0,0,0,,จากใจเรียนเสียง
+Dialogue: 0,0:00:41.72,0:00:42.32,Default,,0,0,0,,แม่ง
+Dialogue: 0,0:00:42.32,0:00:42.92,Default,,0,0,0,,ดังมากตอนนี้
+Dialogue: 0,0:00:42.92,0:00:43.81,Default,,0,0,0,,ปิงปอง
+Dialogue: 0,0:00:43.81,0:00:44.89,Default,,0,0,0,,ปิงปองปิงอ่ะ
+Dialogue: 0,0:00:44.89,0:00:46.24,Default,,0,0,0,,สุดยอด
+Dialogue: 0,0:00:52.36,0:00:53.26,Default,,0,0,0,,เลยม้อนต์เริ่มเกย์
+Dialogue: 0,0:00:53.26,0:00:53.90,Default,,0,0,0,,วิเฮียเอาสี่
+Dialogue: 0,0:00:53.90,0:00:54.60,Default,,0,0,0,,คนมากระทืบ
+Dialogue: 0,0:00:54.62,0:00:55.22,Default,,0,0,0,,ฮ่า
+Dialogue: 0,0:01:01.55,0:01:02.98,Default,,0,0,0,,ฮ่า
+Dialogue: 0,0:01:15.19,0:01:15.89,Default,,0,0,0,,ว่าดีเว้ย
+Dialogue: 0,0:01:15.89,0:01:17.26,Default,,0,0,0,,แร่
+Dialogue: 0,0:01:17.29,0:01:18.27,Default,,0,0,0,,แร่เลย

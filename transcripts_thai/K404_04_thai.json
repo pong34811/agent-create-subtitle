@@ -1,0 +1,250 @@
+{
+  "timeline_index": 4,
+  "timeline_name": "K404_04_MC002_Creeper ระเบิดข้างกรง แต่กรงยังรอด",
+  "source_path": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Minecraft - 002  ｜ 14⧸09⧸2569 ｜ #katy404live.mp4",
+  "duration_seconds": 80.0,
+  "model": "bjak/distill-whisper-th-large-v3",
+  "language": "th",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.48,
+      "text": "เก็บของ",
+      "window_start": 0.0
+    },
+    {
+      "start": 0.48,
+      "end": 3.9,
+      "text": "มันเป็นซอมบี้หรอ",
+      "window_start": 0.0
+    },
+    {
+      "start": 3.9,
+      "end": 5.42,
+      "text": "ซอมบี้",
+      "window_start": 0.0
+    },
+    {
+      "start": 5.42,
+      "end": 9.26,
+      "text": "ซอมบี้เหรอ",
+      "window_start": 0.0
+    },
+    {
+      "start": 9.26,
+      "end": 9.96,
+      "text": "ใช่",
+      "window_start": 0.0
+    },
+    {
+      "start": 9.96,
+      "end": 11.4,
+      "text": "ซอมบี้เป็นประโยชน์อ่ะ",
+      "window_start": 0.0
+    },
+    {
+      "start": 11.4,
+      "end": 13.36,
+      "text": "พี่พูดปุ๊บใช่มั้ย",
+      "window_start": 0.0
+    },
+    {
+      "start": 13.36,
+      "end": 16.48,
+      "text": "คลิปเปอร์แม่งระเบิดไอ้ที่ยะแล้วดินทับกรุงแตก",
+      "window_start": 0.0
+    },
+    {
+      "start": 16.48,
+      "end": 17.52,
+      "text": "คล้วยเหี้ยเลย",
+      "window_start": 0.0
+    },
+    {
+      "start": 17.52,
+      "end": 21.84,
+      "text": "จับตาเสมอไปแล้วเหรอ",
+      "window_start": 0.0
+    },
+    {
+      "start": 21.84,
+      "end": 22.66,
+      "text": "ใช่",
+      "window_start": 0.0
+    },
+    {
+      "start": 24.0,
+      "end": 29.64,
+      "text": "คุยเฮ้ยแม่พี่บอกว่ามีประโยชน์อ่ะหันหลังว่าชี้เปอร์ระเบิดทำร้ายหลักฐานเลยอ่ะ",
+      "window_start": 24.0
+    },
+    {
+      "start": 29.64,
+      "end": 33.94,
+      "text": "ตอนนี้ไม่สำหรับนึง",
+      "window_start": 24.0
+    },
+    {
+      "start": 33.94,
+      "end": 35.82,
+      "text": "ผมควรฝากให้พี่อยู่เลย",
+      "window_start": 24.0
+    },
+    {
+      "start": 35.82,
+      "end": 36.96,
+      "text": "ไอ้ที่เย้ย",
+      "window_start": 24.0
+    },
+    {
+      "start": 36.96,
+      "end": 44.2,
+      "text": "อยู่ในทีพี่ขาวโทษมีคนอย่างเงี้ยแหละ",
+      "window_start": 24.0
+    },
+    {
+      "start": 44.2,
+      "end": 45.86,
+      "text": "ไม่ได้เรียกเลยพี่จ๊า",
+      "window_start": 24.0
+    },
+    {
+      "start": 45.86,
+      "end": 50.0,
+      "text": "ความรู้สึกถึงถ่ายว่าไอ้ที่",
+      "window_start": 24.0
+    },
+    {
+      "start": 48.0,
+      "end": 49.56,
+      "text": "ตรงไหนวะ",
+      "window_start": 48.0
+    },
+    {
+      "start": 49.56,
+      "end": 50.06,
+      "text": "ไอ้เฮีย",
+      "window_start": 48.0
+    },
+    {
+      "start": 50.06,
+      "end": 52.38,
+      "text": "น่ะโอ",
+      "window_start": 48.0
+    },
+    {
+      "start": 52.38,
+      "end": 53.64,
+      "text": "สายทานเหล็กไหม",
+      "window_start": 48.0
+    },
+    {
+      "start": 53.64,
+      "end": 58.26,
+      "text": "นะฮะ",
+      "window_start": 48.0
+    },
+    {
+      "start": 58.26,
+      "end": 59.7,
+      "text": "อ่า",
+      "window_start": 48.0
+    },
+    {
+      "start": 59.7,
+      "end": 61.1,
+      "text": "อือ",
+      "window_start": 48.0
+    },
+    {
+      "start": 61.1,
+      "end": 62.72,
+      "text": "โอ้",
+      "window_start": 48.0
+    },
+    {
+      "start": 62.72,
+      "end": 63.04,
+      "text": "เฮ้ย",
+      "window_start": 48.0
+    },
+    {
+      "start": 63.04,
+      "end": 64.46000000000001,
+      "text": "ไอ้เชียกงไม่แตก",
+      "window_start": 48.0
+    },
+    {
+      "start": 64.46000000000001,
+      "end": 66.78,
+      "text": "คุณดูกงมันมะยังไม่แตก",
+      "window_start": 48.0
+    },
+    {
+      "start": 66.78,
+      "end": 67.76,
+      "text": "อ้าวเชียซัมบี้เกิดต่อได้",
+      "window_start": 48.0
+    },
+    {
+      "start": 67.76,
+      "end": 68.68,
+      "text": "กล่าวหรอ",
+      "window_start": 48.0
+    },
+    {
+      "start": 70.22,
+      "end": 71.72,
+      "text": "กล่าวหรอ",
+      "window_start": 48.0
+    },
+    {
+      "start": 72.0,
+      "end": 72.92,
+      "text": "สองกล่าวว่า",
+      "window_start": 72.0
+    },
+    {
+      "start": 72.92,
+      "end": 75.2,
+      "text": "มันคือตัวนรกชัดชัด",
+      "window_start": 72.0
+    },
+    {
+      "start": 75.2,
+      "end": 76.66,
+      "text": "เห็นคุณด้วยครับคุณดู",
+      "window_start": 72.0
+    },
+    {
+      "start": 77.86,
+      "end": 79.54,
+      "text": "เดี๋ยวกำลังแบบว่า",
+      "window_start": 72.0
+    },
+    {
+      "start": 76.66,
+      "end": 76.66,
+      "text": "อืออือ",
+      "window_start": 72.0
+    },
+    {
+      "start": 76.66,
+      "end": 76.66,
+      "text": "มันคือตัวนรกชัดชัด",
+      "window_start": 72.0
+    },
+    {
+      "start": 76.66,
+      "end": 77.86,
+      "text": "อ่าฮะ",
+      "window_start": 72.0
+    },
+    {
+      "start": 79.54,
+      "end": 79.98,
+      "text": "อือ",
+      "window_start": 72.0
+    }
+  ]
+}

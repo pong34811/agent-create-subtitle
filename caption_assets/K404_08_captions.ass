@@ -1,0 +1,55 @@
+﻿[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Mitr,66,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,100,100,185,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:01:11.18,0:01:11.78,Default,,0,0,0,,เห็นไหม
+Dialogue: 0,0:01:12.08,0:01:12.90,Default,,0,0,0,,เอาเอาเข้าบ้าน
+Dialogue: 0,0:01:12.90,0:01:13.52,Default,,0,0,0,,พี่เล็กมันกํา
+Dialogue: 0,0:01:13.52,0:01:14.12,Default,,0,0,0,,ลังจะไม่โดน
+Dialogue: 0,0:01:14.12,0:01:14.72,Default,,0,0,0,,โทนเลยจากนั้น
+Dialogue: 0,0:01:17.66,0:01:18.26,Default,,0,0,0,,ผมเชื่อใจ
+Dialogue: 0,0:01:18.26,0:01:19.40,Default,,0,0,0,,ได้มันตัว
+Dialogue: 0,0:01:19.40,0:01:20.00,Default,,0,0,0,,เดียวพี่มันรอ
+Dialogue: 0,0:01:20.00,0:01:20.60,Default,,0,0,0,,ได้แค่ตัวเดียว
+Dialogue: 0,0:01:20.60,0:01:21.91,Default,,0,0,0,,แต่ว่า
+Dialogue: 0,0:01:22.92,0:01:23.56,Default,,0,0,0,,แค่สองตัวก็
+Dialogue: 0,0:01:23.56,0:01:24.54,Default,,0,0,0,,พอแล้วมั้งเพราะว่า
+Dialogue: 0,0:01:24.54,0:01:25.40,Default,,0,0,0,,มันจะผสมพันธ์
+Dialogue: 0,0:01:25.40,0:01:26.00,Default,,0,0,0,,ได้อ่ะ
+Dialogue: 0,0:01:26.00,0:01:26.86,Default,,0,0,0,,โยนหนุ่มปั๊งแม่
+Dialogue: 0,0:01:26.86,0:01:27.46,Default,,0,0,0,,งเลยสแปม
+Dialogue: 0,0:01:27.46,0:01:28.78,Default,,0,0,0,,ให้มัน
+Dialogue: 0,0:01:28.78,0:01:29.38,Default,,0,0,0,,ซีกันอ่ะ
+Dialogue: 0,0:01:29.38,0:01:30.61,Default,,0,0,0,,พี่
+Dialogue: 0,0:01:34.32,0:01:34.92,Default,,0,0,0,,ผมแล้วใช่ไหม
+Dialogue: 0,0:01:41.88,0:01:42.48,Default,,0,0,0,,สวยพี่จ๋า
+Dialogue: 0,0:01:46.27,0:01:47.57,Default,,0,0,0,,อย่าพูดคนดูเสียใจ
+Dialogue: 0,0:01:47.57,0:01:48.17,Default,,0,0,0,,นะเว้ย
+Dialogue: 0,0:01:49.66,0:01:51.09,Default,,0,0,0,,พี่
+Dialogue: 0,0:01:54.24,0:01:55.12,Default,,0,0,0,,ผมกานะเขียน
+Dialogue: 0,0:01:55.12,0:01:56.65,Default,,0,0,0,,แล้วเข้า
+Dialogue: 0,0:01:57.40,0:01:58.00,Default,,0,0,0,,บ้านมาดิ
+Dialogue: 0,0:01:58.00,0:01:59.25,Default,,0,0,0,,โอเค
+Dialogue: 0,0:01:59.77,0:02:01.13,Default,,0,0,0,,เย่
+Dialogue: 0,0:02:01.13,0:02:01.93,Default,,0,0,0,,แล้วก็
+Dialogue: 0,0:02:01.93,0:02:02.95,Default,,0,0,0,,พี่เอาสวิตช์ออก
+Dialogue: 0,0:02:02.95,0:02:03.57,Default,,0,0,0,,ไหมเดี๋ยวมันเปิด
+Dialogue: 0,0:02:03.57,0:02:04.17,Default,,0,0,0,,เดี๋ยวมันเดี๋ยวมัน
+Dialogue: 0,0:02:04.17,0:02:04.77,Default,,0,0,0,,ออกได้
+Dialogue: 0,0:02:06.05,0:02:07.39,Default,,0,0,0,,เข้ามาเลย
+Dialogue: 0,0:02:07.68,0:02:09.11,Default,,0,0,0,,ใช่
+Dialogue: 0,0:02:09.58,0:02:10.93,Default,,0,0,0,,ไหมโอเค
+Dialogue: 0,0:02:10.93,0:02:12.28,Default,,0,0,0,,โอเค
+Dialogue: 0,0:02:13.59,0:02:14.73,Default,,0,0,0,,ได้เดี๋ยว
+Dialogue: 0,0:02:14.73,0:02:15.94,Default,,0,0,0,,เนี่ยได้เวลา
+Dialogue: 0,0:02:15.94,0:02:16.98,Default,,0,0,0,,ฟาร์มอีกทีแล้วพี่
+Dialogue: 0,0:02:16.98,0:02:18.00,Default,,0,0,0,,ก่อนไปผม

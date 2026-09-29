@@ -1,0 +1,202 @@
+{
+  "timeline_index": 12,
+  "timeline_name": "K404_12_SW003_DreadfulEcho",
+  "source_path": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Soul Walker - 003 ｜ 12⧸09⧸2026 ｜  @NJaACh ​@LaffeyNilvalen.mp4",
+  "duration_seconds": 82.0,
+  "model": "bjak/distill-whisper-th-large-v3",
+  "language": "th",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 9.56,
+      "text": "ถ้าถึงหกสิบก่อนอาจจะดีมากเพราะว่าจะให้รับพี่ไกลว่ามัน",
+      "window_start": 0.0
+    },
+    {
+      "start": 9.56,
+      "end": 13.9,
+      "text": "มันทำไอเนี้ยมันคือสองจุดห้าหรือหนึ่งจุดห้าแล้วนะ",
+      "window_start": 0.0
+    },
+    {
+      "start": 13.9,
+      "end": 15.32,
+      "text": "เอ่อมันน่าจะ",
+      "window_start": 0.0
+    },
+    {
+      "start": 15.32,
+      "end": 20.08,
+      "text": "ฟินวอร์เกอร์น่าจะเป็นสองจุดห้า",
+      "window_start": 0.0
+    },
+    {
+      "start": 20.08,
+      "end": 21.1,
+      "text": "หลังแต่ไอ้",
+      "window_start": 0.0
+    },
+    {
+      "start": 21.1,
+      "end": 23.54,
+      "text": "ไอ้ที่ฟินบอกว่าแค่ใจอะน่าจะเป็นสอง",
+      "window_start": 0.0
+    },
+    {
+      "start": 24.0,
+      "end": 28.78,
+      "text": "มันต้องเปลี่ยนเท่าไหร่หรอ",
+      "window_start": 24.0
+    },
+    {
+      "start": 28.78,
+      "end": 31.92,
+      "text": "อ๋อแต่ของร้านของ",
+      "window_start": 24.0
+    },
+    {
+      "start": 31.92,
+      "end": 32.62,
+      "text": "เออ",
+      "window_start": 24.0
+    },
+    {
+      "start": 32.62,
+      "end": 33.4,
+      "text": "แต่ว่า",
+      "window_start": 24.0
+    },
+    {
+      "start": 33.4,
+      "end": 35.54,
+      "text": "แต่ว่าผมหกสิบแล้วมัน",
+      "window_start": 24.0
+    },
+    {
+      "start": 35.54,
+      "end": 39.32,
+      "text": "มันไม่โพธิ์",
+      "window_start": 24.0
+    },
+    {
+      "start": 39.32,
+      "end": 40.32,
+      "text": "มันต้องปลดล็อกดันป่ะ",
+      "window_start": 24.0
+    },
+    {
+      "start": 40.32,
+      "end": 41.58,
+      "text": "เพื่อไปเอากันนะ",
+      "window_start": 24.0
+    },
+    {
+      "start": 41.58,
+      "end": 44.92,
+      "text": "เพราะว่า",
+      "window_start": 24.0
+    },
+    {
+      "start": 44.92,
+      "end": 46.94,
+      "text": "ใช่",
+      "window_start": 24.0
+    },
+    {
+      "start": 48.0,
+      "end": 51.36,
+      "text": "ปัญหา",
+      "window_start": 48.0
+    },
+    {
+      "start": 51.36,
+      "end": 53.3,
+      "text": "ปัญหาจากปัญหาคือ",
+      "window_start": 48.0
+    },
+    {
+      "start": 53.3,
+      "end": 54.0,
+      "text": "คุ้นคุ้นหวะ",
+      "window_start": 48.0
+    },
+    {
+      "start": 54.0,
+      "end": 55.28,
+      "text": "ทำไมเรามาเจอคนเดิมวะ",
+      "window_start": 48.0
+    },
+    {
+      "start": 55.28,
+      "end": 57.980000000000004,
+      "text": "อืม",
+      "window_start": 48.0
+    },
+    {
+      "start": 57.980000000000004,
+      "end": 63.24,
+      "text": "คือเราก็ไม่ได้เป็นอัลไซเมอร์นะเว้ย",
+      "window_start": 48.0
+    },
+    {
+      "start": 63.24,
+      "end": 65.06,
+      "text": "มันลื้อฟื้อความสมจำ",
+      "window_start": 48.0
+    },
+    {
+      "start": 65.06,
+      "end": 66.6,
+      "text": "ไม่นะ",
+      "window_start": 48.0
+    },
+    {
+      "start": 66.6,
+      "end": 68.8,
+      "text": "ไอ้นี่ตัวเขียวนะที่เราเจอตัวแรกเลย",
+      "window_start": 48.0
+    },
+    {
+      "start": 68.8,
+      "end": 69.74,
+      "text": "ใช่",
+      "window_start": 48.0
+    },
+    {
+      "start": 69.74,
+      "end": 72.52,
+      "text": "เราเจอตัวดังอันนี้คือเราเจอตัวเขียว",
+      "window_start": 48.0
+    },
+    {
+      "start": 72.0,
+      "end": 72.5,
+      "text": "เขียว",
+      "window_start": 72.0
+    },
+    {
+      "start": 72.5,
+      "end": 74.28,
+      "text": "เขียวกี่ด้วย",
+      "window_start": 72.0
+    },
+    {
+      "start": 74.28,
+      "end": 76.98,
+      "text": "ไม่ให้ความทรงจำหวัดเจริญลางไง",
+      "window_start": 72.0
+    },
+    {
+      "start": 76.98,
+      "end": 80.84,
+      "text": "คุณโลนี่พิมพ์และมาว่า",
+      "window_start": 72.0
+    },
+    {
+      "start": 80.84,
+      "end": 81.98,
+      "text": "เอ่อแต่ที่ต้องเมียนให้มาก",
+      "window_start": 72.0
+    }
+  ]
+}

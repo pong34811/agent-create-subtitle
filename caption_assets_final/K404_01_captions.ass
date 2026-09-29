@@ -1,0 +1,64 @@
+﻿[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Mitr,66,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,100,100,360,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.41,Default,,0,0,0,,เยี่ยมเจอ
+Dialogue: 0,0:00:01.41,0:00:02.02,Default,,0,0,0,,ทัน
+Dialogue: 0,0:00:04.86,0:00:05.45,Default,,0,0,0,,Copper
+Dialogue: 0,0:00:05.45,0:00:06.04,Default,,0,0,0,,ได้
+Dialogue: 0,0:00:06.04,0:00:07.43,Default,,0,0,0,,เนี่ยเจอเหล็ก
+Dialogue: 0,0:00:07.58,0:00:08.85,Default,,0,0,0,,แล้วเว่ย
+Dialogue: 0,0:00:12.56,0:00:14.36,Default,,0,0,0,,อันนี้เจอเหล็ก
+Dialogue: 0,0:00:14.66,0:00:15.92,Default,,0,0,0,,แล้วเว่ย
+Dialogue: 0,0:00:23.10,0:00:23.70,Default,,0,0,0,,เจอเหล็กแล้ว
+Dialogue: 0,0:00:23.70,0:00:24.30,Default,,0,0,0,,เว่ย
+Dialogue: 0,0:00:24.30,0:00:25.26,Default,,0,0,0,,อุ๊ย
+Dialogue: 0,0:00:31.05,0:00:31.67,Default,,0,0,0,,มั่วแล้ว
+Dialogue: 0,0:00:31.67,0:00:32.27,Default,,0,0,0,,เนี้ย
+Dialogue: 0,0:00:32.27,0:00:32.87,Default,,0,0,0,,มั่วทรงแล้ว
+Dialogue: 0,0:00:32.87,0:00:33.47,Default,,0,0,0,,เนี้ย
+Dialogue: 0,0:00:33.47,0:00:34.07,Default,,0,0,0,,เจอเฉย
+Dialogue: 0,0:00:34.07,0:00:34.67,Default,,0,0,0,,อุ๊ย
+Dialogue: 0,0:00:35.92,0:00:37.19,Default,,0,0,0,,เฮ้ย
+Dialogue: 0,0:00:37.25,0:00:38.03,Default,,0,0,0,,เอ็กซ์เรย์เปล่า
+Dialogue: 0,0:00:38.03,0:00:38.63,Default,,0,0,0,,เนี้ย
+Dialogue: 0,0:00:38.63,0:00:39.23,Default,,0,0,0,,เอ้ย
+Dialogue: 0,0:00:39.23,0:00:39.83,Default,,0,0,0,,คุณ
+Dialogue: 0,0:00:39.83,0:00:40.43,Default,,0,0,0,,ดู
+Dialogue: 0,0:00:40.43,0:00:41.03,Default,,0,0,0,,ยิ้มเลย
+Dialogue: 0,0:00:41.03,0:00:41.63,Default,,0,0,0,,โอ้โห
+Dialogue: 0,0:00:41.65,0:00:42.26,Default,,0,0,0,,เหล็กบานเลย
+Dialogue: 0,0:00:42.26,0:00:42.86,Default,,0,0,0,,เมื่อกี้
+Dialogue: 0,0:00:42.86,0:00:44.37,Default,,0,0,0,,ไอ้เฮี้ยได้มาสาม
+Dialogue: 0,0:00:44.62,0:00:45.85,Default,,0,0,0,,สิบสองอัน
+Dialogue: 0,0:00:45.85,0:00:46.68,Default,,0,0,0,,หวานเจี๊ยบเลยรอ
+Dialogue: 0,0:00:46.68,0:00:47.28,Default,,0,0,0,,อะไรล่ะครับ
+Dialogue: 0,0:00:47.28,0:00:47.89,Default,,0,0,0,,อี๋น้อง
+Dialogue: 0,0:00:52.25,0:00:53.19,Default,,0,0,0,,ไม่ใช่ราพิษ
+Dialogue: 0,0:00:53.19,0:00:53.79,Default,,0,0,0,,เหรอ
+Dialogue: 0,0:00:53.79,0:00:54.39,Default,,0,0,0,,มันไม่
+Dialogue: 0,0:00:54.39,0:00:54.99,Default,,0,0,0,,ใช่
+Dialogue: 0,0:00:54.99,0:00:55.59,Default,,0,0,0,,กูต๋อ
+Dialogue: 0,0:00:57.79,0:00:58.55,Default,,0,0,0,,อันนี้ขัดหวู่มั่ว
+Dialogue: 0,0:00:58.55,0:00:59.15,Default,,0,0,0,,แล้วเนี่ย
+Dialogue: 0,0:01:16.70,0:01:17.62,Default,,0,0,0,,เฮ้ย
+Dialogue: 0,0:01:18.78,0:01:20.04,Default,,0,0,0,,เฮ้ย
+Dialogue: 0,0:01:20.71,0:01:21.31,Default,,0,0,0,,เฮ้ย
+Dialogue: 0,0:01:22.70,0:01:23.46,Default,,0,0,0,,เฮ้ย
+Dialogue: 0,0:01:32.53,0:01:33.70,Default,,0,0,0,,เฮ้ย
+Dialogue: 0,0:01:34.84,0:01:35.54,Default,,0,0,0,,เฮ้ย
+Dialogue: 0,0:01:36.00,0:01:37.79,Default,,0,0,0,,หุดดันเดิมเจอ
+Dialogue: 0,0:01:37.95,0:01:39.06,Default,,0,0,0,,ดันใหม่
+Dialogue: 0,0:01:44.98,0:01:45.95,Default,,0,0,0,,มันเป็นเรื่องที่
+Dialogue: 0,0:01:45.95,0:01:46.62,Default,,0,0,0,,ยอดเยี่ยมมาก
+Dialogue: 0,0:01:46.62,0:01:48.35,Default,,0,0,0,,เมื่อกี้เหมือนเค้าเห็น
+Dialogue: 0,0:01:48.59,0:01:50.00,Default,,0,0,0,,เหล็กนี่ครับครั

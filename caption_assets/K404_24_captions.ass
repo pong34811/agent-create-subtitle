@@ -1,0 +1,64 @@
+﻿[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Mitr,66,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,100,100,185,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.33,0:00:01.43,Default,,0,0,0,,เกลียดสถานที่
+Dialogue: 0,0:00:01.43,0:00:02.53,Default,,0,0,0,,ต่อสู้มันมากเลย
+Dialogue: 0,0:00:02.61,0:00:03.41,Default,,0,0,0,,ลูงยินทร์น่าเอาพอง
+Dialogue: 0,0:00:03.41,0:00:04.01,Default,,0,0,0,,แมวแรงมา
+Dialogue: 0,0:00:06.24,0:00:07.67,Default,,0,0,0,,มัน
+Dialogue: 0,0:00:08.13,0:00:08.97,Default,,0,0,0,,สู้ในน้ำอ่ะ
+Dialogue: 0,0:00:08.97,0:00:09.57,Default,,0,0,0,,เดินช้า
+Dialogue: 0,0:00:09.63,0:00:11.06,Default,,0,0,0,,กินข้าว
+Dialogue: 0,0:00:12.97,0:00:13.57,Default,,0,0,0,,อ่ะเขา
+Dialogue: 0,0:00:13.57,0:00:14.61,Default,,0,0,0,,กินข้าวแป๊บ
+Dialogue: 0,0:00:14.61,0:00:15.21,Default,,0,0,0,,นึง
+Dialogue: 0,0:00:15.38,0:00:16.99,Default,,0,0,0,,ถ้าใส่
+Dialogue: 0,0:00:17.04,0:00:17.64,Default,,0,0,0,,อัมพอร์ตเต็กต์มา
+Dialogue: 0,0:00:17.64,0:00:18.24,Default,,0,0,0,,ให้พวกมันเต็ก
+Dialogue: 0,0:00:18.24,0:00:18.84,Default,,0,0,0,,เต็กต์มาเลย
+Dialogue: 0,0:00:19.14,0:00:20.26,Default,,0,0,0,,เดี๋ยวพึ่งตีกัน
+Dialogue: 0,0:00:20.26,0:00:20.86,Default,,0,0,0,,ตายนะ
+Dialogue: 0,0:00:21.90,0:00:22.68,Default,,0,0,0,,มาน่าจะไม่ตาย
+Dialogue: 0,0:00:22.68,0:00:23.28,Default,,0,0,0,,หรอมั่งคิดดี
+Dialogue: 0,0:00:23.28,0:00:23.88,Default,,0,0,0,,ทีแล้วหก
+Dialogue: 0,0:00:23.88,0:00:24.97,Default,,0,0,0,,อ่ะ
+Dialogue: 0,0:00:41.97,0:00:43.40,Default,,0,0,0,,อ่ะตาม
+Dialogue: 0,0:00:43.40,0:00:44.64,Default,,0,0,0,,ไปผมยังไม่
+Dialogue: 0,0:00:44.64,0:00:45.30,Default,,0,0,0,,หมดอ่ะผมไม่
+Dialogue: 0,0:00:45.30,0:00:45.90,Default,,0,0,0,,มีวันตาย
+Dialogue: 0,0:00:51.21,0:00:52.64,Default,,0,0,0,,แต่
+Dialogue: 0,0:00:52.89,0:00:53.71,Default,,0,0,0,,ลองคิดสภาพว่า
+Dialogue: 0,0:00:53.73,0:00:54.47,Default,,0,0,0,,ถ้าคุณถ้าคุณ
+Dialogue: 0,0:00:54.47,0:00:55.70,Default,,0,0,0,,ลงถ้า
+Dialogue: 0,0:00:55.70,0:00:56.88,Default,,0,0,0,,คุณถ้าคุณ
+Dialogue: 0,0:00:56.88,0:00:57.48,Default,,0,0,0,,โกง
+Dialogue: 0,0:01:03.34,0:01:04.56,Default,,0,0,0,,ตอนนี้เล่นดับครับ
+Dialogue: 0,0:01:04.56,0:01:05.91,Default,,0,0,0,,ก็
+Dialogue: 0,0:01:09.14,0:01:10.69,Default,,0,0,0,,คือแท
+Dialogue: 0,0:01:10.76,0:01:11.98,Default,,0,0,0,,บจะแบบไม่ต้อง
+Dialogue: 0,0:01:11.98,0:01:12.58,Default,,0,0,0,,ใช้อ่ะแต่
+Dialogue: 0,0:01:12.58,0:01:13.60,Default,,0,0,0,,แบบไม่จําเป็น
+Dialogue: 0,0:01:13.60,0:01:15.09,Default,,0,0,0,,น่ะเพราะว่า
+Dialogue: 0,0:01:15.42,0:01:16.70,Default,,0,0,0,,แค่แค่ระบบเกม
+Dialogue: 0,0:01:16.70,0:01:17.30,Default,,0,0,0,,มันก็ทำให้
+Dialogue: 0,0:01:17.30,0:01:18.22,Default,,0,0,0,,มันเยอะอยู่แล้ว
+Dialogue: 0,0:01:18.22,0:01:19.63,Default,,0,0,0,,อ่ะ
+Dialogue: 0,0:01:24.07,0:01:25.50,Default,,0,0,0,,โอ๊ย
+Dialogue: 0,0:01:30.48,0:01:31.44,Default,,0,0,0,,โอ๊ย
+Dialogue: 0,0:01:32.10,0:01:32.70,Default,,0,0,0,,โอ๊ย
+Dialogue: 0,0:01:33.58,0:01:34.18,Default,,0,0,0,,โอ๊ย
+Dialogue: 0,0:01:37.94,0:01:39.37,Default,,0,0,0,,โอ๊ย
+Dialogue: 0,0:01:39.49,0:01:40.92,Default,,0,0,0,,โอ๊ย
+Dialogue: 0,0:01:42.24,0:01:43.67,Default,,0,0,0,,โอ๊ย
+Dialogue: 0,0:02:37.64,0:02:38.30,Default,,0,0,0,,หว่า
+Dialogue: 0,0:02:38.30,0:02:39.65,Default,,0,0,0,,วววววววววววววววววว

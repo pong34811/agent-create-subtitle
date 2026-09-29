@@ -1,0 +1,69 @@
+﻿[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Mitr,66,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,100,100,360,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.64,Default,,0,0,0,,ที่ขุด
+Dialogue: 0,0:00:00.64,0:00:02.07,Default,,0,0,0,,ขุดทองแดงไปทำ
+Dialogue: 0,0:00:02.07,0:00:03.38,Default,,0,0,0,,อะไรหรอฮะที่
+Dialogue: 0,0:00:03.38,0:00:04.91,Default,,0,0,0,,ขุดขุดทองแดงไป
+Dialogue: 0,0:00:04.91,0:00:05.51,Default,,0,0,0,,ครับ
+Dialogue: 0,0:00:05.51,0:00:07.08,Default,,0,0,0,,เอ่อตัวCopper Golem
+Dialogue: 0,0:00:08.37,0:00:09.10,Default,,0,0,0,,ครับ
+Dialogue: 0,0:00:09.17,0:00:10.67,Default,,0,0,0,,ให้มันไปจัด
+Dialogue: 0,0:00:10.67,0:00:11.45,Default,,0,0,0,,ของให้
+Dialogue: 0,0:00:11.45,0:00:12.68,Default,,0,0,0,,เพราะขี้เกียจเอา
+Dialogue: 0,0:00:12.68,0:00:13.45,Default,,0,0,0,,ของใส่ครับ
+Dialogue: 0,0:00:13.45,0:00:14.95,Default,,0,0,0,,พี่สุดนะผม
+Dialogue: 0,0:00:14.95,0:00:16.30,Default,,0,0,0,,เชียกก่อน
+Dialogue: 0,0:00:19.28,0:00:20.23,Default,,0,0,0,,ฮู้จบกันแล้วโม้
+Dialogue: 0,0:00:20.23,0:00:21.01,Default,,0,0,0,,กับพี่จ๋าล้าง
+Dialogue: 0,0:00:21.01,0:00:21.84,Default,,0,0,0,,น้อยแม่งลืมเอา
+Dialogue: 0,0:00:21.84,0:00:22.73,Default,,0,0,0,,เสียงที่คอดเข้า
+Dialogue: 0,0:00:24.00,0:00:25.35,Default,,0,0,0,,ว่าได้ว่าชีวิต
+Dialogue: 0,0:00:25.35,0:00:26.54,Default,,0,0,0,,นี้ลืมอะไรพี่
+Dialogue: 0,0:00:26.54,0:00:27.37,Default,,0,0,0,,จ๋าสามสี่
+Dialogue: 0,0:00:27.37,0:00:28.87,Default,,0,0,0,,อ่าโอเคดัง
+Dialogue: 0,0:00:28.87,0:00:29.76,Default,,0,0,0,,ร้านละ
+Dialogue: 0,0:00:29.76,0:00:31.07,Default,,0,0,0,,ลืมเอาเสียงพี่
+Dialogue: 0,0:00:31.07,0:00:31.96,Default,,0,0,0,,เข้าสตรีมา
+Dialogue: 0,0:00:31.96,0:00:33.17,Default,,0,0,0,,ใช่พี่
+Dialogue: 0,0:00:36.65,0:00:38.45,Default,,0,0,0,,ติดเชื้อพี่อุ้ม
+Dialogue: 0,0:00:38.90,0:00:40.70,Default,,0,0,0,,มี้พ้นเลยอ่ะ
+Dialogue: 0,0:00:43.71,0:00:45.51,Default,,0,0,0,,เจอปัญหาหน้า
+Dialogue: 0,0:00:45.51,0:00:46.33,Default,,0,0,0,,งานไง
+Dialogue: 0,0:00:48.00,0:00:48.83,Default,,0,0,0,,ที่พี่ชอบโม้
+Dialogue: 0,0:00:48.83,0:00:49.91,Default,,0,0,0,,อ่ะว่าคอนเทนต์อ่ะ
+Dialogue: 0,0:00:49.91,0:00:50.95,Default,,0,0,0,,เนี่ยคอนเทนต์ไงคุย
+Dialogue: 0,0:00:50.95,0:00:51.65,Default,,0,0,0,,กับผีไม่ตั้ง
+Dialogue: 0,0:00:51.65,0:00:52.25,Default,,0,0,0,,นานละ
+Dialogue: 0,0:00:52.25,0:00:53.15,Default,,0,0,0,,ไม่
+Dialogue: 0,0:00:53.34,0:00:54.42,Default,,0,0,0,,อันนี้ไม่ได้อันนี้
+Dialogue: 0,0:00:54.42,0:00:55.39,Default,,0,0,0,,ไม่ใช่คอนเทนต์ไอ้
+Dialogue: 0,0:00:55.39,0:00:56.13,Default,,0,0,0,,สักเท่านี้ค่ะ
+Dialogue: 0,0:00:56.13,0:00:57.50,Default,,0,0,0,,โอ้โหพี่ก็เหมือนกัน
+Dialogue: 0,0:00:57.50,0:00:58.08,Default,,0,0,0,,แม่โอ้โห
+Dialogue: 0,0:00:58.08,0:00:59.37,Default,,0,0,0,,ไอ้การกระทำที่มัน
+Dialogue: 0,0:00:59.37,0:01:00.65,Default,,0,0,0,,รู้อยู่แล้วว่ามัน
+Dialogue: 0,0:01:00.65,0:01:02.00,Default,,0,0,0,,คือการกระทำอะไรอ่ะ
+Dialogue: 0,0:01:02.00,0:01:02.76,Default,,0,0,0,,แต่พี่ก็บอ
+Dialogue: 0,0:01:02.76,0:01:03.89,Default,,0,0,0,,กว่าคอนเทนต์อ่ะ
+Dialogue: 0,0:01:03.89,0:01:04.64,Default,,0,0,0,,เรามาอยู่ใน
+Dialogue: 0,0:01:04.64,0:01:05.68,Default,,0,0,0,,จุดที่ว่าเรากัน
+Dialogue: 0,0:01:05.68,0:01:06.28,Default,,0,0,0,,รู้
+Dialogue: 0,0:01:12.00,0:01:13.21,Default,,0,0,0,,เรามาอยู่ใน
+Dialogue: 0,0:01:13.21,0:01:14.76,Default,,0,0,0,,จุดที่ว่าเราเรา
+Dialogue: 0,0:01:14.76,0:01:15.80,Default,,0,0,0,,มาขุดหาแร่
+Dialogue: 0,0:01:15.80,0:01:17.53,Default,,0,0,0,,ได้ยังไงบ้างตอนแรก
+Dialogue: 0,0:01:17.59,0:01:18.60,Default,,0,0,0,,กูจะไปขุด
+Dialogue: 0,0:01:18.60,0:01:19.42,Default,,0,0,0,,ดินเดียว
+Dialogue: 0,0:01:19.42,0:01:20.32,Default,,0,0,0,,อ่า
+Dialogue: 0,0:01:20.32,0:01:20.92,Default,,0,0,0,,อ

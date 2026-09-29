@@ -1,0 +1,49 @@
+﻿[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Mitr,66,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,100,100,185,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:21.86,0:00:22.64,Default,,0,0,0,,ไม่ใช่ฉันอ่ะ
+Dialogue: 0,0:00:22.64,0:00:23.24,Default,,0,0,0,,มันไม่ต่อต่าง
+Dialogue: 0,0:00:23.24,0:00:23.84,Default,,0,0,0,,จากเลย
+Dialogue: 0,0:00:23.84,0:00:24.94,Default,,0,0,0,,เต็มตาเลเซอร์
+Dialogue: 0,0:00:24.94,0:00:25.98,Default,,0,0,0,,อีกแล้วโอ้
+Dialogue: 0,0:00:25.98,0:00:26.58,Default,,0,0,0,,โอ้
+Dialogue: 0,0:00:26.58,0:00:27.18,Default,,0,0,0,,ไม่โดนเองไง
+Dialogue: 0,0:00:27.18,0:00:27.84,Default,,0,0,0,,วะยิงค่อยฟุ
+Dialogue: 0,0:00:27.84,0:00:28.44,Default,,0,0,0,,กเลย
+Dialogue: 0,0:00:28.44,0:00:29.55,Default,,0,0,0,,เออว้าว
+Dialogue: 0,0:00:29.55,0:00:30.25,Default,,0,0,0,,ว้าวกลับกลับบ้านเลย
+Dialogue: 0,0:00:30.25,0:00:30.85,Default,,0,0,0,,ไหม
+Dialogue: 0,0:00:30.85,0:00:31.45,Default,,0,0,0,,ว้าวกลับบ้านเลยไหม
+Dialogue: 0,0:00:31.45,0:00:32.11,Default,,0,0,0,,ตอนนี้เคพล่อ
+Dialogue: 0,0:00:32.11,0:00:32.89,Default,,0,0,0,,มาซ้ายเกือบสุด
+Dialogue: 0,0:00:32.89,0:00:33.49,Default,,0,0,0,,เลยนี่บ้านอ่ะ
+Dialogue: 0,0:00:33.49,0:00:34.09,Default,,0,0,0,,ได้ได้ได้
+Dialogue: 0,0:00:34.09,0:00:35.24,Default,,0,0,0,,โอเค
+Dialogue: 0,0:00:35.41,0:00:36.64,Default,,0,0,0,,นี่เลือกก่อนไหม
+Dialogue: 0,0:00:36.64,0:00:37.42,Default,,0,0,0,,คุณหมอกเคเค
+Dialogue: 0,0:00:37.42,0:00:38.02,Default,,0,0,0,,เดี๋ยวเคจะพา
+Dialogue: 0,0:00:38.02,0:00:38.62,Default,,0,0,0,,กลับบ้านแล้ว
+Dialogue: 0,0:00:38.62,0:00:39.85,Default,,0,0,0,,P-A-L-A-D-I-N-R-C-L
+Dialogue: 0,0:00:41.31,0:00:42.39,Default,,0,0,0,,กล่าวว่าซู่ซู่
+Dialogue: 0,0:00:42.39,0:00:42.99,Default,,0,0,0,,คุณ
+Dialogue: 0,0:00:43.04,0:00:43.64,Default,,0,0,0,,ได้ครับ
+Dialogue: 0,0:00:43.66,0:00:44.54,Default,,0,0,0,,เลเซอร์เลเซอร์ระวังคุณ
+Dialogue: 0,0:00:44.54,0:00:45.14,Default,,0,0,0,,หมอก
+Dialogue: 0,0:00:45.14,0:00:45.85,Default,,0,0,0,,ตรงคุณ
+Dialogue: 0,0:00:45.85,0:00:46.45,Default,,0,0,0,,หมอกอ่ะ
+Dialogue: 0,0:00:46.45,0:00:47.11,Default,,0,0,0,,อุ้ยไม่ดูอุ้ย
+Dialogue: 0,0:00:47.11,0:00:47.71,Default,,0,0,0,,ขี้แค่หมาขี้
+Dialogue: 0,0:00:47.71,0:00:48.31,Default,,0,0,0,,ฉื๋ย
+Dialogue: 0,0:01:24.26,0:01:24.86,Default,,0,0,0,,ระวัง
+Dialogue: 0,0:01:26.28,0:01:26.88,Default,,0,0,0,,ระวัง
+Dialogue: 0,0:01:28.36,0:01:29.89,Default,,0,0,0,,ระวังระ

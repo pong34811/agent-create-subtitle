@@ -1,0 +1,166 @@
+{
+  "timeline_index": 13,
+  "timeline_name": "K404_13_TER_OldOnesArmy",
+  "source_path": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 COLAB】Terraria Skyblock กับเพือน ｜ 13⧸09⧸2026 ｜ #katy404live ‪@LaffeyNilvalen @morkeang​.mp4",
+  "duration_seconds": 60.0,
+  "model": "bjak/distill-whisper-th-large-v3",
+  "language": "th",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 4.2,
+      "text": "สามารถถ่ายต่อได้ตอนเข้าฮาร์ทโหมดมีแรงบันดาลใจมาเล่นเพื่อหาน้องเลย",
+      "window_start": 0.0
+    },
+    {
+      "start": 4.2,
+      "end": 5.58,
+      "text": "อือ",
+      "window_start": 0.0
+    },
+    {
+      "start": 5.58,
+      "end": 15.78,
+      "text": "อาบี",
+      "window_start": 0.0
+    },
+    {
+      "start": 15.78,
+      "end": 16.48,
+      "text": "ตะบี",
+      "window_start": 0.0
+    },
+    {
+      "start": 16.48,
+      "end": 17.18,
+      "text": "ไอ้เหี้ย",
+      "window_start": 0.0
+    },
+    {
+      "start": 17.18,
+      "end": 18.26,
+      "text": "โอ้",
+      "window_start": 0.0
+    },
+    {
+      "start": 18.26,
+      "end": 19.56,
+      "text": "ไม่ติดเลยโอ้",
+      "window_start": 0.0
+    },
+    {
+      "start": 19.56,
+      "end": 20.58,
+      "text": "แรงละเกิน",
+      "window_start": 0.0
+    },
+    {
+      "start": 24.0,
+      "end": 33.6,
+      "text": "สงสารมากเลยอ่ะแบบป้อมแม่งตีมังกรอ่ะ",
+      "window_start": 24.0
+    },
+    {
+      "start": 33.6,
+      "end": 34.86,
+      "text": "แล้วตีแล้วยิงไม่โดน",
+      "window_start": 24.0
+    },
+    {
+      "start": 34.86,
+      "end": 36.54,
+      "text": "กระสุนแม่งไม่ย้อยโดน",
+      "window_start": 24.0
+    },
+    {
+      "start": 36.54,
+      "end": 37.58,
+      "text": "โดนมอลต์ให้ด้วยอ่ะ",
+      "window_start": 24.0
+    },
+    {
+      "start": 37.58,
+      "end": 45.14,
+      "text": "คือแบบ",
+      "window_start": 24.0
+    },
+    {
+      "start": 45.14,
+      "end": 45.34,
+      "text": "เอ้ย",
+      "window_start": 24.0
+    },
+    {
+      "start": 45.34,
+      "end": 45.96,
+      "text": "คือ",
+      "window_start": 24.0
+    },
+    {
+      "start": 45.96,
+      "end": 47.1,
+      "text": "คือป้อมแมลงนะเฮ้ย",
+      "window_start": 24.0
+    },
+    {
+      "start": 47.1,
+      "end": 48.14,
+      "text": "แต่แบบคุณหมอเห็น",
+      "window_start": 24.0
+    },
+    {
+      "start": 48.0,
+      "end": 50.06,
+      "text": "เอ้ยภาพที่เคยเห็นคือแบบ",
+      "window_start": 48.0
+    },
+    {
+      "start": 50.06,
+      "end": 51.98,
+      "text": "มีเหมือนไม่มีอ่ะ",
+      "window_start": 48.0
+    },
+    {
+      "start": 51.98,
+      "end": 53.18,
+      "text": "ฝั่งขวาอ่ะ",
+      "window_start": 48.0
+    },
+    {
+      "start": 53.18,
+      "end": 56.76,
+      "text": "มีเหมือนไม่มีอ่ะ",
+      "window_start": 48.0
+    },
+    {
+      "start": 56.76,
+      "end": 59.58,
+      "text": "โอเคมีเคมีเคมีแค่นี้อ่ะ",
+      "window_start": 48.0
+    },
+    {
+      "start": 59.58,
+      "end": 59.66,
+      "text": "อันนี้เป็นวัยเนี้ยอ่ะ",
+      "window_start": 48.0
+    },
+    {
+      "start": 59.66,
+      "end": 59.980000000000004,
+      "text": "มีเหมือนไม่มีอ่ะ",
+      "window_start": 48.0
+    },
+    {
+      "start": 59.980000000000004,
+      "end": 59.980000000000004,
+      "text": "มีเหมือนไม่มีเหมือนไม่มีอ่ะ",
+      "window_start": 48.0
+    },
+    {
+      "start": 59.980000000000004,
+      "end": 59.980000000000004,
+      "text": "มีเหมือน",
+      "window_start": 48.0
+    }
+  ]
+}

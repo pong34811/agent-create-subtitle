@@ -1,0 +1,47 @@
+﻿[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Mitr,66,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,100,100,360,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.80,Default,,0,0,0,,เนี่ยทางแม่ง
+Dialogue: 0,0:00:01.80,0:00:02.39,Default,,0,0,0,,แบบ
+Dialogue: 0,0:00:05.12,0:00:05.97,Default,,0,0,0,,เฮ้ยรูบี้
+Dialogue: 0,0:00:05.97,0:00:06.57,Default,,0,0,0,,นี่ว่ะ
+Dialogue: 0,0:00:06.57,0:00:07.16,Default,,0,0,0,,อุ๊ยเชีย
+Dialogue: 0,0:00:07.16,0:00:07.76,Default,,0,0,0,,เพชร
+Dialogue: 0,0:00:07.76,0:00:08.36,Default,,0,0,0,,เอ้า
+Dialogue: 0,0:00:09.53,0:00:10.47,Default,,0,0,0,,เชียเอ็กซ์เรย์
+Dialogue: 0,0:00:10.47,0:00:11.07,Default,,0,0,0,,เป้าหนี่
+Dialogue: 0,0:00:11.07,0:00:11.70,Default,,0,0,0,,เฮ้ยคุณดูคุณ
+Dialogue: 0,0:00:11.70,0:00:12.30,Default,,0,0,0,,ดูดูนะ
+Dialogue: 0,0:00:12.30,0:00:13.80,Default,,0,0,0,,เชียแม่งเอ็กซ์เรย์แน่
+Dialogue: 0,0:00:13.80,0:00:15.23,Default,,0,0,0,,เลยเมื่อกี้แม่งผี
+Dialogue: 0,0:00:15.23,0:00:15.98,Default,,0,0,0,,หล่องวิยา
+Dialogue: 0,0:00:15.98,0:00:16.58,Default,,0,0,0,,โรน
+Dialogue: 0,0:00:16.58,0:00:17.96,Default,,0,0,0,,นี่ดูนะเอ็กเรีย์
+Dialogue: 0,0:00:18.50,0:00:19.44,Default,,0,0,0,,ปลอมนะ
+Dialogue: 0,0:00:19.44,0:00:20.05,Default,,0,0,0,,นี่ดูดิ
+Dialogue: 0,0:00:20.05,0:00:20.65,Default,,0,0,0,,ดูดิ
+Dialogue: 0,0:00:24.00,0:00:24.91,Default,,0,0,0,,กับการลงดัน
+Dialogue: 0,0:00:24.91,0:00:25.98,Default,,0,0,0,,จนเคสามารถเห็น
+Dialogue: 0,0:00:25.98,0:00:26.98,Default,,0,0,0,,แร่ได้แล้วเอา
+Dialogue: 0,0:00:26.98,0:00:28.21,Default,,0,0,0,,คนดูคั่วเฮี้ยเลย
+Dialogue: 0,0:00:28.21,0:00:29.94,Default,,0,0,0,,เสิร์ฟแหลกมัน
+Dialogue: 0,0:00:30.08,0:00:31.35,Default,,0,0,0,,อย่างแรก
+Dialogue: 0,0:00:33.34,0:00:34.59,Default,,0,0,0,,เสิร์ฟแหลกแรกพี่
+Dialogue: 0,0:00:34.59,0:00:35.85,Default,,0,0,0,,เขาเรียกว่าเซิร์ฟ
+Dialogue: 0,0:00:35.85,0:00:36.45,Default,,0,0,0,,หล่อน
+Dialogue: 0,0:00:36.45,0:00:37.88,Default,,0,0,0,,ผมอยากให้พี่
+Dialogue: 0,0:00:37.88,0:00:39.40,Default,,0,0,0,,ประดุสตรีผม
+Dialogue: 0,0:00:39.40,0:00:40.78,Default,,0,0,0,,บ้าเลยเว้ย
+Dialogue: 0,0:00:40.78,0:00:41.99,Default,,0,0,0,,อ่า
+Dialogue: 0,0:00:42.28,0:00:43.21,Default,,0,0,0,,เดี๋ยวพูด
+Dialogue: 0,0:00:43.21,0:00:43.81,Default,,0,0,0,,มา

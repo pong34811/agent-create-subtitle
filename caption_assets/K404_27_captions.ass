@@ -1,0 +1,50 @@
+﻿[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Mitr,66,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,100,100,185,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:07.24,0:00:08.42,Default,,0,0,0,,เอ็นแพนหกสิบเก้า
+Dialogue: 0,0:00:08.42,0:00:09.62,Default,,0,0,0,,กล่าวว่าสวัสดี
+Dialogue: 0,0:00:09.62,0:00:10.22,Default,,0,0,0,,ครับ
+Dialogue: 0,0:00:10.22,0:00:11.43,Default,,0,0,0,,สวัสดี
+Dialogue: 0,0:00:11.64,0:00:13.08,Default,,0,0,0,,ครับโอ้
+Dialogue: 0,0:00:13.08,0:00:13.68,Default,,0,0,0,,เอฟซี
+Dialogue: 0,0:00:13.68,0:00:14.28,Default,,0,0,0,,ใหม่วะ
+Dialogue: 0,0:00:14.28,0:00:15.21,Default,,0,0,0,,ก็
+Dialogue: 0,0:00:15.92,0:00:16.70,Default,,0,0,0,,แย่แล้ว
+Dialogue: 0,0:00:16.70,0:00:18.09,Default,,0,0,0,,ยินดีต้อนรับ
+Dialogue: 0,0:00:21.02,0:00:22.28,Default,,0,0,0,,นะครับเข้ามา
+Dialogue: 0,0:00:22.28,0:00:22.94,Default,,0,0,0,,แล้วฝากกดไลค์
+Dialogue: 0,0:00:22.94,0:00:23.54,Default,,0,0,0,,ให้ด้วย
+Dialogue: 0,0:00:23.54,0:00:24.14,Default,,0,0,0,,นะครับ
+Dialogue: 0,0:00:24.14,0:00:25.23,Default,,0,0,0,,เอาล่ะ
+Dialogue: 0,0:00:25.90,0:00:26.56,Default,,0,0,0,,นี่ก่อน
+Dialogue: 0,0:00:26.60,0:00:28.06,Default,,0,0,0,,สวยเรียบร้อย
+Dialogue: 0,0:00:28.06,0:00:29.45,Default,,0,0,0,,เปรี้ยวมา
+Dialogue: 0,0:00:29.45,0:00:30.27,Default,,0,0,0,,ครับรับริคุม
+Dialogue: 0,0:00:31.80,0:00:32.40,Default,,0,0,0,,เย้
+Dialogue: 0,0:00:32.62,0:00:34.26,Default,,0,0,0,,เปลี่ยนล่ะ
+Dialogue: 0,0:00:34.26,0:00:35.69,Default,,0,0,0,,ใช่
+Dialogue: 0,0:00:36.55,0:00:37.59,Default,,0,0,0,,แล้วเราครบสามสิบ
+Dialogue: 0,0:00:37.59,0:00:38.97,Default,,0,0,0,,แล้วหกสิบ
+Dialogue: 0,0:00:38.97,0:00:40.03,Default,,0,0,0,,เก้ากล่าวว่าใหม่
+Dialogue: 0,0:00:40.11,0:00:41.11,Default,,0,0,0,,กี่โมงห้าร้อย
+Dialogue: 0,0:00:41.11,0:00:41.77,Default,,0,0,0,,ห้าสิบห้า
+Dialogue: 0,0:00:41.77,0:00:42.94,Default,,0,0,0,,อุ้ยใหม่
+Dialogue: 0,0:00:42.94,0:00:44.08,Default,,0,0,0,,ไม่ใหม่แล้วระดับ
+Dialogue: 0,0:00:44.08,0:00:44.84,Default,,0,0,0,,พูดอันแพนอ่ะ
+Dialogue: 0,0:00:44.84,0:00:45.96,Default,,0,0,0,,ใช่ไหมสวัสดีคน
+Dialogue: 0,0:00:45.96,0:00:46.62,Default,,0,0,0,,ดูที่เพิ่งเข้า
+Dialogue: 0,0:00:46.62,0:00:47.22,Default,,0,0,0,,มาได้
+Dialogue: 0,0:00:47.22,0:00:47.82,Default,,0,0,0,,นะครับ
+Dialogue: 0,0:00:47.82,0:00:48.60,Default,,0,0,0,,ยินดีต้อนรับนะ
+Dialogue: 0,0:00:48.60,0:00:49.20,Default,,0,0,0,,ครับสําหรับใคร
+Dialogue: 0,0:00:49.20,0:00:49.80,Default,,0,0,0,,ที่เพิ่งเข้ามา

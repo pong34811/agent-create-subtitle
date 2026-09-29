@@ -1,0 +1,58 @@
+﻿[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Mitr,66,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,100,100,360,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.64,Default,,0,0,0,,เฮ้
+Dialogue: 0,0:00:05.00,0:00:05.59,Default,,0,0,0,,เฮ้
+Dialogue: 0,0:00:07.50,0:00:08.09,Default,,0,0,0,,เฮ้
+Dialogue: 0,0:00:10.14,0:00:10.71,Default,,0,0,0,,เฮ้
+Dialogue: 0,0:00:12.48,0:00:13.08,Default,,0,0,0,,เฮ้
+Dialogue: 0,0:00:14.30,0:00:15.37,Default,,0,0,0,,เฮ้
+Dialogue: 0,0:00:17.21,0:00:17.78,Default,,0,0,0,,เฮ้
+Dialogue: 0,0:00:19.66,0:00:20.26,Default,,0,0,0,,เฮ้
+Dialogue: 0,0:00:24.00,0:00:25.80,Default,,0,0,0,,ถึงแล้วใช่ไหม
+Dialogue: 0,0:00:43.67,0:00:45.47,Default,,0,0,0,,ถึงคืออิสรภาพ
+Dialogue: 0,0:00:45.63,0:00:46.45,Default,,0,0,0,,เยสส์
+Dialogue: 0,0:00:48.00,0:00:49.79,Default,,0,0,0,,ถึงเฮ้ออิสรภาพ
+Dialogue: 0,0:00:50.10,0:00:50.70,Default,,0,0,0,,เยส
+Dialogue: 0,0:00:51.17,0:00:52.97,Default,,0,0,0,,คิมวายุคิโซะกล่าวว่า
+Dialogue: 0,0:00:52.97,0:00:54.41,Default,,0,0,0,,เด็กเน้นฟาร์มเรา
+Dialogue: 0,0:00:54.41,0:00:56.14,Default,,0,0,0,,เน้นอยู่ห้าร้อยห้าสิบ
+Dialogue: 0,0:00:56.19,0:00:56.79,Default,,0,0,0,,ห้า
+Dialogue: 0,0:00:56.79,0:00:57.55,Default,,0,0,0,,ไม่อยู่ไม่ได้
+Dialogue: 0,0:00:57.55,0:00:58.58,Default,,0,0,0,,จริงถ้าแบบไม่
+Dialogue: 0,0:00:58.58,0:00:59.36,Default,,0,0,0,,ฟาร์มโหงอะ
+Dialogue: 0,0:00:59.36,0:01:00.60,Default,,0,0,0,,อันนี้คือแบบผมลงมา
+Dialogue: 0,0:01:00.60,0:01:01.57,Default,,0,0,0,,เอาแร่ก่อนเว้ย
+Dialogue: 0,0:01:01.57,0:01:03.08,Default,,0,0,0,,ผมเอาเอาไว้ที่
+Dialogue: 0,0:01:03.08,0:01:03.95,Default,,0,0,0,,เดี๋ยวนะ
+Dialogue: 0,0:01:03.95,0:01:05.44,Default,,0,0,0,,เอาสารามมา
+Dialogue: 0,0:01:05.44,0:01:07.09,Default,,0,0,0,,ส่งแล้วครับ
+Dialogue: 0,0:01:07.93,0:01:09.73,Default,,0,0,0,,ผมเอาไว้กล่องที่
+Dialogue: 0,0:01:10.18,0:01:11.98,Default,,0,0,0,,มันใกล้กับโต๊ะ
+Dialogue: 0,0:01:12.00,0:01:12.81,Default,,0,0,0,,เอาไว้กล่องที่มัน
+Dialogue: 0,0:01:12.81,0:01:13.93,Default,,0,0,0,,โต๊ะครามนะพี่
+Dialogue: 0,0:01:13.93,0:01:14.53,Default,,0,0,0,,ใกล้กับโต๊ะ
+Dialogue: 0,0:01:14.53,0:01:15.13,Default,,0,0,0,,โต๊ะคาม
+Dialogue: 0,0:01:15.13,0:01:15.73,Default,,0,0,0,,นะพี่
+Dialogue: 0,0:01:15.73,0:01:16.33,Default,,0,0,0,,เอ้ย
+Dialogue: 0,0:01:18.15,0:01:19.23,Default,,0,0,0,,ไว้นี้แล้วกันเอาไว้
+Dialogue: 0,0:01:19.23,0:01:20.19,Default,,0,0,0,,ใกล้กับอาหารซอมบี้
+Dialogue: 0,0:01:20.19,0:01:20.79,Default,,0,0,0,,อ่ะ
+Dialogue: 0,0:01:20.79,0:01:21.39,Default,,0,0,0,,ตารา
+Dialogue: 0,0:01:21.39,0:01:21.99,Default,,0,0,0,,ม่า
+Dialogue: 0,0:01:22.06,0:01:23.85,Default,,0,0,0,,แล้วก็เดี๋ยว
+Dialogue: 0,0:01:23.85,0:01:24.45,Default,,0,0,0,,แร่
+Dialogue: 0,0:01:24.45,0:01:25.05,Default,,0,0,0,,แร่เดี๋ยว
+Dialogue: 0,0:01:25.05,0:01:25.65,Default,,0,0,0,,เผาก่อน
+Dialogue: 0,0:01:36.00,0:01:36.59,Default,,0,0,0,,สวัสดี
+Dialogue: 0,0:01:36.59,0:01:37.19,Default,,0,0,0,,ครับ

@@ -1,0 +1,50 @@
+﻿[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Mitr,66,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,100,100,360,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.10,Default,,0,0,0,,สามารถถ่ายต่อได้
+Dialogue: 0,0:00:01.10,0:00:02.26,Default,,0,0,0,,ตอนเข้าHard Modeมี
+Dialogue: 0,0:00:02.26,0:00:03.68,Default,,0,0,0,,แรงบันดาลใจมาเล่นเพื่อ
+Dialogue: 0,0:00:03.68,0:00:04.27,Default,,0,0,0,,หาน้องเลย
+Dialogue: 0,0:00:05.58,0:00:06.85,Default,,0,0,0,,อาบี
+Dialogue: 0,0:00:15.77,0:00:16.55,Default,,0,0,0,,ตะบี
+Dialogue: 0,0:00:16.55,0:00:17.25,Default,,0,0,0,,ไอ้เหี้ย
+Dialogue: 0,0:00:17.25,0:00:18.33,Default,,0,0,0,,โอ้
+Dialogue: 0,0:00:18.33,0:00:19.30,Default,,0,0,0,,ไม่ติดเลย
+Dialogue: 0,0:00:19.30,0:00:19.90,Default,,0,0,0,,โอ้
+Dialogue: 0,0:00:19.90,0:00:20.50,Default,,0,0,0,,แรงละ
+Dialogue: 0,0:00:20.50,0:00:21.10,Default,,0,0,0,,เกิน
+Dialogue: 0,0:00:24.00,0:00:25.80,Default,,0,0,0,,สงสารมากเลยอ่ะ
+Dialogue: 0,0:00:26.10,0:00:27.90,Default,,0,0,0,,แบบป้อมแม่งตี
+Dialogue: 0,0:00:28.05,0:00:29.32,Default,,0,0,0,,มังกรอ่ะ
+Dialogue: 0,0:00:33.60,0:00:34.53,Default,,0,0,0,,แล้วตีแล้วยิง
+Dialogue: 0,0:00:34.53,0:00:35.13,Default,,0,0,0,,ไม่โดน
+Dialogue: 0,0:00:35.13,0:00:36.02,Default,,0,0,0,,กระสุนแม่งไม่
+Dialogue: 0,0:00:36.02,0:00:36.60,Default,,0,0,0,,ย้อยโดน
+Dialogue: 0,0:00:36.60,0:00:37.24,Default,,0,0,0,,โดนมอลต์ให้
+Dialogue: 0,0:00:37.24,0:00:37.84,Default,,0,0,0,,ด้วยอ่ะ
+Dialogue: 0,0:00:37.84,0:00:38.85,Default,,0,0,0,,คือแบบ
+Dialogue: 0,0:00:45.14,0:00:45.74,Default,,0,0,0,,เอ้ย
+Dialogue: 0,0:00:45.74,0:00:46.34,Default,,0,0,0,,คือ
+Dialogue: 0,0:00:46.34,0:00:46.94,Default,,0,0,0,,คือป้อมแมลง
+Dialogue: 0,0:00:46.94,0:00:47.54,Default,,0,0,0,,นะเฮ้ย
+Dialogue: 0,0:00:47.54,0:00:48.14,Default,,0,0,0,,แต่แบบคุณหมอ
+Dialogue: 0,0:00:48.14,0:00:48.74,Default,,0,0,0,,เห็น
+Dialogue: 0,0:00:48.74,0:00:49.34,Default,,0,0,0,,เอ้ยภาพที่เคย
+Dialogue: 0,0:00:49.34,0:00:50.13,Default,,0,0,0,,เห็นคือแบบ
+Dialogue: 0,0:00:50.13,0:00:51.44,Default,,0,0,0,,มีเหมือนไม่
+Dialogue: 0,0:00:51.44,0:00:52.04,Default,,0,0,0,,มีอ่ะ
+Dialogue: 0,0:00:52.04,0:00:52.89,Default,,0,0,0,,ฝั่งขวา
+Dialogue: 0,0:00:52.89,0:00:53.49,Default,,0,0,0,,อ่ะ
+Dialogue: 0,0:00:56.75,0:00:58.55,Default,,0,0,0,,โอเคมีแค่นี้
+Dialogue: 0,0:00:58.55,0:00:59.15,Default,,0,0,0,,อ่ะ
+Dialogue: 0,0:00:59.57,0:01:00.00,Default,,0,0,0,,อันนี้เป็นวัย

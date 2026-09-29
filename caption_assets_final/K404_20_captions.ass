@@ -1,0 +1,57 @@
+﻿[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Mitr,66,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,100,100,360,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:01.01,Default,,0,0,0,,อ๋อ
+Dialogue: 0,0:00:01.01,0:00:01.71,Default,,0,0,0,,ต้องขี้ขวา
+Dialogue: 0,0:00:01.71,0:00:02.31,Default,,0,0,0,,อ๋อ
+Dialogue: 0,0:00:15.74,0:00:16.80,Default,,0,0,0,,ปล่อยเป็นหน้าที่
+Dialogue: 0,0:00:16.80,0:00:17.49,Default,,0,0,0,,กว่าคุณอื่น
+Dialogue: 0,0:00:17.49,0:00:18.11,Default,,0,0,0,,ชัดวิ่นอย่าง
+Dialogue: 0,0:00:18.11,0:00:18.71,Default,,0,0,0,,เดียว
+Dialogue: 0,0:00:18.71,0:00:19.57,Default,,0,0,0,,อ่า
+Dialogue: 0,0:00:20.44,0:00:21.04,Default,,0,0,0,,มัน
+Dialogue: 0,0:00:21.04,0:00:22.00,Default,,0,0,0,,อันนี้คือ
+Dialogue: 0,0:00:22.00,0:00:22.89,Default,,0,0,0,,มอสมัน
+Dialogue: 0,0:00:23.00,0:00:23.73,Default,,0,0,0,,มอสมัน
+Dialogue: 0,0:00:24.00,0:00:24.59,Default,,0,0,0,,มันโดดระเบียร์
+Dialogue: 0,0:00:24.59,0:00:25.19,Default,,0,0,0,,แรงมากใช่ไหม
+Dialogue: 0,0:00:25.19,0:00:26.25,Default,,0,0,0,,ใช่ใช่
+Dialogue: 0,0:00:26.48,0:00:27.60,Default,,0,0,0,,มีคนทำส
+Dialogue: 0,0:00:27.60,0:00:29.33,Default,,0,0,0,,ตักเกอร์ครับ
+Dialogue: 0,0:00:32.35,0:00:32.96,Default,,0,0,0,,คนที่เล่น
+Dialogue: 0,0:00:32.96,0:00:33.56,Default,,0,0,0,,ทราบ
+Dialogue: 0,0:00:33.56,0:00:34.75,Default,,0,0,0,,คนดูจักใจริน
+Dialogue: 0,0:00:34.75,0:00:36.55,Default,,0,0,0,,เสียงแม่ดังมาก
+Dialogue: 0,0:00:36.85,0:00:37.82,Default,,0,0,0,,ตอนนี้
+Dialogue: 0,0:00:42.56,0:00:44.19,Default,,0,0,0,,ปิงปองปิงปอง
+Dialogue: 0,0:00:44.19,0:00:44.85,Default,,0,0,0,,ปิงอะ
+Dialogue: 0,0:00:44.85,0:00:46.05,Default,,0,0,0,,อ่า
+Dialogue: 0,0:00:48.00,0:00:49.79,Default,,0,0,0,,คุณเจ้าเร็มมอลต์
+Dialogue: 0,0:00:50.29,0:00:52.09,Default,,0,0,0,,เริ่มเกมวิที่จะ
+Dialogue: 0,0:00:52.44,0:00:53.80,Default,,0,0,0,,เอาสีคนมา
+Dialogue: 0,0:00:53.80,0:00:54.67,Default,,0,0,0,,กระทืบ
+Dialogue: 0,0:00:54.67,0:00:55.57,Default,,0,0,0,,ฮ่า
+Dialogue: 0,0:00:55.57,0:00:56.17,Default,,0,0,0,,�
+Dialogue: 0,0:01:12.00,0:01:12.93,Default,,0,0,0,,แล้วก็กล้าวะมา
+Dialogue: 0,0:01:12.93,0:01:13.66,Default,,0,0,0,,ปุ๊บก็คือแบบ
+Dialogue: 0,0:01:13.66,0:01:14.77,Default,,0,0,0,,เอ็นรัฟฟี่มัน
+Dialogue: 0,0:01:14.77,0:01:15.54,Default,,0,0,0,,ตีตายมาดี
+Dialogue: 0,0:01:15.54,0:01:16.14,Default,,0,0,0,,เว้ย
+Dialogue: 0,0:01:16.14,0:01:17.08,Default,,0,0,0,,แร่
+Dialogue: 0,0:01:17.43,0:01:18.36,Default,,0,0,0,,แร่เลย
+Dialogue: 0,0:01:18.36,0:01:19.56,Default,,0,0,0,,เข้า
+Dialogue: 0,0:01:20.65,0:01:22.04,Default,,0,0,0,,เข้าไปเดิน
+Dialogue: 0,0:01:22.04,0:01:22.64,Default,,0,0,0,,ด้วย
+Dialogue: 0,0:01:22.64,0:01:23.76,Default,,0,0,0,,ได้
+Dialogue: 0,0:01:24.07,0:01:24.70,Default,,0,0,0,,เพราะเอาลิงค์
+Dialogue: 0,0:01:24.70,0:01:25.00,Default,,0,0,0,,ติดก็คือ

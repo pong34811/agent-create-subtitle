@@ -1,0 +1,38 @@
+﻿[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Mitr,66,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,100,100,185,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:00.60,Default,,0,0,0,,ใช่ใช่
+Dialogue: 0,0:00:00.60,0:00:01.95,Default,,0,0,0,,ไม่
+Dialogue: 0,0:00:03.66,0:00:04.70,Default,,0,0,0,,ตอนนี้พี่รักหมวด
+Dialogue: 0,0:00:04.70,0:00:05.94,Default,,0,0,0,,เป็นภูเขาเนี่ยอยู่
+Dialogue: 0,0:00:05.94,0:00:06.94,Default,,0,0,0,,เอาไว้
+Dialogue: 0,0:00:06.94,0:00:08.29,Default,,0,0,0,,คือ
+Dialogue: 0,0:00:09.28,0:00:10.18,Default,,0,0,0,,แบบนี้คนดู
+Dialogue: 0,0:00:10.18,0:00:11.10,Default,,0,0,0,,กำลังหาแบบ
+Dialogue: 0,0:00:11.10,0:00:11.90,Default,,0,0,0,,จุดโลเคชันที่มัน
+Dialogue: 0,0:00:11.90,0:00:12.70,Default,,0,0,0,,มีผม
+Dialogue: 0,0:00:13.11,0:00:14.03,Default,,0,0,0,,หวังว่ามันคุ้ม
+Dialogue: 0,0:00:14.03,0:00:14.67,Default,,0,0,0,,ไม่ใช่บ้านเรา
+Dialogue: 0,0:00:14.67,0:00:15.27,Default,,0,0,0,,น่ะ
+Dialogue: 0,0:00:15.27,0:00:16.42,Default,,0,0,0,,ไอ้
+Dialogue: 0,0:00:21.23,0:00:21.83,Default,,0,0,0,,เหี้ยเออ
+Dialogue: 0,0:00:21.83,0:00:23.02,Default,,0,0,0,,เห้ย
+Dialogue: 0,0:00:23.84,0:00:25.08,Default,,0,0,0,,มนต์เดินไปเดินมา
+Dialogue: 0,0:00:25.08,0:00:25.84,Default,,0,0,0,,แม่งมนต์กลับมา
+Dialogue: 0,0:00:25.84,0:00:26.44,Default,,0,0,0,,บ้านตัวเอง
+Dialogue: 0,0:00:26.44,0:00:27.04,Default,,0,0,0,,ก็ไอ้เหี้ยเลย
+Dialogue: 0,0:00:27.04,0:00:28.19,Default,,0,0,0,,ไม่
+Dialogue: 0,0:00:56.33,0:00:57.76,Default,,0,0,0,,พี่
+Dialogue: 0,0:01:03.85,0:01:04.79,Default,,0,0,0,,ตอนนี้พี่อยู่ทาง
+Dialogue: 0,0:01:04.79,0:01:05.41,Default,,0,0,0,,ภูเขาที่พี่
+Dialogue: 0,0:01:06.88,0:01:08.31,Default,,0,0,0,,เจอ

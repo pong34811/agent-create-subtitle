@@ -1,0 +1,62 @@
+﻿[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Mitr,66,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,100,100,185,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:06.36,0:00:07.57,Default,,0,0,0,,ถ้าถึง 60
+Dialogue: 0,0:00:07.57,0:00:08.63,Default,,0,0,0,,ก่อนอาจจะดีมากเพราะว่า
+Dialogue: 0,0:00:08.63,0:00:09.23,Default,,0,0,0,,จะให้รักพี่
+Dialogue: 0,0:00:09.23,0:00:10.15,Default,,0,0,0,,ไกว่ามันทำ
+Dialogue: 0,0:00:10.15,0:00:11.33,Default,,0,0,0,,ไอ้เนี่ย
+Dialogue: 0,0:00:11.33,0:00:12.39,Default,,0,0,0,,มันคือ 2.5 หรือ
+Dialogue: 0,0:00:12.39,0:00:13.09,Default,,0,0,0,,1.5 แล้วนะ
+Dialogue: 0,0:00:21.24,0:00:22.30,Default,,0,0,0,,มันต้องเวลา
+Dialogue: 0,0:00:22.30,0:00:23.65,Default,,0,0,0,,เท่าไหร่
+Dialogue: 0,0:00:28.53,0:00:29.37,Default,,0,0,0,,60
+Dialogue: 0,0:00:30.27,0:00:31.57,Default,,0,0,0,,อ๋อแต่ของ
+Dialogue: 0,0:00:31.57,0:00:32.61,Default,,0,0,0,,ละของอืม
+Dialogue: 0,0:00:32.61,0:00:33.57,Default,,0,0,0,,แต่ว่า
+Dialogue: 0,0:00:33.57,0:00:34.69,Default,,0,0,0,,แต่ว่าผม
+Dialogue: 0,0:00:34.69,0:00:35.53,Default,,0,0,0,,หกสิบแล้วมัน
+Dialogue: 0,0:00:35.53,0:00:36.41,Default,,0,0,0,,ไม่โพล
+Dialogue: 0,0:00:36.41,0:00:37.76,Default,,0,0,0,,มัน
+Dialogue: 0,0:00:39.46,0:00:40.12,Default,,0,0,0,,ต้องโปรดล็อกดัน
+Dialogue: 0,0:00:40.12,0:00:41.32,Default,,0,0,0,,ป่ะเพื่อไปเอา
+Dialogue: 0,0:00:41.32,0:00:41.92,Default,,0,0,0,,อันนั้น
+Dialogue: 0,0:00:43.76,0:00:44.94,Default,,0,0,0,,เพราะว่า
+Dialogue: 0,0:00:44.94,0:00:46.29,Default,,0,0,0,,ปัญหา
+Dialogue: 0,0:00:48.32,0:00:48.92,Default,,0,0,0,,เธอคือแม่ง
+Dialogue: 0,0:00:48.92,0:00:50.47,Default,,0,0,0,,เยอะปัญหา
+Dialogue: 0,0:00:51.34,0:00:52.50,Default,,0,0,0,,ปัญหาจาก
+Dialogue: 0,0:00:52.50,0:00:53.32,Default,,0,0,0,,ปัญหาคือ
+Dialogue: 0,0:00:53.32,0:00:54.44,Default,,0,0,0,,คุ้นคุ้นหวะทำไม
+Dialogue: 0,0:00:54.44,0:00:55.04,Default,,0,0,0,,เรามาเจอคน
+Dialogue: 0,0:00:55.04,0:00:55.64,Default,,0,0,0,,เดิมวะ
+Dialogue: 0,0:00:55.92,0:00:57.35,Default,,0,0,0,,เหมือน
+Dialogue: 0,0:01:02.10,0:01:02.82,Default,,0,0,0,,ภาพเดียวถ้า
+Dialogue: 0,0:01:02.82,0:01:03.46,Default,,0,0,0,,ดีแล้ว
+Dialogue: 0,0:01:03.74,0:01:04.84,Default,,0,0,0,,วันนี้ฟื้มความทรง
+Dialogue: 0,0:01:04.84,0:01:06.44,Default,,0,0,0,,จําไม่
+Dialogue: 0,0:01:06.44,0:01:07.40,Default,,0,0,0,,น่ะไอ้นี่ตัว
+Dialogue: 0,0:01:07.40,0:01:08.00,Default,,0,0,0,,เขียวน่ะ
+Dialogue: 0,0:01:08.00,0:01:08.60,Default,,0,0,0,,ที่เราเจอตัว
+Dialogue: 0,0:01:08.60,0:01:09.78,Default,,0,0,0,,แรกเลยใช่
+Dialogue: 0,0:01:09.78,0:01:10.98,Default,,0,0,0,,ใช่เราเจอ
+Dialogue: 0,0:01:10.98,0:01:11.58,Default,,0,0,0,,ตัวดําอันนี้
+Dialogue: 0,0:01:11.58,0:01:12.18,Default,,0,0,0,,ที่เราเจอตัว
+Dialogue: 0,0:01:12.18,0:01:13.26,Default,,0,0,0,,เขียวเดี๋ยวอี
+Dialogue: 0,0:01:13.26,0:01:13.86,Default,,0,0,0,,ด้วย
+Dialogue: 0,0:01:13.86,0:01:15.21,Default,,0,0,0,,ไม่
+Dialogue: 0,0:01:15.76,0:01:16.54,Default,,0,0,0,,ความทรงจําอาจจะ
+Dialogue: 0,0:01:16.54,0:01:17.14,Default,,0,0,0,,เริ่มล้างไง
+Dialogue: 0,0:01:18.94,0:01:20.22,Default,,0,0,0,,คุณโรนี่
+Dialogue: 0,0:01:20.22,0:01:20.86,Default,,0,0,0,,พิมพ์อะไรมาวะ
+Dialogue: 0,0:01:20.86,0:01:21.86,Default,,0,0,0,,เอ่อแต่พี่ต้อง

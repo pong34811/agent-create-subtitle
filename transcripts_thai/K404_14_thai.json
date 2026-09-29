@@ -1,0 +1,370 @@
+{
+  "timeline_index": 14,
+  "timeline_name": "K404_14_TER_MoonLordFail",
+  "source_path": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 COLAB】Terraria Skyblock กับเพือน ｜ 13⧸09⧸2026 ｜ #katy404live ‪@LaffeyNilvalen @morkeang​.mp4",
+  "duration_seconds": 90.0,
+  "model": "bjak/distill-whisper-th-large-v3",
+  "language": "th",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.46,
+      "text": "ตอนนี้ต้องเตียอะไรตาหรือหัวใจ",
+      "window_start": 0.0
+    },
+    {
+      "start": 1.46,
+      "end": 3.44,
+      "text": "ตีตีตีตาข้างบนตาข้างบนตาข้างบน",
+      "window_start": 0.0
+    },
+    {
+      "start": 3.44,
+      "end": 5.5,
+      "text": "เออเลเซอร์เลเซอร์เลเซอร์เลเซอร์เลเซอร์ระวังเลเซอร์",
+      "window_start": 0.0
+    },
+    {
+      "start": 5.5,
+      "end": 6.02,
+      "text": "ระวังเลเซอร์",
+      "window_start": 0.0
+    },
+    {
+      "start": 6.02,
+      "end": 6.24,
+      "text": "โอ้",
+      "window_start": 0.0
+    },
+    {
+      "start": 6.24,
+      "end": 6.66,
+      "text": "ไม่โพรง",
+      "window_start": 0.0
+    },
+    {
+      "start": 6.66,
+      "end": 7.0,
+      "text": "ปาด",
+      "window_start": 0.0
+    },
+    {
+      "start": 7.0,
+      "end": 7.96,
+      "text": "ปาดสัตว์หัวแตกเลย",
+      "window_start": 0.0
+    },
+    {
+      "start": 7.96,
+      "end": 11.5,
+      "text": "เอ้าชิมหายคุณเดียวด้วยลูกหลวงเหรอ",
+      "window_start": 0.0
+    },
+    {
+      "start": 11.5,
+      "end": 15.16,
+      "text": "เดี๋ยวเลเซอร์ทีเดียวแล้วตาแล้ว",
+      "window_start": 0.0
+    },
+    {
+      "start": 15.16,
+      "end": 16.0,
+      "text": "เมื่อกี้กูเห็น",
+      "window_start": 0.0
+    },
+    {
+      "start": 16.0,
+      "end": 16.96,
+      "text": "เมื่อกี้กูเห็นเลือดมัน",
+      "window_start": 0.0
+    },
+    {
+      "start": 16.96,
+      "end": 17.8,
+      "text": "เลือดมันเด้งด้วยอ่ะ",
+      "window_start": 0.0
+    },
+    {
+      "start": 17.8,
+      "end": 20.08,
+      "text": "ใครใครกดยาตอนมันต่อสายนะ",
+      "window_start": 0.0
+    },
+    {
+      "start": 20.08,
+      "end": 22.56,
+      "text": "ไม่ใช่ฉันนะ",
+      "window_start": 0.0
+    },
+    {
+      "start": 22.56,
+      "end": 23.38,
+      "text": "มันไม่ต่อสายกันเลย",
+      "window_start": 0.0
+    },
+    {
+      "start": 23.38,
+      "end": 24.54,
+      "text": "เต็มตา",
+      "window_start": 0.0
+    },
+    {
+      "start": 24.0,
+      "end": 25.44,
+      "text": "เลสเซอร์อีกแล้ว",
+      "window_start": 24.0
+    },
+    {
+      "start": 25.44,
+      "end": 26.16,
+      "text": "โอ้",
+      "window_start": 24.0
+    },
+    {
+      "start": 26.48,
+      "end": 27.259999999999998,
+      "text": "วิดีโอเด็กไงเว้ย",
+      "window_start": 24.0
+    },
+    {
+      "start": 27.259999999999998,
+      "end": 28.06,
+      "text": "คุณพุ่งเลย",
+      "window_start": 24.0
+    },
+    {
+      "start": 28.06,
+      "end": 29.32,
+      "text": "เอ่อ",
+      "window_start": 24.0
+    },
+    {
+      "start": 29.32,
+      "end": 29.46,
+      "text": "วา",
+      "window_start": 24.0
+    },
+    {
+      "start": 29.46,
+      "end": 30.34,
+      "text": "วาวกับบ้านเลยไหม",
+      "window_start": 24.0
+    },
+    {
+      "start": 31.08,
+      "end": 32.42,
+      "text": "ตอนนี้เคปล่อมาซ้าย",
+      "window_start": 24.0
+    },
+    {
+      "start": 32.42,
+      "end": 34.0,
+      "text": "เกือบสุดเลยนี่",
+      "window_start": 24.0
+    },
+    {
+      "start": 34.0,
+      "end": 35.36,
+      "text": "โอเค",
+      "window_start": 24.0
+    },
+    {
+      "start": 35.36,
+      "end": 36.92,
+      "text": "ลีเลือกก่อนไหมคุณหมอก",
+      "window_start": 24.0
+    },
+    {
+      "start": 36.92,
+      "end": 37.2,
+      "text": "เค",
+      "window_start": 24.0
+    },
+    {
+      "start": 37.2,
+      "end": 38.42,
+      "text": "เดี๋ยวเคจะพากับบ้านแล้ว",
+      "window_start": 24.0
+    },
+    {
+      "start": 38.42,
+      "end": 43.6,
+      "text": "ได้ครับ",
+      "window_start": 24.0
+    },
+    {
+      "start": 43.6,
+      "end": 44.0,
+      "text": "เลสเซอร์",
+      "window_start": 24.0
+    },
+    {
+      "start": 44.22,
+      "end": 44.72,
+      "text": "ระวังคุณหมอก",
+      "window_start": 24.0
+    },
+    {
+      "start": 44.72,
+      "end": 46.239999999999995,
+      "text": "ตรงคุณหมอกอ่ะ",
+      "window_start": 24.0
+    },
+    {
+      "start": 46.239999999999995,
+      "end": 46.56,
+      "text": "อุ๊ย",
+      "window_start": 24.0
+    },
+    {
+      "start": 46.56,
+      "end": 46.84,
+      "text": "ไม่ดู",
+      "window_start": 24.0
+    },
+    {
+      "start": 47.06,
+      "end": 47.519999999999996,
+      "text": "ชื่อมหาคิ",
+      "window_start": 24.0
+    },
+    {
+      "start": 47.519999999999996,
+      "end": 47.72,
+      "text": "ชุย",
+      "window_start": 24.0
+    },
+    {
+      "start": 48.0,
+      "end": 49.32,
+      "text": "เฮ้ยมันบัว",
+      "window_start": 48.0
+    },
+    {
+      "start": 49.32,
+      "end": 53.96,
+      "text": "มันหยุดตรงหน้าผมพอดีเลยเมื่อกี้",
+      "window_start": 48.0
+    },
+    {
+      "start": 53.96,
+      "end": 56.76,
+      "text": "อยู่ดีแม่งเลเซอร์",
+      "window_start": 48.0
+    },
+    {
+      "start": 56.76,
+      "end": 60.38,
+      "text": "อ่าจะถึงบ้านแล้วจะถึงบ้านแล้วจะถึงบ้านแล้ว",
+      "window_start": 48.0
+    },
+    {
+      "start": 60.38,
+      "end": 63.56,
+      "text": "เอ๊ยเลเซอร์เลเซอร์เลเซอร์",
+      "window_start": 48.0
+    },
+    {
+      "start": 63.56,
+      "end": 64.92,
+      "text": "เลเซอร์เราบองเลเซอร์",
+      "window_start": 48.0
+    },
+    {
+      "start": 64.92,
+      "end": 65.3,
+      "text": "รัฟฟี่เรา",
+      "window_start": 48.0
+    },
+    {
+      "start": 65.74,
+      "end": 66.28,
+      "text": "โอ้ยเฉี๋ยวไหม",
+      "window_start": 48.0
+    },
+    {
+      "start": 66.28,
+      "end": 68.92,
+      "text": "ไอ้เยี่ย",
+      "window_start": 48.0
+    },
+    {
+      "start": 68.92,
+      "end": 69.32,
+      "text": "ไอ้เยี่ย",
+      "window_start": 48.0
+    },
+    {
+      "start": 69.32,
+      "end": 70.86,
+      "text": "โทษตีโทษตีเยี่ย",
+      "window_start": 48.0
+    },
+    {
+      "start": 70.86,
+      "end": 71.56,
+      "text": "เฮ้ย",
+      "window_start": 48.0
+    },
+    {
+      "start": 72.0,
+      "end": 72.6,
+      "text": "ชิบหายแล้ว",
+      "window_start": 72.0
+    },
+    {
+      "start": 73.46,
+      "end": 74.02,
+      "text": "วับวับ",
+      "window_start": 72.0
+    },
+    {
+      "start": 74.02,
+      "end": 74.4,
+      "text": "อ๊ะ",
+      "window_start": 72.0
+    },
+    {
+      "start": 74.4,
+      "end": 75.36,
+      "text": "ชิบหายแค่ไทย",
+      "window_start": 72.0
+    },
+    {
+      "start": 75.36,
+      "end": 80.92,
+      "text": "ทำไมเหมือนเราเคยกินที่ผ่านจุดนี้มาแล้วนะ",
+      "window_start": 72.0
+    },
+    {
+      "start": 80.92,
+      "end": 83.0,
+      "text": "ใช่",
+      "window_start": 72.0
+    },
+    {
+      "start": 83.0,
+      "end": 83.16,
+      "text": "ๆ",
+      "window_start": 72.0
+    },
+    {
+      "start": 83.84,
+      "end": 87.28,
+      "text": "ง่ายมันฮานก็คิดว่า",
+      "window_start": 72.0
+    },
+    {
+      "start": 87.28,
+      "end": 88.42,
+      "text": "เฮ้ย",
+      "window_start": 72.0
+    },
+    {
+      "start": 88.42,
+      "end": 89.48,
+      "text": "เดี๋ยวนะ",
+      "window_start": 72.0
+    }
+  ]
+}

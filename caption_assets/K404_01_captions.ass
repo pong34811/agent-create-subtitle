@@ -1,0 +1,36 @@
+﻿[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Mitr,66,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,100,100,185,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:04.20,0:00:04.94,Default,,0,0,0,,เยี่ยมเจอทัน
+Dialogue: 0,0:00:04.94,0:00:05.70,Default,,0,0,0,,คอปเปอร์ได้
+Dialogue: 0,0:00:05.70,0:00:07.05,Default,,0,0,0,,เอ้ย
+Dialogue: 0,0:00:11.82,0:00:13.06,Default,,0,0,0,,เจอเหล็กแล้วเว้ย
+Dialogue: 0,0:00:30.83,0:00:31.97,Default,,0,0,0,,อุ้ยมั่วแล้วเนี้ย
+Dialogue: 0,0:00:31.97,0:00:32.63,Default,,0,0,0,,มั่วทรงแล้วเนี้ย
+Dialogue: 0,0:00:32.63,0:00:33.23,Default,,0,0,0,,เจอเฉยเฉย
+Dialogue: 0,0:00:33.23,0:00:34.58,Default,,0,0,0,,อุ้ย
+Dialogue: 0,0:00:35.87,0:00:37.33,Default,,0,0,0,,อุ้ยเฮ้ย
+Dialogue: 0,0:00:37.33,0:00:38.21,Default,,0,0,0,,เอ็กซ์เรย์เปล่าเนี้ย
+Dialogue: 0,0:00:38.23,0:00:38.83,Default,,0,0,0,,เอ้ย
+Dialogue: 0,0:00:38.83,0:00:39.43,Default,,0,0,0,,คนดู
+Dialogue: 0,0:00:39.43,0:00:40.32,Default,,0,0,0,,โอ้ย
+Dialogue: 0,0:00:40.52,0:00:41.64,Default,,0,0,0,,ยิ้มเลยโอ้โห
+Dialogue: 0,0:00:41.64,0:00:42.64,Default,,0,0,0,,เหล็กบานเลยเมื่อกี้
+Dialogue: 0,0:00:42.64,0:00:44.01,Default,,0,0,0,,ไอ้
+Dialogue: 0,0:00:44.35,0:00:45.51,Default,,0,0,0,,เหี้ยได้บางสามสิบสอง
+Dialogue: 0,0:00:45.51,0:00:46.65,Default,,0,0,0,,อันหวานเจี๊ยบเลย
+Dialogue: 0,0:00:46.65,0:00:47.27,Default,,0,0,0,,รออะไรล่ะครับ
+Dialogue: 0,0:00:47.27,0:00:47.87,Default,,0,0,0,,สี่น้อง
+Dialogue: 0,0:00:47.87,0:00:49.08,Default,,0,0,0,,เฮ้ย
+Dialogue: 0,0:00:52.26,0:00:53.22,Default,,0,0,0,,ไม่ใช่ราพ
+Dialogue: 0,0:00:53.22,0:00:54.73,Default,,0,0,0,,ชิตเหรอ

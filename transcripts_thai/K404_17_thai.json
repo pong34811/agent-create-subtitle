@@ -1,0 +1,232 @@
+{
+  "timeline_index": 17,
+  "timeline_name": "K404_17_TER_PumpkinMoon",
+  "source_path": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 COLAB】Terraria Skyblock กับเพือน ｜ 13⧸09⧸2026 ｜ #katy404live ‪@LaffeyNilvalen @morkeang​.mp4",
+  "duration_seconds": 90.0,
+  "model": "bjak/distill-whisper-th-large-v3",
+  "language": "th",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.16,
+      "text": "ก็ไม่ได้",
+      "window_start": 0.0
+    },
+    {
+      "start": 2.16,
+      "end": 3.36,
+      "text": "ขนาดนั้นน่ะเนี่ย",
+      "window_start": 0.0
+    },
+    {
+      "start": 3.36,
+      "end": 4.14,
+      "text": "ราฟีระวัง",
+      "window_start": 0.0
+    },
+    {
+      "start": 4.14,
+      "end": 4.74,
+      "text": "ไม่ได้หรอ",
+      "window_start": 0.0
+    },
+    {
+      "start": 4.74,
+      "end": 8.18,
+      "text": "อยู่",
+      "window_start": 0.0
+    },
+    {
+      "start": 8.18,
+      "end": 10.02,
+      "text": "อยู่กับเคทางด้านขวาคุณหมอก",
+      "window_start": 0.0
+    },
+    {
+      "start": 10.02,
+      "end": 16.84,
+      "text": "อ้าวคุณหมอกช่วยด้วย",
+      "window_start": 0.0
+    },
+    {
+      "start": 16.84,
+      "end": 19.6,
+      "text": "ติดติดติดติดติดติด",
+      "window_start": 0.0
+    },
+    {
+      "start": 19.6,
+      "end": 20.64,
+      "text": "ไอ้เย้ย",
+      "window_start": 0.0
+    },
+    {
+      "start": 20.64,
+      "end": 22.9,
+      "text": "ลงไปลุงวัยเว่นอยู่ข้างใต้",
+      "window_start": 0.0
+    },
+    {
+      "start": 24.0,
+      "end": 25.14,
+      "text": "เคพากับบ้านนะ",
+      "window_start": 24.0
+    },
+    {
+      "start": 25.14,
+      "end": 26.54,
+      "text": "ไม่",
+      "window_start": 24.0
+    },
+    {
+      "start": 27.44,
+      "end": 28.28,
+      "text": "ไม่",
+      "window_start": 24.0
+    },
+    {
+      "start": 29.36,
+      "end": 29.42,
+      "text": "ไม่",
+      "window_start": 24.0
+    },
+    {
+      "start": 31.16,
+      "end": 31.240000000000002,
+      "text": "ไม่",
+      "window_start": 24.0
+    },
+    {
+      "start": 33.78,
+      "end": 34.8,
+      "text": "ไม่",
+      "window_start": 24.0
+    },
+    {
+      "start": 36.0,
+      "end": 36.5,
+      "text": "ไม่",
+      "window_start": 24.0
+    },
+    {
+      "start": 37.9,
+      "end": 37.96,
+      "text": "ไม่",
+      "window_start": 24.0
+    },
+    {
+      "start": 39.92,
+      "end": 40.84,
+      "text": "ไม่",
+      "window_start": 24.0
+    },
+    {
+      "start": 42.120000000000005,
+      "end": 42.46,
+      "text": "ไม่",
+      "window_start": 24.0
+    },
+    {
+      "start": 44.46,
+      "end": 45.28,
+      "text": "ไม่",
+      "window_start": 24.0
+    },
+    {
+      "start": 48.0,
+      "end": 55.68,
+      "text": "มันจะเป็นเห็ดอ่ะ",
+      "window_start": 48.0
+    },
+    {
+      "start": 55.68,
+      "end": 56.44,
+      "text": "ใช่ไหม",
+      "window_start": 48.0
+    },
+    {
+      "start": 56.44,
+      "end": 57.46,
+      "text": "เห็ดไหม",
+      "window_start": 48.0
+    },
+    {
+      "start": 57.46,
+      "end": 60.18,
+      "text": "ดูแบบให้หน่อยดิ",
+      "window_start": 48.0
+    },
+    {
+      "start": 60.18,
+      "end": 63.78,
+      "text": "นั่นอยู่ขวาอ่ะ",
+      "window_start": 48.0
+    },
+    {
+      "start": 63.78,
+      "end": 69.74,
+      "text": "ใช่คุณก็เลยเนี่ยรออยู่เนี่ยไม่เห็นมีมีเห็ดมีอะไรเลยอ่ะ",
+      "window_start": 48.0
+    },
+    {
+      "start": 69.74,
+      "end": 71.3,
+      "text": "โหตาย",
+      "window_start": 48.0
+    },
+    {
+      "start": 71.3,
+      "end": 71.84,
+      "text": "เขตายละ",
+      "window_start": 48.0
+    },
+    {
+      "start": 72.0,
+      "end": 72.88,
+      "text": "คิดความความชิบหายไปแล้ว",
+      "window_start": 72.0
+    },
+    {
+      "start": 72.88,
+      "end": 83.78,
+      "text": "คนดูบอกออกจากเขตไม่คลั่งอ่ะ",
+      "window_start": 72.0
+    },
+    {
+      "start": 83.78,
+      "end": 84.6,
+      "text": "ฝากรีวิวให้ด้วย",
+      "window_start": 72.0
+    },
+    {
+      "start": 84.6,
+      "end": 85.7,
+      "text": "แม่ง",
+      "window_start": 72.0
+    },
+    {
+      "start": 85.7,
+      "end": 87.2,
+      "text": "ก็เคยไล่",
+      "window_start": 72.0
+    },
+    {
+      "start": 87.2,
+      "end": 87.48,
+      "text": "ๆ",
+      "window_start": 72.0
+    },
+    {
+      "start": 87.48,
+      "end": 88.56,
+      "text": "ไปจนถึงนู่นอ่ะ",
+      "window_start": 72.0
+    },
+    {
+      "start": 88.56,
+      "end": 89.16,
+      "text": "ไปโอมเหตุอ่ะ",
+      "window_start": 72.0
+    }
+  ]
+}

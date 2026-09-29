@@ -1,0 +1,70 @@
+﻿[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Mitr,66,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,100,100,185,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.43,0:00:02.86,Default,,0,0,0,,กด
+Dialogue: 0,0:00:03.05,0:00:03.81,Default,,0,0,0,,ตัวเฮ็ดลอว์ไว้
+Dialogue: 0,0:00:03.81,0:00:04.61,Default,,0,0,0,,เลยอ่ะตอนเนี้ย
+Dialogue: 0,0:00:07.48,0:00:08.68,Default,,0,0,0,,สมพีสลาม
+Dialogue: 0,0:00:08.68,0:00:09.28,Default,,0,0,0,,ฟัน
+Dialogue: 0,0:00:13.67,0:00:14.85,Default,,0,0,0,,เฮ้ยลืมลับตา
+Dialogue: 0,0:00:14.85,0:00:16.10,Default,,0,0,0,,ชั้นแม่งแล้ว
+Dialogue: 0,0:00:16.10,0:00:16.70,Default,,0,0,0,,เอาเลย
+Dialogue: 0,0:00:17.72,0:00:18.92,Default,,0,0,0,,นิ่งไว้นิ่งไว้
+Dialogue: 0,0:00:24.60,0:00:25.24,Default,,0,0,0,,เดี๋ยวเค้ควัก
+Dialogue: 0,0:00:25.24,0:00:26.38,Default,,0,0,0,,ควักเนิร์ด
+Dialogue: 0,0:00:26.38,0:00:26.98,Default,,0,0,0,,ก่อนอ่ะ
+Dialogue: 0,0:00:26.98,0:00:28.42,Default,,0,0,0,,เอาเอา
+Dialogue: 0,0:00:28.42,0:00:29.12,Default,,0,0,0,,เอาซ้ายก่อนน่ะ
+Dialogue: 0,0:00:29.28,0:00:29.96,Default,,0,0,0,,เดี๋ยวเค้ตีซ้าย
+Dialogue: 0,0:00:29.96,0:00:30.56,Default,,0,0,0,,น่ะ
+Dialogue: 0,0:00:31.28,0:00:32.71,Default,,0,0,0,,โอ้โห
+Dialogue: 0,0:00:35.64,0:00:37.07,Default,,0,0,0,,คุณ
+Dialogue: 0,0:00:37.22,0:00:38.26,Default,,0,0,0,,หมอกไปเอา
+Dialogue: 0,0:00:38.26,0:00:39.46,Default,,0,0,0,,ตุ๊กตามาก็ได้
+Dialogue: 0,0:00:39.46,0:00:40.06,Default,,0,0,0,,น่ะ
+Dialogue: 0,0:00:40.06,0:00:40.66,Default,,0,0,0,,ไอ้ที่เป็นตา
+Dialogue: 0,0:00:42.33,0:00:43.59,Default,,0,0,0,,คุณหมอกคุณหมอก
+Dialogue: 0,0:00:43.59,0:00:44.81,Default,,0,0,0,,กดกดแช่แช่
+Dialogue: 0,0:00:44.81,0:00:45.41,Default,,0,0,0,,เลย
+Dialogue: 0,0:00:45.41,0:00:46.01,Default,,0,0,0,,คุณหมอกอย่าไป
+Dialogue: 0,0:00:46.01,0:00:46.61,Default,,0,0,0,,ยอมคุณหมอกอย่า
+Dialogue: 0,0:00:46.61,0:00:47.21,Default,,0,0,0,,ไปยอมยังไม่
+Dialogue: 0,0:00:47.21,0:00:47.81,Default,,0,0,0,,ตายคุณหมอก
+Dialogue: 0,0:00:47.81,0:00:48.41,Default,,0,0,0,,ก็ต้องไม่ตาย
+Dialogue: 0,0:00:48.41,0:00:49.01,Default,,0,0,0,,เหมือนกัน
+Dialogue: 0,0:00:49.01,0:00:50.00,Default,,0,0,0,,เอ้ย
+Dialogue: 0,0:00:52.04,0:00:52.74,Default,,0,0,0,,เหลือเหลือตาบน
+Dialogue: 0,0:00:52.74,0:00:53.34,Default,,0,0,0,,เหลือตาบน
+Dialogue: 0,0:00:53.34,0:00:53.94,Default,,0,0,0,,เหลือตาบนเหลือ
+Dialogue: 0,0:00:53.94,0:00:54.56,Default,,0,0,0,,ตาบนเหลือตา
+Dialogue: 0,0:00:54.56,0:00:55.16,Default,,0,0,0,,บน
+Dialogue: 0,0:00:55.38,0:00:55.98,Default,,0,0,0,,เนิร์ด
+Dialogue: 0,0:01:19.38,0:01:19.98,Default,,0,0,0,,เออ
+Dialogue: 0,0:01:20.04,0:01:21.47,Default,,0,0,0,,ถ้า
+Dialogue: 0,0:01:22.52,0:01:23.12,Default,,0,0,0,,เนิร์ดไม่ตายเรา
+Dialogue: 0,0:01:23.12,0:01:24.02,Default,,0,0,0,,ต้องไม่ตายเว้ย
+Dialogue: 0,0:01:24.02,0:01:25.37,Default,,0,0,0,,ไอ้
+Dialogue: 0,0:01:27.08,0:01:28.16,Default,,0,0,0,,เฮียหิวสู้แม่
+Dialogue: 0,0:01:28.16,0:01:28.76,Default,,0,0,0,,งเลยไอ้เฮีย
+Dialogue: 0,0:01:28.82,0:01:29.64,Default,,0,0,0,,มันยังไม่ทัน
+Dialogue: 0,0:01:29.64,0:01:30.48,Default,,0,0,0,,ได้กินยาเลย
+Dialogue: 0,0:01:30.48,0:01:31.70,Default,,0,0,0,,เนิร์ดเป็น mbc ที่
+Dialogue: 0,0:01:31.70,0:01:32.52,Default,,0,0,0,,ถึงที่สุดในเกม
+Dialogue: 0,0:01:32.52,0:01:34.00,Default,,0,0,0,,ไม่แต่ว่า
+Dialogue: 0,0:01:34.00,0:01:35.04,Default,,0,0,0,,เอ่อไม่แน่ใจ
+Dialogue: 0,0:01:35.04,0:01:36.32,Default,,0,0,0,,เลเซอร์เลเซอร์
+Dialogue: 0,0:01:36.32,0:01:37.36,Default,,0,0,0,,ไม่รู้ว่าติด
+Dialogue: 0,0:01:37.36,0:01:38.30,Default,,0,0,0,,เคติดหรือ
+Dialogue: 0,0:01:38.30,0:01:39.08,Default,,0,0,0,,เลเซอร์แม่งไม่
+Dialogue: 0,0:01:39.08,0:01:39.73,Default,,0,0,0,,โดนไม่โดนไม่
+Dialogue: 0,0:01:39.73,0:01:40.00,Default,,0,0,0,,โดนสัตว์บริ

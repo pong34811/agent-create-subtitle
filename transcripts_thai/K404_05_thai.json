@@ -1,0 +1,100 @@
+{
+  "timeline_index": 5,
+  "timeline_name": "K404_05_MC002_เห็นแร่จนสงสัยว่าตัวเองมี X-ray",
+  "source_path": "G:\\My Drive\\Projects\\Katy404\\2026-09-29\\【🔴 LIVE】Minecraft - 002  ｜ 14⧸09⧸2569 ｜ #katy404live.mp4",
+  "duration_seconds": 44.0,
+  "model": "bjak/distill-whisper-th-large-v3",
+  "language": "th",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.12,
+      "text": "เนี่ยทางแม่งแบบ",
+      "window_start": 0.0
+    },
+    {
+      "start": 5.12,
+      "end": 6.42,
+      "text": "เฮ้ยรูบี้นี่ว่ะ",
+      "window_start": 0.0
+    },
+    {
+      "start": 6.42,
+      "end": 6.98,
+      "text": "อุ๊ยเชียเพชร",
+      "window_start": 0.0
+    },
+    {
+      "start": 6.98,
+      "end": 9.54,
+      "text": "เอ้า",
+      "window_start": 0.0
+    },
+    {
+      "start": 9.54,
+      "end": 10.9,
+      "text": "เชียเอ็กเรย์เป้าหนี่",
+      "window_start": 0.0
+    },
+    {
+      "start": 10.9,
+      "end": 12.0,
+      "text": "เฮ้ยคุณดูคุณดูดูนะ",
+      "window_start": 0.0
+    },
+    {
+      "start": 12.0,
+      "end": 16.16,
+      "text": "เชียแม่งเอ็กเรย์แน่เลยเมื่อกี้แม่งผีหล่องวิยาโรน",
+      "window_start": 0.0
+    },
+    {
+      "start": 16.16,
+      "end": 19.38,
+      "text": "นี่ดูนะเอ็กเรีย์ปลอมนะ",
+      "window_start": 0.0
+    },
+    {
+      "start": 19.38,
+      "end": 20.16,
+      "text": "นี่ดูดิดูดิ",
+      "window_start": 0.0
+    },
+    {
+      "start": 24.0,
+      "end": 28.14,
+      "text": "กับการลงดันจนเคสามารถเห็นเห็นเห็นเห็นเห็นแร่ได้แล้วเอาคนดูคั่วเฮี้ยเลย",
+      "window_start": 24.0
+    },
+    {
+      "start": 28.14,
+      "end": 33.34,
+      "text": "เสิร์ฟแหลกมันอย่างแรก",
+      "window_start": 24.0
+    },
+    {
+      "start": 33.34,
+      "end": 36.16,
+      "text": "เสิร์ฟแหลกแรกพี่เขาเรียกว่าเซิร์ฟหล่อน",
+      "window_start": 24.0
+    },
+    {
+      "start": 36.16,
+      "end": 40.72,
+      "text": "ผมอยากให้พี่ประดุสตรีผมบ้าเลยเว้ย",
+      "window_start": 24.0
+    },
+    {
+      "start": 40.72,
+      "end": 42.28,
+      "text": "อ่า",
+      "window_start": 24.0
+    },
+    {
+      "start": 42.28,
+      "end": 43.34,
+      "text": "เดี๋ยวพูดมา",
+      "window_start": 24.0
+    }
+  ]
+}

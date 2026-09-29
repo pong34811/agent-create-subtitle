@@ -1,0 +1,79 @@
+﻿[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Mitr,66,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,100,100,185,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.55,0:00:01.59,Default,,0,0,0,,ฮะอาทิตย์
+Dialogue: 0,0:00:01.59,0:00:02.31,Default,,0,0,0,,อาทิตย์มีไม่มี
+Dialogue: 0,0:00:02.31,0:00:02.91,Default,,0,0,0,,ข้าวหมดให้
+Dialogue: 0,0:00:03.18,0:00:04.78,Default,,0,0,0,,อ๋อต้อง
+Dialogue: 0,0:00:04.78,0:00:05.64,Default,,0,0,0,,เป็นต้องเป็นอีก
+Dialogue: 0,0:00:05.64,0:00:06.24,Default,,0,0,0,,อีกแบบนึง
+Dialogue: 0,0:00:06.24,0:00:06.84,Default,,0,0,0,,เดี๋ยวนะผมขอ
+Dialogue: 0,0:00:06.84,0:00:07.44,Default,,0,0,0,,ลองหน่อยได้ไหม
+Dialogue: 0,0:00:07.44,0:00:08.04,Default,,0,0,0,,ผมอยากรู้ผมผม
+Dialogue: 0,0:00:08.04,0:00:08.64,Default,,0,0,0,,ไม่ได้แจว่า
+Dialogue: 0,0:00:08.64,0:00:09.24,Default,,0,0,0,,ถ้าประสงค์ภัณฑ์อื่น
+Dialogue: 0,0:00:09.24,0:00:09.84,Default,,0,0,0,,ใช้วิธีนี้ไหม
+Dialogue: 0,0:00:11.57,0:00:12.75,Default,,0,0,0,,อ้าวไอ้
+Dialogue: 0,0:00:12.75,0:00:13.35,Default,,0,0,0,,มาขโมยมันไป
+Dialogue: 0,0:00:13.35,0:00:13.95,Default,,0,0,0,,แล้วพี่
+Dialogue: 0,0:00:13.95,0:00:14.92,Default,,0,0,0,,อ่า
+Dialogue: 0,0:00:16.21,0:00:17.15,Default,,0,0,0,,อ่าให้อาหารมันเหลือ
+Dialogue: 0,0:00:17.15,0:00:18.05,Default,,0,0,0,,มันอื่นแล้วอันนี้
+Dialogue: 0,0:00:18.05,0:00:19.40,Default,,0,0,0,,ไอ้
+Dialogue: 0,0:00:38.59,0:00:40.02,Default,,0,0,0,,มัน
+Dialogue: 0,0:00:42.00,0:00:42.90,Default,,0,0,0,,ที่พวกมีเกียร์
+Dialogue: 0,0:00:42.90,0:00:43.66,Default,,0,0,0,,อยู่ในบ้านสาม
+Dialogue: 0,0:00:43.66,0:00:44.44,Default,,0,0,0,,เกียร์มันก็
+Dialogue: 0,0:00:44.44,0:00:45.40,Default,,0,0,0,,มันต้องมาซ้อน
+Dialogue: 0,0:00:45.40,0:00:46.28,Default,,0,0,0,,กันไหมว่าคนดู
+Dialogue: 0,0:00:46.28,0:00:47.48,Default,,0,0,0,,How to How to
+Dialogue: 0,0:00:47.48,0:00:48.50,Default,,0,0,0,,How to เพิ่มประชา
+Dialogue: 0,0:00:48.52,0:00:49.76,Default,,0,0,0,,หรือว่าคลิกขวาว่า
+Dialogue: 0,0:00:49.76,0:00:50.36,Default,,0,0,0,,ขอร้องหน่อย
+Dialogue: 0,0:00:50.36,0:00:51.53,Default,,0,0,0,,มัน
+Dialogue: 0,0:00:53.92,0:00:54.60,Default,,0,0,0,,ไม่ใช่ว่าซ่อม
+Dialogue: 0,0:00:54.60,0:00:55.32,Default,,0,0,0,,หม่อยมันไป
+Dialogue: 0,0:00:55.32,0:00:56.54,Default,,0,0,0,,ตามประชาธรรมหรอ
+Dialogue: 0,0:00:56.54,0:00:57.66,Default,,0,0,0,,หรือห้อยนี่ทะเล
+Dialogue: 0,0:00:57.66,0:00:58.26,Default,,0,0,0,,น่ะอืม
+Dialogue: 0,0:00:58.26,0:00:59.57,Default,,0,0,0,,มึง
+Dialogue: 0,0:01:03.64,0:01:04.24,Default,,0,0,0,,ไม่รักกันเลย
+Dialogue: 0,0:01:04.24,0:01:04.84,Default,,0,0,0,,เหรอไอ้เหี้ยมี
+Dialogue: 0,0:01:04.84,0:01:05.50,Default,,0,0,0,,แต่รักขโมยแม่
+Dialogue: 0,0:01:05.50,0:01:06.14,Default,,0,0,0,,งนมปังไอ้
+Dialogue: 0,0:01:06.14,0:01:07.49,Default,,0,0,0,,เหี้ย
+Dialogue: 0,0:01:21.23,0:01:21.97,Default,,0,0,0,,เดี๋ยวผมไปเอา
+Dialogue: 0,0:01:21.97,0:01:22.57,Default,,0,0,0,,ถังน้ําก่อน
+Dialogue: 0,0:01:22.57,0:01:23.84,Default,,0,0,0,,เหี้ย
+Dialogue: 0,0:01:26.47,0:01:28.26,Default,,0,0,0,,แรงงานเดี๋ยว
+Dialogue: 0,0:01:32.13,0:01:33.13,Default,,0,0,0,,เหล็กเผาเผาทิ้ง
+Dialogue: 0,0:01:33.13,0:01:33.73,Default,,0,0,0,,ด้วยก่อน
+Dialogue: 0,0:01:33.73,0:01:34.64,Default,,0,0,0,,ให้อาหาร
+Dialogue: 0,0:01:35.07,0:01:35.99,Default,,0,0,0,,มีเตียงไม่รู้
+Dialogue: 0,0:01:35.99,0:01:36.65,Default,,0,0,0,,ใช้กี่อัน
+Dialogue: 0,0:01:36.65,0:01:37.90,Default,,0,0,0,,ให้อาหารมี
+Dialogue: 0,0:01:37.90,0:01:38.50,Default,,0,0,0,,เตียงไม่รู้
+Dialogue: 0,0:01:38.50,0:01:39.52,Default,,0,0,0,,กี่อันเอาได้
+Dialogue: 0,0:01:39.52,0:01:40.24,Default,,0,0,0,,ครับคุณดูขอบคุณ
+Dialogue: 0,0:01:40.24,0:01:41.22,Default,,0,0,0,,ครับเดี๋ยวเดี๋ยวเดี๋ยว
+Dialogue: 0,0:01:41.22,0:01:41.82,Default,,0,0,0,,ไปลองน่ะ
+Dialogue: 0,0:01:46.04,0:01:46.64,Default,,0,0,0,,เดี๋ยวนะ
+Dialogue: 0,0:01:46.64,0:01:47.89,Default,,0,0,0,,ต้อง
+Dialogue: 0,0:01:48.50,0:01:49.68,Default,,0,0,0,,ต้องใช้ต้องใช้
+Dialogue: 0,0:01:49.68,0:01:50.70,Default,,0,0,0,,ต้องใช้พั่วด้วย
+Dialogue: 0,0:01:50.70,0:01:52.05,Default,,0,0,0,,ใช้
+Dialogue: 0,0:01:55.86,0:01:57.29,Default,,0,0,0,,ที่อยู่
+Dialogue: 0,0:01:58.25,0:01:58.85,Default,,0,0,0,,ค่ะ
+Dialogue: 0,0:01:59.36,0:02:00.60,Default,,0,0,0,,อันนี้เอาไว้แคม
+Dialogue: 0,0:02:00.60,0:02:01.66,Default,,0,0,0,,มาวางนิ่มเพิ่ม
+Dialogue: 0,0:02:01.66,0:02:02.00,Default,,0,0,0,,กันเลย

@@ -1,0 +1,67 @@
+﻿[Script Info]
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 2
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Mitr,66,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,4,0,2,100,100,185,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:01.32,0:00:02.26,Default,,0,0,0,,ก็ไม่ได้
+Dialogue: 0,0:00:02.26,0:00:03.42,Default,,0,0,0,,ขนาดนั้นไง
+Dialogue: 0,0:00:03.42,0:00:04.52,Default,,0,0,0,,รัฟฟี่ระวังไม่
+Dialogue: 0,0:00:04.52,0:00:05.12,Default,,0,0,0,,ได้อยู่
+Dialogue: 0,0:00:06.59,0:00:08.02,Default,,0,0,0,,อยู่
+Dialogue: 0,0:00:08.10,0:00:09.34,Default,,0,0,0,,อยู่กับเคทาง
+Dialogue: 0,0:00:09.34,0:00:09.94,Default,,0,0,0,,ด้านขวา
+Dialogue: 0,0:00:09.94,0:00:10.54,Default,,0,0,0,,คุณหมอกผม
+Dialogue: 0,0:00:12.38,0:00:13.10,Default,,0,0,0,,ยิงสูงอยู่
+Dialogue: 0,0:00:13.10,0:00:14.51,Default,,0,0,0,,อ้าว
+Dialogue: 0,0:00:16.03,0:00:17.23,Default,,0,0,0,,คุณหมอกช่วยด้วยตี
+Dialogue: 0,0:00:17.23,0:00:18.25,Default,,0,0,0,,ดตีดตี
+Dialogue: 0,0:00:18.25,0:00:18.85,Default,,0,0,0,,ดตีด
+Dialogue: 0,0:00:18.85,0:00:19.45,Default,,0,0,0,,ตีด
+Dialogue: 0,0:00:19.45,0:00:20.75,Default,,0,0,0,,ไอเย้ย
+Dialogue: 0,0:00:20.75,0:00:21.79,Default,,0,0,0,,ลงไป
+Dialogue: 0,0:00:21.79,0:00:22.43,Default,,0,0,0,,ลงมาแม่งอยู่
+Dialogue: 0,0:00:22.43,0:00:23.35,Default,,0,0,0,,ข้างใต้เค
+Dialogue: 0,0:00:24.50,0:00:25.34,Default,,0,0,0,,พากับบ้านน่ะ
+Dialogue: 0,0:00:25.34,0:00:26.69,Default,,0,0,0,,ไม่
+Dialogue: 0,0:00:27.20,0:00:27.80,Default,,0,0,0,,ไม่ไม่
+Dialogue: 0,0:00:27.80,0:00:28.50,Default,,0,0,0,,ไม่ไม่ไม่อย่า
+Dialogue: 0,0:00:28.50,0:00:29.50,Default,,0,0,0,,ออกจากเขตนี้ได้
+Dialogue: 0,0:00:29.50,0:00:30.22,Default,,0,0,0,,ได้ได้ถ้าออก
+Dialogue: 0,0:00:30.22,0:00:30.82,Default,,0,0,0,,แล้วมันจะ
+Dialogue: 0,0:00:30.82,0:00:31.87,Default,,0,0,0,,ขั้ง
+Dialogue: 0,0:00:45.41,0:00:46.31,Default,,0,0,0,,แล้วอ่ะเขตไม่
+Dialogue: 0,0:00:46.31,0:00:47.13,Default,,0,0,0,,คั่งเนี้ยดูย่า
+Dialogue: 0,0:00:47.13,0:00:48.13,Default,,0,0,0,,ครับย่าย่าฟ้า
+Dialogue: 0,0:00:48.17,0:00:48.77,Default,,0,0,0,,ย่าฟ้า
+Dialogue: 0,0:00:48.77,0:00:49.98,Default,,0,0,0,,ดู
+Dialogue: 0,0:00:50.13,0:00:50.73,Default,,0,0,0,,ข้างหลัง
+Dialogue: 0,0:00:50.73,0:00:51.33,Default,,0,0,0,,ดูข้างหลัง
+Dialogue: 0,0:00:52.90,0:00:54.33,Default,,0,0,0,,มัน
+Dialogue: 0,0:00:54.96,0:00:55.70,Default,,0,0,0,,จะเป็นเหตุอ่ะ
+Dialogue: 0,0:00:55.70,0:00:57.40,Default,,0,0,0,,ใช่ไหมเหตุ
+Dialogue: 0,0:00:57.40,0:00:58.00,Default,,0,0,0,,ไหมไม่ใช่
+Dialogue: 0,0:00:58.00,0:00:59.03,Default,,0,0,0,,ไม่ใช่
+Dialogue: 0,0:00:59.03,0:00:59.63,Default,,0,0,0,,เหตุ
+Dialogue: 0,0:00:59.63,0:01:00.23,Default,,0,0,0,,ดูแหม่มให้หน่อย
+Dialogue: 0,0:01:00.23,0:01:01.64,Default,,0,0,0,,ดิไหน
+Dialogue: 0,0:01:01.65,0:01:02.25,Default,,0,0,0,,คุณเคยอยู่ไหน
+Dialogue: 0,0:01:02.25,0:01:03.29,Default,,0,0,0,,นั่นอยู่
+Dialogue: 0,0:01:03.29,0:01:04.13,Default,,0,0,0,,ขวาอ่ะคุณเคย
+Dialogue: 0,0:01:04.13,0:01:04.73,Default,,0,0,0,,ไป
+Dialogue: 0,0:01:04.73,0:01:05.33,Default,,0,0,0,,คุณเคยไปไกล
+Dialogue: 0,0:01:05.33,0:01:05.93,Default,,0,0,0,,แล้วคุณเคยไป
+Dialogue: 0,0:01:05.93,0:01:06.53,Default,,0,0,0,,ไกลแล้วกลับมาใช่
+Dialogue: 0,0:01:06.53,0:01:07.19,Default,,0,0,0,,ก็เลยเนี้ยรอ
+Dialogue: 0,0:01:07.19,0:01:08.70,Default,,0,0,0,,อยู่เนี้ย
+Dialogue: 0,0:01:25.34,0:01:26.61,Default,,0,0,0,,แม่งก็
+Dialogue: 0,0:01:26.61,0:01:27.81,Default,,0,0,0,,เคล่ายไป
+Dialogue: 0,0:01:27.81,0:01:28.71,Default,,0,0,0,,จนถึงนู่นอ่ะไป
+Dialogue: 0,0:01:28.71,0:01:29.31,Default,,0,0,0,,อุ้มเห็ดอ่ะ
