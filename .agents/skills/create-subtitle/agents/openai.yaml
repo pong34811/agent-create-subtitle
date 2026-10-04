@@ -1,0 +1,4 @@
+interface:
+  display_name: "Create Subtitle"
+  short_description: "Create Thai SRT and ASS captions from project clips"
+  default_prompt: "Use $create-subtitle to generate Thai SRT and ASS subtitles for the selected video or timeline clips in this project."

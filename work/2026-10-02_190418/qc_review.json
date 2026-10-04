@@ -1,0 +1,14 @@
+{
+  "count": 72,
+  "average_duration": 1.012962962962963,
+  "minimum_duration": 0.44999999999999574,
+  "maximum_duration": 2.1166666666666742,
+  "overlaps": 0,
+  "timeline_fps": 60,
+  "timeline_end_frame": 6227,
+  "pending_review": [
+    "56-59 seconds: conjunction before follow request",
+    "85-87 seconds: brief word after follow request"
+  ],
+  "method": "Independent ASR comparison, user name/sentence corrections, audio forced alignment and VAD repairs; not a completed human listening review."
+}
