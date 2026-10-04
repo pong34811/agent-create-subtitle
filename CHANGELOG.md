@@ -1,5 +1,14 @@
 # Changelog
 
+## v0.2.0
+
+Add project skill, AGENTS.md, and local transcript work.
+
+### Added
+- `.agents/skills/create-subtitle/`: project-specific subtitle workflow skill with agents config
+- `AGENTS.md`: repository guidelines at root
+- `work/2026-10-02_190418/`: local transcript work folder (Soul Walker 005) with aligned captions, review assets, DRIs, and UI state snapshots
+
 ## v0.1.0
 
 First versioned release of the Thai subtitle creation pipeline.
