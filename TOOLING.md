@@ -60,21 +60,30 @@
 
 ---
 
-## 5. Providers (ตรวจสดทั้งหมด)
+## 5. Providers
 
-| ผู้ให้บริการ | การเชื่อมต่อ | ใช้ถอดเสียงไทยได้? |
-|---|---|---|
-| **Google Gemini API** | HTTP 200 | **ได้ — ตัวหลักของงานนี้** |
-| OpenRouter | HTTP 200 | ไม่ได้ (free ไม่มี audio / ต้องมี $0.50) |
-| Ollama Cloud | HTTP 200 | ไม่ได้ (API ไม่รับเสียง) |
-| Groq | HTTP 200 | ได้แต่คุณภาพแย่ (ไทยอ่านไม่ออก) |
-| opencode zen | HTTP 200 | ไม่ได้ (free ล็อกเฉพาะในแอป OpenCode) |
-| FreeLLMAPI (`127.0.0.1:31415`) | HTTP 401 | ไม่ได้ (เซิร์ฟเวอร์ไม่ได้รัน/คีย์หมดอายุ) |
-| Hermes/Nous proxy | ลบแล้วตามคำสั่งผู้ใช้ | — |
+**เหลือ Google (Gemini API) ตัวเดียว** — เป็นผู้ให้บริการเดียวที่ใช้อยู่ในงานนี้
 
-**คีย์ที่เก็บไว้:** `C:\Users\warit\AppData\Local\hermes\cache\scratch\aomimama-secrets\`
-(ย้ายออกจาก repo เพื่อไม่ให้คีย์หลุดเข้า git)
-- `GEMINI_API_KEY` อยู่ใน `%LOCALAPPDATA%\hermes\.env` (ตัวที่ใช้งานจริง)
+| ผู้ให้บริการ | สถานะ |
+|---|---|
+| **Google Gemini API** | **ใช้งานอยู่ — ตัวเดียวของงานนี้** |
+
+คีย์เก็บที่ `%LOCALAPPDATA%\hermes\.env` ชื่อ `GEMINI_API_KEY` เท่านั้น
+
+### ผู้ให้บริการที่ทดสอบแล้วใช้ไม่ได้ (ลบออกหมดแล้ว)
+
+เก็บไว้เป็นบันทึกว่า **อย่าเสียเวลาลองซ้ำ** เพราะแต่ละตัวมีเหตุผลเชิงโครงสร้าง ไม่ใช่ปัญหาชั่วคราว:
+
+| ผู้ให้บริการ | เหตุผลที่ใช้ไม่ได้ |
+|---|---|
+| OpenRouter | free tier ไม่มีโมเดลรับเสียงจริง (403 "agentic harnesses only"); ตัวที่รับได้ต้องมีเครดิตขั้นต่ำ $0.50 |
+| Ollama Cloud | API ไม่มีช่องรับเสียง — ทุกโมเดลตอบ "ฉันไม่ได้ยินเสียง" |
+| Groq | รับเสียงได้ แต่คุณภาพไทยแย่มาก ("ฮัลโหล" → "เหลื่อการพังสะพาน") |
+| opencode zen | free tier ล็อกให้ใช้ได้เฉพาะในแอป OpenCode (403) |
+| FreeLLMAPI | เสียงไม่ถึงโมเดล (แนบได้แต่โมเดลไม่เห็น) |
+| Hermes/Nous proxy | ลบตามคำสั่งผู้ใช้ |
+
+คีย์ของทุกตัวข้างบน **ถูกลบออกจากเครื่องแล้ว** ทั้งใน `.env` และไฟล์ชั่วคราว
 
 ---
 
@@ -87,13 +96,10 @@
 | `scripts/build_gemini_cues.py` | สร้าง cue + SRT จาก transcript | **venv** (pythainlp) |
 | `scripts/import_subtitles_resolve.py` | นำ SRT เข้า Resolve + ตรวจอ่านกลับ | **`py -3.12`** สำหรับ `--apply` |
 | `scripts/compare_asr_v2.py` | เทียบคุณภาพโมเดล | 3.14 |
-| `scripts/gemini_batch_transcribe.py` | ถอดผ่าน Nous proxy (เลิกใช้แล้ว) | — |
-| `scripts/compare_asr_models.py` | เทียบโมเดลรอบแรก (เลิกใช้) | — |
-| `scripts/debug_timeline2_reply.py` | debug คำตอบดิบ (เลิกใช้) | — |
 
-**สคริปต์สกิล (ไม่ได้อยู่ใน repo):**
-`.agents/skills/resolve-mitr-subtitle-presets/scripts/load_subtitle_preset.py` — ใส่สไตล์ Mitr Font
-(ใช้ `py -3.12`, ปิด/เปิดโปรเจกต์ + เขียน SQLite, ใช้เวลานานกว่า 420s → รันใน background)
+**สคริปต์ที่เลิกใช้แล้ว** (เก็บไว้เป็นประวัติการทดลอง provider — ไม่ต้องรัน):
+`scripts/gemini_batch_transcribe.py` (Nous proxy), `scripts/compare_asr_models.py`,
+`scripts/debug_timeline2_reply.py`
 
 ---
 
