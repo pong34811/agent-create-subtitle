@@ -95,11 +95,25 @@
 | `scripts/transcribe_chunked.py` | ถอดไฟล์ยาวเป็นท่อน (กัน timestamp เพี้ยน) | 3.14 หรือ venv |
 | `scripts/build_gemini_cues.py` | สร้าง cue + SRT จาก transcript | **venv** (pythainlp) |
 | `scripts/import_subtitles_resolve.py` | นำ SRT เข้า Resolve + ตรวจอ่านกลับ | **`py -3.12`** สำหรับ `--apply` |
-| `scripts/compare_asr_v2.py` | เทียบคุณภาพโมเดล | 3.14 |
-
+| `scripts/compare_asr_v2.py` | เทียบคุณภาพโมเดล (ใช้ตอบคำถาม "โมเดลไหนดีสุด") | 3.14 |
+| `scripts/aomimama_caption_core.py` | ตัวแบ่งวลี + ตรวจความถูกต้องของ cue (ไลบรารี) | **venv** |
+| `scripts/aomimama_asr.py` | ตัวเรียก ASR + ตรวจคุณภาพ transcript (ไลบรารี) | **venv** |
+| `.agents/skills/resolve-mitr-subtitle-presets/scripts/load_subtitle_preset.py` | ใส่สไตล์ Mitr Font ให้ subtitle track | **`py -3.12`** |
 **สคริปต์ที่เลิกใช้แล้ว** (เก็บไว้เป็นประวัติการทดลอง provider — ไม่ต้องรัน):
 `scripts/gemini_batch_transcribe.py` (Nous proxy), `scripts/compare_asr_models.py`,
 `scripts/debug_timeline2_reply.py`
+
+### สคริปต์ไลบรารี (`aomimama_*`)
+
+สองไฟล์นี้เป็นไลบรารีที่ทดสอบแล้ว 25 เทสต์ ไม่ได้รันตรง ๆ จากบรรทัดคำสั่ง
+แต่เป็นตรรกะที่ผ่านการรีวิวแล้วสำหรับแบ่งวลีและตรวจคุณภาพ transcript
+ปัจจุบันท่อหลักใช้ `build_gemini_cues.py` — ไฟล์เหล่านี้เก็บไว้เป็นฐานอ้างอิง
+ถ้าต้องแก้ตรรกะการแบ่งวลีควรย้ายมาใช้ตัวนี้
+
+```bash
+# รันเทสต์ของไลบรารีคู่นี้โดยเฉพาะ
+./.venv-aomimama/Scripts/python.exe -m pytest tests/test_aomimama_asr.py tests/test_aomimama_captions.py -q
+```
 
 ---
 
@@ -109,7 +123,13 @@
 ./.venv-aomimama/Scripts/python.exe -m pytest tests/ -q
 ```
 
-ผลล่าสุด: **7 passed** (`tests/test_import_subtitles.py`)
+ผลล่าสุด: **32 passed**
+
+| ไฟล์เทสต์ | จำนวน | ทดสอบอะไร |
+|---|---|---|
+| `tests/test_import_subtitles.py` | 7 | อ่าน SRT, วางแผน import, ไม่มี cue เกินความยาวไทม์ไลน์ |
+| `tests/test_aomimama_asr.py` | 12 | ตรวจคุณภาพ transcript |
+| `tests/test_aomimama_captions.py` | 13 | แบ่งวลี + ความถูกต้องของ cue |
 
 ---
 
