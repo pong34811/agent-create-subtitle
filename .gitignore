@@ -13,6 +13,16 @@ venv/
 *.mkv
 *.avi
 
+# Rendered audio (ASR intermediates; regenerate with the pipeline scripts)
+*.wav
+*.mp3
+*.m4a
+*.flac
+
+# ASR run artifacts: rendered audio and Resolve project backups
+runs/*/audio/
+runs/*/backups/
+
 # OS files
 .DS_Store
 Thumbs.db
