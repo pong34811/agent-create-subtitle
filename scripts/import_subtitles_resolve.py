@@ -65,20 +65,39 @@ def plan_import(rows, live_track_counts, replace):
 
 
 def connect():
-    """Return (resolve, project, media_pool) using Resolve's own bridge."""
+    """Return (resolve, project, media_pool) using Resolve's own bridge.
+
+    Must run under a Python that Resolve's fusionscript.dll accepts: verified with
+    `py -3.12`. The pythainlp venv (.venv-aomimama, 3.11) cannot load it, which is
+    why the dry-run half of this script works there but --apply does not.
+
+    scriptapp() intermittently returns None on a cold connection, so retry.
+    """
     import os
+    import sys
+    import time
     api = r'C:\ProgramData\Blackmagic Design\DaVinci Resolve\Support\Developer\Scripting'
     lib = r'C:\Program Files\Blackmagic Design\DaVinci Resolve'
     os.environ['RESOLVE_SCRIPT_API'] = api
     os.environ['RESOLVE_SCRIPT_LIB'] = lib + r'\fusionscript.dll'
-    os.environ['PYTHONPATH'] = os.environ.get('PYTHONPATH', '') + ';' + api + r'\Modules'
+    sys.path.insert(0, api + r'\Modules')
     if hasattr(os, 'add_dll_directory'):
         os.add_dll_directory(lib)
     import DaVinciResolveScript as dvr
-    resolve = dvr.scriptapp('Resolve')
+    resolve = None
+    for attempt in range(10):
+        resolve = dvr.scriptapp('Resolve')
+        if resolve:
+            break
+        print(f'  scriptapp returned None; retry {attempt + 1}/10', flush=True)
+        time.sleep(5)
     if resolve is None:
         raise SystemExit('cannot reach Resolve — is it running with scripting enabled?')
     project = resolve.GetProjectManager().GetCurrentProject()
+    if project is None or project.GetName() == 'Untitled Project':
+        raise SystemExit(
+            f"wrong project open: {project.GetName() if project else None!r}. "
+            'Open aomimama-2026-09-p1 in Resolve before running --apply.')
     return resolve, project, project.GetMediaPool()
 
 
@@ -112,8 +131,18 @@ def readback(tl, fps):
 
 
 def import_one(project, media_pool, tl, srt_path, fps, replace):
-    """Import one SRT into the timeline's subtitle track. Returns a result dict."""
+    """Import one SRT into the timeline's subtitle track. Returns a result dict.
+
+    The target timeline MUST be made current first: AddTrack and AppendToTimeline
+    both act on the ACTIVE timeline, not on the object you called them through.
+    Verified on 21.1.0.17 — without SetCurrentTimeline the track is added to
+    whichever timeline happens to be active and the append lands nowhere.
+    """
     target = str(srt_path)
+    if not project.SetCurrentTimeline(tl):
+        return {'ok': False, 'error': 'SetCurrentTimeline failed'}
+    tl = project.GetCurrentTimeline()
+
     if replace:
         for idx in range(tl.GetTrackCount('subtitle'), 0, -1):
             tl.DeleteTrack('subtitle', idx)
