@@ -1,0 +1,131 @@
+{
+  "timeline_id": "48ebe6cc-2063-4388-9e97-1740506c55f0",
+  "timeline_name": "เสียงร้องโอ๊ยๆ-League of Legends-vdo",
+  "approved": false,
+  "source_model": "gemini-2.5-flash",
+  "duration_seconds": 79.51666666666667,
+  "cues": [
+    {
+      "start": 10.5,
+      "end": 13.5,
+      "text": "An ally has been slain.",
+      "source_segment": 10.5,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 16.4,
+      "end": 17.5,
+      "text": "An ally has been slain.",
+      "source_segment": 16.4,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 21.2,
+      "end": 21.7,
+      "text": "Look out!",
+      "source_segment": 21.2,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 23.4,
+      "end": 24.45,
+      "text": "นี่มันโดนหนึ่ง",
+      "source_segment": 23.4,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 24.5,
+      "end": 25.45,
+      "text": "[ฟังไม่ชัด]",
+      "source_segment": 24.5,
+      "gemini_uncertain": true,
+      "flags": []
+    },
+    {
+      "start": 25.5,
+      "end": 26.5,
+      "text": "โคตรแย่เลย",
+      "source_segment": 25.5,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 28.5,
+      "end": 29.5,
+      "text": "An enemy has been slain.",
+      "source_segment": 28.5,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 31.5,
+      "end": 33.0,
+      "text": "ไอ้กูแม่งสูงนี่พอดี",
+      "source_segment": 31.5,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 33.5,
+      "end": 35.5,
+      "text": "แม่งโคตรโดนหลบเลยโคตรแย่เลย",
+      "source_segment": 33.5,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 36.7,
+      "end": 39.163,
+      "text": "Some lessons cannot be passed from",
+      "source_segment": 36.7,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 39.163,
+      "end": 40.5,
+      "text": "teacher to student.",
+      "source_segment": 36.7,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 40.8,
+      "end": 42.5,
+      "text": "They must be experienced.",
+      "source_segment": 40.8,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 50.5,
+      "end": 53.5,
+      "text": "An ally has been slain.",
+      "source_segment": 50.5,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 62.5,
+      "end": 64.0,
+      "text": "Feel that power.",
+      "source_segment": 62.5,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 66.5,
+      "end": 68.0,
+      "text": "An ally has been slain.",
+      "source_segment": 66.5,
+      "gemini_uncertain": false,
+      "flags": []
+    }
+  ],
+  "qc_required": true,
+  "status": "unreviewed_draft"
+}

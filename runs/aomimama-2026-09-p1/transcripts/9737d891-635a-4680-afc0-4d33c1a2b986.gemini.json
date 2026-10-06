@@ -1,0 +1,105 @@
+{
+  "metadata": {
+    "model": "gemini-2.5-flash",
+    "route": "google-generativeai-direct",
+    "timeline_index": 22,
+    "timeline_id": "9737d891-635a-4680-afc0-4d33c1a2b986",
+    "timeline_name": "ลุยฐานใต้ดิน เข้าได้สองทาง-alien shooter 2-vdo",
+    "expected_duration_seconds": 85.0,
+    "prompt_token_count": 2914
+  },
+  "duration_seconds": 85.0,
+  "gemini": {
+    "audio_available": true,
+    "duration_seconds": 84.5,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "to the base, but the entrance gate is blocked.",
+        "uncertain": false
+      },
+      {
+        "start": 3.2,
+        "end": 7.6,
+        "text": "The magma team that was here earlier operated from a garage back off the main road behind you.",
+        "uncertain": false
+      },
+      {
+        "start": 8.3,
+        "end": 10.6,
+        "text": "They told me they left a cache of dynamite there.",
+        "uncertain": false
+      },
+      {
+        "start": 14.2,
+        "end": 16.0,
+        "text": "มัน มี 2 ทาง หรอ",
+        "uncertain": false
+      },
+      {
+        "start": 16.4,
+        "end": 17.0,
+        "text": "หา จริง",
+        "uncertain": false
+      },
+      {
+        "start": 18.4,
+        "end": 20.4,
+        "text": "จริง จัง เลย พ่อ นี่ ครับ อัน นี้",
+        "uncertain": false
+      },
+      {
+        "start": 42.5,
+        "end": 45.5,
+        "text": "มัน รู อะไร คือ ถ้า เรา เข้า ไป แล้ว มัน ทาง ตัน หมด เลย นะ",
+        "uncertain": false
+      },
+      {
+        "start": 46.3,
+        "end": 47.0,
+        "text": "เข้า ไป เลย มั้ย",
+        "uncertain": false
+      },
+      {
+        "start": 47.6,
+        "end": 49.5,
+        "text": "มัน ต้อง มัน ต้อง ตัก ขึ้น มา ได้",
+        "uncertain": false
+      },
+      {
+        "start": 50.0,
+        "end": 50.5,
+        "text": "ไม่ ได้",
+        "uncertain": false
+      },
+      {
+        "start": 52.0,
+        "end": 53.7,
+        "text": "ไม่ ได้ ไม่ ได้ ถ้า เข้า ก็ เข้า เลย",
+        "uncertain": false
+      },
+      {
+        "start": 57.7,
+        "end": 59.0,
+        "text": "หัว เข้า ได้ 2 ทาง",
+        "uncertain": false
+      },
+      {
+        "start": 60.7,
+        "end": 62.4,
+        "text": "โอเค โอเค โอเค โอเค",
+        "uncertain": false
+      },
+      {
+        "start": 65.8,
+        "end": 69.0,
+        "text": "ถ้า ขอ สํารวจ ให้ ทั่ว ก่อน แล้ว ค่อย ไป นะ คะ",
+        "uncertain": false
+      }
+    ],
+    "timing_measurement": "seconds",
+    "uncertainties": [],
+    "segment_count": 14
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "model": "gemini-3.1-flash-lite",
+  "index": 23,
+  "seconds": 7.3,
+  "expected": 110.0,
+  "summary": {
+    "duration": 150,
+    "segments": 1,
+    "timing": "seconds",
+    "text": "เฮ้ย ยิงไล่หมาหรอเนี่ย เพื่อนมันนินด่วนเนี่ย",
+    "chars": 44,
+    "uncertain": 0
+  }
+}

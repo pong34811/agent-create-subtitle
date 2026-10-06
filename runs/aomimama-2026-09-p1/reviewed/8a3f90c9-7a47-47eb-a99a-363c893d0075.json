@@ -1,0 +1,213 @@
+{
+  "approved": false,
+  "metadata": {
+    "schema_version": 1,
+    "project": "aomimama-2026-09-p1",
+    "timeline": {
+      "index": 3,
+      "id": "8a3f90c9-7a47-47eb-a99a-363c893d0075",
+      "name": "ฝูงเอเลี่ยนบุกจนร้องลั่น-alien shooter last hope-vdo",
+      "start": 0,
+      "end": 4368,
+      "fps": 60.0,
+      "width": "1920",
+      "height": "1080",
+      "subtitle_tracks": 0,
+      "clips": {
+        "video": [
+          [
+            {
+              "id": "ce6f4257-1b8e-4236-86dd-3e81661ee11f",
+              "start": 0,
+              "end": 4368,
+              "left": 172567,
+              "duration": 4368
+            }
+          ]
+        ],
+        "audio": [
+          [
+            {
+              "id": "afbfaea2-a98e-4280-9634-e38f80b4e6b3",
+              "start": 0,
+              "end": 4368,
+              "left": 172567,
+              "duration": 4368
+            }
+          ]
+        ]
+      }
+    },
+    "model": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "faster_whisper_version": "1.2.1",
+    "transcribe_options": {
+      "language": "th",
+      "word_timestamps": true,
+      "beam_size": 5,
+      "temperature": [
+        0.0,
+        0.2,
+        0.4,
+        0.6,
+        0.8,
+        1.0
+      ],
+      "condition_on_previous_text": false,
+      "vad_filter": true,
+      "vad_parameters": {
+        "min_silence_duration_ms": 400,
+        "speech_pad_ms": 200
+      }
+    },
+    "audio": {
+      "sha256": "4f9e66f860f488ad00da4e82bdeac1727cd7f6f4eb5700c817adeefd98798d3b",
+      "frames": 1164800,
+      "sample_rate": 16000,
+      "channels": 1,
+      "sample_width": 2,
+      "duration_seconds": 72.8
+    }
+  },
+  "draft_policy": {
+    "max_glyphs": 36,
+    "target_seconds": 4.0,
+    "pause_seconds": 0.5
+  },
+  "duration_seconds": 72.8,
+  "cues": [
+    {
+      "start": 0.5,
+      "end": 1.66,
+      "text": "หยั่ดชี่ ไม่บ้าง",
+      "flags": []
+    },
+    {
+      "start": 2.04,
+      "end": 2.24,
+      "text": "dopp",
+      "flags": []
+    },
+    {
+      "start": 2.6,
+      "end": 5.17,
+      "text": "สากคนสะอ้าย",
+      "flags": []
+    },
+    {
+      "start": 5.65,
+      "end": 6.05,
+      "text": "สาก",
+      "flags": []
+    },
+    {
+      "start": 23.54,
+      "end": 25.08,
+      "text": "คนสะอ้าย แบบว่า",
+      "flags": []
+    },
+    {
+      "start": 26.04,
+      "end": 27.82,
+      "text": "เฉยๆอะ มันไม่มีปัญหาหรอก",
+      "flags": []
+    },
+    {
+      "start": 27.82,
+      "end": 28.58,
+      "text": "แน่ใจเฉยว่า",
+      "flags": []
+    },
+    {
+      "start": 28.58,
+      "end": 29.17,
+      "text": "ฮรี่",
+      "flags": []
+    },
+    {
+      "start": 29.73,
+      "end": 31.857,
+      "text": "เรามะคุยว่า們 แชieties get collab",
+      "flags": [
+        "suspect_foreign_script"
+      ]
+    },
+    {
+      "start": 31.857,
+      "end": 32.21,
+      "text": "แล้วป่ะ",
+      "flags": [
+        "suspect_foreign_script"
+      ]
+    },
+    {
+      "start": 32.61,
+      "end": 34.77,
+      "text": "อันนี้รายงานที่สมบัติสร้างบ้าน",
+      "flags": []
+    },
+    {
+      "start": 34.77,
+      "end": 38.58,
+      "text": "มันเป็นกวดแล้วนะ",
+      "flags": []
+    },
+    {
+      "start": 38.58,
+      "end": 44.97,
+      "text": "นาย",
+      "flags": [
+        "duration_heuristic_exceeded"
+      ]
+    },
+    {
+      "start": 44.97,
+      "end": 46.25,
+      "text": "รู้ป่ะว่าในวิทยาลัยมีฆ่า",
+      "flags": []
+    },
+    {
+      "start": 46.25,
+      "end": 49.83,
+      "text": "ทําไมสร้างคลมชัยไม่ง่ายๆ",
+      "flags": []
+    },
+    {
+      "start": 49.83,
+      "end": 57.29,
+      "text": "มี",
+      "flags": [
+        "duration_heuristic_exceeded"
+      ]
+    },
+    {
+      "start": 57.29,
+      "end": 58.49,
+      "text": "คุยกับบ้านเรื่อยๆ",
+      "flags": []
+    },
+    {
+      "start": 58.49,
+      "end": 60.25,
+      "text": "เฮ้ย มันยากแล้ว",
+      "flags": []
+    },
+    {
+      "start": 60.25,
+      "end": 68.4,
+      "text": "เนอะ",
+      "flags": [
+        "duration_heuristic_exceeded"
+      ]
+    },
+    {
+      "start": 68.4,
+      "end": 69.52,
+      "text": "มึงไม่ควรใช่มั้ย",
+      "flags": []
+    }
+  ],
+  "qc_required": true,
+  "status": "unreviewed_draft"
+}

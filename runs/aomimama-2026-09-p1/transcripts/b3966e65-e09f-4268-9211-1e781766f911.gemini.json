@@ -1,0 +1,105 @@
+{
+  "metadata": {
+    "model": "gemini-3.7-flash",
+    "route": "google-generativeai-direct",
+    "timeline_index": 38,
+    "timeline_id": "b3966e65-e09f-4268-9211-1e781766f911",
+    "timeline_name": "ซอมบี้มาได้ไงวะ!-Minecraft-vdo",
+    "expected_duration_seconds": 65.0,
+    "prompt_token_count": 1818
+  },
+  "duration_seconds": 65.0,
+  "gemini": {
+    "audio_available": true,
+    "duration_seconds": 64.08,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 8.0,
+        "text": "ทุกคนเคยเป็นแบบมีแผนอย่างนี้คือแบบว่า ว่าแผนจริงมันออกมาในหัว แล้วเมื่อสาเหตุข้างในเวลาหนูลงมือคือทำไม่ค่อยเหมือน",
+        "uncertain": false
+      },
+      {
+        "start": 8.36,
+        "end": 10.42,
+        "text": "น้ำลายยืด นั่นดิคนดู",
+        "uncertain": false
+      },
+      {
+        "start": 10.96,
+        "end": 14.15,
+        "text": "นี่ ซอมบี้เต็มเลยคนดู",
+        "uncertain": false
+      },
+      {
+        "start": 15.7,
+        "end": 16.94,
+        "text": "มึงมาจากไหนนิ",
+        "uncertain": false
+      },
+      {
+        "start": 17.18,
+        "end": 18.96,
+        "text": "เฮ้ย มันมาได้ไงวะ",
+        "uncertain": false
+      },
+      {
+        "start": 19.38,
+        "end": 21.08,
+        "text": "เฮ้ย มันมาได้ไงอะ",
+        "uncertain": false
+      },
+      {
+        "start": 24.38,
+        "end": 28.02,
+        "text": "เฮ้ย มัน มัน มันมีข้อผิดพลาดทางเทคนิคหรือเปล่าวะ ทำไมซอมบี้มันมาได้วะ",
+        "uncertain": false
+      },
+      {
+        "start": 30.82,
+        "end": 34.5,
+        "text": "มันก็ไม่มีทางหลุด หลุดหนิ ไม่ใช่ซอมบี้ตรงนี้นะคนดู",
+        "uncertain": false
+      },
+      {
+        "start": 35.34,
+        "end": 39.46,
+        "text": "เฮ้ย เดี๋ยวๆๆ มันมาได้ไงอะ มันไม่ใช่อะ มันไม่ใช่อะ มันไม่ใช่อะ แปลกๆ นะ แปลกๆ นะ",
+        "uncertain": false
+      },
+      {
+        "start": 39.7,
+        "end": 41.56,
+        "text": "แปลกๆ นะ มัน มันต้อง",
+        "uncertain": false
+      },
+      {
+        "start": 44.02,
+        "end": 47.16,
+        "text": "เฮ้ย ซอมบี้มาจากไหนอะคนดู หรือว่ามันสปอว์นออกมาวะ",
+        "uncertain": false
+      },
+      {
+        "start": 48.4,
+        "end": 50.4,
+        "text": "แป๊บนะ แป๊บนะ ไม่ใช่อะ ไม่ใช่อะ",
+        "uncertain": false
+      },
+      {
+        "start": 50.88,
+        "end": 55.62,
+        "text": "มันมีที่มืดหรือเปล่าพี่ ตอนนี้มันกลางคืนอะ ซอมบี้มันสปอว์น มันสปอว์นเรื่อยๆ เนี่ย",
+        "uncertain": false
+      },
+      {
+        "start": 56.12,
+        "end": 59.9,
+        "text": "ไม่พี่ ระยะมันแปลกๆ อะ ผมน่าจะกะระยะผิดเว้ย",
+        "uncertain": false
+      }
+    ],
+    "timing_measurement": "frame_accurate",
+    "uncertainties": [],
+    "segment_count": 14
+  }
+}

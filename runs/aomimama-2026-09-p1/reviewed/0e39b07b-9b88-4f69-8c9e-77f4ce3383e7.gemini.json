@@ -1,0 +1,187 @@
+{
+  "timeline_id": "0e39b07b-9b88-4f69-8c9e-77f4ce3383e7",
+  "timeline_name": "ลาสตรีม ขอบคุณทุกคน-League of Legends-vdo",
+  "approved": false,
+  "source_model": "gemini-3.5-flash-lite",
+  "duration_seconds": 68.66666666666667,
+  "cues": [
+    {
+      "start": 0.0,
+      "end": 3.269,
+      "text": "อ่ามีอาการที่อ่าเป็นไมโครซานิดนึง",
+      "source_segment": 0.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 3.269,
+      "end": 3.75,
+      "text": "นะคะ",
+      "source_segment": 0.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 5.16,
+      "end": 8.714,
+      "text": "คือความที่อ่าตอนเนี้ยมีปัญหาเรื่อง",
+      "source_segment": 5.16,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 8.714,
+      "end": 12.591,
+      "text": "ของอาการผวดฟันมีอาการฟันโลกแล้ว",
+      "source_segment": 5.16,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 12.591,
+      "end": 13.56,
+      "text": "ก็นั่นแหละ",
+      "source_segment": 5.16,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 14.19,
+      "end": 16.809,
+      "text": "อารมณ์เหมือนคล้ายๆเมนมานิดนึงช่วง",
+      "source_segment": 14.19,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 16.809,
+      "end": 19.355,
+      "text": "เนี้ยเลยมีอาการแบบเหมือนเสียวร่าย",
+      "source_segment": 14.19,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 19.355,
+      "end": 19.755,
+      "text": "นะ",
+      "source_segment": 14.19,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 23.01,
+      "end": 25.639,
+      "text": "เดี๋ยววันนี้ขอบคุณทุกคนที่ไม่ที่มารับ",
+      "source_segment": 23.01,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 25.639,
+      "end": 26.54,
+      "text": "ชมกันด้วยนะ",
+      "source_segment": 23.01,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 29.89,
+      "end": 32.887,
+      "text": "เดี๋ยวถ้าถ้าไม่มีเอ่อตอนพรุ่งนี้รู้หรือ",
+      "source_segment": 29.89,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 32.887,
+      "end": 33.287,
+      "text": "เปล่า",
+      "source_segment": 29.89,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 35.88,
+      "end": 38.688,
+      "text": "เอ่อสําหรับพาราไลท์เนี่ยก็จะมีวันนี้",
+      "source_segment": 35.88,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 38.688,
+      "end": 41.662,
+      "text": "แล้วก็วันพุธค่ะคล้ายๆเป็นออเดนส่วน",
+      "source_segment": 35.88,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 41.662,
+      "end": 44.47,
+      "text": "เสาร์อาทิตย์จะน่าจะเป็นเอ่อเซอร์ว่า",
+      "source_segment": 35.88,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 49.33,
+      "end": 52.407,
+      "text": "เอ่อซึ่งพอผ่านพ้นผ่านงานนี้ไปก็จะ",
+      "source_segment": 49.33,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 52.407,
+      "end": 55.483,
+      "text": "เป็นฮีลของเอ่อเคมานะจำไม่ได้แล้ว",
+      "source_segment": 49.33,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 55.483,
+      "end": 56.45,
+      "text": "คือจริงๆนะ",
+      "source_segment": 49.33,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 57.06,
+      "end": 60.843,
+      "text": "ข้างนึงข้างซ้ายนะคะอารมณ์ประมาณ",
+      "source_segment": 57.06,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 60.843,
+      "end": 62.4,
+      "text": "ประมาณนั้นเนาะ",
+      "source_segment": 57.06,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 63.53,
+      "end": 66.224,
+      "text": "แล้วบอกว่าถ้าลงทุนติดตามไปรับชม",
+      "source_segment": 63.53,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 66.224,
+      "end": 68.32,
+      "text": "ผลงานกันด้วยนะทุกคนนะคะ",
+      "source_segment": 63.53,
+      "gemini_uncertain": false,
+      "flags": []
+    }
+  ],
+  "qc_required": true,
+  "status": "unreviewed_draft"
+}

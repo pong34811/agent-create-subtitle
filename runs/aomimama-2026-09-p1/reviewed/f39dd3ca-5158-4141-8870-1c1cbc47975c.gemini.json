@@ -1,0 +1,397 @@
+{
+  "timeline_id": "f39dd3ca-5158-4141-8870-1c1cbc47975c",
+  "timeline_name": "หนาวติดลบ 16 ต้องถือลาวา-Minecraft-vdo",
+  "approved": false,
+  "source_model": "gemini-2.5-flash",
+  "duration_seconds": 108.0,
+  "cues": [
+    {
+      "start": 0.5,
+      "end": 0.9,
+      "text": "โห",
+      "source_segment": 0.5,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 0.9,
+      "end": 2.908,
+      "text": "พี่มันคือทางเดียวไม่ได้ทําให้พี่กลับ",
+      "source_segment": 0.9,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 2.908,
+      "end": 4.4,
+      "text": "มาได้ภายใน 5,000 บล็อกอ่ะ",
+      "source_segment": 0.9,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 4.8,
+      "end": 6.79,
+      "text": "คมโม่คมมาไม่ต้องพูดกันเยอะเลย",
+      "source_segment": 4.8,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 6.79,
+      "end": 7.2,
+      "text": "นะพี่จ๋า",
+      "source_segment": 4.8,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 8.8,
+      "end": 9.85,
+      "text": "พี่มีเสื้ออะไรบ้างอ่ะ",
+      "source_segment": 8.8,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 9.9,
+      "end": 12.51,
+      "text": "แม่งจะหนาวตายของแท้เลยติดลบ 12",
+      "source_segment": 9.9,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 12.51,
+      "end": 12.91,
+      "text": "องศา",
+      "source_segment": 9.9,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 13.5,
+      "end": 15.992,
+      "text": "โอ้โหเหี้ยบ้านพี่นี่แม่งจนสมชื่อจริงๆ",
+      "source_segment": 13.5,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 15.992,
+      "end": 16.392,
+      "text": "เลย",
+      "source_segment": 13.5,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 21.0,
+      "end": 22.754,
+      "text": "ไอ้เหี้ยมีทุกอย่างยกเว้นแร่จริงๆนะ",
+      "source_segment": 21.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 22.754,
+      "end": 23.154,
+      "text": "เนี่ย",
+      "source_segment": 21.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 23.4,
+      "end": 25.295,
+      "text": "น่าจะได้แหลกหนมปังสู้อ่ะดูจากทรง",
+      "source_segment": 23.4,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 25.295,
+      "end": 25.695,
+      "text": "ละ",
+      "source_segment": 23.4,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 25.9,
+      "end": 26.95,
+      "text": "เฮ้ยเนี่ยมีอยู่อ่ะพี่",
+      "source_segment": 25.9,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 27.0,
+      "end": 28.629,
+      "text": "ไอ้เหี้ยเหล็กเหล็กยังเยอะเลยเนี่ยชุด",
+      "source_segment": 27.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 28.629,
+      "end": 29.029,
+      "text": "นึงเนี่ย",
+      "source_segment": 27.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 29.1,
+      "end": 30.3,
+      "text": "ไม่คราฟชุดเหล็กป่ะ",
+      "source_segment": 29.1,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 31.5,
+      "end": 34.135,
+      "text": "ไม่ไอ้สัตว์มันมันมีแค่นั้นกูต้องเก็บ",
+      "source_segment": 31.5,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 34.135,
+      "end": 34.6,
+      "text": "เอาไว้",
+      "source_segment": 31.5,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 38.5,
+      "end": 41.6,
+      "text": "ไอ้เหี้ยไม้อะไรเนี่ยหักมาทางไหนเนี่ย",
+      "source_segment": 38.5,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 42.4,
+      "end": 42.9,
+      "text": "อีหยังวะ",
+      "source_segment": 42.4,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 43.4,
+      "end": 45.4,
+      "text": "อ๋อไม่ๆอันนี้ไอ้บ้านเก่าผมไป",
+      "source_segment": 43.4,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 46.4,
+      "end": 47.2,
+      "text": "มาๆเดี๋ยวๆๆ",
+      "source_segment": 46.4,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 48.0,
+      "end": 50.7,
+      "text": "แป๊บนึงนะผมผมขอ setting อะไรก่อน",
+      "source_segment": 48.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 51.0,
+      "end": 52.2,
+      "text": "พี่หาเสื้อให้หน่อยดิพี่",
+      "source_segment": 51.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 54.3,
+      "end": 55.5,
+      "text": "เสื้อกูไม่มี",
+      "source_segment": 54.3,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 56.3,
+      "end": 58.654,
+      "text": "เหี้ยเอ้ยชีวิตนี่เราต้องลงเหมืองกัน",
+      "source_segment": 56.3,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 58.654,
+      "end": 60.8,
+      "text": "โดยที่แบบมีของกระเข้นี่เหรอวะ",
+      "source_segment": 56.3,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 63.0,
+      "end": 65.0,
+      "text": "ไม่มีให้มึงแค่เนี่ยแหละอ้าว",
+      "source_segment": 63.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 68.6,
+      "end": 69.6,
+      "text": "เออเยี่ยมพี่จ๋า",
+      "source_segment": 68.6,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 71.1,
+      "end": 72.9,
+      "text": "ได้อะไรวะไหนพี่ไม้อะไรมา",
+      "source_segment": 71.1,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 74.3,
+      "end": 76.328,
+      "text": "เออมีกางเกงมีมีกางเกงมีไอ้หมวก",
+      "source_segment": 74.3,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 76.328,
+      "end": 77.7,
+      "text": "ใช้ถือว่ามีอนาคตแล้วกัน",
+      "source_segment": 74.3,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 78.6,
+      "end": 80.219,
+      "text": "ไอ้เหี้ยจะหนาวตายของแท้เลยนี่ติด",
+      "source_segment": 78.6,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 80.219,
+      "end": 80.619,
+      "text": "ลบ 15",
+      "source_segment": 78.6,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 80.669,
+      "end": 81.957,
+      "text": "โอ้โหคนเราต้องทําบาปทํากรรมมา",
+      "source_segment": 80.5,
+      "gemini_uncertain": false,
+      "flags": [
+        "start_clipped_to_previous"
+      ]
+    },
+    {
+      "start": 81.957,
+      "end": 82.6,
+      "text": "ขนาดไหนวะเนี่ย",
+      "source_segment": 80.5,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 87.6,
+      "end": 90.021,
+      "text": "นี่นี่คือแบบนี่คือแบบเราต้องถือลาวา",
+      "source_segment": 87.6,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 90.021,
+      "end": 91.5,
+      "text": "ไว้ตลอดเวลาแล้วใช่มั้ย",
+      "source_segment": 87.6,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 93.4,
+      "end": 95.795,
+      "text": "มึงอย่าฮิ้วขวาฮิ้วซ้ายแล้วเผาบ้านกู",
+      "source_segment": 93.4,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 95.795,
+      "end": 96.195,
+      "text": "เนี่ย",
+      "source_segment": 93.4,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 96.6,
+      "end": 98.4,
+      "text": "ไม่หูผมไม่ทําตัวแบบนั้นหรอกพี่",
+      "source_segment": 96.6,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 99.5,
+      "end": 101.995,
+      "text": "บ้านพี่มันบ้านพี่มันไม่น่าจะเป็นเชื้อ",
+      "source_segment": 99.5,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 101.995,
+      "end": 102.85,
+      "text": "เชื้อไฟได้นะ",
+      "source_segment": 99.5,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 102.9,
+      "end": 103.8,
+      "text": "แม่งมีแต่หินเนี่ย",
+      "source_segment": 102.9,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 106.3,
+      "end": 106.8,
+      "text": "เดี๋ยวนะ",
+      "source_segment": 106.3,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 107.2,
+      "end": 107.6,
+      "text": "เฮ้ย",
+      "source_segment": 107.2,
+      "gemini_uncertain": false,
+      "flags": []
+    }
+  ],
+  "qc_required": true,
+  "status": "unreviewed_draft"
+}

@@ -1,0 +1,236 @@
+{
+  "metadata": {
+    "model": "chunked:gemini-3.1-flash-lite,gemini-3.5-flash-lite",
+    "route": "google-generativeai-direct",
+    "timeline_index": 46,
+    "timeline_id": "a4637e1f-4f07-4f01-af2f-81d3e1dd36f6",
+    "timeline_name": "หัวยังไม่ฟู ตายก่อนเลย-League of Legends-vdo",
+    "expected_duration_seconds": 145.0,
+    "chunk_seconds": 45.0,
+    "chunk_boundaries": [
+      0.0,
+      52.0,
+      92.0,
+      143.0,
+      145.0
+    ]
+  },
+  "duration_seconds": 145.0,
+  "gemini": {
+    "audio_available": true,
+    "duration_seconds": 145.0,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 0.8,
+        "text": "เลือดไหลปอนด์",
+        "uncertain": false,
+        "chunk": 1
+      },
+      {
+        "start": 1.4,
+        "end": 3.0,
+        "text": "แล้วแบบหิวเลือดได้ด้วย",
+        "uncertain": false,
+        "chunk": 1
+      },
+      {
+        "start": 4.1,
+        "end": 5.1,
+        "text": "กี่ทีตาย",
+        "uncertain": false,
+        "chunk": 1
+      },
+      {
+        "start": 5.7,
+        "end": 6.6,
+        "text": "เมื่อไหร่ตาย",
+        "uncertain": false,
+        "chunk": 1
+      },
+      {
+        "start": 8.0,
+        "end": 9.4,
+        "text": "เจอคู่ คนในคน ที่ 6",
+        "uncertain": false,
+        "chunk": 1
+      },
+      {
+        "start": 10.3,
+        "end": 11.5,
+        "text": "ไหน อันนี้คน ที่ 6 ใช่ไหม",
+        "uncertain": false,
+        "chunk": 1
+      },
+      {
+        "start": 23.3,
+        "end": 23.9,
+        "text": "เฮ้ย ลืมเพลง",
+        "uncertain": false,
+        "chunk": 1
+      },
+      {
+        "start": 28.1,
+        "end": 28.5,
+        "text": "เฮ้ย ใช่ๆ",
+        "uncertain": false,
+        "chunk": 1
+      },
+      {
+        "start": 28.8,
+        "end": 29.2,
+        "text": "เฮ้ย ตายจริง",
+        "uncertain": false,
+        "chunk": 1
+      },
+      {
+        "start": 29.5,
+        "end": 30.1,
+        "text": "เฮ้ย ตายจริง",
+        "uncertain": false,
+        "chunk": 1
+      },
+      {
+        "start": 38.3,
+        "end": 39.0,
+        "text": "เล่นเยอะเกิน",
+        "uncertain": false,
+        "chunk": 1
+      },
+      {
+        "start": 40.7,
+        "end": 43.6,
+        "text": "เดี๋ยวๆ ยังฟู ทวง ยังไม่ฟู ขอรูทฟู",
+        "uncertain": false,
+        "chunk": 1
+      },
+      {
+        "start": 46.9,
+        "end": 48.0,
+        "text": "เดี๋ยวขอฟูก่อน",
+        "uncertain": false,
+        "chunk": 1
+      },
+      {
+        "start": 49.0,
+        "end": 49.7,
+        "text": "กูไม่ตายหรอก",
+        "uncertain": false,
+        "chunk": 1
+      },
+      {
+        "start": 67.15,
+        "end": 68.92,
+        "text": "ติด อยู่ สอง คูลดาวน์ สอง",
+        "uncertain": false,
+        "chunk": 2
+      },
+      {
+        "start": 79.24,
+        "end": 81.84,
+        "text": "คัน นี้ โดน โฟกัส แน่ นอน ใคร",
+        "uncertain": true,
+        "chunk": 2
+      },
+      {
+        "start": 82.68,
+        "end": 87.88,
+        "text": "นับ ดูด เลือด ด้วย เพราะ ว่า โดน แคมป์ มัน ไม่ มี ดูด เลือด มัน มี แค่ เลือด ตัว เปล่า",
+        "uncertain": false,
+        "chunk": 2
+      },
+      {
+        "start": 88.88,
+        "end": 91.84,
+        "text": "โดน แคมป์ โดน โดน เลือด เนี่ย ปั่น ๆ ๆ ๆ ไป เดี๋ยว ก็ ตาย ละ",
+        "uncertain": false,
+        "chunk": 2
+      },
+      {
+        "start": 94.0,
+        "end": 98.0,
+        "text": "เอ่อ อยาก วันทันตู ก่อน โอเมนใส พร้อม อยู่",
+        "uncertain": false,
+        "chunk": 3
+      },
+      {
+        "start": 99.0,
+        "end": 100.0,
+        "text": "แวะ ไป โหลด",
+        "uncertain": false,
+        "chunk": 3
+      },
+      {
+        "start": 101.0,
+        "end": 102.0,
+        "text": "ดิล โหลด ดิ",
+        "uncertain": false,
+        "chunk": 3
+      },
+      {
+        "start": 107.0,
+        "end": 112.0,
+        "text": "หรือ ไม่ ทัน ใจ มา ฮาโยนิตี้ ดี กว่า เค้า ต่อ ฮา อ่า เอา ไป หา ด้วย",
+        "uncertain": false,
+        "chunk": 3
+      },
+      {
+        "start": 112.0,
+        "end": 114.0,
+        "text": "แต่ ไม่ เอา ไม่ เอา",
+        "uncertain": false,
+        "chunk": 3
+      },
+      {
+        "start": 114.0,
+        "end": 117.0,
+        "text": "เดี๋ยว เดี๋ยว เดี๋ยว บูลลี่ เยอะ เกิน ก็ ได้",
+        "uncertain": false,
+        "chunk": 3
+      },
+      {
+        "start": 117.0,
+        "end": 121.0,
+        "text": "ไม่ ๆ คือ มัน มัน ไม่ ควร ให้ อยู่ เยอะ ไง มัน มือ ถือ ไม่ ได้",
+        "uncertain": false,
+        "chunk": 3
+      },
+      {
+        "start": 121.0,
+        "end": 125.0,
+        "text": "หรอ คิด ว่า จะ แบบ อยู่ นี้ ไป เลย",
+        "uncertain": false,
+        "chunk": 3
+      },
+      {
+        "start": 126.0,
+        "end": 130.0,
+        "text": "เข้า ไป มัน ก็ นะ ฮ่า ๆ ๆ อะไร อ่ะ ไม่ น่า ไป หรอก",
+        "uncertain": false,
+        "chunk": 3
+      },
+      {
+        "start": 131.0,
+        "end": 135.0,
+        "text": "เฮ้ย ๆ รวย รวย เฮ้ย ไม่ ได้ ขยับ เลย เว้ย",
+        "uncertain": false,
+        "chunk": 3
+      },
+      {
+        "start": 138.0,
+        "end": 142.0,
+        "text": "อื้อ",
+        "uncertain": false,
+        "chunk": 3
+      },
+      {
+        "start": 143.0,
+        "end": 145.0,
+        "text": "ไปกันเถอะ",
+        "uncertain": false,
+        "chunk": 4
+      }
+    ],
+    "segment_count": 30
+  }
+}

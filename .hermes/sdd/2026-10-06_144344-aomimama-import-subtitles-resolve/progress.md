@@ -35,3 +35,30 @@ Incident (contained): an early probe called AddTrack on the WRONG timeline and l
 one unstyled subtitle track + one stale pool clip. Both were on the unsaved
 "Untitled Project"; the probe clip was deleted from the pool and a fresh readback
 confirms all 49 target timelines had 0 subtitle tracks before the real run.
+
+Task 7: BLOCKED pending user approval — dry run clean (49 of 49 tracks would
+change). The preset script closes/reopens the project and writes SQLite, which the
+plan marks as requiring explicit approval. Not executed.
+
+Task 7: complete — Mitr Font applied to all 49 subtitle tracks.
+  verified_tracks 49, changed_tracks 49 (blobs 111 -> 288 bytes each)
+  backup: C:/Users/warit/Documents/resolve-subtitle-preset-backups/aomimama-2026-09-p1_20261006-150958
+    (contains aomimama-2026-09-p1_before_preset.drp 1.6MB + Project.db.before_preset.sqlite)
+  Idempotency re-check: "0 of 49 subtitle track(s) would change."
+  Cues re-verified after the style write: 49/49 timelines, 963 cues, 0 mismatches.
+
+Ruling: a plaintext `EffectFiltersBA` grep is NOT a valid style check — the style
+lives inside a zstd-compressed payload. My first check wrongly reported 0/49 styled;
+comparing the pre-write snapshot blob to the current blob is the correct check
+(49/49 changed, 111->288 bytes). Cost if wrong: none now, but a future run must
+compare blobs, not grep.
+Ruling: the first --apply hit the 420s foreground cap while Resolve was closed for
+the SQLite write, leaving the project closed. Re-running in background completed it.
+The project was reopened manually and the abort was verified harmless (49/49 tracks
+and 963 cues intact). Cost if wrong: none — verified before retrying.
+
+Final: self-review (no subagent tool dispatched for this run)
+Final: minor (deferred): import-results.json omits actual_cues for the 3 skipped
+  timelines, so its cue total (918) understates the real 963. Cosmetic — the
+  independent readback is the authority.
+Final: minor (deferred): timeline 11 holds 1 cue (game noise only, no speech).

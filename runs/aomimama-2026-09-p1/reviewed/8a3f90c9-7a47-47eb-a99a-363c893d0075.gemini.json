@@ -1,0 +1,131 @@
+{
+  "timeline_id": "8a3f90c9-7a47-47eb-a99a-363c893d0075",
+  "timeline_name": "ฝูงเอเลี่ยนบุกจนร้องลั่น-alien shooter last hope-vdo",
+  "approved": false,
+  "source_model": "gemini-3-flash-preview",
+  "duration_seconds": 72.8,
+  "cues": [
+    {
+      "start": 0.0,
+      "end": 1.15,
+      "text": "พี่ไม่ว่าง",
+      "source_segment": 0.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 1.2,
+      "end": 2.0,
+      "text": "อ๋อ",
+      "source_segment": 1.2,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 4.0,
+      "end": 5.5,
+      "text": "ขอบคุณที่ทักมานะ",
+      "source_segment": 4.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 23.5,
+      "end": 25.45,
+      "text": "ถ้าทักคนอื่นไว้แบบว่า",
+      "source_segment": 23.5,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 25.5,
+      "end": 27.45,
+      "text": "เฉยๆอะมันไม่มีปัญหาหรอก",
+      "source_segment": 25.5,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 27.5,
+      "end": 28.95,
+      "text": "แต่ถ้าเกิดว่า",
+      "source_segment": 27.5,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 29.0,
+      "end": 30.95,
+      "text": "เฮ้ยเรามาคุยกันแบบว่า",
+      "source_segment": 29.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 31.0,
+      "end": 32.95,
+      "text": "จะเล่นด้วยกันตอนไหนดีกันอย่างเงี้ย",
+      "source_segment": 31.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 33.0,
+      "end": 34.95,
+      "text": "อันเนี้ยยังไงก็ต้องติดต่อเรามา",
+      "source_segment": 33.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 35.0,
+      "end": 37.0,
+      "text": "มันเป็นกฎอะนะ",
+      "source_segment": 35.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 44.5,
+      "end": 46.45,
+      "text": "ก็ยังไงหนูมันเป็นมีค่ายอะ",
+      "source_segment": 44.5,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 46.5,
+      "end": 48.5,
+      "text": "ทำอะไรตามใจตัวเองไม่ค่อยได้",
+      "source_segment": 46.5,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 56.5,
+      "end": 58.45,
+      "text": "อือมีตัวอย่างมาเรื่อยๆ",
+      "source_segment": 56.5,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 58.5,
+      "end": 60.0,
+      "text": "ในหน้างาน",
+      "source_segment": 58.5,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 68.5,
+      "end": 70.5,
+      "text": "มุมมองของคนอื่น",
+      "source_segment": 68.5,
+      "gemini_uncertain": false,
+      "flags": []
+    }
+  ],
+  "qc_required": true,
+  "status": "unreviewed_draft"
+}

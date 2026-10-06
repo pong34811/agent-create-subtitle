@@ -1,0 +1,91 @@
+{
+  "timeline_id": "60c95da2-e1dc-472e-89da-d553ab4d2631",
+  "timeline_name": "ด่าทีมรัวๆ ไอ้เชี่ยทีมตาก-League of Legends-vdo",
+  "approved": false,
+  "source_model": "gemini-3.5-flash-lite",
+  "duration_seconds": 70.0,
+  "cues": [
+    {
+      "start": 5.0,
+      "end": 8.0,
+      "text": "เหี้ยทีมกาก [ฟังไม่ชัด] ทีมโคตรกากเนี่ย",
+      "source_segment": 5.0,
+      "gemini_uncertain": true,
+      "flags": []
+    },
+    {
+      "start": 17.5,
+      "end": 20.95,
+      "text": "เป็นออกเหี้ยอะไรอ่ะ",
+      "source_segment": 17.5,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 21.0,
+      "end": 24.5,
+      "text": "มึงตัวๆอย่างเนี้ยมันไม่ออกก้านเว้ย",
+      "source_segment": 21.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 24.5,
+      "end": 25.0,
+      "text": "มึงอ่ะ",
+      "source_segment": 21.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 26.0,
+      "end": 28.17,
+      "text": "ไอ้เหี้ยออกของไม่ดูทางเปรี้ยวเลย",
+      "source_segment": 26.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 28.17,
+      "end": 29.0,
+      "text": "ไอ้เหี้ยโง่สัตว์",
+      "source_segment": 26.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 36.0,
+      "end": 38.0,
+      "text": "มึงออกมารูๆวะไอ้เหี้ย",
+      "source_segment": 36.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 45.0,
+      "end": 48.0,
+      "text": "ไม่ออกของแทงเลยอ่ะ",
+      "source_segment": 45.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 50.0,
+      "end": 52.5,
+      "text": "ไอ้สัตว์ว่าแม่มมาคิดถ่ายเลยไอ้เหี้ย",
+      "source_segment": 50.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 61.5,
+      "end": 63.5,
+      "text": "นี่แขนเล่นป่านะทีมกู",
+      "source_segment": 61.5,
+      "gemini_uncertain": false,
+      "flags": []
+    }
+  ],
+  "qc_required": true,
+  "status": "unreviewed_draft"
+}

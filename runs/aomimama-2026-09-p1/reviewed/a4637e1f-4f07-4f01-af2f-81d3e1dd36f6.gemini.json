@@ -1,0 +1,291 @@
+{
+  "timeline_id": "a4637e1f-4f07-4f01-af2f-81d3e1dd36f6",
+  "timeline_name": "หัวยังไม่ฟู ตายก่อนเลย-League of Legends-vdo",
+  "approved": false,
+  "source_model": "chunked:gemini-3.1-flash-lite,gemini-3.5-flash-lite",
+  "duration_seconds": 145.0,
+  "cues": [
+    {
+      "start": 0.0,
+      "end": 0.8,
+      "text": "เลือดไหลปอนด์",
+      "source_segment": 0.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 1.4,
+      "end": 3.0,
+      "text": "แล้วแบบหิวเลือดได้ด้วย",
+      "source_segment": 1.4,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 4.1,
+      "end": 5.1,
+      "text": "กี่ทีตาย",
+      "source_segment": 4.1,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 5.7,
+      "end": 6.6,
+      "text": "เมื่อไหร่ตาย",
+      "source_segment": 5.7,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 8.0,
+      "end": 9.4,
+      "text": "เจอคู่คนในคนที่ 6",
+      "source_segment": 8.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 10.3,
+      "end": 11.5,
+      "text": "ไหนอันนี้คนที่ 6 ใช่ไหม",
+      "source_segment": 10.3,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 23.3,
+      "end": 23.9,
+      "text": "เฮ้ยลืมเพลง",
+      "source_segment": 23.3,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 28.1,
+      "end": 28.5,
+      "text": "เฮ้ยใช่ๆ",
+      "source_segment": 28.1,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 28.8,
+      "end": 29.2,
+      "text": "เฮ้ยตายจริง",
+      "source_segment": 28.8,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 29.5,
+      "end": 30.1,
+      "text": "เฮ้ยตายจริง",
+      "source_segment": 29.5,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 38.3,
+      "end": 39.0,
+      "text": "เล่นเยอะเกิน",
+      "source_segment": 38.3,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 40.7,
+      "end": 43.6,
+      "text": "เดี๋ยวๆยังฟูทวงยังไม่ฟูขอรูทฟู",
+      "source_segment": 40.7,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 46.9,
+      "end": 48.0,
+      "text": "เดี๋ยวขอฟูก่อน",
+      "source_segment": 46.9,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 49.0,
+      "end": 49.7,
+      "text": "กูไม่ตายหรอก",
+      "source_segment": 49.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 67.15,
+      "end": 68.92,
+      "text": "ติดอยู่สองคูลดาวน์สอง",
+      "source_segment": 67.15,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 79.24,
+      "end": 81.84,
+      "text": "คันนี้โดนโฟกัสแน่นอนใคร",
+      "source_segment": 79.24,
+      "gemini_uncertain": true,
+      "flags": []
+    },
+    {
+      "start": 82.68,
+      "end": 85.393,
+      "text": "นับดูดเลือดด้วยเพราะว่าโดนแคมป์มัน",
+      "source_segment": 82.68,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 85.393,
+      "end": 87.88,
+      "text": "ไม่มีดูดเลือดมันมีแค่เลือดตัวเปล่า",
+      "source_segment": 82.68,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 88.88,
+      "end": 90.911,
+      "text": "โดนแคมป์โดนโดนเลือดเนี่ยปั่นๆๆๆ",
+      "source_segment": 88.88,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 90.911,
+      "end": 91.84,
+      "text": "ไปเดี๋ยวก็ตายละ",
+      "source_segment": 88.88,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 94.0,
+      "end": 98.0,
+      "text": "เอ่ออยากวันทันตูก่อนโอเมนใสพร้อมอยู่",
+      "source_segment": 94.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 99.0,
+      "end": 100.0,
+      "text": "แวะไปโหลด",
+      "source_segment": 99.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 101.0,
+      "end": 102.0,
+      "text": "ดิลโหลดดิ",
+      "source_segment": 101.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 107.0,
+      "end": 110.24,
+      "text": "หรือไม่ทันใจมาฮาโยนิตี้ดีกว่าเค้าต่อ",
+      "source_segment": 107.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 110.24,
+      "end": 111.95,
+      "text": "ฮาอ่าเอาไปหาด้วย",
+      "source_segment": 107.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 112.0,
+      "end": 113.95,
+      "text": "แต่ไม่เอาไม่เอา",
+      "source_segment": 112.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 114.0,
+      "end": 116.95,
+      "text": "เดี๋ยวเดี๋ยวเดี๋ยวบูลลี่เยอะเกินก็ได้",
+      "source_segment": 114.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 117.0,
+      "end": 119.821,
+      "text": "ไม่ๆคือมันมันไม่ควรให้อยู่เยอะไง",
+      "source_segment": 117.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 119.821,
+      "end": 120.95,
+      "text": "มันมือถือไม่ได้",
+      "source_segment": 117.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 121.0,
+      "end": 125.0,
+      "text": "หรอคิดว่าจะแบบอยู่นี้ไปเลย",
+      "source_segment": 121.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 126.0,
+      "end": 129.349,
+      "text": "เข้าไปมันก็นะฮ่าๆๆอะไรอ่ะไม่น่า",
+      "source_segment": 126.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 129.349,
+      "end": 130.0,
+      "text": "ไปหรอก",
+      "source_segment": 126.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 131.0,
+      "end": 135.0,
+      "text": "เฮ้ยๆรวยรวยเฮ้ยไม่ได้ขยับเลยเว้ย",
+      "source_segment": 131.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 138.0,
+      "end": 142.0,
+      "text": "อื้อ",
+      "source_segment": 138.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 143.0,
+      "end": 145.0,
+      "text": "ไปกันเถอะ",
+      "source_segment": 143.0,
+      "gemini_uncertain": false,
+      "flags": []
+    }
+  ],
+  "qc_required": true,
+  "status": "unreviewed_draft"
+}

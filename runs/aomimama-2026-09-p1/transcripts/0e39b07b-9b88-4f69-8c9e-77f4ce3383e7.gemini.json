@@ -1,0 +1,73 @@
+{
+  "metadata": {
+    "model": "gemini-3.5-flash-lite",
+    "route": "google-generativeai-direct",
+    "timeline_index": 49,
+    "timeline_id": "0e39b07b-9b88-4f69-8c9e-77f4ce3383e7",
+    "timeline_name": "ลาสตรีม ขอบคุณทุกคน-League of Legends-vdo",
+    "expected_duration_seconds": 68.66666666666667,
+    "prompt_token_count": 1910
+  },
+  "duration_seconds": 68.66666666666667,
+  "gemini": {
+    "audio_available": true,
+    "duration_seconds": 68.32,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.75,
+        "text": "อ่า มี อาการ ที่ อ่า เป็น ไมโครซา นิด นึง นะ คะ",
+        "uncertain": false
+      },
+      {
+        "start": 5.16,
+        "end": 13.56,
+        "text": "คือ ความ ที่ อ่า ตอน เนี้ย มี ปัญหา เรื่อง ของ อาการ ผวด ฟัน มี อาการ ฟัน โลก แล้ว ก็ นั่น แหละ",
+        "uncertain": false
+      },
+      {
+        "start": 14.19,
+        "end": 19.5,
+        "text": "อารมณ์ เหมือน คล้าย ๆ เมน มา นิด นึง ช่วง เนี้ย เลย มี อาการ แบบ เหมือน เสียว ร่าย นะ",
+        "uncertain": false
+      },
+      {
+        "start": 23.01,
+        "end": 26.54,
+        "text": "เดี๋ยว วัน นี้ ขอบคุณ ทุก คน ที่ ไม่ ที่ มา รับ ชม กัน ด้วย นะ",
+        "uncertain": false
+      },
+      {
+        "start": 29.89,
+        "end": 33.22,
+        "text": "เดี๋ยว ถ้า ถ้า ไม่ มี เอ่อ ตอน พรุ่ง นี้ รู้ หรือ เปล่า",
+        "uncertain": false
+      },
+      {
+        "start": 35.88,
+        "end": 44.47,
+        "text": "เอ่อ สําหรับ พาราไลท์ เนี่ย ก็ จะ มี วัน นี้ แล้ว ก็ วัน พุธ ค่ะ คล้าย ๆ เป็น ออเดน ส่วน เสาร์ อาทิตย์ จะ น่า จะ เป็น เอ่อ เซอร์ว่า",
+        "uncertain": false
+      },
+      {
+        "start": 49.33,
+        "end": 56.45,
+        "text": "เอ่อ ซึ่ง พอ ผ่าน พ้น ผ่าน งาน นี้ ไป ก็ จะ เป็น ฮีล ของ เอ่อ เคมานะ จำ ไม่ ได้ แล้ว คือ จริง ๆ นะ",
+        "uncertain": false
+      },
+      {
+        "start": 57.06,
+        "end": 62.4,
+        "text": "ข้าง นึง ข้าง ซ้าย นะ คะ อารมณ์ ประมาณ ประมาณ นั้น เนาะ",
+        "uncertain": false
+      },
+      {
+        "start": 63.53,
+        "end": 68.32,
+        "text": "แล้ว บอก ว่า ถ้า ลง ทุน ติด ตาม ไป รับ ชม ผล งาน กัน ด้วย นะ ทุก คน นะ คะ",
+        "uncertain": false
+      }
+    ],
+    "segment_count": 9
+  }
+}

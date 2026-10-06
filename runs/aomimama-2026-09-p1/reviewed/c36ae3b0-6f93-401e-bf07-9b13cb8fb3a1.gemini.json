@@ -1,0 +1,235 @@
+{
+  "timeline_id": "c36ae3b0-6f93-401e-bf07-9b13cb8fb3a1",
+  "timeline_name": "กดเล่นแล้วเกมเด้ง ลบโหลดใหม่เลย-alien shooter 2-vdo",
+  "approved": false,
+  "source_model": "gemini-3.5-flash",
+  "duration_seconds": 107.76666666666667,
+  "cues": [
+    {
+      "start": 3.1,
+      "end": 5.2,
+      "text": "กด play เลยพี่",
+      "source_segment": 3.1,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 7.1,
+      "end": 10.378,
+      "text": "นี่เป็นไงพี่เป็นไงเป็นไง Windows desktop",
+      "source_segment": 7.1,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 10.378,
+      "end": 13.563,
+      "text": "มาแล้วเป็นไงโหพี่อย่างหรูดูน้องดูน้องอ้าว",
+      "source_segment": 7.1,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 13.563,
+      "end": 14.5,
+      "text": "เชี่ยเกมแครช",
+      "source_segment": 7.1,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 16.5,
+      "end": 19.5,
+      "text": "ลบเกมลบเกมโหลดใหม่แม่งเลยพี่",
+      "source_segment": 16.5,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 20.1,
+      "end": 26.8,
+      "text": "วิถีลูกผู้ชายเหรอพี่ใช่ทูพี่เชี่ยเกมแครช",
+      "source_segment": 20.1,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 27.5,
+      "end": 31.515,
+      "text": "ไม่เคได้วิธีแบบว่าทำเป็นเอ่อสกรีนแล้วคุณ",
+      "source_segment": 27.5,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 31.515,
+      "end": 34.8,
+      "text": "พอลพี่เคตั้งเปิด notepad อยู่เมื่อกี้",
+      "source_segment": 27.5,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 35.1,
+      "end": 38.389,
+      "text": "อ้าวแล้วรู้อยู่เปลี่ยนยังไงตัวตั้งค่ามันยังไงอะ",
+      "source_segment": 35.1,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 38.389,
+      "end": 41.678,
+      "text": "เออ Minecraft ผมก็ทำอยู่มันมีม็อดบางอันที่มัน",
+      "source_segment": 35.1,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 41.678,
+      "end": 42.5,
+      "text": "จำกัดเร็วไว้",
+      "source_segment": 35.1,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 44.5,
+      "end": 48.538,
+      "text": "วิธีวิธีคุณพอลอะลองแล้วเหมือนกันแต่ว่า",
+      "source_segment": 44.5,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 48.538,
+      "end": 51.5,
+      "text": "ไม่เอ่อแล้วพี่กดกดเริ่มเลย",
+      "source_segment": 44.5,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 52.1,
+      "end": 56.8,
+      "text": "อึ้กผมมองไม่เห็นด้วยไงว่าเป็นยังไงบ้างดูไม่ได้",
+      "source_segment": 52.1,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 57.8,
+      "end": 60.8,
+      "text": "ทำไมมันถึงแครชวะ",
+      "source_segment": 57.8,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 61.1,
+      "end": 64.8,
+      "text": "เออบอกว่าเล่นเวอร์ชันนี้แล้วแครชด้วยนะ",
+      "source_segment": 61.1,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 65.1,
+      "end": 68.8,
+      "text": "พี่แอนตี้ไวรัสไหมเออปิดแม่งเลยดิ",
+      "source_segment": 65.1,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 69.1,
+      "end": 72.32,
+      "text": "เผื่อมันมองเผื่อมันมองเผื่อมันมองว่าเกมอินดี้ชู",
+      "source_segment": 69.1,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 72.32,
+      "end": 75.632,
+      "text": "ตเตอร์อาจจะเป็นสแกมเมอร์ก็ได้นะพี่ปิดไปสักวัน",
+      "source_segment": 69.1,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 75.632,
+      "end": 76.032,
+      "text": "นึงอะ",
+      "source_segment": 69.1,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 76.1,
+      "end": 79.513,
+      "text": "เป็นไปได้ไอ้เพอนั่นแหละแล้วก็เลือก 1 day",
+      "source_segment": 76.1,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 79.513,
+      "end": 80.0,
+      "text": "ไปเลย",
+      "source_segment": 76.1,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 80.1,
+      "end": 85.0,
+      "text": "แอนตี้ไวรัสแม่งยิ่งเอ๋อๆอยู่",
+      "source_segment": 80.1,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 85.1,
+      "end": 89.0,
+      "text": "ตัวของพี่เค้าอะสมควรอะ",
+      "source_segment": 85.1,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 89.1,
+      "end": 95.0,
+      "text": "ไม่กำลังกำลังนึกอยู่ทำทำไมเกมแครชวะ",
+      "source_segment": 89.1,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 95.1,
+      "end": 100.0,
+      "text": "แล้วพี่เคก็เพิ่งจะหอนว่าเกมนี้แม่งไม่ถึงวัน",
+      "source_segment": 95.1,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 100.1,
+      "end": 104.0,
+      "text": "อืออะน่ออะน่อ",
+      "source_segment": 100.1,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 104.1,
+      "end": 107.0,
+      "text": "ไปทำอะไรมาไหมเนี่ย",
+      "source_segment": 104.1,
+      "gemini_uncertain": false,
+      "flags": []
+    }
+  ],
+  "qc_required": true,
+  "status": "unreviewed_draft"
+}

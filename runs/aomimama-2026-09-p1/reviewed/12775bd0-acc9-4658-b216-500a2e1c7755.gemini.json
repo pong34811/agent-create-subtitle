@@ -1,0 +1,387 @@
+{
+  "timeline_id": "12775bd0-acc9-4658-b216-500a2e1c7755",
+  "timeline_name": "อย่าใส่ร้ายผม เกือบจมลาวา-Minecraft-vdo",
+  "approved": false,
+  "source_model": "gemini-2.5-flash",
+  "duration_seconds": 116.0,
+  "cues": [
+    {
+      "start": 1.5,
+      "end": 2.17,
+      "text": "เออ",
+      "source_segment": 1.5,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 2.22,
+      "end": 5.2,
+      "text": "จะโล่มันโล่เหมือนกันในนี้ได้มั้ยวะพี่",
+      "source_segment": 2.22,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 5.7,
+      "end": 8.6,
+      "text": "ฮะในไอ้ระเบิดครีปเปอร์อ่ะ",
+      "source_segment": 5.7,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 8.9,
+      "end": 10.4,
+      "text": "ฉันได้ฉันได้",
+      "source_segment": 8.9,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 12.0,
+      "end": 14.11,
+      "text": "แต่ว่านานๆเหนื่อยอยู่นะมันไม่ได้",
+      "source_segment": 12.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 14.11,
+      "end": 14.75,
+      "text": "ชนะทั้งหมด",
+      "source_segment": 12.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 14.8,
+      "end": 15.3,
+      "text": "เออ",
+      "source_segment": 14.8,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 16.4,
+      "end": 17.8,
+      "text": "อันนี้คือพี่อุดลาวาแล้วเหรอ",
+      "source_segment": 16.4,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 18.4,
+      "end": 19.5,
+      "text": "อุดแล้วทำไม",
+      "source_segment": 18.4,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 20.0,
+      "end": 21.6,
+      "text": "เหี้ยแม่งเหล็กอยู่ด้านหน้าพี่อ่ะ",
+      "source_segment": 20.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 27.0,
+      "end": 29.6,
+      "text": "เยี่ยมเลยไอ้เหี้ยความเจริญ",
+      "source_segment": 27.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 31.3,
+      "end": 32.9,
+      "text": "จริงๆถ้าไอ้ชิบหายละ",
+      "source_segment": 31.3,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 35.3,
+      "end": 37.3,
+      "text": "อุ้ยใช้ได้แล้วเนี่ยตรงนี้เต็มเลยพี่",
+      "source_segment": 35.3,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 39.9,
+      "end": 42.371,
+      "text": "เฮ้ยอย่าใส่ร้ายผมนะโอ้โหผมผมผม",
+      "source_segment": 39.9,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 42.371,
+      "end": 43.5,
+      "text": "ไม่ได้หิวเงินหนา",
+      "source_segment": 39.9,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 44.2,
+      "end": 45.6,
+      "text": "แต่ว่าโดนมา 100 นึงด้วย",
+      "source_segment": 44.2,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 46.3,
+      "end": 47.0,
+      "text": "ใช่ๆ",
+      "source_segment": 46.3,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 48.9,
+      "end": 50.4,
+      "text": "อย่าใส่ร้ายผมนะโอ้โห",
+      "source_segment": 48.9,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 53.6,
+      "end": 55.3,
+      "text": "สัมผัสได้แล้วไอ้เหี้ยฉันได้กลิ่น",
+      "source_segment": 53.6,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 55.4,
+      "end": 57.2,
+      "text": "ไอ้สัตว์เอ้ยสเกเลตัน",
+      "source_segment": 55.4,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 58.7,
+      "end": 59.3,
+      "text": "เก่งหรอ",
+      "source_segment": 58.7,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 59.9,
+      "end": 61.7,
+      "text": "เก่งหรอเก่งหรอ",
+      "source_segment": 59.9,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 62.0,
+      "end": 63.6,
+      "text": "ให้มันอยู่ในลาวาได้ด้วยดิ",
+      "source_segment": 62.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 64.2,
+      "end": 66.026,
+      "text": "มึงลงไปอย่างงั้นเดี๋ยวมึงลืมทางขึ้น",
+      "source_segment": 64.2,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 66.026,
+      "end": 66.6,
+      "text": "มาทำไงวะ",
+      "source_segment": 64.2,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 67.4,
+      "end": 69.674,
+      "text": "พี่พี่คาดหวังอะไรกับผมมากพี่ก็รู้อยู่",
+      "source_segment": 67.4,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 69.674,
+      "end": 71.758,
+      "text": "ว่าผมอ่ะจำทางกลับบ้านไม่ได้อยู่",
+      "source_segment": 67.4,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 71.758,
+      "end": 73.4,
+      "text": "แล้วถ้าเราลงมาถ้ำแล้วอ่ะ",
+      "source_segment": 67.4,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 74.2,
+      "end": 75.8,
+      "text": "Minecraft เวอร์ชั่นไหนเหรอ",
+      "source_segment": 74.2,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 76.2,
+      "end": 78.681,
+      "text": "ตอนนี้เล่น Minecraft เวอร์ชั่น 1.21.1",
+      "source_segment": 76.2,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 78.681,
+      "end": 79.081,
+      "text": "ครับ",
+      "source_segment": 76.2,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 79.2,
+      "end": 80.0,
+      "text": "เอ้ย.11 ครับ",
+      "source_segment": 79.2,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 85.0,
+      "end": 86.7,
+      "text": "พี่ขัดหลังเหมือนพี่กลัวผีอ่ะ",
+      "source_segment": 85.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 88.2,
+      "end": 90.673,
+      "text": "โหพี่ผมทำทำทางเหมือนทำทางซะ",
+      "source_segment": 88.2,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 90.673,
+      "end": 91.4,
+      "text": "VIP เลยอ่ะ",
+      "source_segment": 88.2,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 95.7,
+      "end": 98.139,
+      "text": "โอ้โหแถวนี้แร่เยอะชิบหายเลยไม่มี",
+      "source_segment": 95.7,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 98.139,
+      "end": 99.0,
+      "text": "อะไรเลยชีวิต",
+      "source_segment": 95.7,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 99.5,
+      "end": 100.2,
+      "text": "เอาล่ะ",
+      "source_segment": 99.5,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 102.0,
+      "end": 102.9,
+      "text": "โอ้โห",
+      "source_segment": 102.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 104.7,
+      "end": 105.1,
+      "text": "อุ้ย",
+      "source_segment": 104.7,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 105.6,
+      "end": 107.268,
+      "text": "อุ้ยอุ้ยเดี๋ยวๆๆๆอันนี้อันนี้อันนี้สมควร",
+      "source_segment": 105.6,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 107.268,
+      "end": 108.751,
+      "text": "บล็อกอันนี้สมควรบล็อกมากไอ้เหี้ย",
+      "source_segment": 105.6,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 108.751,
+      "end": 109.4,
+      "text": "เกือบลงหลุมละ",
+      "source_segment": 105.6,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 110.0,
+      "end": 112.133,
+      "text": "แม่งโคตรแย่เลยพี่ไอ้เหี้ยดีนะไม่ลง",
+      "source_segment": 110.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 112.133,
+      "end": 113.9,
+      "text": "หลุมไปเมื่อกี้ไม่งั้นจมลาวาแน่",
+      "source_segment": 110.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 114.5,
+      "end": 114.9,
+      "text": "เออ",
+      "source_segment": 114.5,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 115.2,
+      "end": 116.0,
+      "text": "โอ้เหล็กเยี่ยมเลย",
+      "source_segment": 115.2,
+      "gemini_uncertain": false,
+      "flags": []
+    }
+  ],
+  "qc_required": true,
+  "status": "unreviewed_draft"
+}

@@ -1,0 +1,15 @@
+{
+  "metadata": {
+    "model": "google/gemini-3.8-flash",
+    "timeline_index": 1,
+    "timeline_id": "4720b0bd-a3f4-4106-bdcb-18101a54c2f6",
+    "timeline_name": "เปิดสตรีมทักทายก่อนเริ่มเกม-alien shooter last hope-vdo",
+    "expected_duration_seconds": 90.6,
+    "wav_sha256_note": "hash recorded by transcribe; see audio hash in reviewed artifacts"
+  },
+  "duration_seconds": 90.6,
+  "gemini": {
+    "audio_available": false,
+    "blocked_by_content_filter": true
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "metadata": {
+    "model": "gemini-3-flash-preview",
+    "route": "google-generativeai-direct",
+    "timeline_index": 9,
+    "timeline_id": "f95d96d1-4362-4a0f-803b-125834044a94",
+    "timeline_name": "คุยกับแชทช่วงต้นไลฟ์ เล่าว่าเล่นเกมนี้มาหล-alien shooter-vdo",
+    "expected_duration_seconds": 93.36666666666666,
+    "prompt_token_count": 2528
+  },
+  "duration_seconds": 93.36666666666666,
+  "gemini": {
+    "audio_available": true,
+    "duration_seconds": 94,
+    "segments": [
+      {
+        "start": 3.0,
+        "end": 5.0,
+        "text": "ฮัลโหล เทส 1 2 3 4",
+        "uncertain": false
+      },
+      {
+        "start": 9.0,
+        "end": 14.0,
+        "text": "โอเค ทุกคน ก็สวัสดียามค่ำคืนในเวลาของ...",
+        "uncertain": false
+      },
+      {
+        "start": 20.0,
+        "end": 25.0,
+        "text": "โอ๊ย ปวด... เมื่อย วันนี้วิ่งเยอะไปหน่อย",
+        "uncertain": false
+      },
+      {
+        "start": 30.0,
+        "end": 34.0,
+        "text": "วันนี้อยู่กับเกม Heavy Rain Shooter นะ",
+        "uncertain": false
+      },
+      {
+        "start": 34.0,
+        "end": 39.0,
+        "text": "เป็นเกมที่ค่อนข้างที่จะเก่า",
+        "uncertain": false
+      },
+      {
+        "start": 39.0,
+        "end": 44.0,
+        "text": "แต่จะบอกว่าค่อนข้างก็ไม่ได้ ต้องเรียกว่ามันแก่เลยล่ะ",
+        "uncertain": false
+      },
+      {
+        "start": 47.0,
+        "end": 52.0,
+        "text": "ซึ่ง นั่นแหละนะ เดี๋ยววันนี้มาเล่นกันถือว่าเป็น เอ่อ...",
+        "uncertain": false
+      },
+      {
+        "start": 52.0,
+        "end": 56.0,
+        "text": "ถ้าจะมาตัดเลี่ยนจากพวกแบบเกมแบบว่ายากๆ",
+        "uncertain": false
+      },
+      {
+        "start": 56.0,
+        "end": 58.0,
+        "text": "อย่าง Resident Evil ภาค 4",
+        "uncertain": false
+      },
+      {
+        "start": 58.0,
+        "end": 63.0,
+        "text": "อะไรประมาณนั้น เกมนี้ก็จะค่อนข้างจะธรรมดาๆ อยู่",
+        "uncertain": false
+      },
+      {
+        "start": 63.0,
+        "end": 65.0,
+        "text": "มั้งนะ ส่วนตัวหนูว่าเคยเล่นเกมนี้มา",
+        "uncertain": false
+      },
+      {
+        "start": 65.0,
+        "end": 68.0,
+        "text": "ก็เล่นจบไปหลายรอบแล้ว",
+        "uncertain": false
+      },
+      {
+        "start": 68.0,
+        "end": 73.0,
+        "text": "ซึ่งอาจจะไม่มีอะไรพิเศษมากนัก",
+        "uncertain": false
+      },
+      {
+        "start": 73.0,
+        "end": 78.0,
+        "text": "ธรรมดาๆ เล่นกันไป",
+        "uncertain": false
+      },
+      {
+        "start": 83.0,
+        "end": 88.0,
+        "text": "เดี๋ยวขอไปดู Setting กันดีกว่า",
+        "uncertain": false
+      },
+      {
+        "start": 88.0,
+        "end": 93.0,
+        "text": "เดี๋ยวขอเปลี่ยน Setting แป๊บนึง",
+        "uncertain": false
+      }
+    ],
+    "timing_measurement": "seconds",
+    "uncertainties": [],
+    "segment_count": 16
+  }
+}

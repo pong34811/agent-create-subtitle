@@ -1,0 +1,179 @@
+{
+  "timeline_id": "d3d75d8a-9c67-4a5d-b2a5-65262ae4bdbb",
+  "timeline_name": "ตั้งค่าหน้าจอไลฟ์ เจอวิธีใหม่-alien shooter-vdo",
+  "approved": false,
+  "source_model": "gemini-3-flash-preview",
+  "duration_seconds": 90.88333333333334,
+  "cues": [
+    {
+      "start": 4.5,
+      "end": 5.8,
+      "text": "อันนี้ขยาย",
+      "source_segment": 4.5,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 6.2,
+      "end": 7.0,
+      "text": "อะฮะ",
+      "source_segment": 6.2,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 14.1,
+      "end": 15.2,
+      "text": "อืม",
+      "source_segment": 14.1,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 16.5,
+      "end": 18.0,
+      "text": "จากนั้นอย่างงี้",
+      "source_segment": 16.5,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 23.5,
+      "end": 28.5,
+      "text": "อืมอือ",
+      "source_segment": 23.5,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 32.5,
+      "end": 34.8,
+      "text": "อืมอือ",
+      "source_segment": 32.5,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 35.2,
+      "end": 37.0,
+      "text": "ทำหน้าใหม่เลยเหรอคะ",
+      "source_segment": 35.2,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 38.1,
+      "end": 41.5,
+      "text": "ทำหน้าใหม่เลยเหรอคะขณะที่เจมส์ทำเนี่ยเพราะ",
+      "source_segment": 38.1,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 42.2,
+      "end": 43.8,
+      "text": "โอ้อย่างงั้น",
+      "source_segment": 42.2,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 44.5,
+      "end": 46.2,
+      "text": "อุ๊ยลืมใช้ของพรีเมียม",
+      "source_segment": 44.5,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 49.2,
+      "end": 52.5,
+      "text": "ลืมไปเราสามารถใช้ของพรีเมียมได้นี่",
+      "source_segment": 49.2,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 53.5,
+      "end": 55.8,
+      "text": "เฮ้ยจีเนียส",
+      "source_segment": 53.5,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 57.2,
+      "end": 59.5,
+      "text": "ทำไมคิดไม่ได้ตอนนั้นนะ",
+      "source_segment": 57.2,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 60.5,
+      "end": 61.8,
+      "text": "อะฮะ",
+      "source_segment": 60.5,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 67.5,
+      "end": 69.2,
+      "text": "แอดก่อนแอดก่อน",
+      "source_segment": 67.5,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 70.2,
+      "end": 71.0,
+      "text": "เอ๊ะ",
+      "source_segment": 70.2,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 78.5,
+      "end": 80.2,
+      "text": "อ่าอันนี้มา",
+      "source_segment": 78.5,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 81.2,
+      "end": 82.0,
+      "text": "เอฟเฟกต์",
+      "source_segment": 81.2,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 83.2,
+      "end": 85.5,
+      "text": "แอดด้วยท่าทางใหม่",
+      "source_segment": 83.2,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 86.2,
+      "end": 87.0,
+      "text": "สิ",
+      "source_segment": 86.2,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 88.2,
+      "end": 89.5,
+      "text": "ลองดู",
+      "source_segment": 88.2,
+      "gemini_uncertain": false,
+      "flags": []
+    }
+  ],
+  "qc_required": true,
+  "status": "unreviewed_draft"
+}

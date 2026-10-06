@@ -1,0 +1,135 @@
+{
+  "metadata": {
+    "model": "gemini-3.5-flash",
+    "route": "google-generativeai-direct",
+    "timeline_index": 25,
+    "timeline_id": "c36ae3b0-6f93-401e-bf07-9b13cb8fb3a1",
+    "timeline_name": "กดเล่นแล้วเกมเด้ง ลบโหลดใหม่เลย-alien shooter 2-vdo",
+    "expected_duration_seconds": 107.76666666666667,
+    "prompt_token_count": 2929
+  },
+  "duration_seconds": 107.76666666666667,
+  "gemini": {
+    "audio_available": true,
+    "duration_seconds": 107.8,
+    "segments": [
+      {
+        "start": 3.1,
+        "end": 5.2,
+        "text": "กด play เลยพี่",
+        "uncertain": false
+      },
+      {
+        "start": 7.1,
+        "end": 14.5,
+        "text": "นี่เป็นไงพี่ เป็นไงเป็นไง Windows desktop มาแล้ว เป็นไง โหพี่อย่างหรู ดูน้องดูน้อง อ้าวเชี่ยเกมแครช",
+        "uncertain": false
+      },
+      {
+        "start": 16.5,
+        "end": 19.5,
+        "text": "ลบเกม ลบเกมโหลดใหม่แม่งเลยพี่",
+        "uncertain": false
+      },
+      {
+        "start": 20.1,
+        "end": 26.8,
+        "text": "วิถีลูกผู้ชายเหรอพี่ ใช่ทูพี่ เชี่ยเกมแครช",
+        "uncertain": false
+      },
+      {
+        "start": 27.5,
+        "end": 34.8,
+        "text": "ไม่ เคได้วิธีแบบว่าทำเป็น เอ่อ สกรีนแล้วคุณพอล พี่เคตั้งเปิด notepad อยู่เมื่อกี้",
+        "uncertain": false
+      },
+      {
+        "start": 35.1,
+        "end": 42.5,
+        "text": "อ้าว แล้วรู้อยู่ เปลี่ยนยังไง ตัวตั้งค่ามันยังไงอะ เออ Minecraft ผมก็ทำอยู่ มันมีม็อดบางอันที่มันจำกัดเร็วไว้",
+        "uncertain": false
+      },
+      {
+        "start": 44.5,
+        "end": 51.5,
+        "text": "วิธี วิธีคุณพอลอะลองแล้วเหมือนกัน แต่ว่าไม่ เอ่อ แล้วพี่กด กดเริ่มเลย",
+        "uncertain": false
+      },
+      {
+        "start": 52.1,
+        "end": 56.8,
+        "text": "อึ้ก ผมมองไม่เห็นด้วยไงว่าเป็นยังไงบ้าง ดูไม่ได้",
+        "uncertain": false
+      },
+      {
+        "start": 57.8,
+        "end": 60.8,
+        "text": "ทำไมมันถึงแครชวะ",
+        "uncertain": false
+      },
+      {
+        "start": 61.1,
+        "end": 64.8,
+        "text": "เออ บอกว่าเล่นเวอร์ชันนี้แล้วแครชด้วยนะ",
+        "uncertain": false
+      },
+      {
+        "start": 65.1,
+        "end": 68.8,
+        "text": "พี่แอนตี้ไวรัสไหม เออ ปิดแม่งเลยดิ",
+        "uncertain": false
+      },
+      {
+        "start": 69.1,
+        "end": 76.0,
+        "text": "เผื่อมันมอง เผื่อมันมอง เผื่อมันมองว่าเกมอินดี้ชูตเตอร์อาจจะเป็นสแกมเมอร์ก็ได้นะพี่ ปิดไปสักวันนึงอะ",
+        "uncertain": false
+      },
+      {
+        "start": 76.1,
+        "end": 80.0,
+        "text": "เป็นไปได้ ไอ้เพอนั่นแหละ แล้วก็เลือก 1 day ไปเลย",
+        "uncertain": false
+      },
+      {
+        "start": 80.1,
+        "end": 85.0,
+        "text": "แอนตี้ไวรัสแม่งยิ่งเอ๋อๆ อยู่",
+        "uncertain": false
+      },
+      {
+        "start": 85.1,
+        "end": 89.0,
+        "text": "ตัวของพี่เค้าอะสมควรอะ",
+        "uncertain": false
+      },
+      {
+        "start": 89.1,
+        "end": 95.0,
+        "text": "ไม่ กำลัง กำลังนึกอยู่ ทำ ทำไมเกมแครชวะ",
+        "uncertain": false
+      },
+      {
+        "start": 95.1,
+        "end": 100.0,
+        "text": "แล้วพี่เคก็เพิ่งจะหอนว่าเกมนี้แม่งไม่ถึงวัน",
+        "uncertain": false
+      },
+      {
+        "start": 100.1,
+        "end": 104.0,
+        "text": "อือ อะน่อ อะน่อ",
+        "uncertain": false
+      },
+      {
+        "start": 104.1,
+        "end": 107.0,
+        "text": "ไปทำอะไรมาไหมเนี่ย",
+        "uncertain": false
+      }
+    ],
+    "timing_measurement": "waveform",
+    "uncertainties": [],
+    "segment_count": 19
+  }
+}

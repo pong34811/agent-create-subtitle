@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "model": "gemini-3.5-flash-lite",
+    "route": "google-generativeai-direct",
+    "timeline_index": 47,
+    "timeline_id": "4c7555ea-2f61-4214-88a7-877c809e14df",
+    "timeline_name": "ออกเมื่อไหร่มีตายเมื่อนั้น-League of Legends-vdo",
+    "expected_duration_seconds": 59.833333333333336,
+    "prompt_token_count": 1689
+  },
+  "duration_seconds": 59.833333333333336,
+  "gemini": {
+    "audio_available": true,
+    "duration_seconds": 60.29,
+    "segments": [
+      {
+        "start": 1.84,
+        "end": 3.5,
+        "text": "ยิง เซต ก็ โดน เซต กระทืบ",
+        "uncertain": false
+      },
+      {
+        "start": 4.1,
+        "end": 5.92,
+        "text": "ยิง การ เรียน ก็ โดน หมุน แน่ ๆ",
+        "uncertain": false
+      },
+      {
+        "start": 6.02,
+        "end": 7.8,
+        "text": "ยิง แฟน ก็ ไม่ ได้ อีก ติด โล่",
+        "uncertain": false
+      },
+      {
+        "start": 8.22,
+        "end": 10.66,
+        "text": "ยิง ดาวิน ไม่ ได้ ติด โซน่า",
+        "uncertain": false
+      },
+      {
+        "start": 11.14,
+        "end": 12.18,
+        "text": "มี ใคร ได้ บ้าง เนี่ย",
+        "uncertain": false
+      },
+      {
+        "start": 13.14,
+        "end": 14.44,
+        "text": "หนี ไป ไม่ เป็น แล้ว ตอน นี้ สั่น ไป",
+        "uncertain": false
+      },
+      {
+        "start": 24.64,
+        "end": 25.32,
+        "text": "เออ เรา มี รีซิน ด้วย",
+        "uncertain": false
+      },
+      {
+        "start": 25.86,
+        "end": 27.7,
+        "text": "เรา เชื่อ มัน รีซิน มัน ช่วย เรา ได้",
+        "uncertain": false
+      },
+      {
+        "start": 28.32,
+        "end": 29.34,
+        "text": "เชื่อ ใน ตัว รีซิน",
+        "uncertain": false
+      },
+      {
+        "start": 33.28,
+        "end": 34.82,
+        "text": "เอา ซื้อ อัน นั้น ดี กว่า",
+        "uncertain": false
+      },
+      {
+        "start": 39.06,
+        "end": 40.04,
+        "text": "ไอเทม มีม",
+        "uncertain": false
+      },
+      {
+        "start": 42.06,
+        "end": 43.14,
+        "text": "อ๋อ หรอ เพื่อน ขาด",
+        "uncertain": false
+      },
+      {
+        "start": 45.16,
+        "end": 46.54,
+        "text": "อ๋อ เมื่อ ไหร่ มึง ตาย เมื่อ นั้น",
+        "uncertain": false
+      },
+      {
+        "start": 47.7,
+        "end": 52.18,
+        "text": "ออก ไป แหละ ไอ้ ตา นั้น สกอร์ จะ พุ่ง ขึ้น เลย ตรง กลาง อ่ะ สกอร์ ตรง กลาง อ่ะ",
+        "uncertain": false
+      },
+      {
+        "start": 53.94,
+        "end": 55.76,
+        "text": "คิว แอสซิน จะ ไม่ มี",
+        "uncertain": false
+      },
+      {
+        "start": 56.34,
+        "end": 59.76,
+        "text": "แล้ว แล้ว แบบ สมมุติ ว่า ถ้า มัน แบบ ออก มา ดี",
+        "uncertain": false
+      }
+    ],
+    "timing_measurement": "dynamic",
+    "segment_count": 16
+  }
+}

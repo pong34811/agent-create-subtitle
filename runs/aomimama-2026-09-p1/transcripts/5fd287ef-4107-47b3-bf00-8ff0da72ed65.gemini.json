@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "model": "gemini-3.5-flash-lite",
+    "route": "google-generativeai-direct",
+    "timeline_index": 8,
+    "timeline_id": "5fd287ef-4107-47b3-bf00-8ff0da72ed65",
+    "timeline_name": "จบเกมในครั้งเดียว-alien shooter last hope-vdo",
+    "expected_duration_seconds": 57.96666666666667,
+    "prompt_token_count": 1643
+  },
+  "duration_seconds": 57.96666666666667,
+  "gemini": {
+    "audio_available": true,
+    "duration_seconds": 58,
+    "segments": [
+      {
+        "start": 12.38,
+        "end": 13.98,
+        "text": "อีตายายจบแล้ว",
+        "uncertain": false
+      },
+      {
+        "start": 19.38,
+        "end": 20.44,
+        "text": "เอ้ เป็นยังไง",
+        "uncertain": false
+      },
+      {
+        "start": 23.36,
+        "end": 24.78,
+        "text": "อื้อ",
+        "uncertain": false
+      },
+      {
+        "start": 25.86,
+        "end": 27.66,
+        "text": "ฮะโหล เออ ฮัลโหลพี่",
+        "uncertain": false
+      },
+      {
+        "start": 28.02,
+        "end": 28.78,
+        "text": "อ้าว เป็นไง",
+        "uncertain": false
+      },
+      {
+        "start": 29.18,
+        "end": 30.12,
+        "text": "อื้อ",
+        "uncertain": false
+      },
+      {
+        "start": 30.58,
+        "end": 36.36,
+        "text": "เขาบอกเขาว่า ลืม ลืม พากย์ เอ้ย ถ่ายพากย์ ลืม เปิด เนี่ย ลืม พากย์ ทาง นั้น มีเคหุ ด้วย",
+        "uncertain": false
+      },
+      {
+        "start": 37.16,
+        "end": 39.84,
+        "text": "ไอ้เหี้ยจบ ไปได้ไลฟ์เดียวว่ะ พี่",
+        "uncertain": false
+      },
+      {
+        "start": 42.92,
+        "end": 45.66,
+        "text": "อยากลั่นเลยไอ้เหี้ย ไลฟ์ละเกมเลยว่ะ",
+        "uncertain": false
+      },
+      {
+        "start": 46.1,
+        "end": 57.08,
+        "text": "ไป ไป ไป แค่ นาที ด้วย เค เพราะว่า เพราะพี่บอกว่าทำไมพี่มี อะไรเคค้างไว้ อ่ะ มันมีเพิ่มพาดสอ สอง อะไรที่กูว่า มันไปแค่ นาที ด้วย",
+        "uncertain": false
+      }
+    ],
+    "timing_measurement": "frame",
+    "segment_count": 10
+  }
+}

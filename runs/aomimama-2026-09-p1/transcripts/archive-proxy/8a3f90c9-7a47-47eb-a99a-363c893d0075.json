@@ -1,0 +1,15 @@
+{
+  "metadata": {
+    "model": "google/gemini-3.8-flash",
+    "timeline_index": 3,
+    "timeline_id": "8a3f90c9-7a47-47eb-a99a-363c893d0075",
+    "timeline_name": "ฝูงเอเลี่ยนบุกจนร้องลั่น-alien shooter last hope-vdo",
+    "expected_duration_seconds": 72.8,
+    "wav_sha256_note": "hash recorded by transcribe; see audio hash in reviewed artifacts"
+  },
+  "duration_seconds": 72.8,
+  "gemini": {
+    "audio_available": false,
+    "blocked_by_content_filter": true
+  }
+}

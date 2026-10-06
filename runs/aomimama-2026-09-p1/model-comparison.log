@@ -1,0 +1,64 @@
+
+==============================================================================
+FILE index=1  intro/hi (90.6s)  expected=90.6s  เปิดสตรีมทักทายก่อนเริ่มเกม-alien shoote
+==============================================================================
+
+--- gemini-2.5-flash [21.3s] ---
+{
+ "duration": 90.0,
+ "segments": 16,
+ "timing": "seconds",
+ "text": "แล้ว วัน นี้ ก็ ยัง ทํา เหมือน เดิม นะ ครับ ของ คุณ ด้วย นะ อืม วัน นี้ อยู่ คอนหนัด มี เอเลี่ยนฮันเตอร์ ภาค รัฐ ครบ นะ ก็ น่า จะ เหมือน เดิม นะ คือ เดี๋ยว พัก สัก พัก นึง ก็ เหมือน เดิม เปิด เกม พบ กับ ต้อง มา เซ็ต เครื่อง นิด นึง เพราะ ว่า นั่น แหละ เอา เป็น เกม เก่า เนาะ ต้อง ขอ อภัย ท่าน ผู้ ชม ด้วย นี่ ฮะ นี่ ฮะ เอ๊ะ โอ้ เดี๋ยว นะ ก็ อยู่ พัก ก่อน",
+ "chars": 354,
+ "uncertain": 0
+}
+
+--- gemini-3.1-flash-lite [5.8s] ---
+{
+ "duration": 130.0,
+ "segments": 11,
+ "timing": "manual",
+ "text": "ฮัลโหล วันนี้วันหยุดพักผ่อนแล้วนะลา สองทุ่มแล้วนะ วันนี้วันหยุดเอมเอมเรียนพิเศษภาคค่ำครบนะ ก็ถ้าทำเหมือนเดิมนะคือเดี๋ยวจะปิดร้าน แต่คนเหมือนเดิมเปิดเกมส์ผมเปิดเข้ามาเช็คอีกนิดนึงเพราะว่านั่นแหละ ไปดูเกมส์เก่าแล้วก็ขอเวลาเช็คอีก มีฮะมีค่ะ เอ๊ะ โอ้ เดี๋ยวนะ ต้องอยู่คนเดียว",
+ "chars": 271,
+ "uncertain": 0
+}
+
+--- gemini-flash-latest [HTTP 503] {   "error": {     "code": 503,     "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",     "status": "UNAVAILABLE"   } } 
+
+--- gemini-3-flash-preview [HTTP 429] {   "error": {     "code": 429,     "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-a
+
+--- gemini-2.5-flash (no schema) [23.0s] ---
+{
+ "duration": 90.0,
+ "segments": 15,
+ "timing": "precise",
+ "text": "เฮลโหล เฮลโหล วันนี้ก็ยังทักทายเหมือนเดิมนะ ขอคุยด้วยนะ อืม วันนี้อยู่กับนัก เกมเมอร์ เอเลี่ยน ชูตเตอร์ ภาคลับ โค้ดนะ ก็หน้าตาเหมือนเดิมนะ คือเดี๋ยวพักอีกครั้ง เฮลโหล ก็เหมือนเดิม เปิดเกมพบกับ เข้ามาเซ็ตติ้งนิดนึงเพราะว่า นั่นแหละ เป็นเกมเก่าเนาะ ต้องขออภัย ซะที นี่ฮะ นี่ฮะ โอเค เอ๊ะ โอ้ เดี๋ยวนะ ก็อยู่กับเขา",
+ "chars": 310,
+ "uncertain": 0
+}
+
+--- whisper-large-v3 (no schema) [HTTP 403] error code: 1010 
+
+==============================================================================
+FILE index=23  few-segment suspect (110s)  expected=110.0s  กวาดศัตรูในฐานมืด-alien shooter 2-vdo
+==============================================================================
+
+--- gemini-2.5-flash [HTTP 429] {   "error": {     "code": 429,     "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-a
+
+--- gemini-3.1-flash-lite [7.3s] ---
+{
+ "duration": 150,
+ "segments": 1,
+ "timing": "seconds",
+ "text": "เฮ้ย ยิงไล่หมาหรอเนี่ย เพื่อนมันนินด่วนเนี่ย",
+ "chars": 44,
+ "uncertain": 0
+}
+
+--- gemini-flash-latest [HTTP 503] {   "error": {     "code": 503,     "message": "This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.",     "status": "UNAVAILABLE"   } } 
+
+--- gemini-3-flash-preview [HTTP 429] {   "error": {     "code": 429,     "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-a
+
+--- gemini-2.5-flash (no schema) [HTTP 429] {   "error": {     "code": 429,     "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-a
+
+--- whisper-large-v3 (no schema) [HTTP 403] error code: 1010 

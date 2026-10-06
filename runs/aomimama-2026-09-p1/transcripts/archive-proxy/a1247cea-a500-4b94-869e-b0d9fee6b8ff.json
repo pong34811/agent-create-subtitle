@@ -1,0 +1,15 @@
+{
+  "metadata": {
+    "model": "google/gemini-3.8-flash",
+    "timeline_index": 2,
+    "timeline_id": "a1247cea-a500-4b94-869e-b0d9fee6b8ff",
+    "timeline_name": "ตามหาห้องที่หายไป-alien shooter last hope-vdo",
+    "expected_duration_seconds": 92.15,
+    "wav_sha256_note": "hash recorded by transcribe; see audio hash in reviewed artifacts"
+  },
+  "duration_seconds": 92.15,
+  "gemini": {
+    "audio_available": false,
+    "blocked_by_content_filter": true
+  }
+}

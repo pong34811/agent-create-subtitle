@@ -1,0 +1,139 @@
+{
+  "timeline_id": "a1247cea-a500-4b94-869e-b0d9fee6b8ff",
+  "timeline_name": "ตามหาห้องที่หายไป-alien shooter last hope-vdo",
+  "approved": false,
+  "source_model": "gemini-3-flash-preview",
+  "duration_seconds": 92.15,
+  "cues": [
+    {
+      "start": 0.9,
+      "end": 2.05,
+      "text": "เฮ้ยหาไม่เจอ",
+      "source_segment": 0.9,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 2.1,
+      "end": 4.5,
+      "text": "เฮ้ยกุญแจหายหาไม่เจอ",
+      "source_segment": 2.1,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 4.8,
+      "end": 6.2,
+      "text": "อยู่ไหนวะ",
+      "source_segment": 4.8,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 20.1,
+      "end": 23.5,
+      "text": "เฮ้ยแถวกำแพงก็ไม่มีนะไม่เห็นเลยอะ",
+      "source_segment": 20.1,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 32.1,
+      "end": 34.672,
+      "text": "เหลือห้องสุดท้ายแล้วมั้งฮะใช่หาไม่เจอห้อง",
+      "source_segment": 32.1,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 34.672,
+      "end": 35.072,
+      "text": "สุดท้าย",
+      "source_segment": 32.1,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 35.1,
+      "end": 36.5,
+      "text": "หาไม่เจอ",
+      "source_segment": 35.1,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 49.1,
+      "end": 50.5,
+      "text": "นี่ก็ไม่มีเหรอ",
+      "source_segment": 49.1,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 52.5,
+      "end": 54.5,
+      "text": "มันหลุดออกไปแล้วมั้งวะ",
+      "source_segment": 52.5,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 59.1,
+      "end": 62.45,
+      "text": "ถ้ามันมีห้าหินประดับก็น่าจะอยู่ห้องเมื่อกี้",
+      "source_segment": 59.1,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 62.5,
+      "end": 64.1,
+      "text": "มันอยู่ไหน",
+      "source_segment": 62.5,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 75.1,
+      "end": 77.1,
+      "text": "เฮ้ยห้องนั้นเข้าไม่ได้นี่",
+      "source_segment": 75.1,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 78.1,
+      "end": 81.031,
+      "text": "มันมีความเป็นไปได้อยู่สองอย่างก็คือหนึ่งห้าหิน",
+      "source_segment": 78.1,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 81.031,
+      "end": 81.45,
+      "text": "ประดับ",
+      "source_segment": 78.1,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 81.5,
+      "end": 85.45,
+      "text": "กับสองห้องหน้าเป็นห้องที่โดนล็อกไปแล้ว",
+      "source_segment": 81.5,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 85.5,
+      "end": 88.5,
+      "text": "ก็คือเข้าไปไม่ได้อีกแล้ว",
+      "source_segment": 85.5,
+      "gemini_uncertain": false,
+      "flags": []
+    }
+  ],
+  "qc_required": true,
+  "status": "unreviewed_draft"
+}

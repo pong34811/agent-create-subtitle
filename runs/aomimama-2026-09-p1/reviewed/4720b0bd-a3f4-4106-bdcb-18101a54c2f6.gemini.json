@@ -1,0 +1,123 @@
+{
+  "timeline_id": "4720b0bd-a3f4-4106-bdcb-18101a54c2f6",
+  "timeline_name": "เปิดสตรีมทักทายก่อนเริ่มเกม-alien shooter last hope-vdo",
+  "approved": false,
+  "source_model": "gemini-3-flash-preview",
+  "duration_seconds": 90.6,
+  "cues": [
+    {
+      "start": 10.5,
+      "end": 12.5,
+      "text": "ฮัลโหล",
+      "source_segment": 10.5,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 13.0,
+      "end": 15.5,
+      "text": "ฮัลโหล",
+      "source_segment": 13.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 16.5,
+      "end": 22.5,
+      "text": "วันนี้พยายามทำฟิล์มได้เวลา 2 ทุ่มด้วยนะ",
+      "source_segment": 16.5,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 23.0,
+      "end": 24.5,
+      "text": "อืม",
+      "source_segment": 23.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 27.5,
+      "end": 32.451,
+      "text": "วันนี้อยู่กับเกม Alien Shooter ภาค",
+      "source_segment": 27.5,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 32.451,
+      "end": 34.5,
+      "text": "Vengeance นะ",
+      "source_segment": 27.5,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 35.5,
+      "end": 40.5,
+      "text": "ก็น่าจะทำเหมือนเดิมนะคือเดี๋ยวจะอัดหนัง",
+      "source_segment": 35.5,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 49.5,
+      "end": 53.32,
+      "text": "เดี๋ยวต้องเหมือนเดิมปล่อยเกมฟุ้งซ่านต้องมา",
+      "source_segment": 49.5,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 53.32,
+      "end": 57.253,
+      "text": "เช็คดิสก์นิดนึงเพราะว่านั่นแหละเป็นเกมเก่า",
+      "source_segment": 49.5,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 57.253,
+      "end": 59.5,
+      "text": "เนาะต้องขอเวลาเช็คดิสก์",
+      "source_segment": 49.5,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 60.5,
+      "end": 62.5,
+      "text": "นี่ฮะนี่ฮะ",
+      "source_segment": 60.5,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 83.0,
+      "end": 85.0,
+      "text": "เอ๊ะโอ้",
+      "source_segment": 83.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 86.0,
+      "end": 87.5,
+      "text": "เดี๋ยวนะ",
+      "source_segment": 86.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 88.0,
+      "end": 90.0,
+      "text": "รู้อยู่พอสมควร",
+      "source_segment": 88.0,
+      "gemini_uncertain": false,
+      "flags": []
+    }
+  ],
+  "qc_required": true,
+  "status": "unreviewed_draft"
+}

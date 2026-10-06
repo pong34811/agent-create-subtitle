@@ -1,0 +1,203 @@
+{
+  "timeline_id": "59ff8512-7507-4892-a807-90e4ab1e8b69",
+  "timeline_name": "พี่จ๋าช่วยด้วย เรือไปไหนวะ-Minecraft-vdo",
+  "approved": false,
+  "source_model": "gemini-3.5-flash",
+  "duration_seconds": 93.63333333333334,
+  "cues": [
+    {
+      "start": 0.0,
+      "end": 2.95,
+      "text": "อ้าวชิบหายละเมื่อกี้ยังกดออกได้อยู่เลยโอเค",
+      "source_segment": 0.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 3.0,
+      "end": 4.95,
+      "text": "โอเค",
+      "source_segment": 3.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 5.0,
+      "end": 6.95,
+      "text": "แล้วเราทำไง",
+      "source_segment": 5.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 7.0,
+      "end": 9.95,
+      "text": "มันต้องดันหรือต้องพายวะพี่",
+      "source_segment": 7.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 10.0,
+      "end": 10.5,
+      "text": "ต้องพายดิว่าแต่เอาเรือมาทำไมเนี่ย",
+      "source_segment": 10.0,
+      "gemini_uncertain": false,
+      "flags": [
+        "overlap_merged"
+      ]
+    },
+    {
+      "start": 10.55,
+      "end": 11.1,
+      "text": "คุมเรือเป็นไหมเนี่ยนี่พี่ขี่อันนี้ดิผมขี่เรือมันก็โดดไม่ได้",
+      "source_segment": 10.4,
+      "gemini_uncertain": false,
+      "flags": [
+        "start_clipped_to_previous",
+        "overlap_merged"
+      ]
+    },
+    {
+      "start": 11.15,
+      "end": 11.7,
+      "text": "เนี่ยเออผมจะไปทางนี้เฮ้ยๆพี่ใจเย็นเฮ้ยๆๆๆคุยคุยค่อยฆ่ากัน",
+      "source_segment": 11.0,
+      "gemini_uncertain": false,
+      "flags": [
+        "start_clipped_to_previous",
+        "overlap_merged"
+      ]
+    },
+    {
+      "start": 11.75,
+      "end": 12.5,
+      "text": "ฮัลโหลยังไม่ได้ทำอะไรเลยเคมึงอ่ะมึงมึงทำตัวมึงเองอ่ะกด Shift ขวานั่งหน้าแล้วพายพายไอ้เหี้ยเอ๊ยเกือบละ",
+      "source_segment": 11.3,
+      "gemini_uncertain": false,
+      "flags": [
+        "start_clipped_to_previous",
+        "overlap_merged",
+        "overlap_merged",
+        "overlap_merged",
+        "overlap_merged"
+      ]
+    },
+    {
+      "start": 12.7,
+      "end": 13.1,
+      "text": "แง้นๆไปละไอ้เหี้ยเจอกัน",
+      "source_segment": 12.7,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 13.15,
+      "end": 13.55,
+      "text": "โอ้โหแม่งทางแม่งโคตรไม่สมประกอบอ่ะ",
+      "source_segment": 13.0,
+      "gemini_uncertain": false,
+      "flags": [
+        "start_clipped_to_previous"
+      ]
+    },
+    {
+      "start": 15.0,
+      "end": 18.0,
+      "text": "ได้โตเกียวดริฟต์ละเจอกันแง้นๆ",
+      "source_segment": 15.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 19.0,
+      "end": 22.0,
+      "text": "ไอ้เหี้ยเอ๊ยแม่งทางโคตรทรหดอ่ะ",
+      "source_segment": 19.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 27.0,
+      "end": 28.95,
+      "text": "แง้นๆ",
+      "source_segment": 27.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 29.0,
+      "end": 31.95,
+      "text": "พี่ตาช่วยด้วย",
+      "source_segment": 29.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 32.0,
+      "end": 34.95,
+      "text": "พี่ช่วยด้วย",
+      "source_segment": 32.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 35.0,
+      "end": 38.95,
+      "text": "เหี้ยอยู่ข้างบนพี่",
+      "source_segment": 35.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 39.0,
+      "end": 42.0,
+      "text": "พี่ช่วยด้วย",
+      "source_segment": 39.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 45.0,
+      "end": 47.95,
+      "text": "ช่วยด้วยยังไง",
+      "source_segment": 45.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 48.0,
+      "end": 49.95,
+      "text": "พี่ทุบให้หน่อย",
+      "source_segment": 48.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 50.0,
+      "end": 51.95,
+      "text": "ห้ะ",
+      "source_segment": 50.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 52.0,
+      "end": 53.95,
+      "text": "พี่ทุบให้หน่อย",
+      "source_segment": 52.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 54.0,
+      "end": 58.0,
+      "text": "รีบมาทุบตรงนี้ให้หน่อยเห็นตรงหน้าผมไหมเออ",
+      "source_segment": 54.0,
+      "gemini_uncertain": false,
+      "flags": []
+    }
+  ],
+  "qc_required": true,
+  "status": "unreviewed_draft"
+}

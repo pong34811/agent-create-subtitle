@@ -1,0 +1,99 @@
+{
+  "timeline_id": "b99149a7-7693-4f2e-bafe-b493e2bc889e",
+  "timeline_name": "ล่อบอสตัวเหนียวจนเหนื่อย-alien shooter last hope-vdo",
+  "approved": false,
+  "source_model": "gemini-3-flash-preview",
+  "duration_seconds": 149.18333333333334,
+  "cues": [
+    {
+      "start": 47.0,
+      "end": 47.95,
+      "text": "เอาล่ะได้เวลา",
+      "source_segment": 47,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 48.0,
+      "end": 50.0,
+      "text": "ย้าาาาา",
+      "source_segment": 48,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 56.0,
+      "end": 59.0,
+      "text": "เอามาสู้เอามาให้ตายไอ้เหี้ย",
+      "source_segment": 56,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 77.0,
+      "end": 81.985,
+      "text": "เพิ่งทำเองโหคลิปมันเยอะอ่ะไม่ถึงไม่ไหวอ่ะ",
+      "source_segment": 77,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 81.985,
+      "end": 86.0,
+      "text": "มันเพิ่งทำอ่ะดูดิมันเยอะฉิบหายเลยอ่ะ",
+      "source_segment": 77,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 92.0,
+      "end": 94.0,
+      "text": "มันหายไปไหนเนี่ย",
+      "source_segment": 92,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 95.0,
+      "end": 96.95,
+      "text": "หรือว่ามีคนมาขโมยวะ",
+      "source_segment": 95,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 97.0,
+      "end": 98.0,
+      "text": "งงว่ะ",
+      "source_segment": 97,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 105.0,
+      "end": 107.0,
+      "text": "ไม่เกี่ยวหรอกอือ",
+      "source_segment": 105,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 134.0,
+      "end": 138.235,
+      "text": "แป๊บนึงนะใช้เหรียญทั้งหมดแล้วอ่ะมันเพิ่งได้ครึ่ง",
+      "source_segment": 134,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 138.235,
+      "end": 140.0,
+      "text": "เดียวเองอ่ะไอ้เหี้ย",
+      "source_segment": 134,
+      "gemini_uncertain": false,
+      "flags": []
+    }
+  ],
+  "qc_required": true,
+  "status": "unreviewed_draft"
+}

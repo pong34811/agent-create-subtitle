@@ -1,0 +1,116 @@
+{
+  "metadata": {
+    "model": "gemini-3.5-flash-lite",
+    "route": "google-generativeai-direct",
+    "timeline_index": 42,
+    "timeline_id": "d1abfb93-c076-4cb7-815d-ef1624b97d8d",
+    "timeline_name": "ออกไม่ได้เลยวะ ฮ่าๆๆ-Minecraft-vdo",
+    "expected_duration_seconds": 75.0,
+    "prompt_token_count": 2068
+  },
+  "duration_seconds": 75.0,
+  "gemini": {
+    "audio_available": true,
+    "duration_seconds": 74.83,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 5.42,
+        "text": "ไอ้ เหี้ย ผม น่ะ เอา เอเมอรัลด์ แรก ผม ได้ ผม ซ่อม จาก ใกล้ พัง แม่ง กลาย มา ครึ่ง นึง",
+        "uncertain": false
+      },
+      {
+        "start": 5.42,
+        "end": 8.16,
+        "text": "อัน นี้ คือ พี่ จะ วาง บล็อก หรือ พี่ จะ ไป ทำ อะไร",
+        "uncertain": false
+      },
+      {
+        "start": 9.42,
+        "end": 10.42,
+        "text": "ฮึ้ย อ่า มัน ทำ ตาม",
+        "uncertain": false
+      },
+      {
+        "start": 10.42,
+        "end": 13.92,
+        "text": "อ๋อ",
+        "uncertain": false
+      },
+      {
+        "start": 13.92,
+        "end": 16.92,
+        "text": "มึง ทำ มัน ทำ",
+        "uncertain": false
+      },
+      {
+        "start": 16.92,
+        "end": 26.68,
+        "text": "ไอ้ เหี้ย อ้าว เอา เฮ้ย ๆ ๆ",
+        "uncertain": false
+      },
+      {
+        "start": 26.68,
+        "end": 33.18,
+        "text": "เออ ๆ มัน มา อย่าง นี้ มึง เอา ผ่าน ทาง หัว มึง ใช่ มั้ย ไอ้ เหี้ย",
+        "uncertain": false
+      },
+      {
+        "start": 33.18,
+        "end": 37.92,
+        "text": "เอ้อ เอ้อ เอ้อ ไอ้ เหี้ย",
+        "uncertain": false
+      },
+      {
+        "start": 37.92,
+        "end": 39.12,
+        "text": "อัน นี้ เอ็น นี้",
+        "uncertain": false
+      },
+      {
+        "start": 39.12,
+        "end": 42.66,
+        "text": "อ่า ผม บอก แล้ว นะ ว่า ตะกรรม พี่ มัน มี ปัญหา นี่",
+        "uncertain": false
+      },
+      {
+        "start": 42.66,
+        "end": 50.12,
+        "text": "ฮ่าๆๆ พี่ เนี่ย มัน เอา ไม่ ได้ เล่ห์ ฮ่าๆๆ",
+        "uncertain": false
+      },
+      {
+        "start": 50.12,
+        "end": 54.34,
+        "text": "ไอ้ เหี้ย อ้าว เหี้ย อะไร วะ เนี่ย ออก ละ",
+        "uncertain": false
+      },
+      {
+        "start": 54.34,
+        "end": 60.18,
+        "text": "เอ้อ เหี้ย เหลือ เหลือ ครับวก ทำไม มัน ทำไม มา โจม มา เว้ย มา โจม ไม้ มา เดิน ออก หน้า มา อีก เหรอ",
+        "uncertain": false
+      },
+      {
+        "start": 60.18,
+        "end": 63.48,
+        "text": "ใช่ ต้อง หา บล็อก อะไร มา ปิด อ่า",
+        "uncertain": false
+      },
+      {
+        "start": 63.48,
+        "end": 67.38,
+        "text": "เดี๋ยว ผม เอา เอา ไอ้ เอา ไอ้ เอา แตงโม มา แลก แป๊บ",
+        "uncertain": false
+      },
+      {
+        "start": 67.38,
+        "end": 74.83,
+        "text": "ไหน ดู ซิ 35 อัน ที่ คุณ ผม จะ ปิด",
+        "uncertain": false
+      }
+    ],
+    "timing_measurement": "dynamic",
+    "segment_count": 16
+  }
+}

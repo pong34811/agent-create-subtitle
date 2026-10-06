@@ -1,0 +1,264 @@
+{
+  "metadata": {
+    "model": "chunked:gemini-3.5-flash-lite",
+    "route": "google-generativeai-direct",
+    "timeline_index": 41,
+    "timeline_id": "fbf4c70a-6bb7-4e47-8d13-1363ef777b4e",
+    "timeline_name": "วิ่งหนีมอนตอนมืดจนเห็นบ้าน-Minecraft-vdo",
+    "expected_duration_seconds": 152.61666666666667,
+    "chunk_seconds": 45.0,
+    "chunk_boundaries": [
+      0.0,
+      50.0,
+      101.0,
+      148.0,
+      152.617
+    ]
+  },
+  "duration_seconds": 152.61666666666667,
+  "gemini": {
+    "audio_available": true,
+    "duration_seconds": 152.6166875,
+    "segments": [
+      {
+        "start": 0.824,
+        "end": 2.914,
+        "text": "ไป เดิน ทาง หมู่ บ้าน ไป เดิน ทาง หมู่ บ้าน",
+        "uncertain": false,
+        "chunk": 1
+      },
+      {
+        "start": 3.734,
+        "end": 4.964,
+        "text": "เพราะ ว่า มืด แล้ว",
+        "uncertain": false,
+        "chunk": 1
+      },
+      {
+        "start": 10.454,
+        "end": 12.374,
+        "text": "ใคร จะ ไป ยอม ใคร จะ ไป ยอม ไอ้ เหี้ย",
+        "uncertain": false,
+        "chunk": 1
+      },
+      {
+        "start": 12.914,
+        "end": 16.294,
+        "text": "ตาย ต้อง ใช้ โคบาร์ นิด นึง คน ดู 3 เซ็น แม่ง เลย เหี้ย",
+        "uncertain": false,
+        "chunk": 1
+      },
+      {
+        "start": 16.484,
+        "end": 18.004,
+        "text": "กู ไม่ ยอม",
+        "uncertain": false,
+        "chunk": 1
+      },
+      {
+        "start": 21.324,
+        "end": 22.754,
+        "text": "ทำไม ไม่ ขึ้น เรือ",
+        "uncertain": false,
+        "chunk": 1
+      },
+      {
+        "start": 23.014,
+        "end": 26.244,
+        "text": "ตอน แรก ขึ้น เรือ แล้ว แต่ พี่ จ๋า แต่ ว่า พี่ จ๋า เค้า ขี้ เกียจ ไอ้ นี่",
+        "uncertain": false,
+        "chunk": 1
+      },
+      {
+        "start": 26.464,
+        "end": 28.174,
+        "text": "เฮ้ย เดี๋ยวๆ มัน มา จาก ไหน ตัว นึง อ่ะ",
+        "uncertain": false,
+        "chunk": 1
+      },
+      {
+        "start": 30.124,
+        "end": 32.554,
+        "text": "มัน รอ ได้ 2 ตัว เท่า นี้ ดิ มัน รอ ไป หมด",
+        "uncertain": false,
+        "chunk": 1
+      },
+      {
+        "start": 33.324,
+        "end": 35.534,
+        "text": "ไม่ ตอน นี้ มัน ตรง ผม มี 2 ตัว เฉย เว้ย พี่",
+        "uncertain": false,
+        "chunk": 1
+      },
+      {
+        "start": 40.014,
+        "end": 40.804,
+        "text": "สยาม นี่ ถึง ป่ะ วะ",
+        "uncertain": false,
+        "chunk": 1
+      },
+      {
+        "start": 44.474,
+        "end": 45.474,
+        "text": "เฮ้ย ลง มา ลง มา ละ",
+        "uncertain": false,
+        "chunk": 1
+      },
+      {
+        "start": 48.094,
+        "end": 49.334,
+        "text": "เฮ้ย อย่า บอก ว่า",
+        "uncertain": false,
+        "chunk": 1
+      },
+      {
+        "start": 55.918,
+        "end": 57.398,
+        "text": "เรา อย่า พูด ความ ร้าย มา อยู่ ดู",
+        "uncertain": false,
+        "chunk": 2
+      },
+      {
+        "start": 58.718,
+        "end": 59.778,
+        "text": "เดิน มา แล้ว เดิน ละ",
+        "uncertain": false,
+        "chunk": 2
+      },
+      {
+        "start": 66.328,
+        "end": 67.728,
+        "text": "อ๋อ ต้อง วาง เท่า นั้น ด้วย เชี่ย แม้ โยน ไม่ ได้",
+        "uncertain": false,
+        "chunk": 2
+      },
+      {
+        "start": 68.258,
+        "end": 69.388,
+        "text": "ต้อง วาง เท่า นั้น ใช่",
+        "uncertain": false,
+        "chunk": 2
+      },
+      {
+        "start": 71.058,
+        "end": 73.838,
+        "text": "เอ้า เหี้ย เอ้ย โยน 1 มา ถึง 2",
+        "uncertain": false,
+        "chunk": 2
+      },
+      {
+        "start": 75.128,
+        "end": 76.068,
+        "text": "แบบ",
+        "uncertain": false,
+        "chunk": 2
+      },
+      {
+        "start": 77.248,
+        "end": 78.848,
+        "text": "มา นี่ มา นี่ มา นี่ มา นี่ ครับ บน บุ",
+        "uncertain": false,
+        "chunk": 2
+      },
+      {
+        "start": 79.838,
+        "end": 81.908,
+        "text": "follow me you can see เออ",
+        "uncertain": false,
+        "chunk": 2
+      },
+      {
+        "start": 83.68,
+        "end": 86.198,
+        "text": "จริง ๆ อ่ะ ให้ นั่ง เรือ ทะเล คว่ํา นี่",
+        "uncertain": false,
+        "chunk": 2
+      },
+      {
+        "start": 86.578,
+        "end": 90.408,
+        "text": "แต่ ว่า ด้วย ความ ที่ ทาง ไม่ ไหว อย่าง เนี้ย เออ ใคร ไม่ หิน เนี่ย",
+        "uncertain": false,
+        "chunk": 2
+      },
+      {
+        "start": 92.158,
+        "end": 98.068,
+        "text": "แต่ ถ้า เธอ ถ้า ถ้า ถ้า เธอ ห้าม ห้าม เห็น หมู ห่า วัน แล้ว เอา เนื้อ พา แน่ นอน เยอะ",
+        "uncertain": false,
+        "chunk": 2
+      },
+      {
+        "start": 99.338,
+        "end": 100.848,
+        "text": "follow follow come on",
+        "uncertain": false,
+        "chunk": 2
+      },
+      {
+        "start": 107.516,
+        "end": 109.716,
+        "text": "นี่เหรอห้องไม่มีเอนอีตี้ใช่ไหม",
+        "uncertain": false,
+        "chunk": 3
+      },
+      {
+        "start": 113.836,
+        "end": 115.896,
+        "text": "come on come on follow follow me",
+        "uncertain": false,
+        "chunk": 3
+      },
+      {
+        "start": 123.186,
+        "end": 127.606,
+        "text": "เป็นยอดครั้งแรกในชีวิตเลยในการเอาในการล่าวิเรนเจอร์กลับบ้านเนี่ยปกติให้เอฟซีทำให้อ่ะ",
+        "uncertain": false,
+        "chunk": 3
+      },
+      {
+        "start": 131.146,
+        "end": 132.866,
+        "text": "come on โป๊ะ มานี่ดิ",
+        "uncertain": false,
+        "chunk": 3
+      },
+      {
+        "start": 132.866,
+        "end": 133.706,
+        "text": "นายเอ้ย",
+        "uncertain": false,
+        "chunk": 3
+      },
+      {
+        "start": 136.196,
+        "end": 137.326,
+        "text": "คะแนน",
+        "uncertain": false,
+        "chunk": 3
+      },
+      {
+        "start": 137.856,
+        "end": 138.666,
+        "text": "เพิ่งมาใหม่",
+        "uncertain": false,
+        "chunk": 3
+      },
+      {
+        "start": 139.306,
+        "end": 141.706,
+        "text": "วิ่งมา เร็ว ๆ ๆ ๆ ทำเวลา",
+        "uncertain": false,
+        "chunk": 3
+      },
+      {
+        "start": 150.1,
+        "end": 150.6,
+        "text": "เอ๋",
+        "uncertain": true,
+        "chunk": 4
+      }
+    ],
+    "segment_count": 34
+  }
+}

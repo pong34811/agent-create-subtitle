@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "model": "gemini-3-flash-preview",
+    "route": "google-generativeai-direct",
+    "timeline_index": 6,
+    "timeline_id": "0803c999-9d25-4106-ab2b-a5f43047881e",
+    "timeline_name": "เตรียมป้อมสู้ศึกใหญ่-alien shooter last hope-vdo",
+    "expected_duration_seconds": 91.61666666666666,
+    "prompt_token_count": 2484
+  },
+  "duration_seconds": 91.61666666666666,
+  "gemini": {
+    "audio_available": true,
+    "duration_seconds": 90.0,
+    "segments": [
+      {
+        "start": 6.4,
+        "end": 10.2,
+        "text": "มีแค่ทำทีมเหรอวะ ทำไมไม่มีที่ทำพีซ",
+        "uncertain": false
+      },
+      {
+        "start": 11.5,
+        "end": 15.8,
+        "text": "มันมีแค่ทำทีมเหรอวะ ยังเหลือไอ้เหี้ยนี่อยู่คนเดียวเนี่ย มันคืออะไรวะ",
+        "uncertain": false
+      },
+      {
+        "start": 52.1,
+        "end": 54.5,
+        "text": "ไอ้เหี้ย เห็นป่ะล่ะ ผมแม่งไม่ถนัด",
+        "uncertain": false
+      },
+      {
+        "start": 74.2,
+        "end": 76.5,
+        "text": "ฮ่าๆๆ",
+        "uncertain": false
+      },
+      {
+        "start": 77.1,
+        "end": 80.4,
+        "text": "แค่อยากรู้ว่ามันฆ่าได้ไหม ก็น่าจะได้นะ",
+        "uncertain": false
+      },
+      {
+        "start": 81.2,
+        "end": 90.0,
+        "text": "แต่ว่ารอบนี้เราลองเก็บ ลองไอ้ตัวป้อมเอาไว้เยอะๆ เลย",
+        "uncertain": false
+      }
+    ],
+    "timing_measurement": "seconds",
+    "uncertainties": [],
+    "segment_count": 6
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "timeline_id": "781816e7-4d4b-4b95-937e-0f8feeea26b6",
+  "timeline_name": "กวาดห้องจนจบภารกิจ-alien shooter-vdo",
+  "approved": false,
+  "source_model": "gemini-3.5-flash",
+  "duration_seconds": 66.16666666666667,
+  "cues": [
+    {
+      "start": 46.2,
+      "end": 48.5,
+      "text": "โอเคเพื่อนเดี๋ยวมานะ",
+      "source_segment": 46.2,
+      "gemini_uncertain": false,
+      "flags": []
+    }
+  ],
+  "qc_required": true,
+  "status": "unreviewed_draft"
+}

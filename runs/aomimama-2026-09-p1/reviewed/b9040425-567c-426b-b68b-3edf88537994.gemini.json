@@ -1,0 +1,279 @@
+{
+  "timeline_id": "b9040425-567c-426b-b68b-3edf88537994",
+  "timeline_name": "ถือถังลาวาไว้กันหนาว-Minecraft-vdo",
+  "approved": false,
+  "source_model": "gemini-3.5-flash",
+  "duration_seconds": 84.46666666666667,
+  "cues": [
+    {
+      "start": 0.0,
+      "end": 1.95,
+      "text": "อุ๊ย",
+      "source_segment": 0.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 2.0,
+      "end": 3.95,
+      "text": "เฮ้ยมันมันปรับอันนี้ยังไงวะ",
+      "source_segment": 2.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 4.0,
+      "end": 7.95,
+      "text": "เออพี่ออกจากม้ายังไงอ่ะ",
+      "source_segment": 4.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 8.0,
+      "end": 10.0,
+      "text": "ก็กดนั่งไง",
+      "source_segment": 8.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 16.0,
+      "end": 17.95,
+      "text": "ไอ้เหี้ยไอ้เหี้ย",
+      "source_segment": 16.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 18.0,
+      "end": 19.95,
+      "text": "มือห้ามมาหรอ",
+      "source_segment": 18.0,
+      "gemini_uncertain": true,
+      "flags": []
+    },
+    {
+      "start": 20.0,
+      "end": 22.95,
+      "text": "แม่งกดคลิกขวาไปไอ้เหี้ยลาวาร่วงพี่",
+      "source_segment": 20.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 23.0,
+      "end": 24.95,
+      "text": "ฉิบหาย",
+      "source_segment": 23.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 25.0,
+      "end": 29.264,
+      "text": "บอกอยู่ว่าอุบัติเหตุไอ้เหี้ยลาวานี่แม่งทำพิษจริงๆ",
+      "source_segment": 25.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 29.264,
+      "end": 33.529,
+      "text": "ไอ้สัสแม่งถือมานี่คือแบบแม่งถือไว้ดีกว่าไอ้เหี้ย",
+      "source_segment": 25.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 33.529,
+      "end": 34.95,
+      "text": "กูไม่เชื่อใจมึงละ",
+      "source_segment": 25.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 35.0,
+      "end": 38.005,
+      "text": "เฮ้ยแล้วมันมีปุ่มตายเลยอ่ะมันเดินไม่ออกเลย",
+      "source_segment": 35.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 38.005,
+      "end": 38.95,
+      "text": "อ่ะอะไรวะเนี่ย",
+      "source_segment": 35.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 39.0,
+      "end": 41.334,
+      "text": "ใช่พี่แม่งไม่ถือลาวาอยู่ไม่ได้ผมว่ารีบเดินไป",
+      "source_segment": 39.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 41.334,
+      "end": 43.809,
+      "text": "เหอะไอ้เหี้ยเดี๋ยวเราจะฉิบหายวายวอดกันหมด",
+      "source_segment": 39.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 43.809,
+      "end": 44.209,
+      "text": "อ่ะ",
+      "source_segment": 39.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 44.259,
+      "end": 45.95,
+      "text": "แม่งติดลบฉิบหายวายวอดเลย",
+      "source_segment": 44.0,
+      "gemini_uncertain": false,
+      "flags": [
+        "start_clipped_to_previous"
+      ]
+    },
+    {
+      "start": 46.0,
+      "end": 50.95,
+      "text": "เดี๋ยวสิมันมันอันนี้ยังไงอ่ะแต่ว่าปรับ",
+      "source_segment": 46.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 51.0,
+      "end": 52.95,
+      "text": "อะไรพี่",
+      "source_segment": 51.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 53.0,
+      "end": 53.95,
+      "text": "ปรับอันเนี้ย",
+      "source_segment": 53.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 54.0,
+      "end": 56.384,
+      "text": "เออเค้าเรียกว่าอะไรวะไอ้ที่พี่หมายถึงแบบซูม",
+      "source_segment": 54.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 56.384,
+      "end": 57.95,
+      "text": "เอาท์เยอะๆใช่ป่ะกับซูมอินอ่ะ",
+      "source_segment": 54.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 58.0,
+      "end": 60.95,
+      "text": "ไม่ใช่ไม่ใช่พี่หมายถึง",
+      "source_segment": 58.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 61.0,
+      "end": 64.736,
+      "text": "ปุ่มหาไอ้ปุ่มปรับคีย์บอร์ดไม่ได้อ่ะพี่อยากเปลี่ยน",
+      "source_segment": 61.0,
+      "gemini_uncertain": true,
+      "flags": []
+    },
+    {
+      "start": 64.736,
+      "end": 65.136,
+      "text": "ปุ่ม",
+      "source_segment": 61.0,
+      "gemini_uncertain": true,
+      "flags": []
+    },
+    {
+      "start": 65.18599999999999,
+      "end": 68.95,
+      "text": "เออกดคอนเออเดี๋ยวนะผมดูแป๊บนึง",
+      "source_segment": 65.0,
+      "gemini_uncertain": false,
+      "flags": [
+        "start_clipped_to_previous"
+      ]
+    },
+    {
+      "start": 69.0,
+      "end": 71.788,
+      "text": "พี่พี่พี่ไปที่ Option พี่พี่กด ESC ไป Option",
+      "source_segment": 69.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 71.788,
+      "end": 72.95,
+      "text": "แล้วก็ไปที่ Control",
+      "source_segment": 69.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 73.0,
+      "end": 75.95,
+      "text": "ไหนพี่นะ Control พี่ดูว่าทำไมมีแค่นี้วะ",
+      "source_segment": 73.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 76.0,
+      "end": 79.95,
+      "text": "Keyboard Bind มันก็มีแค่นี้แหละพี่ Minecraft",
+      "source_segment": 76.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 80.0,
+      "end": 81.45,
+      "text": "ใช่ๆอยู่หัวข้อ Key Bind",
+      "source_segment": 80.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 81.5,
+      "end": 83.5,
+      "text": "พี่เอาไรมากกับเกมที่เด็กเค้าเล่นกันวะพี่พี่อย่าทำ",
+      "source_segment": 81.5,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 83.5,
+      "end": 84.46666666666667,
+      "text": "เหมือนเกมที่เพื่อนเอ็ดดี้ดิ",
+      "source_segment": 81.5,
+      "gemini_uncertain": false,
+      "flags": []
+    }
+  ],
+  "qc_required": true,
+  "status": "unreviewed_draft"
+}

@@ -1,0 +1,129 @@
+
+##############################################################################
+# index=1  91s  timeline="เปิดสตรีมทักทายก่อนเริ่มเกม-alien shooter last hope-vdo"
+# (timeline title is NOT sent to the model — used only to check names)
+##############################################################################
+
+[gemini-3-flash-preview] HTTP 429 {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and billing deta
+
+[gemini-2.5-flash] HTTP 429 {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and billing deta
+
+[gemini-3.1-flash-lite] 7.1s
+{
+ "segments": 11,
+ "thai_chars": 268,
+ "spurious_thai_spaces": 19,
+ "latin_terms": [],
+ "unclear_marks": 0,
+ "preview": "ฮัลโหล ฮัลโหล วันนี้พยายามทำเวลา 2 ทุ่มนะ วันนี้อยู่คนเดียว เอมเอมเรียนพิเศษ ภาคค่ำครบนะ ก็เดี๋ยวทำเหมือนเดิมนะ คือเดี๋ยวจะปิดร้าน เดี๋ยวคนเหมือนเดิม เปิดเกมส์ผมเปิด เข้ามาเช็คสักนิดนึงเพราะว่า นั่นแหละ เอาไว้เกมส์เช้าเนาะ ต้องขอเวลาเช็คสักนิดนึง มีฮะ มีฮะ เอ๊"
+}
+
+[gemini-2.5-flash#schema] HTTP 429 {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and billing deta
+
+[whisper-large-v3 via Groq] 3.0s
+{
+ "segments": 15,
+ "thai_chars": 277,
+ "spurious_thai_spaces": 28,
+ "latin_terms": [],
+ "unclear_marks": 0,
+ "preview": "เหลื่อการพังสะพาน ร้อนที่อ้าว เหลื่อ ยากละกย่าย ฝ่าลา ห่วงทาน อืม วันนี้อยู่คันดับ เกม เอเวียน ฟูเซอร์ 5 ละ ครูป นะ อ่อ หน้าทางเหมือนเริ่มแล้ว คือเหลือซักสักทีกว่านะ เกม ครูป ก็ต้องเหมือนเรียนก่อนก่อนก็มาเช็คจิ้มเพราะว่า อะไร ก็ไม่ดีมเจาะแล้วส่วนของมาเช็คจิ้ม ",
+ "duration_reported": 90.59999744
+}
+
+##############################################################################
+# index=7  149s  timeline="ล่อบอสตัวเหนียวจนเหนื่อย-alien shooter last hope-vdo"
+# (timeline title is NOT sent to the model — used only to check names)
+##############################################################################
+
+[gemini-3-flash-preview] HTTP 429 {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and billing deta
+
+[gemini-2.5-flash] HTTP 429 {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and billing deta
+
+[gemini-3.1-flash-lite] 4.6s
+{
+ "segments": 12,
+ "thai_chars": 225,
+ "spurious_thai_spaces": 11,
+ "latin_terms": [],
+ "unclear_marks": 0,
+ "preview": "เอาล่ะได้เวลา แล้ว เอามาดูเอามาให้ตายไอ้เหี้ย ผมถึงทางอู๋คลิปมันเยอะ มันไม่ถึงไม่ได้ มันต้องถึงเพราะยูนิตมันเยอะหายเลย มันหายไปไหนเนี่ย แล้วน้องมีคนมาโฮลว่ะ งั้นงอซะ ไม่เกี่ยวหรอกอืม ได้แล้วได้แล้วหมดแล้ว มันเพิ่งจะมาขึ้นหอเองอะไอ้เหี้ย"
+}
+
+[gemini-2.5-flash#schema] HTTP 429 {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and billing deta
+
+[whisper-large-v3 via Groq] 2.5s
+{
+ "segments": 10,
+ "thai_chars": 327,
+ "spurious_thai_spaces": 26,
+ "latin_terms": [],
+ "unclear_marks": 0,
+ "preview": "ไหมเว้ย อีกที ต้องการออกมาให้ตาย กล้องขึ้นทางหัว มีมันเยอะอ่ะ ไม่ไม่ได้ มีมันอยู่ที่นียอะๆ โอ้ว สามารถถึกมาได้ต้องถึกจัง อู๋ว คลิปมันเยอะ ไม่ถึกไม่ได้อ่ะ ต้องถึกเพราะว่า ฮูลิกมันลุก หายเลยอ่ะ มันหายขึ้นไปเลย หรือว่าหนูมีคนมาของลอกล่ะ หรือว่าหนูมีคนรอ ๆ ล่ะ มีค",
+ "duration_reported": 149.183342394
+}
+
+##############################################################################
+# index=19  116s  timeline="อย่าใส่ร้ายผม เกือบจมลาวา-Minecraft-vdo"
+# (timeline title is NOT sent to the model — used only to check names)
+##############################################################################
+
+[gemini-3-flash-preview] HTTP 429 {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and billing deta
+
+[gemini-2.5-flash] HTTP 429 {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and billing deta
+
+[gemini-3.1-flash-lite] 10.1s
+{
+ "segments": 32,
+ "thai_chars": 901,
+ "spurious_thai_spaces": 30,
+ "latin_terms": [
+  "Minecraft ",
+  "Minecraft ",
+  "VIP "
+ ],
+ "unclear_marks": 0,
+ "preview": "เออจำลูกมันลูกมันกันในนี้ได้ไหมวะพี่ ไอ้ระเบิดคริปเปอร์อะ ฉันได้ฉันได้ แต่ว่านั่นน่ะน่ะเมียอยู่แล้วมันไม่ได้ฉันทั้งหมด อันนี้คือพี่อุดลาวาแล้วเหรอ ถูกแล้วทำไม เยื่อแม่งเหล็กอยู่ด้านหน้าพี่อะ เยี่ยมเลยเหี้ยความเจริญ จริงๆไอ้ชิบหายละ อุ้ยใช้ได้เลยเนี่ยตรงนี้เต็ม"
+}
+
+[gemini-2.5-flash#schema] HTTP 429 {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and billing deta
+
+[whisper-large-v3 via Groq] 7.6s
+{
+ "segments": 31,
+ "thai_chars": 754,
+ "spurious_thai_spaces": 43,
+ "latin_terms": [
+  "vip "
+ ],
+ "unclear_marks": 0,
+ "preview": "รอบเหมือนกันในนี้ได้มั้ยว่าพี่ ไอ้ระเบิดคีปเปอร์อะ ตอนนี้ได้ๆ แต่ว่ามันก็ด้วยฉันทั้งหมด อันนี้คือพี่อุดลาวะเหรอ อุดลาวะทำไม มันหลีกอยู่ด้านหน้าพี่ เยี่ยมเลยไอ้เหี้ย ความเจริญ จริงๆ หายละ โหย ใช้ได้แล้วเนี่ย ตรงนี้เต็มเลยพี่ อย่าใส่ร้ายผมนะ ผมไม่ได้หิวเงินหน่า ",
+ "duration_reported": 115.999997952
+}

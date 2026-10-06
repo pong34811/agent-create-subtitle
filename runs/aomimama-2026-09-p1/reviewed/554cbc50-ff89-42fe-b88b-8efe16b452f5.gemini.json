@@ -1,0 +1,75 @@
+{
+  "timeline_id": "554cbc50-ff89-42fe-b88b-8efe16b452f5",
+  "timeline_name": "ด่านเขียวสุดท้ายก่อนจอดับ-alien shooter-vdo",
+  "approved": false,
+  "source_model": "chunked:gemini-3-flash-preview,gemini-3.5-flash-lite",
+  "duration_seconds": 116.0,
+  "cues": [
+    {
+      "start": 10.4,
+      "end": 11.35,
+      "text": "ฮึมฮึมฮึมฮึมฮึม",
+      "source_segment": 10.4,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 11.4,
+      "end": 12.0,
+      "text": "ดีนะ",
+      "source_segment": 11.4,
+      "gemini_uncertain": true,
+      "flags": []
+    },
+    {
+      "start": 81.5,
+      "end": 83.8,
+      "text": "เฮ้ยเดี๋ยวนะ",
+      "source_segment": 81.5,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 84.5,
+      "end": 86.8,
+      "text": "เฮ้ยเดี๋ยวนะ",
+      "source_segment": 84.5,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 87.0,
+      "end": 89.9,
+      "text": "เอามะแพง",
+      "source_segment": 87.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 97.0,
+      "end": 99.0,
+      "text": "เป็นไรตรงนี้ไม่ได้",
+      "source_segment": 97.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 100.0,
+      "end": 105.0,
+      "text": "เอาหรือว่าที่เราอ่ะมางานโทรศัพท์",
+      "source_segment": 100.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 108.0,
+      "end": 109.0,
+      "text": "เป็นไง",
+      "source_segment": 108.0,
+      "gemini_uncertain": false,
+      "flags": []
+    }
+  ],
+  "qc_required": true,
+  "status": "unreviewed_draft"
+}

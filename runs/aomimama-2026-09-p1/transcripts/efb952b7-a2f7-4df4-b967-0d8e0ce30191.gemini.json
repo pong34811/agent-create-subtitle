@@ -1,0 +1,201 @@
+{
+  "metadata": {
+    "model": "gemini-3.5-flash",
+    "route": "google-generativeai-direct",
+    "timeline_index": 28,
+    "timeline_id": "efb952b7-a2f7-4df4-b967-0d8e0ce30191",
+    "timeline_name": "ปรับความละเอียด 1024x768 ไอ้เฮีย-alien shooter 2-vdo",
+    "expected_duration_seconds": 125.83333333333333,
+    "prompt_token_count": 3380
+  },
+  "duration_seconds": 125.83333333333333,
+  "gemini": {
+    "audio_available": true,
+    "duration_seconds": 125.8,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 8.0,
+        "text": "ไอ้เหี้ย ทำเหมือนพี่มีซีดีรอมอ่ะ เห็นไหม 1,600 1,600 1,600 ใช้ได้พี่ เฮ็ดไง",
+        "uncertain": false
+      },
+      {
+        "start": 8.0,
+        "end": 12.0,
+        "text": "ยุคนั้นมันอาจจะยังไม่มีความละเอียด 1,000 1,080 อยู่ไงพี่",
+        "uncertain": false
+      },
+      {
+        "start": 12.0,
+        "end": 18.0,
+        "text": "เฮ้ย เฮ้ย เฮ้ย โอ๊ย ไม่รอดอ่ะพี่",
+        "uncertain": false
+      },
+      {
+        "start": 18.0,
+        "end": 27.0,
+        "text": "ไอ้เหี้ย กลับ กลับคืนสู่สามัญ ไอ้เหี้ย 1 0 1 อะไรวะ 1 1 0 1 0 2 4 คูณ 7 6 8",
+        "uncertain": false
+      },
+      {
+        "start": 27.0,
+        "end": 34.0,
+        "text": "กูเข็ดแล้ว ไอ้เหี้ยเอ๊ย ไอ้เหี้ย หัวหมอทุกวิถีทาง สุดท้ายไม่ได้เหี้ยอะไรเลย",
+        "uncertain": false
+      },
+      {
+        "start": 34.0,
+        "end": 39.0,
+        "text": "เออ ปรับเป็น 0 ก็ได้พี่ แต่ว่าถ้าปรับเป็น 0 เอ้ย เออ ปรับ ปรับ เออ",
+        "uncertain": false
+      },
+      {
+        "start": 39.0,
+        "end": 41.0,
+        "text": "เท่าไหร่นะ",
+        "uncertain": false
+      },
+      {
+        "start": 41.0,
+        "end": 44.0,
+        "text": "1,000 1,024",
+        "uncertain": false
+      },
+      {
+        "start": 44.0,
+        "end": 45.0,
+        "text": "ฮะ เท่าไหร่",
+        "uncertain": false
+      },
+      {
+        "start": 45.0,
+        "end": 48.0,
+        "text": "1 0 2 4 1 0 2 4",
+        "uncertain": false
+      },
+      {
+        "start": 48.0,
+        "end": 54.0,
+        "text": "โห พี่นี่ไม่ผ่านเลย แม่งต้องคุย ต้องบอกเลขทีละตัว เออ 7 7 6 8",
+        "uncertain": false
+      },
+      {
+        "start": 54.0,
+        "end": 57.0,
+        "text": "เซฟ",
+        "uncertain": false
+      },
+      {
+        "start": 57.0,
+        "end": 60.0,
+        "text": "เออ พี่เชื่อผม ผมไม่หักหลังพี่หรอก",
+        "uncertain": false
+      },
+      {
+        "start": 60.0,
+        "end": 64.0,
+        "text": "พี่ย้ำด้วย",
+        "uncertain": false
+      },
+      {
+        "start": 64.0,
+        "end": 67.0,
+        "text": "ถ้ามันบูทไม่ได้เออ",
+        "uncertain": false
+      },
+      {
+        "start": 67.0,
+        "end": 70.0,
+        "text": "พี่ พี่ พี่ปรับ พี่ปรับฟูลสกรีนแล้วเหรอ",
+        "uncertain": false
+      },
+      {
+        "start": 70.0,
+        "end": 74.0,
+        "text": "ดูดิ ปรับ 1,600 แล้ว มันไม่เลือกว่ะ",
+        "uncertain": false
+      },
+      {
+        "start": 74.0,
+        "end": 77.0,
+        "text": "อุ๊ย ผมไม่โกหกพี่หรอก โห รู้จักกันมาตั้งนาน",
+        "uncertain": false
+      },
+      {
+        "start": 77.0,
+        "end": 79.0,
+        "text": "อือ ๆ",
+        "uncertain": false
+      },
+      {
+        "start": 84.0,
+        "end": 88.0,
+        "text": "เห็นไหม โอ้โห ขนาดนี้แล้วระดับผมแล้วพี่",
+        "uncertain": false
+      },
+      {
+        "start": 88.0,
+        "end": 91.0,
+        "text": "เออ ขำขำ เฮ้ย ไม่หาย โอเค",
+        "uncertain": true
+      },
+      {
+        "start": 96.0,
+        "end": 100.0,
+        "text": "อันล่างพี่อันล่าง อย่าไปโดนหลอก",
+        "uncertain": false
+      },
+      {
+        "start": 100.0,
+        "end": 103.0,
+        "text": "ปรับเป็น 1",
+        "uncertain": false
+      },
+      {
+        "start": 103.0,
+        "end": 105.0,
+        "text": "เซฟ",
+        "uncertain": false
+      },
+      {
+        "start": 105.0,
+        "end": 109.0,
+        "text": "แต่ถ้าเกิด แต่ถ้าเกิดว่าเกมแม่งแครชเหมือนเดิม ไอ้เหี้ย",
+        "uncertain": false
+      },
+      {
+        "start": 109.0,
+        "end": 112.0,
+        "text": "โหย มันจะแครชทำไมล่ะพี่ เราเพิ่งเปิดฟูลสกรีนกันมาเมื่อกี้",
+        "uncertain": false
+      },
+      {
+        "start": 112.0,
+        "end": 117.0,
+        "text": "คนดู 2 คนแม่งภาคภูมิใจในตัวพี่แล้วเนี่ย",
+        "uncertain": false
+      },
+      {
+        "start": 117.0,
+        "end": 119.0,
+        "text": "เนอะ",
+        "uncertain": false
+      },
+      {
+        "start": 119.0,
+        "end": 125.0,
+        "text": "พี่นี่หัวเราะจนคอแตกอ่ะ ไอ้เหี้ย",
+        "uncertain": false
+      }
+    ],
+    "timing_measurement": "seconds",
+    "uncertainties": [
+      {
+        "start": 88.0,
+        "end": 91.0,
+        "reason": "The speaker says 'เออ ขำขำ' or 'เออ คำถาม' very quickly, which is slightly unclear."
+      }
+    ],
+    "segment_count": 29
+  }
+}

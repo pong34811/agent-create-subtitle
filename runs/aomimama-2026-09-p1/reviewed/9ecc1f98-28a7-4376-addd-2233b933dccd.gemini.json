@@ -1,0 +1,203 @@
+{
+  "timeline_id": "9ecc1f98-28a7-4376-addd-2233b933dccd",
+  "timeline_name": "ลืมแชร์จอ จบของวีทูปเบอร์ที่ไม่เตรียมตัว-Minecraft-vdo",
+  "approved": false,
+  "source_model": "gemini-3.5-flash",
+  "duration_seconds": 80.0,
+  "cues": [
+    {
+      "start": 0.0,
+      "end": 2.05,
+      "text": "อันล่างมันเป็นอีกเซิร์ฟนึงพี่",
+      "source_segment": 0.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 2.1,
+      "end": 4.15,
+      "text": "ไม่ใช่เซิร์ฟที่เราไม่ใช่เซิร์ฟส่วนตัวเรา",
+      "source_segment": 2.1,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 4.2,
+      "end": 7.15,
+      "text": "อ๋อนี่พี่เข้าไปในนี้แล้วพี่เล่นไม่ได้เหรอ",
+      "source_segment": 4.2,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 7.2,
+      "end": 8.2,
+      "text": "เออ",
+      "source_segment": 7.2,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 10.0,
+      "end": 13.95,
+      "text": "สมควรไอ้เหี้ยนี่จุดจบคนไม่ยอมแชร์จอตั้งแต่แรก",
+      "source_segment": 10.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 14.0,
+      "end": 16.95,
+      "text": "กดเล่นไปดิพี่",
+      "source_segment": 14.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 17.0,
+      "end": 22.95,
+      "text": "เรื่องโม้ล่ะว่า",
+      "source_segment": 17.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 23.0,
+      "end": 24.95,
+      "text": "พี่เคยเข้าเลยพี่",
+      "source_segment": 23.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 25.0,
+      "end": 28.542,
+      "text": "พี่เคยเข้ามาแล้วพี่จำมันก่อนไม่ได้เหรอนั่งเข้า",
+      "source_segment": 25.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 28.542,
+      "end": 30.0,
+      "text": "เซิร์ฟเนโกะอยู่พี่จ๋า",
+      "source_segment": 25.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 33.5,
+      "end": 36.95,
+      "text": "คุณพรสนใจไหมคุณพร",
+      "source_segment": 33.5,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 37.0,
+      "end": 38.95,
+      "text": "หืม",
+      "source_segment": 37.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 39.0,
+      "end": 40.95,
+      "text": "Minecraft",
+      "source_segment": 39.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 41.0,
+      "end": 47.95,
+      "text": "โอเคโค้ดไอ้โค้ดแอนเชอร์ตอนนี้ผมตายพอดี",
+      "source_segment": 41.0,
+      "gemini_uncertain": true,
+      "flags": []
+    },
+    {
+      "start": 48.0,
+      "end": 51.95,
+      "text": "Minecraft Launcher ก็เข้าได้นะ",
+      "source_segment": 48.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 52.0,
+      "end": 55.132,
+      "text": "แค่เนโกะแค่เนโกะมันมันแบบมันเป็นแบบ",
+      "source_segment": 52.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 55.132,
+      "end": 58.461,
+      "text": "Launcher ที่แบบมันลงปลั๊กอินของเซิร์ฟไว้ให้",
+      "source_segment": 52.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 58.461,
+      "end": 58.95,
+      "text": "แล้วอ่ะ",
+      "source_segment": 52.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 59.0,
+      "end": 60.95,
+      "text": "ไม่ต้องไปนั่งหา",
+      "source_segment": 59.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 61.0,
+      "end": 65.95,
+      "text": "พี่พี่นัทมองเสียงคนนี้ดินี่เสียงคนนี้",
+      "source_segment": 61.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 66.0,
+      "end": 68.762,
+      "text": "นี่นะครับจุดจบของ Vtuber ที่ลืมเตรียม",
+      "source_segment": 66.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 68.762,
+      "end": 70.0,
+      "text": "ความพร้อมนะครับ",
+      "source_segment": 66.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 75.0,
+      "end": 76.95,
+      "text": "มันปิดมิวสิคยังไงอ่ะ",
+      "source_segment": 75.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 77.0,
+      "end": 80.0,
+      "text": "ปิดไปเลยพี่เพราะว่ามันติดลิขสิทธิ์",
+      "source_segment": 77.0,
+      "gemini_uncertain": false,
+      "flags": []
+    }
+  ],
+  "qc_required": true,
+  "status": "unreviewed_draft"
+}

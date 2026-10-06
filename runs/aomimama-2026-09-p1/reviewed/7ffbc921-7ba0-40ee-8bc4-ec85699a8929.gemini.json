@@ -1,0 +1,139 @@
+{
+  "timeline_id": "7ffbc921-7ba0-40ee-8bc4-ec85699a8929",
+  "timeline_name": "ทีมไฟต์ถูกชัตดาวน์-League of Legends-vdo",
+  "approved": false,
+  "source_model": "gemini-3.5-flash-lite",
+  "duration_seconds": 63.71666666666667,
+  "cues": [
+    {
+      "start": 0.0,
+      "end": 3.656,
+      "text": "พ่อมึงแสบหาอะไรหาอะไรหาพ่อมึงแสบเหรออี",
+      "source_segment": 0.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 3.656,
+      "end": 4.056,
+      "text": "นี่",
+      "source_segment": 0.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 5.958,
+      "end": 6.798,
+      "text": "พอข้ามส่ะ",
+      "source_segment": 5.958,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 13.018,
+      "end": 17.493,
+      "text": "โอ๊ยเหี้ยหมากvanguardเมื่อกี้นี้ถ้าหมาไม่โดน",
+      "source_segment": 13.018,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 17.493,
+      "end": 19.358,
+      "text": "เคลียร์เมื่อตายห่าละ",
+      "source_segment": 13.018,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 20.258,
+      "end": 23.363,
+      "text": "เมื่อกี้เมื่อเผลอเราไปตีป้อมเพลินเสียหมาเยอะ",
+      "source_segment": 20.258,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 23.363,
+      "end": 25.138,
+      "text": "เกินไม่มีดาเมจพอข้ามแม่ม",
+      "source_segment": 20.258,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 26.078,
+      "end": 29.52,
+      "text": "ถ้าผมเป็นหนึ่งอยู่ดูดิผมเป็นดิเห็นผมเดินไปกด",
+      "source_segment": 26.078,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 29.52,
+      "end": 32.558,
+      "text": "สกิล 2 ทีไปกอดแล้วก็ตายกันไปแพ้เกม",
+      "source_segment": 26.078,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 33.378,
+      "end": 36.971,
+      "text": "ไอ้เหี้ยมึงแทงกูก่อนดิไอ้สัตว์มึงแทงกูเจ็บว่ะไอ้",
+      "source_segment": 33.378,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 36.971,
+      "end": 40.67,
+      "text": "สัตว์ไหนโตไรต่อไปอ้าวไอ้เหี้ยเดี๋ยวป้อมเธ",
+      "source_segment": 33.378,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 40.67,
+      "end": 44.475,
+      "text": "ลอนไอ้เหี้ยหรอป้อมเธอชิพหายป้อมตัวชิพหายไอ้",
+      "source_segment": 33.378,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 44.475,
+      "end": 44.898,
+      "text": "ควาย",
+      "source_segment": 33.378,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 48.018,
+      "end": 51.538,
+      "text": "ยังเดือดเลยจะเล่นทำไมวะโปเกมอน",
+      "source_segment": 48.018,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 53.618,
+      "end": 56.518,
+      "text": "โดนย้อมไปลูกหมาไอ้เหี้ย",
+      "source_segment": 53.618,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 60.058,
+      "end": 60.998,
+      "text": "ลูกเฮ้ย",
+      "source_segment": 60.058,
+      "gemini_uncertain": false,
+      "flags": []
+    }
+  ],
+  "qc_required": true,
+  "status": "unreviewed_draft"
+}

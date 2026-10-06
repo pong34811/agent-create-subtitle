@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "model": "gemini-3.5-flash",
+    "route": "google-generativeai-direct",
+    "timeline_index": 34,
+    "timeline_id": "341f7397-908a-49e0-995f-b57bcbf4f749",
+    "timeline_name": "เพนตาคิลแล้วพ่ายแพ้-League of Legends-vdo",
+    "expected_duration_seconds": 88.51666666666667,
+    "prompt_token_count": 2406
+  },
+  "duration_seconds": 88.51666666666667,
+  "gemini": {
+    "audio_available": true,
+    "duration_seconds": 89.0,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.5,
+        "text": "เอ้า เราไม่มีเซมิเอเลีย",
+        "uncertain": false
+      },
+      {
+        "start": 2.5,
+        "end": 5.2,
+        "text": "เอาเลเวลสู้หรอ",
+        "uncertain": false
+      }
+    ],
+    "segment_count": 2
+  }
+}

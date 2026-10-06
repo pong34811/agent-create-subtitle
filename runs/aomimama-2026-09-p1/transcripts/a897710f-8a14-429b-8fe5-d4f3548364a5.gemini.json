@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "model": "gemini-3.5-flash-lite",
+    "route": "google-generativeai-direct",
+    "timeline_index": 35,
+    "timeline_id": "a897710f-8a14-429b-8fe5-d4f3548364a5",
+    "timeline_name": "ไฟต์ท้ายเกมสุดมัน-League of Legends-vdo",
+    "expected_duration_seconds": 80.0,
+    "prompt_token_count": 2193
+  },
+  "duration_seconds": 80.0,
+  "gemini": {
+    "audio_available": true,
+    "duration_seconds": 80.0,
+    "segments": [
+      {
+        "start": 6.0,
+        "end": 9.0,
+        "text": "โอ๊ย เหี้ย ไม่ ได้ ขยับ เลย",
+        "uncertain": false
+      },
+      {
+        "start": 14.0,
+        "end": 17.0,
+        "text": "จะ ตี ให้ 2 อัน นะ แต่ ไม่ ทีม แบบ น่า เกลียด",
+        "uncertain": false
+      },
+      {
+        "start": 27.0,
+        "end": 33.0,
+        "text": "[ฟังไม่ชัด]",
+        "uncertain": true
+      }
+    ],
+    "timing_measurement": "seconds",
+    "uncertainties": [
+      {
+        "start": 27.0,
+        "end": 33.0,
+        "reason": "background noise and indistinct speech"
+      }
+    ],
+    "segment_count": 3
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "metadata": {
+    "model": "gemini-3.5-flash",
+    "route": "google-generativeai-direct",
+    "timeline_index": 40,
+    "timeline_id": "59ff8512-7507-4892-a807-90e4ab1e8b69",
+    "timeline_name": "พี่จ๋าช่วยด้วย เรือไปไหนวะ-Minecraft-vdo",
+    "expected_duration_seconds": 93.63333333333334,
+    "prompt_token_count": 2534
+  },
+  "duration_seconds": 93.63333333333334,
+  "gemini": {
+    "audio_available": true,
+    "duration_seconds": 94.0,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.0,
+        "text": "อ้าว ชิบหายละ เมื่อกี้ยังกดออกได้อยู่เลย โอเค",
+        "uncertain": false
+      },
+      {
+        "start": 3.0,
+        "end": 5.0,
+        "text": "โอเค",
+        "uncertain": false
+      },
+      {
+        "start": 5.0,
+        "end": 7.0,
+        "text": "แล้วเราทำไง",
+        "uncertain": false
+      },
+      {
+        "start": 7.0,
+        "end": 10.0,
+        "text": "มันต้องดันหรือต้องพายวะพี่",
+        "uncertain": false
+      },
+      {
+        "start": 10.0,
+        "end": 12.0,
+        "text": "ต้องพายดิ",
+        "uncertain": false
+      },
+      {
+        "start": 12.0,
+        "end": 15.0,
+        "text": "กด Shift ขวา นั่งหน้า แล้วพาย พาย",
+        "uncertain": false
+      },
+      {
+        "start": 15.0,
+        "end": 18.0,
+        "text": "ได้ โตเกียวดริฟต์ละ เจอกัน แง้นๆ",
+        "uncertain": false
+      },
+      {
+        "start": 19.0,
+        "end": 22.0,
+        "text": "ไอ้เหี้ยเอ๊ย แม่งทางโคตรทรหดอ่ะ",
+        "uncertain": false
+      },
+      {
+        "start": 27.0,
+        "end": 29.0,
+        "text": "แง้นๆ",
+        "uncertain": false
+      },
+      {
+        "start": 29.0,
+        "end": 32.0,
+        "text": "พี่ตา ช่วยด้วย",
+        "uncertain": false
+      },
+      {
+        "start": 32.0,
+        "end": 35.0,
+        "text": "พี่ช่วยด้วย",
+        "uncertain": false
+      },
+      {
+        "start": 35.0,
+        "end": 39.0,
+        "text": "เหี้ย อยู่ข้างบนพี่",
+        "uncertain": false
+      },
+      {
+        "start": 39.0,
+        "end": 42.0,
+        "text": "พี่ช่วยด้วย",
+        "uncertain": false
+      },
+      {
+        "start": 45.0,
+        "end": 48.0,
+        "text": "ช่วยด้วยยังไง",
+        "uncertain": false
+      },
+      {
+        "start": 48.0,
+        "end": 50.0,
+        "text": "พี่ทุบให้หน่อย",
+        "uncertain": false
+      },
+      {
+        "start": 50.0,
+        "end": 52.0,
+        "text": "ห้ะ",
+        "uncertain": false
+      },
+      {
+        "start": 52.0,
+        "end": 54.0,
+        "text": "พี่ทุบให้หน่อย",
+        "uncertain": false
+      },
+      {
+        "start": 54.0,
+        "end": 58.0,
+        "text": "รีบมาทุบตรงนี้ให้หน่อย เห็นตรงหน้าผมไหม เออ",
+        "uncertain": false
+      },
+      {
+        "start": 10.1,
+        "end": 10.4,
+        "text": "ว่าแต่เอาเรือมาทำไมเนี่ย",
+        "uncertain": false
+      },
+      {
+        "start": 10.4,
+        "end": 10.7,
+        "text": "คุมเรือเป็นไหมเนี่ย",
+        "uncertain": false
+      },
+      {
+        "start": 10.7,
+        "end": 11.0,
+        "text": "นี่ พี่ขี่อันนี้ดิ ผมขี่เรือ มันก็โดดไม่ได้",
+        "uncertain": false
+      },
+      {
+        "start": 11.0,
+        "end": 11.3,
+        "text": "เนี่ย เออ ผมจะไปทางนี้",
+        "uncertain": false
+      },
+      {
+        "start": 11.3,
+        "end": 11.7,
+        "text": "เฮ้ยๆ พี่ ใจเย็น เฮ้ยๆๆๆ คุย คุย ค่อยฆ่ากัน ฮัลโหล",
+        "uncertain": false
+      },
+      {
+        "start": 11.7,
+        "end": 12.1,
+        "text": "ยังไม่ได้ทำอะไรเลย เค มึงอ่ะ มึง มึงทำตัวมึงเองอ่ะ",
+        "uncertain": false
+      },
+      {
+        "start": 12.1,
+        "end": 12.4,
+        "text": "ไอ้เหี้ยเอ๊ย เกือบละ",
+        "uncertain": false
+      },
+      {
+        "start": 12.7,
+        "end": 13.0,
+        "text": "แง้นๆ ไปละ ไอ้เหี้ย เจอกัน",
+        "uncertain": false
+      },
+      {
+        "start": 13.0,
+        "end": 13.4,
+        "text": "โอ้โห แม่งทางแม่งโคตรไม่สมประกอบอ่ะ",
+        "uncertain": false
+      }
+    ],
+    "segment_count": 27
+  }
+}

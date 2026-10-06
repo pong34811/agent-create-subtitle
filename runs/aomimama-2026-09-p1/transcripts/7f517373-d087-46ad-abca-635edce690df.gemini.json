@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "model": "gemini-3.1-flash-lite",
+    "route": "google-generativeai-direct",
+    "timeline_index": 31,
+    "timeline_id": "7f517373-d087-46ad-abca-635edce690df",
+    "timeline_name": "ดับเบิลคิลแล้วโดนฝัง-League of Legends-vdo",
+    "expected_duration_seconds": 105.21666666666667,
+    "prompt_token_count": 2824
+  },
+  "duration_seconds": 105.21666666666667,
+  "gemini": {
+    "audio_available": true,
+    "duration_seconds": 145.0,
+    "segments": [
+      {
+        "start": 7.0,
+        "end": 11.0,
+        "text": "ไม่น่า มีลูกน้องน่ารักคนนึงเลย ที่เหลือแม่งทำอะไรไม่ได้เลย",
+        "uncertain": false
+      },
+      {
+        "start": 19.0,
+        "end": 23.0,
+        "text": "มึงน่าจะรู้ว่าหนูแพ้ วันมีโครอยู่ตลอดเวลา",
+        "uncertain": false
+      },
+      {
+        "start": 23.0,
+        "end": 27.0,
+        "text": "ไม่น่าคุยเลย",
+        "uncertain": false
+      },
+      {
+        "start": 27.0,
+        "end": 28.0,
+        "text": "หนูรู้แล้วดิคนนี้เขาเก่งนะวะ",
+        "uncertain": false
+      },
+      {
+        "start": 33.0,
+        "end": 35.0,
+        "text": "พี่เขาเก่งมากเลยนะ",
+        "uncertain": false
+      },
+      {
+        "start": 58.0,
+        "end": 59.0,
+        "text": "อย่าคุยกับใครเลย",
+        "uncertain": false
+      }
+    ],
+    "segment_count": 6
+  }
+}

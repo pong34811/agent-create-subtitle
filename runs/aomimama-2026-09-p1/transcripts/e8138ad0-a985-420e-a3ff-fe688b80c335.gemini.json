@@ -1,0 +1,111 @@
+{
+  "metadata": {
+    "model": "gemini-3.5-flash",
+    "route": "google-generativeai-direct",
+    "timeline_index": 5,
+    "timeline_id": "e8138ad0-a985-420e-a3ff-fe688b80c335",
+    "timeline_name": "ซื้อปืนไม่พอเงินขาดไปพันเดียว-alien shooter last hope-vdo",
+    "expected_duration_seconds": 79.66666666666667,
+    "prompt_token_count": 2223
+  },
+  "duration_seconds": 79.66666666666667,
+  "gemini": {
+    "audio_available": true,
+    "duration_seconds": 79.7,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 1.8,
+        "text": "เฮ้ย เจอแล้ว",
+        "uncertain": false
+      },
+      {
+        "start": 1.8,
+        "end": 3.5,
+        "text": "อ๋อ ยัยนั่นขอแรงด้วยเหรอ",
+        "uncertain": false
+      },
+      {
+        "start": 6.5,
+        "end": 11.0,
+        "text": "หัวหน้าต้องเปลี่ยนด่านไม่ให้ ไม่ให้มา ไม่ให้ของตามมาด้วย",
+        "uncertain": false
+      },
+      {
+        "start": 11.0,
+        "end": 13.0,
+        "text": "หูย งกจังอ่ะ",
+        "uncertain": false
+      },
+      {
+        "start": 17.0,
+        "end": 20.0,
+        "text": "โอ้โห งกจัดเลยอ่ะ เงินขาดเท่าไหร่คะ",
+        "uncertain": false
+      },
+      {
+        "start": 20.0,
+        "end": 22.0,
+        "text": "เนื้อหาเท่าไหร่คะ",
+        "uncertain": false
+      },
+      {
+        "start": 22.0,
+        "end": 25.5,
+        "text": "26,000 ป่ะ ขาดไป 1,000 เดียว วู้",
+        "uncertain": false
+      },
+      {
+        "start": 32.0,
+        "end": 34.0,
+        "text": "ไม่มีอ่ะ",
+        "uncertain": false
+      },
+      {
+        "start": 34.0,
+        "end": 39.0,
+        "text": "ไม่มีอ่ะ ปัญหาคือเงินน่ะไม่มี",
+        "uncertain": false
+      },
+      {
+        "start": 42.0,
+        "end": 46.5,
+        "text": "เอาไอเทมนี้ดีกว่า เอ้ยคุณไม่อยากได้เหรอคะ ถ้าเติมไป 24,000 ได้ตั้ง 20,000 แหนะ",
+        "uncertain": false
+      },
+      {
+        "start": 46.5,
+        "end": 50.0,
+        "text": "ผมไม่มี",
+        "uncertain": false
+      },
+      {
+        "start": 50.0,
+        "end": 56.0,
+        "text": "ไม่มีทางเลือกว่ะ",
+        "uncertain": false
+      },
+      {
+        "start": 56.0,
+        "end": 61.0,
+        "text": "อย่างน้อยเอา เอาปืนเขียวมาเล่นป่ะ",
+        "uncertain": false
+      },
+      {
+        "start": 61.0,
+        "end": 64.0,
+        "text": "แต่ปืนน่าหาทางแบบได้เลย",
+        "uncertain": false
+      },
+      {
+        "start": 64.0,
+        "end": 67.0,
+        "text": "เอาปืนเขียวมาเล่นก่อน",
+        "uncertain": false
+      }
+    ],
+    "timing_measurement": "seconds",
+    "uncertainties": [],
+    "segment_count": 15
+  }
+}

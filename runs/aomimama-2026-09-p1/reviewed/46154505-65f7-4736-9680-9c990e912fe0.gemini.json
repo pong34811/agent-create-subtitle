@@ -1,0 +1,307 @@
+{
+  "timeline_id": "46154505-65f7-4736-9680-9c990e912fe0",
+  "timeline_name": "คุยสรุปเกมหลังเล่นจบ ก่อนปิดไลฟ์-alien shooter-vdo",
+  "approved": false,
+  "source_model": "gemini-3-flash-preview",
+  "duration_seconds": 128.01666666666668,
+  "cues": [
+    {
+      "start": 4.0,
+      "end": 7.95,
+      "text": "เหนื่อยจบซะทีแยกย้ายแยกย้ายเหี้ย",
+      "source_segment": 4.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 8.0,
+      "end": 10.95,
+      "text": "ปิดไลฟ์ได้แล้วไปก่อนนะไปแล้ว",
+      "source_segment": 8.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 11.0,
+      "end": 16.95,
+      "text": "ฮ่าๆๆๆๆๆ",
+      "source_segment": 11.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 17.0,
+      "end": 21.0,
+      "text": "สมองแบบว่าหมดไปแบบไป 80",
+      "source_segment": 17.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 26.0,
+      "end": 29.95,
+      "text": "ก็สำหรับชุดนี้นะตัวเกมพูดตามตรงนะ",
+      "source_segment": 26.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 30.0,
+      "end": 33.555,
+      "text": "สำหรับหนูมันง่ายมากเลยเพราะว่าเล่นมาบ่อย",
+      "source_segment": 30.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 33.555,
+      "end": 33.955,
+      "text": "มากๆ",
+      "source_segment": 30.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 34.0,
+      "end": 37.95,
+      "text": "จนมันจำได้เกือบหมดแล้วอ่ะ",
+      "source_segment": 34.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 38.0,
+      "end": 42.95,
+      "text": "ซึ่งด่านที่ให้มีภาคต่อๆไปนะฮะสำหรับด่านหน้าๆ",
+      "source_segment": 38.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 43.0,
+      "end": 46.443,
+      "text": "ซึ่งด่านหลังๆเนี่ยมันจะเริ่มยากขึ้นมาแล้ว",
+      "source_segment": 43.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 46.443,
+      "end": 47.95,
+      "text": "เพราะเขาเริ่มปรับ",
+      "source_segment": 43.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 48.0,
+      "end": 51.95,
+      "text": "ตามเริ่มมีการปรับสมดุล",
+      "source_segment": 48.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 52.0,
+      "end": 56.95,
+      "text": "แล้วก็เริ่มมีความกวนส้นตีนผู้เล่นเพิ่มขึ้นเรื่อยๆนะ",
+      "source_segment": 52.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 57.0,
+      "end": 60.95,
+      "text": "ก็หวังว่าจะรอ",
+      "source_segment": 57.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 61.0,
+      "end": 63.963,
+      "text": "ติดตามกันต่อไปนะฮะผมคิดว่าภาคหลังมันคงไม่จบ",
+      "source_segment": 61.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 63.963,
+      "end": 64.95,
+      "text": "เร็วอย่างนี้หรอก",
+      "source_segment": 61.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 65.0,
+      "end": 68.713,
+      "text": "อันนี้มันภาคแรกไงแล้วเตรียมมาสั้นด้วยมันก็เลย",
+      "source_segment": 65.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 68.713,
+      "end": 69.95,
+      "text": "แบบตกไปนิดนึง",
+      "source_segment": 65.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 70.0,
+      "end": 73.95,
+      "text": "ฮ่าๆๆๆๆๆ",
+      "source_segment": 70.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 74.0,
+      "end": 77.232,
+      "text": "อันนี้ที่หนูไม่ค่อยพูดนะเพราะว่าเกมมันค่อนข้างใช้",
+      "source_segment": 74.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 77.232,
+      "end": 77.95,
+      "text": "สมาธินิดนึง",
+      "source_segment": 74.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 78.0,
+      "end": 81.95,
+      "text": "หนึ่งยูนิตในแมพมันค่อนข้างเยอะ",
+      "source_segment": 78.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 82.0,
+      "end": 85.95,
+      "text": "แล้วสเตตัสของยูนิตมันก็แตกต่างกันด้วย",
+      "source_segment": 82.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 86.0,
+      "end": 89.342,
+      "text": "เราต้องโฟกัสด้วยว่าเฮ้ยเราอ่ะตอนนี้ยืน",
+      "source_segment": 86.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 89.342,
+      "end": 89.95,
+      "text": "ตรงไหน",
+      "source_segment": 86.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 90.0,
+      "end": 93.444,
+      "text": "มันมีความเสี่ยงว่าเราจะโดนดาเมจมากน้อยแค่",
+      "source_segment": 90.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 93.444,
+      "end": 93.95,
+      "text": "ไหนอยู่",
+      "source_segment": 90.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 94.0,
+      "end": 97.85,
+      "text": "มันก็เลยแบบว่าต้องใช้สมาธิในการเล่นมากๆ",
+      "source_segment": 94.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 97.85,
+      "end": 98.95,
+      "text": "เลยทีเดียวนะ",
+      "source_segment": 94.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 99.0,
+      "end": 102.95,
+      "text": "เป็นเกมหนึ่งที่รู้สึกว่ามันเล่นแบบจริงจังอ่ะสนุกดี",
+      "source_segment": 99.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 103.0,
+      "end": 106.269,
+      "text": "ได้มาทดสอบสมองด้วยนะฮะอย่างที่เขียนต่อให้",
+      "source_segment": 103.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 106.269,
+      "end": 107.95,
+      "text": "ตายไปถ้ามีตัวแถม 5 ตัว",
+      "source_segment": 103.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 108.0,
+      "end": 112.459,
+      "text": "มันไม่ได้ยากขนาดนั้นนะมองว่าอย่างนั้นเถอะ",
+      "source_segment": 108.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 112.459,
+      "end": 113.0,
+      "text": "ทุกคน",
+      "source_segment": 108.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 118.0,
+      "end": 121.332,
+      "text": "ก็สำหรับวันนี้ไปก่อนนะฮะไว้เจอกันใหม่ในคลิป",
+      "source_segment": 118.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 121.332,
+      "end": 122.95,
+      "text": "ถัดไปนะทุกคนบ๊ายบาย",
+      "source_segment": 118.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 123.0,
+      "end": 128.0,
+      "text": "บ๊ายบาย",
+      "source_segment": 123.0,
+      "gemini_uncertain": false,
+      "flags": []
+    }
+  ],
+  "qc_required": true,
+  "status": "unreviewed_draft"
+}

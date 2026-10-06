@@ -1,0 +1,105 @@
+{
+  "metadata": {
+    "model": "gemini-3-flash-preview",
+    "route": "google-generativeai-direct",
+    "timeline_index": 2,
+    "timeline_id": "a1247cea-a500-4b94-869e-b0d9fee6b8ff",
+    "timeline_name": "ตามหาห้องที่หายไป-alien shooter last hope-vdo",
+    "expected_duration_seconds": 92.15,
+    "prompt_token_count": 2497
+  },
+  "duration_seconds": 92.15,
+  "gemini": {
+    "audio_available": true,
+    "duration_seconds": 92.0,
+    "segments": [
+      {
+        "start": 0.9,
+        "end": 2.1,
+        "text": "เฮ้ย หาไม่เจอ",
+        "uncertain": false
+      },
+      {
+        "start": 2.1,
+        "end": 4.5,
+        "text": "เฮ้ย กุญแจหาย หาไม่เจอ",
+        "uncertain": false
+      },
+      {
+        "start": 4.8,
+        "end": 6.2,
+        "text": "อยู่ไหนวะ",
+        "uncertain": false
+      },
+      {
+        "start": 20.1,
+        "end": 23.5,
+        "text": "เฮ้ย แถวกำแพงก็ไม่มีนะ ไม่เห็นเลยอะ",
+        "uncertain": false
+      },
+      {
+        "start": 32.1,
+        "end": 35.1,
+        "text": "เหลือห้องสุดท้ายแล้วมั้งฮะ ใช่ หาไม่เจอ ห้องสุดท้าย",
+        "uncertain": false
+      },
+      {
+        "start": 35.1,
+        "end": 36.5,
+        "text": "หาไม่เจอ",
+        "uncertain": false
+      },
+      {
+        "start": 49.1,
+        "end": 50.5,
+        "text": "นี่ก็ไม่มีเหรอ",
+        "uncertain": false
+      },
+      {
+        "start": 52.5,
+        "end": 54.5,
+        "text": "มันหลุดออกไปแล้วมั้งวะ",
+        "uncertain": false
+      },
+      {
+        "start": 59.1,
+        "end": 62.5,
+        "text": "ถ้ามันมีห้าหินประดับก็น่าจะอยู่ห้องเมื่อกี้",
+        "uncertain": false
+      },
+      {
+        "start": 62.5,
+        "end": 64.1,
+        "text": "มันอยู่ไหน",
+        "uncertain": false
+      },
+      {
+        "start": 75.1,
+        "end": 77.1,
+        "text": "เฮ้ย ห้องนั้นเข้าไม่ได้นี่",
+        "uncertain": false
+      },
+      {
+        "start": 78.1,
+        "end": 81.5,
+        "text": "มันมีความเป็นไปได้อยู่สองอย่างก็คือ หนึ่ง ห้าหินประดับ",
+        "uncertain": false
+      },
+      {
+        "start": 81.5,
+        "end": 85.5,
+        "text": "กับสอง ห้องหน้าเป็นห้องที่โดนล็อกไปแล้ว",
+        "uncertain": false
+      },
+      {
+        "start": 85.5,
+        "end": 88.5,
+        "text": "ก็คือเข้าไปไม่ได้อีกแล้ว",
+        "uncertain": false
+      }
+    ],
+    "timing_measurement": "seconds",
+    "uncertainties": [],
+    "segment_count": 14
+  }
+}

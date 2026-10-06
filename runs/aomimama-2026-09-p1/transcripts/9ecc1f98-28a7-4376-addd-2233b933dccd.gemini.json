@@ -1,0 +1,146 @@
+{
+  "metadata": {
+    "model": "gemini-3.5-flash",
+    "route": "google-generativeai-direct",
+    "timeline_index": 15,
+    "timeline_id": "9ecc1f98-28a7-4376-addd-2233b933dccd",
+    "timeline_name": "ลืมแชร์จอ จบของวีทูปเบอร์ที่ไม่เตรียมตัว-Minecraft-vdo",
+    "expected_duration_seconds": 80.0,
+    "prompt_token_count": 2231
+  },
+  "duration_seconds": 80.0,
+  "gemini": {
+    "audio_available": true,
+    "duration_seconds": 80.0,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.1,
+        "text": "อันล่างมันเป็นอีกเซิร์ฟนึงพี่",
+        "uncertain": false
+      },
+      {
+        "start": 2.1,
+        "end": 4.2,
+        "text": "ไม่ใช่เซิร์ฟที่เรา ไม่ใช่เซิร์ฟส่วนตัวเรา",
+        "uncertain": false
+      },
+      {
+        "start": 4.2,
+        "end": 7.2,
+        "text": "อ๋อ นี่พี่เข้าไปในนี้แล้วพี่เล่นไม่ได้เหรอ",
+        "uncertain": false
+      },
+      {
+        "start": 7.2,
+        "end": 8.2,
+        "text": "เออ",
+        "uncertain": false
+      },
+      {
+        "start": 10.0,
+        "end": 14.0,
+        "text": "สมควรไอ้เหี้ย นี่จุดจบคนไม่ยอมแชร์จอตั้งแต่แรก",
+        "uncertain": false
+      },
+      {
+        "start": 14.0,
+        "end": 17.0,
+        "text": "กดเล่นไปดิพี่",
+        "uncertain": false
+      },
+      {
+        "start": 17.0,
+        "end": 23.0,
+        "text": "เรื่องโม้ล่ะว่า",
+        "uncertain": false
+      },
+      {
+        "start": 23.0,
+        "end": 25.0,
+        "text": "พี่เคยเข้าเลยพี่",
+        "uncertain": false
+      },
+      {
+        "start": 25.0,
+        "end": 30.0,
+        "text": "พี่เคยเข้ามาแล้วพี่จำมันก่อนไม่ได้เหรอ นั่งเข้าเซิร์ฟเนโกะอยู่พี่จ๋า",
+        "uncertain": false
+      },
+      {
+        "start": 33.5,
+        "end": 37.0,
+        "text": "คุณพรสนใจไหมคุณพร",
+        "uncertain": false
+      },
+      {
+        "start": 37.0,
+        "end": 39.0,
+        "text": "หืม",
+        "uncertain": false
+      },
+      {
+        "start": 39.0,
+        "end": 41.0,
+        "text": "Minecraft",
+        "uncertain": false
+      },
+      {
+        "start": 41.0,
+        "end": 48.0,
+        "text": "โอเค โค้ดไอ้โค้ดแอนเชอร์ตอนนี้ผมตายพอดี",
+        "uncertain": true
+      },
+      {
+        "start": 48.0,
+        "end": 52.0,
+        "text": "Minecraft Launcher ก็เข้าได้นะ",
+        "uncertain": false
+      },
+      {
+        "start": 52.0,
+        "end": 59.0,
+        "text": "แค่เนโกะ แค่เนโกะมันมันแบบ มันเป็นแบบ Launcher ที่แบบ มันลงปลั๊กอินของเซิร์ฟไว้ให้แล้วอ่ะ",
+        "uncertain": false
+      },
+      {
+        "start": 59.0,
+        "end": 61.0,
+        "text": "ไม่ต้องไปนั่งหา",
+        "uncertain": false
+      },
+      {
+        "start": 61.0,
+        "end": 66.0,
+        "text": "พี่ พี่นัทมองเสียงคนนี้ดิ นี่เสียงคนนี้",
+        "uncertain": false
+      },
+      {
+        "start": 66.0,
+        "end": 70.0,
+        "text": "นี่นะครับจุดจบของ Vtuber ที่ลืมเตรียมความพร้อมนะครับ",
+        "uncertain": false
+      },
+      {
+        "start": 75.0,
+        "end": 77.0,
+        "text": "มันปิดมิวสิคยังไงอ่ะ",
+        "uncertain": false
+      },
+      {
+        "start": 77.0,
+        "end": 80.0,
+        "text": "ปิดไปเลยพี่ เพราะว่ามันติดลิขสิทธิ์",
+        "uncertain": false
+      }
+    ],
+    "uncertainties": [
+      {
+        "start": 41.0,
+        "end": 48.0,
+        "reason": "The speaker says something like 'โค้ดไอ้โค้ดแอนเชอร์' or 'โค้ดไอ้โค้ดลันเชอร์' which is unclear."
+      }
+    ],
+    "segment_count": 20
+  }
+}

@@ -1,0 +1,81 @@
+COMMAND: C:\Users\warit\Desktop\agent-create-subtitle\.venv-aomimama\Scripts\python.exe -m unittest discover -s tests -v
+test_audio_mutation_during_decode_stops_before_persisting_raw (test_aomimama_asr.ASRTests.test_audio_mutation_during_decode_stops_before_persisting_raw) ... [1] uuid-1: starting
+loading large-v3 on cpu/int8 (local cache only)
+ok
+test_batch_one_model_retains_confidence_and_unapproved_drafts (test_aomimama_asr.ASRTests.test_batch_one_model_retains_confidence_and_unapproved_drafts) ... [1] uuid-1: starting
+loading large-v3 on cpu/int8 (local cache only)
+[1] uuid-1: 1 cues, unapproved draft written
+[2] uuid-2: starting
+[2] uuid-2: 1 cues, unapproved draft written
+[1] uuid-1: starting
+[1] uuid-1: resuming exact metadata
+[1] uuid-1: 1 cues, unapproved draft written
+[2] uuid-2: starting
+[2] uuid-2: resuming exact metadata
+[2] uuid-2: 1 cues, unapproved draft written
+ok
+test_changed_audio_invalidates_resume_and_archives_previous_raw (test_aomimama_asr.ASRTests.test_changed_audio_invalidates_resume_and_archives_previous_raw) ... [2] uuid-2: starting
+loading large-v3 on cpu/int8 (local cache only)
+[2] uuid-2: 1 cues, unapproved draft written
+[2] uuid-2: starting
+loading large-v3 on cpu/int8 (local cache only)
+[2] uuid-2: 1 cues, unapproved draft written
+ok
+test_duplicate_manifest_identity_rejected_before_model_load (test_aomimama_asr.ASRTests.test_duplicate_manifest_identity_rejected_before_model_load) ... ok
+test_preflight_duration_root_index_and_fps_checks (test_aomimama_asr.ASRTests.test_preflight_duration_root_index_and_fps_checks) ... ok
+test_rerun_never_overwrites_human_review (test_aomimama_asr.ASRTests.test_rerun_never_overwrites_human_review) ... [1] uuid-1: starting
+loading large-v3 on cpu/int8 (local cache only)
+[1] uuid-1: 1 cues, unapproved draft written
+[1] uuid-1: starting
+[1] uuid-1: resuming exact metadata
+ok
+test_truncated_wav_rejected_before_model_load (test_aomimama_asr.ASRTests.test_truncated_wav_rejected_before_model_load) ... ok
+test_windows_cuda_dll_discovery_only_uses_existing_package_dirs (test_aomimama_asr.ASRTests.test_windows_cuda_dll_discovery_only_uses_existing_package_dirs) ... ok
+test_coherent_five_words_longer_than_one_point_five_seconds (test_aomimama_captions.CaptionTests.test_coherent_five_words_longer_than_one_point_five_seconds) ... ok
+test_disagreeing_segment_fragments_require_explicit_reconciliation (test_aomimama_captions.CaptionTests.test_disagreeing_segment_fragments_require_explicit_reconciliation) ... ok
+test_fragment_preservation_repetition_latin_punctuation_and_foreign_flags (test_aomimama_captions.CaptionTests.test_fragment_preservation_repetition_latin_punctuation_and_foreign_flags) ... ok
+test_half_second_pause_and_segment_fallback_preserve_text (test_aomimama_captions.CaptionTests.test_half_second_pause_and_segment_fallback_preserve_text) ... ok
+test_long_thai_splits_without_severing_combining_marks_negation_or_name (test_aomimama_captions.CaptionTests.test_long_thai_splits_without_severing_combining_marks_negation_or_name) ... ok
+test_overlap_repair_preserves_all_text_and_pause_gap (test_aomimama_captions.CaptionTests.test_overlap_repair_preserves_all_text_and_pause_gap) ... ok
+test_punctuation_spacing_preserves_latin_names_and_thai_repetition_mark (test_aomimama_captions.CaptionTests.test_punctuation_spacing_preserves_latin_names_and_thai_repetition_mark) ... ok
+test_srt_roundtrip_milliseconds_and_invalid_timing (test_aomimama_captions.CaptionTests.test_srt_roundtrip_milliseconds_and_invalid_timing) ... ok
+test_unbreakable_phrase_exceeds_soft_limits_and_is_flagged_not_deleted (test_aomimama_captions.CaptionTests.test_unbreakable_phrase_exceeds_soft_limits_and_is_flagged_not_deleted) ... ok
+
+----------------------------------------------------------------------
+Ran 17 tests in 1.030s
+
+OK
+
+EXIT: 0
+COMMAND: C:\Users\warit\Desktop\agent-create-subtitle\.venv-aomimama\Scripts\python.exe scripts/aomimama_asr.py --help
+usage: aomimama_asr.py [-h] --run-root RUN_ROOT
+                       [--indices INDICES [INDICES ...]] [--model MODEL]
+                       [--device {cpu,cuda}] [--compute {int8,float16}]
+
+Offline batch ASR sidecars. Never approves captions or calls Resolve. Requires
+a locally cached faster-whisper model (local_files_only=True). Timeline end is
+exclusive; WAV zero is timeline start, NOT frame zero.
+
+options:
+  -h, --help            show this help message and exit
+  --run-root RUN_ROOT
+  --indices INDICES [INDICES ...]
+                        manifest indices; default all
+  --model MODEL
+  --device {cpu,cuda}
+  --compute {int8,float16}
+
+EXIT: 0
+COMMAND: C:\Users\warit\Desktop\agent-create-subtitle\.venv-aomimama\Scripts\python.exe -m py_compile scripts/aomimama_caption_core.py scripts/aomimama_asr.py tests/test_aomimama_captions.py tests/test_aomimama_asr.py
+
+EXIT: 0
+COMMAND: git diff --check
+
+EXIT: 0
+COMMAND: git status --short --untracked-files=all
+?? scripts/aomimama_asr.py
+?? scripts/aomimama_caption_core.py
+?? tests/test_aomimama_asr.py
+?? tests/test_aomimama_captions.py
+
+EXIT: 0

@@ -1,0 +1,165 @@
+{
+  "timeline_id": "f95d96d1-4362-4a0f-803b-125834044a94",
+  "timeline_name": "คุยกับแชทช่วงต้นไลฟ์ เล่าว่าเล่นเกมนี้มาหล-alien shooter-vdo",
+  "approved": false,
+  "source_model": "gemini-3-flash-preview",
+  "duration_seconds": 93.36666666666666,
+  "cues": [
+    {
+      "start": 3.0,
+      "end": 5.0,
+      "text": "ฮัลโหลเทส 1 2 3 4",
+      "source_segment": 3.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 9.0,
+      "end": 14.0,
+      "text": "โอเคทุกคนก็สวัสดียามค่ำคืนในเวลาของ...",
+      "source_segment": 9.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 20.0,
+      "end": 25.0,
+      "text": "โอ๊ยปวด... เมื่อยวันนี้วิ่งเยอะไปหน่อย",
+      "source_segment": 20.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 30.0,
+      "end": 33.95,
+      "text": "วันนี้อยู่กับเกม Heavy Rain Shooter นะ",
+      "source_segment": 30.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 34.0,
+      "end": 38.95,
+      "text": "เป็นเกมที่ค่อนข้างที่จะเก่า",
+      "source_segment": 34.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 39.0,
+      "end": 43.359,
+      "text": "แต่จะบอกว่าค่อนข้างก็ไม่ได้ต้องเรียกว่ามันแก่",
+      "source_segment": 39.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 43.359,
+      "end": 44.0,
+      "text": "เลยล่ะ",
+      "source_segment": 39.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 47.0,
+      "end": 51.208,
+      "text": "ซึ่งนั่นแหละนะเดี๋ยววันนี้มาเล่นกันถือว่าเป็น",
+      "source_segment": 47.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 51.208,
+      "end": 51.95,
+      "text": "เอ่อ...",
+      "source_segment": 47.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 52.0,
+      "end": 55.95,
+      "text": "ถ้าจะมาตัดเลี่ยนจากพวกแบบเกมแบบว่ายากๆ",
+      "source_segment": 52.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 56.0,
+      "end": 57.95,
+      "text": "อย่าง Resident Evil ภาค 4",
+      "source_segment": 56.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 58.0,
+      "end": 62.689,
+      "text": "อะไรประมาณนั้นเกมนี้ก็จะค่อนข้างจะธรรมดาๆ",
+      "source_segment": 58.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 62.689,
+      "end": 63.089,
+      "text": "อยู่",
+      "source_segment": 58.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 63.138999999999996,
+      "end": 64.95,
+      "text": "มั้งนะส่วนตัวหนูว่าเคยเล่นเกมนี้มา",
+      "source_segment": 63.0,
+      "gemini_uncertain": false,
+      "flags": [
+        "start_clipped_to_previous"
+      ]
+    },
+    {
+      "start": 65.0,
+      "end": 67.95,
+      "text": "ก็เล่นจบไปหลายรอบแล้ว",
+      "source_segment": 65.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 68.0,
+      "end": 72.95,
+      "text": "ซึ่งอาจจะไม่มีอะไรพิเศษมากนัก",
+      "source_segment": 68.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 73.0,
+      "end": 78.0,
+      "text": "ธรรมดาๆเล่นกันไป",
+      "source_segment": 73.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 83.0,
+      "end": 87.95,
+      "text": "เดี๋ยวขอไปดู Setting กันดีกว่า",
+      "source_segment": 83.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 88.0,
+      "end": 93.0,
+      "text": "เดี๋ยวขอเปลี่ยน Setting แป๊บนึง",
+      "source_segment": 88.0,
+      "gemini_uncertain": false,
+      "flags": []
+    }
+  ],
+  "qc_required": true,
+  "status": "unreviewed_draft"
+}

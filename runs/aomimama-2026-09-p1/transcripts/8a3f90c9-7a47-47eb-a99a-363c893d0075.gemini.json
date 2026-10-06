@@ -1,0 +1,111 @@
+{
+  "metadata": {
+    "model": "gemini-3-flash-preview",
+    "route": "google-generativeai-direct",
+    "timeline_index": 3,
+    "timeline_id": "8a3f90c9-7a47-47eb-a99a-363c893d0075",
+    "timeline_name": "ฝูงเอเลี่ยนบุกจนร้องลั่น-alien shooter last hope-vdo",
+    "expected_duration_seconds": 72.8,
+    "prompt_token_count": 2013
+  },
+  "duration_seconds": 72.8,
+  "gemini": {
+    "audio_available": true,
+    "duration_seconds": 73,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 1.2,
+        "text": "พี่ไม่ว่าง",
+        "uncertain": false
+      },
+      {
+        "start": 1.2,
+        "end": 2.0,
+        "text": "อ๋อ",
+        "uncertain": false
+      },
+      {
+        "start": 4.0,
+        "end": 5.5,
+        "text": "ขอบคุณที่ทักมานะ",
+        "uncertain": false
+      },
+      {
+        "start": 23.5,
+        "end": 25.5,
+        "text": "ถ้าทักคนอื่นไว้แบบว่า",
+        "uncertain": false
+      },
+      {
+        "start": 25.5,
+        "end": 27.5,
+        "text": "เฉยๆ อะ มันไม่มีปัญหาหรอก",
+        "uncertain": false
+      },
+      {
+        "start": 27.5,
+        "end": 29.0,
+        "text": "แต่ถ้าเกิดว่า",
+        "uncertain": false
+      },
+      {
+        "start": 29.0,
+        "end": 31.0,
+        "text": "เฮ้ย เรามาคุยกันแบบว่า",
+        "uncertain": false
+      },
+      {
+        "start": 31.0,
+        "end": 33.0,
+        "text": "จะเล่นด้วยกันตอนไหนดีกันอย่างเงี้ย",
+        "uncertain": false
+      },
+      {
+        "start": 33.0,
+        "end": 35.0,
+        "text": "อันเนี้ย ยังไงก็ต้องติดต่อเรามา",
+        "uncertain": false
+      },
+      {
+        "start": 35.0,
+        "end": 37.0,
+        "text": "มันเป็นกฎอะนะ",
+        "uncertain": false
+      },
+      {
+        "start": 44.5,
+        "end": 46.5,
+        "text": "ก็ยังไงหนูมันเป็นมีค่ายอะ",
+        "uncertain": false
+      },
+      {
+        "start": 46.5,
+        "end": 48.5,
+        "text": "ทำอะไรตามใจตัวเองไม่ค่อยได้",
+        "uncertain": false
+      },
+      {
+        "start": 56.5,
+        "end": 58.5,
+        "text": "อือ มีตัวอย่างมาเรื่อยๆ",
+        "uncertain": false
+      },
+      {
+        "start": 58.5,
+        "end": 60.0,
+        "text": "ในหน้างาน",
+        "uncertain": false
+      },
+      {
+        "start": 68.5,
+        "end": 70.5,
+        "text": "มุมมองของคนอื่น",
+        "uncertain": false
+      }
+    ],
+    "timing_measurement": "seconds",
+    "uncertainties": [],
+    "segment_count": 15
+  }
+}

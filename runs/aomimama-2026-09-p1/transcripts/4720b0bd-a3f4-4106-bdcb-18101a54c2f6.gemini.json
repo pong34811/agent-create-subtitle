@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "model": "gemini-3-flash-preview",
+    "route": "google-generativeai-direct",
+    "timeline_index": 1,
+    "timeline_id": "4720b0bd-a3f4-4106-bdcb-18101a54c2f6",
+    "timeline_name": "เปิดสตรีมทักทายก่อนเริ่มเกม-alien shooter last hope-vdo",
+    "expected_duration_seconds": 90.6,
+    "prompt_token_count": 2458
+  },
+  "duration_seconds": 90.6,
+  "gemini": {
+    "audio_available": true,
+    "duration_seconds": 90,
+    "segments": [
+      {
+        "start": 10.5,
+        "end": 12.5,
+        "text": "ฮัลโหล",
+        "uncertain": false
+      },
+      {
+        "start": 13.0,
+        "end": 15.5,
+        "text": "ฮัลโหล",
+        "uncertain": false
+      },
+      {
+        "start": 16.5,
+        "end": 22.5,
+        "text": "วันนี้พยายามทำฟิล์มได้เวลา 2 ทุ่มด้วยนะ",
+        "uncertain": false
+      },
+      {
+        "start": 23.0,
+        "end": 24.5,
+        "text": "อืม",
+        "uncertain": false
+      },
+      {
+        "start": 27.5,
+        "end": 34.5,
+        "text": "วันนี้อยู่กับเกม Alien Shooter ภาค Vengeance นะ",
+        "uncertain": false
+      },
+      {
+        "start": 35.5,
+        "end": 40.5,
+        "text": "ก็ น่าจะทำเหมือนเดิมนะ คือเดี๋ยวจะอัดหนัง",
+        "uncertain": false
+      },
+      {
+        "start": 49.5,
+        "end": 59.5,
+        "text": "เดี๋ยวต้องเหมือนเดิม ปล่อยเกมฟุ้งซ่าน ต้องมาเช็คดิสก์นิดนึง เพราะว่า นั่นแหละ เป็นเกมเก่าเนาะ ต้องขอเวลาเช็คดิสก์",
+        "uncertain": false
+      },
+      {
+        "start": 60.5,
+        "end": 62.5,
+        "text": "นี่ฮะ นี่ฮะ",
+        "uncertain": false
+      },
+      {
+        "start": 83.0,
+        "end": 85.0,
+        "text": "เอ๊ะ โอ้",
+        "uncertain": false
+      },
+      {
+        "start": 86.0,
+        "end": 87.5,
+        "text": "เดี๋ยวนะ",
+        "uncertain": false
+      },
+      {
+        "start": 88.0,
+        "end": 90.0,
+        "text": "รู้อยู่พอสมควร",
+        "uncertain": false
+      }
+    ],
+    "timing_measurement": "seconds",
+    "uncertainties": [],
+    "segment_count": 11
+  }
+}

@@ -1,0 +1,199 @@
+{
+  "metadata": {
+    "model": "gemini-2.5-flash",
+    "route": "google-generativeai-direct",
+    "timeline_index": 20,
+    "timeline_id": "4bddb8e1-865b-46d1-9263-cbd5c5849c5c",
+    "timeline_name": "เจอเพชรแล้ว! ยิส!-Minecraft-vdo",
+    "expected_duration_seconds": 80.0,
+    "prompt_token_count": 2754
+  },
+  "duration_seconds": 80.0,
+  "gemini": {
+    "audio_available": true,
+    "duration_seconds": 79.5,
+    "segments": [
+      {
+        "start": 2.0,
+        "end": 2.3,
+        "text": "เฮ้ย",
+        "uncertain": false
+      },
+      {
+        "start": 6.7,
+        "end": 8.5,
+        "text": "50 ลบ 53 มึง ไป",
+        "uncertain": false
+      },
+      {
+        "start": 9.5,
+        "end": 11.5,
+        "text": "ถ้า เจอ เยอะ สุด จะ เป็น 50 ลบ 58",
+        "uncertain": false
+      },
+      {
+        "start": 12.2,
+        "end": 12.6,
+        "text": "อ่าฮะ",
+        "uncertain": false
+      },
+      {
+        "start": 13.2,
+        "end": 16.0,
+        "text": "เฮ้ย นี่ 54 ไม่ ดง ที รู้ สึก ที ดง หมา ยัง อ่ะ คุณ ดู",
+        "uncertain": false
+      },
+      {
+        "start": 17.1,
+        "end": 18.0,
+        "text": "นี่ ขุด ตรง มาก เลย นะ",
+        "uncertain": false
+      },
+      {
+        "start": 19.3,
+        "end": 21.4,
+        "text": "โห พี่ จ๋า สุด ยอด มาก เลย แม่ง อยู่ ขุด ข้าง ๆ อ่ะ",
+        "uncertain": false
+      },
+      {
+        "start": 21.5,
+        "end": 22.5,
+        "text": "สาธุ ขอ ให้ เจอ นะ",
+        "uncertain": false
+      },
+      {
+        "start": 35.0,
+        "end": 37.3,
+        "text": "ถ้า เรา ได้ Diamond ใหม่ นะ พี่ เรา ลง นรก ไป เอา Netherite นะ",
+        "uncertain": false
+      },
+      {
+        "start": 37.5,
+        "end": 40.7,
+        "text": "ไม่ งั้น เพื่อ ชีวิต อัน โหด ร้าย ใน การ มา นั่ง ขุด บล็อก โง่ ๆ แบบ นี้ จะ ได้ หาย ไป อ่ะ",
+        "uncertain": false
+      },
+      {
+        "start": 40.8,
+        "end": 43.0,
+        "text": "แล้ว enchant แม่ง เอา แบบ ไอ้ อะไร วะ",
+        "uncertain": false
+      },
+      {
+        "start": 43.0,
+        "end": 43.5,
+        "text": "ไอ้",
+        "uncertain": false
+      },
+      {
+        "start": 46.0,
+        "end": 46.5,
+        "text": "กูจะลืม",
+        "uncertain": false
+      },
+      {
+        "start": 47.2,
+        "end": 48.7,
+        "text": "3x3 เจอ แน่",
+        "uncertain": false
+      },
+      {
+        "start": 49.3,
+        "end": 50.7,
+        "text": "เฮ้ย เฮ้ย เฮ้ย สาย ทาน ป่ะ นี่",
+        "uncertain": false
+      },
+      {
+        "start": 51.0,
+        "end": 51.8,
+        "text": "อื้อ สาย ทาน ป่ะ นี่",
+        "uncertain": false
+      },
+      {
+        "start": 52.2,
+        "end": 53.5,
+        "text": "เดี๋ยว ๆ ๆ ๆ อื้อ ขอ สแกน ก่อน",
+        "uncertain": false
+      },
+      {
+        "start": 58.0,
+        "end": 58.6,
+        "text": "ใช่ เปล่า วะ",
+        "uncertain": false
+      },
+      {
+        "start": 59.3,
+        "end": 60.0,
+        "text": "ใช่ เปล่า วะ",
+        "uncertain": false
+      },
+      {
+        "start": 60.3,
+        "end": 61.3,
+        "text": "ผม ตา ไม่ ถั่ว นะ",
+        "uncertain": false
+      },
+      {
+        "start": 61.6,
+        "end": 62.2,
+        "text": "เฮ้ย นี่ มัน",
+        "uncertain": false
+      },
+      {
+        "start": 62.5,
+        "end": 63.0,
+        "text": "เยส",
+        "uncertain": false
+      },
+      {
+        "start": 64.2,
+        "end": 64.5,
+        "text": "โอ้",
+        "uncertain": false
+      },
+      {
+        "start": 65.3,
+        "end": 66.0,
+        "text": "หวาน เจี๊ยบ",
+        "uncertain": false
+      },
+      {
+        "start": 66.6,
+        "end": 66.9,
+        "text": "โอ้ย",
+        "uncertain": false
+      },
+      {
+        "start": 67.3,
+        "end": 68.0,
+        "text": "พี่ ไอ้ เหี้ย",
+        "uncertain": false
+      },
+      {
+        "start": 68.5,
+        "end": 69.2,
+        "text": "ไอ้ บี ไอ้ เหี้ย",
+        "uncertain": false
+      },
+      {
+        "start": 70.0,
+        "end": 71.2,
+        "text": "แตก Diamond เหลือ อัน นึง",
+        "uncertain": false
+      },
+      {
+        "start": 73.3,
+        "end": 74.7,
+        "text": "เนี่ย พี่ Diamond เต็ม เลย พี่ จ๋า",
+        "uncertain": false
+      },
+      {
+        "start": 77.2,
+        "end": 79.5,
+        "text": "ถ้า ผม ตาย แล้ว ผม จะ เอา พี่ ไป ลง นรก ด้วย กัน ไอ้ เหี้ย",
+        "uncertain": false
+      }
+    ],
+    "segment_count": 30
+  }
+}

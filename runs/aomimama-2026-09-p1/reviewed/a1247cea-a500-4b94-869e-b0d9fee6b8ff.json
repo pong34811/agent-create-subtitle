@@ -1,0 +1,239 @@
+{
+  "approved": false,
+  "metadata": {
+    "schema_version": 1,
+    "project": "aomimama-2026-09-p1",
+    "timeline": {
+      "index": 2,
+      "id": "a1247cea-a500-4b94-869e-b0d9fee6b8ff",
+      "name": "ตามหาห้องที่หายไป-alien shooter last hope-vdo",
+      "start": 0,
+      "end": 5529,
+      "fps": 60.0,
+      "width": "1920",
+      "height": "1080",
+      "subtitle_tracks": 0,
+      "clips": {
+        "video": [
+          [
+            {
+              "id": "78947aaf-3b1c-448e-b006-9008be81484e",
+              "start": 0,
+              "end": 5529,
+              "left": 152392,
+              "duration": 5529
+            }
+          ]
+        ],
+        "audio": [
+          [
+            {
+              "id": "126a2a91-fa76-46e5-a2ee-741b591a2575",
+              "start": 0,
+              "end": 5529,
+              "left": 152392,
+              "duration": 5529
+            }
+          ]
+        ]
+      }
+    },
+    "model": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "faster_whisper_version": "1.2.1",
+    "transcribe_options": {
+      "language": "th",
+      "word_timestamps": true,
+      "beam_size": 5,
+      "temperature": [
+        0.0,
+        0.2,
+        0.4,
+        0.6,
+        0.8,
+        1.0
+      ],
+      "condition_on_previous_text": false,
+      "vad_filter": true,
+      "vad_parameters": {
+        "min_silence_duration_ms": 400,
+        "speech_pad_ms": 200
+      }
+    },
+    "audio": {
+      "sha256": "2f7b1c81a10877d4793c57ba4f223be78858c2954a2cc254de491b8405e7d2ea",
+      "frames": 1474400,
+      "sample_rate": 16000,
+      "channels": 1,
+      "sample_width": 2,
+      "duration_seconds": 92.15
+    }
+  },
+  "draft_policy": {
+    "max_glyphs": 36,
+    "target_seconds": 4.0,
+    "pause_seconds": 0.5
+  },
+  "duration_seconds": 92.15,
+  "cues": [
+    {
+      "start": 1.62,
+      "end": 4.82,
+      "text": "ก็หาไม่เจอ ในเมื่อเสร็จสิ้นคลายหากไม่เจอ",
+      "flags": []
+    },
+    {
+      "start": 5.73,
+      "end": 6.67,
+      "text": "ดุใหม่อ่ะ",
+      "flags": []
+    },
+    {
+      "start": 6.67,
+      "end": 20.75,
+      "text": "ตัว",
+      "flags": [
+        "duration_heuristic_exceeded"
+      ]
+    },
+    {
+      "start": 20.75,
+      "end": 22.53,
+      "text": "แตดเคมมาด้วยไม่มีแล้ว",
+      "flags": []
+    },
+    {
+      "start": 22.53,
+      "end": 23.25,
+      "text": "ไม่เห็นเหลือก",
+      "flags": []
+    },
+    {
+      "start": 23.25,
+      "end": 31.64,
+      "text": "ผ่อน",
+      "flags": [
+        "duration_heuristic_exceeded"
+      ]
+    },
+    {
+      "start": 31.64,
+      "end": 32.28,
+      "text": "ข้างท้าย",
+      "flags": []
+    },
+    {
+      "start": 32.28,
+      "end": 33.1,
+      "text": "เห็นไหมคะ",
+      "flags": []
+    },
+    {
+      "start": 33.1,
+      "end": 35.42,
+      "text": "ใช่หากเป็นเสถข้างท้าย",
+      "flags": []
+    },
+    {
+      "start": 35.42,
+      "end": 36.82,
+      "text": "หาไม่เจอ",
+      "flags": []
+    },
+    {
+      "start": 36.82,
+      "end": 50.18,
+      "text": "เลี้ยง",
+      "flags": [
+        "duration_heuristic_exceeded"
+      ]
+    },
+    {
+      "start": 50.18,
+      "end": 51.14,
+      "text": "ทำไม่ได้",
+      "flags": []
+    },
+    {
+      "start": 51.14,
+      "end": 54.71,
+      "text": "มันมีอุปกรณ์บ้างะ",
+      "flags": []
+    },
+    {
+      "start": 54.71,
+      "end": 60.5,
+      "text": "มัน",
+      "flags": [
+        "duration_heuristic_exceeded"
+      ]
+    },
+    {
+      "start": 60.5,
+      "end": 62.36,
+      "text": "มีทางเสถ uncover action หรือมันไม่เจอ",
+      "flags": []
+    },
+    {
+      "start": 62.36,
+      "end": 69.65,
+      "text": "ต้อง",
+      "flags": [
+        "duration_heuristic_exceeded"
+      ]
+    },
+    {
+      "start": 69.65,
+      "end": 69.99,
+      "text": "ทำไง",
+      "flags": []
+    },
+    {
+      "start": 69.99,
+      "end": 74.85,
+      "text": "เจ้า",
+      "flags": [
+        "duration_heuristic_exceeded"
+      ]
+    },
+    {
+      "start": 74.85,
+      "end": 76.53,
+      "text": "หนNOUNเท่ามั้ย ส้าที่แน่วนี้",
+      "flags": []
+    },
+    {
+      "start": 80.23,
+      "end": 83.1,
+      "text": "มันมีความใช้ได้อยู่ของอย่างเท่าคือ หนูน่า ทาหัว",
+      "flags": []
+    },
+    {
+      "start": 83.1,
+      "end": 83.75,
+      "text": "ขับของ",
+      "flags": []
+    },
+    {
+      "start": 84.01,
+      "end": 86.25,
+      "text": "เพราะน่าเป็นห้องที่โรนล็อตไป",
+      "flags": []
+    },
+    {
+      "start": 86.25,
+      "end": 86.71,
+      "text": "แล้ว",
+      "flags": []
+    },
+    {
+      "start": 87.43,
+      "end": 88.95,
+      "text": "เข้าไปไม่ได้อยู่แล้ว",
+      "flags": []
+    }
+  ],
+  "qc_required": true,
+  "status": "unreviewed_draft"
+}

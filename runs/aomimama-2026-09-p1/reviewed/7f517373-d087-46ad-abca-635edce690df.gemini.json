@@ -1,0 +1,67 @@
+{
+  "timeline_id": "7f517373-d087-46ad-abca-635edce690df",
+  "timeline_name": "ดับเบิลคิลแล้วโดนฝัง-League of Legends-vdo",
+  "approved": false,
+  "source_model": "gemini-3.1-flash-lite",
+  "duration_seconds": 105.21666666666667,
+  "cues": [
+    {
+      "start": 7.0,
+      "end": 10.0,
+      "text": "ไม่น่ามีลูกน้องน่ารักคนนึงเลยที่เหลือแม่งทำ",
+      "source_segment": 7.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 10.0,
+      "end": 11.0,
+      "text": "อะไรไม่ได้เลย",
+      "source_segment": 7.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 19.0,
+      "end": 22.95,
+      "text": "มึงน่าจะรู้ว่าหนูแพ้วันมีโครอยู่ตลอดเวลา",
+      "source_segment": 19.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 23.0,
+      "end": 26.95,
+      "text": "ไม่น่าคุยเลย",
+      "source_segment": 23.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 27.0,
+      "end": 28.0,
+      "text": "หนูรู้แล้วดิคนนี้เขาเก่งนะวะ",
+      "source_segment": 27.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 33.0,
+      "end": 35.0,
+      "text": "พี่เขาเก่งมากเลยนะ",
+      "source_segment": 33.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 58.0,
+      "end": 59.0,
+      "text": "อย่าคุยกับใครเลย",
+      "source_segment": 58.0,
+      "gemini_uncertain": false,
+      "flags": []
+    }
+  ],
+  "qc_required": true,
+  "status": "unreviewed_draft"
+}

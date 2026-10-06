@@ -1,0 +1,237 @@
+{
+  "metadata": {
+    "model": "gemini-2.5-flash",
+    "route": "google-generativeai-direct",
+    "timeline_index": 19,
+    "timeline_id": "12775bd0-acc9-4658-b216-500a2e1c7755",
+    "timeline_name": "อย่าใส่ร้ายผม เกือบจมลาวา-Minecraft-vdo",
+    "expected_duration_seconds": 116.0,
+    "prompt_token_count": 3906
+  },
+  "duration_seconds": 116.0,
+  "gemini": {
+    "audio_available": true,
+    "duration_seconds": 116.0,
+    "segments": [
+      {
+        "start": 1.5,
+        "end": 2.22,
+        "text": "เออ",
+        "uncertain": false
+      },
+      {
+        "start": 2.22,
+        "end": 5.2,
+        "text": "จะ โล่ มัน โล่ เหมือน กัน ใน นี้ ได้ มั้ย วะ พี่",
+        "uncertain": false
+      },
+      {
+        "start": 5.7,
+        "end": 8.6,
+        "text": "ฮะ ใน ไอ้ ระเบิด ครีปเปอร์ อ่ะ",
+        "uncertain": false
+      },
+      {
+        "start": 8.9,
+        "end": 10.4,
+        "text": "ฉัน ได้ ฉัน ได้",
+        "uncertain": false
+      },
+      {
+        "start": 12.0,
+        "end": 14.8,
+        "text": "แต่ ว่า นาน ๆ เหนื่อย อยู่ นะ มัน ไม่ ได้ ชนะ ทั้ง หมด",
+        "uncertain": false
+      },
+      {
+        "start": 14.8,
+        "end": 15.3,
+        "text": "เออ",
+        "uncertain": false
+      },
+      {
+        "start": 16.4,
+        "end": 17.8,
+        "text": "อัน นี้ คือ พี่ อุด ลาวา แล้ว เหรอ",
+        "uncertain": false
+      },
+      {
+        "start": 18.4,
+        "end": 19.5,
+        "text": "อุด แล้ว ทำไม",
+        "uncertain": false
+      },
+      {
+        "start": 20.0,
+        "end": 21.6,
+        "text": "เหี้ย แม่ง เหล็ก อยู่ ด้าน หน้า พี่ อ่ะ",
+        "uncertain": false
+      },
+      {
+        "start": 27.0,
+        "end": 29.6,
+        "text": "เยี่ยม เลย ไอ้เหี้ย ความ เจริญ",
+        "uncertain": false
+      },
+      {
+        "start": 31.3,
+        "end": 32.9,
+        "text": "จริงๆ ถ้า ไอ้ ชิบหาย ละ",
+        "uncertain": false
+      },
+      {
+        "start": 35.3,
+        "end": 37.3,
+        "text": "อุ้ย ใช้ ได้ แล้ว เนี่ย ตรง นี้ เต็ม เลย พี่",
+        "uncertain": false
+      },
+      {
+        "start": 39.9,
+        "end": 43.5,
+        "text": "เฮ้ย อย่า ใส่ ร้าย ผม นะ โอ้โห ผม ผม ผม ไม่ ได้ หิว เงิน หนา",
+        "uncertain": false
+      },
+      {
+        "start": 44.2,
+        "end": 45.6,
+        "text": "แต่ ว่า โดน มา 100 นึง ด้วย",
+        "uncertain": false
+      },
+      {
+        "start": 46.3,
+        "end": 47.0,
+        "text": "ใช่ๆ",
+        "uncertain": false
+      },
+      {
+        "start": 48.9,
+        "end": 50.4,
+        "text": "อย่า ใส่ ร้าย ผม นะ โอ้โห",
+        "uncertain": false
+      },
+      {
+        "start": 53.6,
+        "end": 55.3,
+        "text": "สัมผัส ได้ แล้ว ไอ้เหี้ย ฉัน ได้ กลิ่น",
+        "uncertain": false
+      },
+      {
+        "start": 55.4,
+        "end": 57.2,
+        "text": "ไอ้ สัตว์ เอ้ย สเกเลตัน",
+        "uncertain": false
+      },
+      {
+        "start": 58.7,
+        "end": 59.3,
+        "text": "เก่ง หรอ",
+        "uncertain": false
+      },
+      {
+        "start": 59.9,
+        "end": 61.7,
+        "text": "เก่ง หรอ เก่ง หรอ",
+        "uncertain": false
+      },
+      {
+        "start": 62.0,
+        "end": 63.6,
+        "text": "ให้ มัน อยู่ ใน ลาวา ได้ ด้วย ดิ",
+        "uncertain": false
+      },
+      {
+        "start": 64.2,
+        "end": 66.6,
+        "text": "มึง ลง ไป อย่าง งั้น เดี๋ยว มึง ลืม ทาง ขึ้น มา ทำ ไง วะ",
+        "uncertain": false
+      },
+      {
+        "start": 67.4,
+        "end": 73.4,
+        "text": "พี่ พี่ คาด หวัง อะไร กับ ผม มาก พี่ ก็ รู้ อยู่ ว่า ผม อ่ะ จำ ทาง กลับ บ้าน ไม่ ได้ อยู่ แล้ว ถ้า เรา ลง มา ถ้ำ แล้ว อ่ะ",
+        "uncertain": false
+      },
+      {
+        "start": 74.2,
+        "end": 75.8,
+        "text": "Minecraft เวอร์ชั่น ไหน เหรอ",
+        "uncertain": false
+      },
+      {
+        "start": 76.2,
+        "end": 78.9,
+        "text": "ตอน นี้ เล่น Minecraft เวอร์ชั่น 1.21.1 ครับ",
+        "uncertain": false
+      },
+      {
+        "start": 79.2,
+        "end": 80.0,
+        "text": "เอ้ย .11 ครับ",
+        "uncertain": false
+      },
+      {
+        "start": 85.0,
+        "end": 86.7,
+        "text": "พี่ ขัด หลัง เหมือน พี่ กลัว ผี อ่ะ",
+        "uncertain": false
+      },
+      {
+        "start": 88.2,
+        "end": 91.4,
+        "text": "โห พี่ ผม ทำ ทำ ทาง เหมือน ทำ ทาง ซะ VIP เลย อ่ะ",
+        "uncertain": false
+      },
+      {
+        "start": 95.7,
+        "end": 99.0,
+        "text": "โอ้โห แถว นี้ แร่ เยอะ ชิบหาย เลย ไม่ มี อะไร เลย ชีวิต",
+        "uncertain": false
+      },
+      {
+        "start": 99.5,
+        "end": 100.2,
+        "text": "เอา ล่ะ",
+        "uncertain": false
+      },
+      {
+        "start": 102.0,
+        "end": 102.9,
+        "text": "โอ้โห",
+        "uncertain": false
+      },
+      {
+        "start": 104.7,
+        "end": 105.1,
+        "text": "อุ้ย",
+        "uncertain": false
+      },
+      {
+        "start": 105.6,
+        "end": 109.4,
+        "text": "อุ้ย อุ้ย เดี๋ยวๆๆๆ อัน นี้ อัน นี้ อัน นี้ สม ควร บล็อก อัน นี้ สม ควร บล็อก มาก ไอ้เหี้ย เกือบ ลง หลุม ละ",
+        "uncertain": false
+      },
+      {
+        "start": 110.0,
+        "end": 113.9,
+        "text": "แม่ง โคตร แย่ เลย พี่ ไอ้เหี้ย ดี นะ ไม่ ลง หลุม ไป เมื่อ กี้ ไม่ งั้น จม ลาวา แน่",
+        "uncertain": false
+      },
+      {
+        "start": 114.5,
+        "end": 114.9,
+        "text": "เออ",
+        "uncertain": false
+      },
+      {
+        "start": 115.2,
+        "end": 116.0,
+        "text": "โอ้ เหล็ก เยี่ยม เลย",
+        "uncertain": false
+      }
+    ],
+    "timing_measurement": "seconds",
+    "uncertainties": [],
+    "segment_count": 36
+  }
+}

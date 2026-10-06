@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "model": "gemini-2.5-flash",
+    "route": "google-generativeai-direct",
+    "timeline_index": 23,
+    "timeline_id": "53521e92-7059-484f-9ddb-01d5d94dca0d",
+    "timeline_name": "กวาดศัตรูในฐานมืด-alien shooter 2-vdo",
+    "expected_duration_seconds": 110.0,
+    "prompt_token_count": 3714
+  },
+  "duration_seconds": 110.0,
+  "gemini": {
+    "audio_available": true,
+    "duration_seconds": 109.0,
+    "segments": [
+      {
+        "start": 30.0,
+        "end": 30.5,
+        "text": "อือหือ",
+        "uncertain": false
+      },
+      {
+        "start": 43.5,
+        "end": 44.5,
+        "text": "ยิงหลายตัวมาก",
+        "uncertain": false
+      },
+      {
+        "start": 45.0,
+        "end": 46.0,
+        "text": "ขอเดินเพิ่มอีกหน่อยนะ",
+        "uncertain": false
+      }
+    ],
+    "timing_measurement": "seconds",
+    "segment_count": 3
+  }
+}

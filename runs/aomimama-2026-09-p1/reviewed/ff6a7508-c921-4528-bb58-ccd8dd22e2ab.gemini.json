@@ -1,0 +1,64 @@
+{
+  "timeline_id": "ff6a7508-c921-4528-bb58-ccd8dd22e2ab",
+  "timeline_name": "ไฟต์ใหญ่ในอารีนา-League of Legends-vdo",
+  "approved": false,
+  "source_model": "gemini-2.5-flash",
+  "duration_seconds": 80.76666666666667,
+  "cues": [
+    {
+      "start": 0.04,
+      "end": 0.99,
+      "text": "อื้ออื้ออื้ออื้ออื้อ My name [ฟังไม่ชัด] อื้ออื้ออื้ออื้ออื้ออื้ออื้ออื้ออื้ออื้ออื้ออื้ออื้ออื้อ enemy slain อื้ออื้ออื้ออื้อ enemy slain อื้ออื้อ",
+      "source_segment": 0.04,
+      "gemini_uncertain": false,
+      "flags": [
+        "overlap_merged",
+        "overlap_merged",
+        "overlap_merged",
+        "overlap_merged",
+        "overlap_merged",
+        "overlap_merged",
+        "overlap_merged",
+        "overlap_merged",
+        "overlap_merged",
+        "overlap_merged",
+        "overlap_merged",
+        "overlap_merged",
+        "overlap_merged",
+        "overlap_merged",
+        "overlap_merged",
+        "overlap_merged",
+        "overlap_merged",
+        "overlap_merged",
+        "overlap_merged",
+        "overlap_merged",
+        "overlap_merged",
+        "overlap_merged",
+        "overlap_merged",
+        "overlap_merged",
+        "overlap_merged",
+        "overlap_merged",
+        "overlap_merged"
+      ]
+    },
+    {
+      "start": 1.01,
+      "end": 1.585,
+      "text": "อื้ออื้ออื้ออื้ออื้ออื้อ enemy slain อื้อ frag down",
+      "source_segment": 1.01,
+      "gemini_uncertain": false,
+      "flags": [
+        "overlap_merged",
+        "overlap_merged",
+        "overlap_merged",
+        "overlap_merged",
+        "overlap_merged",
+        "overlap_merged",
+        "overlap_merged",
+        "overlap_merged"
+      ]
+    }
+  ],
+  "qc_required": true,
+  "status": "unreviewed_draft"
+}

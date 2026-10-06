@@ -1,0 +1,207 @@
+{
+  "approved": false,
+  "metadata": {
+    "schema_version": 1,
+    "project": "aomimama-2026-09-p1",
+    "timeline": {
+      "index": 1,
+      "id": "4720b0bd-a3f4-4106-bdcb-18101a54c2f6",
+      "name": "เปิดสตรีมทักทายก่อนเริ่มเกม-alien shooter last hope-vdo",
+      "start": 0,
+      "end": 5436,
+      "fps": 60.0,
+      "width": "1920",
+      "height": "1080",
+      "subtitle_tracks": 0,
+      "clips": {
+        "video": [
+          [
+            {
+              "id": "43c641b3-5600-4fa9-8cbc-e84ed73fd29b",
+              "start": 0,
+              "end": 5436,
+              "left": 11703,
+              "duration": 5436
+            }
+          ]
+        ],
+        "audio": [
+          [
+            {
+              "id": "945d6c9a-bef6-4598-a98b-8ce3149b7ab3",
+              "start": 0,
+              "end": 5436,
+              "left": 11703,
+              "duration": 5436
+            }
+          ]
+        ]
+      }
+    },
+    "model": "large-v3",
+    "device": "cuda",
+    "compute_type": "float16",
+    "faster_whisper_version": "1.2.1",
+    "transcribe_options": {
+      "language": "th",
+      "word_timestamps": true,
+      "beam_size": 5,
+      "temperature": [
+        0.0,
+        0.2,
+        0.4,
+        0.6,
+        0.8,
+        1.0
+      ],
+      "condition_on_previous_text": false,
+      "vad_filter": true,
+      "vad_parameters": {
+        "min_silence_duration_ms": 400,
+        "speech_pad_ms": 200
+      }
+    },
+    "audio": {
+      "sha256": "a632b6f5ce7c83c62a9ff92d890453db469674ee705d4802ad0f3eb005b7cead",
+      "frames": 1449600,
+      "sample_rate": 16000,
+      "channels": 1,
+      "sample_width": 2,
+      "duration_seconds": 90.6
+    }
+  },
+  "draft_policy": {
+    "max_glyphs": 36,
+    "target_seconds": 4.0,
+    "pause_seconds": 0.5
+  },
+  "duration_seconds": 90.6,
+  "cues": [
+    {
+      "start": 10.52,
+      "end": 13.72,
+      "text": "สวัสดีครับ",
+      "flags": []
+    },
+    {
+      "start": 13.72,
+      "end": 17.59,
+      "text": "ขออนุญาต",
+      "flags": []
+    },
+    {
+      "start": 17.59,
+      "end": 21.43,
+      "text": "กรณ์ช้ำคืนนักราวราส 2 พรุ่งด้วยนะ",
+      "flags": []
+    },
+    {
+      "start": 23.74,
+      "end": 27.93,
+      "text": "วันนี้",
+      "flags": [
+        "duration_heuristic_exceeded"
+      ]
+    },
+    {
+      "start": 27.93,
+      "end": 28.71,
+      "text": "อยู่คอนดับ",
+      "flags": []
+    },
+    {
+      "start": 29.21,
+      "end": 31.78,
+      "text": "เกม Alien Culture",
+      "flags": []
+    },
+    {
+      "start": 31.78,
+      "end": 33.82,
+      "text": "5 รัส ครูปนะ",
+      "flags": []
+    },
+    {
+      "start": 33.82,
+      "end": 37.8,
+      "text": "ก็หน้าทางเหมือนเดิมแล้วคือเหลือรับ",
+      "flags": []
+    },
+    {
+      "start": 37.8,
+      "end": 38.36,
+      "text": "สภิกรัน",
+      "flags": []
+    },
+    {
+      "start": 41.22,
+      "end": 41.78,
+      "text": "แต่",
+      "flags": []
+    },
+    {
+      "start": 49.76,
+      "end": 53.72,
+      "text": "ต้องเหมือนเดิม เปิดเกมเพราะต้องมาเซ็กเก้งอีก",
+      "flags": []
+    },
+    {
+      "start": 53.72,
+      "end": 53.96,
+      "text": "นิดนึง",
+      "flags": []
+    },
+    {
+      "start": 53.96,
+      "end": 57.66,
+      "text": "เพราะว่า ไงละ เอาไปเกมเจ้า",
+      "flags": []
+    },
+    {
+      "start": 57.66,
+      "end": 59.14,
+      "text": "แล้วส่วนของมาเซ็กเก้ง",
+      "flags": []
+    },
+    {
+      "start": 59.14,
+      "end": 62.21,
+      "text": "ดีฮะ ดีจ้ะ",
+      "flags": []
+    },
+    {
+      "start": 62.21,
+      "end": 82.42,
+      "text": "เอ๊ะ",
+      "flags": [
+        "duration_heuristic_exceeded"
+      ]
+    },
+    {
+      "start": 82.42,
+      "end": 84.87,
+      "text": "โอ้",
+      "flags": []
+    },
+    {
+      "start": 84.87,
+      "end": 85.41,
+      "text": "เหมือนกัน",
+      "flags": []
+    },
+    {
+      "start": 85.41,
+      "end": 88.88,
+      "text": "ต้องยู",
+      "flags": []
+    },
+    {
+      "start": 88.88,
+      "end": 89.62,
+      "text": "ภาษาหรอ",
+      "flags": []
+    }
+  ],
+  "qc_required": true,
+  "status": "unreviewed_draft"
+}

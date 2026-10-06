@@ -1,0 +1,165 @@
+{
+  "metadata": {
+    "model": "gemini-2.5-flash",
+    "route": "google-generativeai-direct",
+    "timeline_index": 21,
+    "timeline_id": "3ad8b944-9545-4283-9f58-3b03d07ef5d6",
+    "timeline_name": "เจอทางกลับบ้านแต่เพื่อนไปห้องน้ำ-Minecraft-vdo",
+    "expected_duration_seconds": 90.0,
+    "prompt_token_count": 3074
+  },
+  "duration_seconds": 90.0,
+  "gemini": {
+    "audio_available": true,
+    "duration_seconds": 89.5,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 1.2,
+        "text": "เนี่ย มัน บังเอิญ มาก เลย",
+        "uncertain": false
+      },
+      {
+        "start": 1.5,
+        "end": 2.2,
+        "text": "โอ้โห น่า จะ",
+        "uncertain": false
+      },
+      {
+        "start": 3.5,
+        "end": 4.5,
+        "text": "เส้น ทาง เดียว กัน",
+        "uncertain": false
+      },
+      {
+        "start": 5.2,
+        "end": 10.2,
+        "text": "แม่ง เอ้ย เส้น ทาง เดียว กัน พี่ เค แม่ง ไป ขึ้น ทาง นู้น อยู่ ไอ้ เหี้ย กู เดิน มา โง่ ๆ มา เจอ ทาง กลับ บ้าน แล้ว เนี่ย",
+        "uncertain": false
+      },
+      {
+        "start": 18.3,
+        "end": 24.3,
+        "text": "แล้ว พี่ เค แม่ง ก็ ไป ห้อง น้ํา พอ ดี ด้วย นะ โอ้โห ร้อย วัน พัน ปี ไอ้ เหี้ย ไม่ คิด จะ เข้า เข้า ตอน เข้า ตอน เข้า ตอน จะ กลับ บ้าน ได้",
+        "uncertain": false
+      },
+      {
+        "start": 27.6,
+        "end": 29.0,
+        "text": "แล้ว กู จะ ไอ้ นี่ ยัง ไง วะ",
+        "uncertain": false
+      },
+      {
+        "start": 29.3,
+        "end": 29.7,
+        "text": "เดี๋ยว ๆ",
+        "uncertain": false
+      },
+      {
+        "start": 39.5,
+        "end": 41.0,
+        "text": "โคตร โชค ดี เลย คือ มา ขุด เหล็ก",
+        "uncertain": false
+      },
+      {
+        "start": 41.2,
+        "end": 44.0,
+        "text": "แม่ง บังเอิญ มาก ขุด เหล็ก พอ ดี เลย เว้ย เลย แบบ เลย เจอ ทาง กลับ บ้าน แล้ว คุณ ดู",
+        "uncertain": false
+      },
+      {
+        "start": 44.3,
+        "end": 49.0,
+        "text": "ตอนนี้ ก็ คือ เดี๋ยว เรา รอ พี่ โอมิ กลับ มา แล้ว ก็ เดี๋ยว ชวน พี่ เค้า กลับ บ้าน ก่อน เอา ของ ไป เก็บ",
+        "uncertain": false
+      },
+      {
+        "start": 49.2,
+        "end": 52.0,
+        "text": "แล้ว ก็ เรา ก็ จะ บิด เลย เพราะ ว่า ตอน นี้ คือ หมด แล้ว ไอ้ เหี้ย",
+        "uncertain": false
+      },
+      {
+        "start": 52.0,
+        "end": 53.2,
+        "text": "ไม่ เหลือ อะไร แล้ว แม่ง ชีวิต",
+        "uncertain": false
+      },
+      {
+        "start": 53.4,
+        "end": 55.5,
+        "text": "เดี๋ยว ๆ ยัง ยัง คราฟ ที่ ขุด ได้ อีก รอบ นึง",
+        "uncertain": false
+      },
+      {
+        "start": 56.2,
+        "end": 57.0,
+        "text": "เอ่อ ตัว คราฟ",
+        "uncertain": false
+      },
+      {
+        "start": 59.0,
+        "end": 63.7,
+        "text": "ทรัพยากร ขุด ได้ เยอะ ชิบหาย เลย บล็อก หิน เนี่ย ไม่ ทํา เหี้ย อะไร เลย บล็อก นี้ ไม่ ได้ ใช้ ด้วย คุณ ดู อย่าง แย่ เลย",
+        "uncertain": false
+      },
+      {
+        "start": 64.5,
+        "end": 67.5,
+        "text": "หัว ใจ แม่ง แตก สลาย ไอ้ เหี้ย ไดมอนด์ แม่ง ได้ 19 อัน",
+        "uncertain": false
+      },
+      {
+        "start": 67.7,
+        "end": 68.5,
+        "text": "โอ้ย เลิฟ ยู",
+        "uncertain": false
+      },
+      {
+        "start": 68.8,
+        "end": 70.2,
+        "text": "พี่ จ๋า เจอ ทาง กลับ บ้าน แล้ว",
+        "uncertain": false
+      },
+      {
+        "start": 71.0,
+        "end": 71.8,
+        "text": "เจอ ทาง กลับ บ้าน แล้ว พี่",
+        "uncertain": false
+      },
+      {
+        "start": 73.2,
+        "end": 74.2,
+        "text": "เจอ ทาง กลับ บ้าน แล้ว พี่ มา หา ผม",
+        "uncertain": false
+      },
+      {
+        "start": 74.5,
+        "end": 80.2,
+        "text": "มัน บังเอิญ มาก เลย เว้ย ไอ้ ถ้ํา ที่ เรา อยู่ ไอ้ สัตว์ เสือก เสือก เชื่อม กับ ตอน ที่ เรา ลง มา ครั้ง แรก เลย พี่",
+        "uncertain": false
+      },
+      {
+        "start": 81.0,
+        "end": 82.0,
+        "text": "พี่ ๆ ๆ เห็น ผม มั้ย",
+        "uncertain": false
+      },
+      {
+        "start": 83.0,
+        "end": 86.8,
+        "text": "พี่ ดู ตาม GPS อ่ะ แล้ว พี่ เดิน เดิน มา เดิน มา ตาม พิกัด สี ผม ได้ เลย",
+        "uncertain": false
+      },
+      {
+        "start": 88.0,
+        "end": 89.5,
+        "text": "แม่ง บังเอิญ มาก เลย ไอ้ เหี้ย ขุด แร่ ไป",
+        "uncertain": false
+      }
+    ],
+    "timing_measurement": "precise",
+    "uncertainties": [],
+    "segment_count": 24
+  }
+}

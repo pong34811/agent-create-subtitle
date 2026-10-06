@@ -1,0 +1,219 @@
+{
+  "metadata": {
+    "model": "gemini-2.5-flash",
+    "route": "google-generativeai-direct",
+    "timeline_index": 16,
+    "timeline_id": "f39dd3ca-5158-4141-8870-1c1cbc47975c",
+    "timeline_name": "หนาวติดลบ 16 ต้องถือลาวา-Minecraft-vdo",
+    "expected_duration_seconds": 108.0,
+    "prompt_token_count": 3650
+  },
+  "duration_seconds": 108.0,
+  "gemini": {
+    "audio_available": true,
+    "duration_seconds": 107.5,
+    "segments": [
+      {
+        "start": 0.5,
+        "end": 0.9,
+        "text": "โห",
+        "uncertain": false
+      },
+      {
+        "start": 0.9,
+        "end": 4.4,
+        "text": "พี่ มัน คือ ทาง เดียว ไม่ ได้ ทํา ให้ พี่ กลับ มา ได้ ภาย ใน 5,000 บล็อก อ่ะ",
+        "uncertain": false
+      },
+      {
+        "start": 4.8,
+        "end": 7.2,
+        "text": "คม โม่ คม มา ไม่ ต้อง พูด กัน เยอะ เลย นะ พี่ จ๋า",
+        "uncertain": false
+      },
+      {
+        "start": 8.8,
+        "end": 9.9,
+        "text": "พี่ มี เสื้อ อะไร บ้าง อ่ะ",
+        "uncertain": false
+      },
+      {
+        "start": 9.9,
+        "end": 12.8,
+        "text": "แม่ง จะ หนาว ตาย ของ แท้ เลย ติด ลบ 12 องศา",
+        "uncertain": false
+      },
+      {
+        "start": 13.5,
+        "end": 16.2,
+        "text": "โอ้โห เหี้ย บ้าน พี่ นี่ แม่ง จน สม ชื่อ จริง ๆ เลย",
+        "uncertain": false
+      },
+      {
+        "start": 21.0,
+        "end": 22.9,
+        "text": "ไอ้ เหี้ย มี ทุก อย่าง ยก เว้น แร่ จริง ๆ นะ เนี่ย",
+        "uncertain": false
+      },
+      {
+        "start": 23.4,
+        "end": 25.4,
+        "text": "น่า จะ ได้ แหลก หนม ปัง สู้ อ่ะ ดู จาก ทรง ละ",
+        "uncertain": false
+      },
+      {
+        "start": 25.9,
+        "end": 27.0,
+        "text": "เฮ้ย เนี่ย มี อยู่ อ่ะ พี่",
+        "uncertain": false
+      },
+      {
+        "start": 27.0,
+        "end": 28.9,
+        "text": "ไอ้ เหี้ย เหล็ก เหล็ก ยัง เยอะ เลย เนี่ย ชุด นึง เนี่ย",
+        "uncertain": false
+      },
+      {
+        "start": 29.1,
+        "end": 30.3,
+        "text": "ไม่ คราฟ ชุด เหล็ก ป่ะ",
+        "uncertain": false
+      },
+      {
+        "start": 31.5,
+        "end": 34.6,
+        "text": "ไม่ ไอ้ สัตว์ มัน มัน มี แค่ นั้น กู ต้อง เก็บ เอา ไว้",
+        "uncertain": false
+      },
+      {
+        "start": 38.5,
+        "end": 41.6,
+        "text": "ไอ้ เหี้ย ไม้ อะไร เนี่ย หัก มา ทาง ไหน เนี่ย",
+        "uncertain": false
+      },
+      {
+        "start": 42.4,
+        "end": 42.9,
+        "text": "อี หยัง วะ",
+        "uncertain": false
+      },
+      {
+        "start": 43.4,
+        "end": 45.4,
+        "text": "อ๋อ ไม่ ๆ อัน นี้ ไอ้ บ้าน เก่า ผม ไป",
+        "uncertain": false
+      },
+      {
+        "start": 46.4,
+        "end": 47.2,
+        "text": "มา ๆ เดี๋ยว ๆ ๆ",
+        "uncertain": false
+      },
+      {
+        "start": 48.0,
+        "end": 50.7,
+        "text": "แป๊บ นึง นะ ผม ผม ขอ setting อะไร ก่อน",
+        "uncertain": false
+      },
+      {
+        "start": 51.0,
+        "end": 52.2,
+        "text": "พี่ หา เสื้อ ให้ หน่อย ดิ พี่",
+        "uncertain": false
+      },
+      {
+        "start": 54.3,
+        "end": 55.5,
+        "text": "เสื้อ กู ไม่ มี",
+        "uncertain": false
+      },
+      {
+        "start": 56.3,
+        "end": 60.8,
+        "text": "เหี้ย เอ้ย ชีวิต นี่ เรา ต้อง ลง เหมือง กัน โดย ที่ แบบ มี ของ กระเข้ นี่ เหรอ วะ",
+        "uncertain": false
+      },
+      {
+        "start": 63.0,
+        "end": 65.0,
+        "text": "ไม่ มี ให้ มึง แค่ เนี่ย แหละ อ้าว",
+        "uncertain": false
+      },
+      {
+        "start": 68.6,
+        "end": 69.6,
+        "text": "เออ เยี่ยม พี่ จ๋า",
+        "uncertain": false
+      },
+      {
+        "start": 71.1,
+        "end": 72.9,
+        "text": "ได้ อะไร วะ ไหน พี่ ไม้ อะไร มา",
+        "uncertain": false
+      },
+      {
+        "start": 74.3,
+        "end": 77.7,
+        "text": "เออ มี กางเกง มี มี กางเกง มี ไอ้ หมวก ใช้ ถือ ว่า มี อนาคต แล้ว กัน",
+        "uncertain": false
+      },
+      {
+        "start": 78.6,
+        "end": 80.5,
+        "text": "ไอ้ เหี้ย จะ หนาว ตาย ของ แท้ เลย นี่ ติด ลบ 15",
+        "uncertain": false
+      },
+      {
+        "start": 80.5,
+        "end": 82.6,
+        "text": "โอ้โห คน เรา ต้อง ทํา บาป ทํา กรรม มา ขนาด ไหน วะ เนี่ย",
+        "uncertain": false
+      },
+      {
+        "start": 87.6,
+        "end": 91.5,
+        "text": "นี่ นี่ คือ แบบ นี่ คือ แบบ เรา ต้อง ถือ ลาวา ไว้ ตลอด เวลา แล้ว ใช่ มั้ย",
+        "uncertain": false
+      },
+      {
+        "start": 93.4,
+        "end": 96.0,
+        "text": "มึง อย่า ฮิ้ว ขวา ฮิ้ว ซ้าย แล้ว เผา บ้าน กู เนี่ย",
+        "uncertain": false
+      },
+      {
+        "start": 96.6,
+        "end": 98.4,
+        "text": "ไม่ หู ผม ไม่ ทํา ตัว แบบ นั้น หรอก พี่",
+        "uncertain": false
+      },
+      {
+        "start": 99.5,
+        "end": 102.9,
+        "text": "บ้าน พี่ มัน บ้าน พี่ มัน ไม่ น่า จะ เป็น เชื้อ เชื้อ ไฟ ได้ นะ",
+        "uncertain": false
+      },
+      {
+        "start": 102.9,
+        "end": 103.8,
+        "text": "แม่ง มี แต่ หิน เนี่ย",
+        "uncertain": false
+      },
+      {
+        "start": 106.3,
+        "end": 106.8,
+        "text": "เดี๋ยว นะ",
+        "uncertain": false
+      },
+      {
+        "start": 107.2,
+        "end": 107.5,
+        "text": "เฮ้ย",
+        "uncertain": false
+      }
+    ],
+    "timing_measurement": "estimated",
+    "uncertainties": [],
+    "segment_count": 33
+  }
+}

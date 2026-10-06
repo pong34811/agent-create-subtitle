@@ -1,0 +1,195 @@
+{
+  "timeline_id": "d1abfb93-c076-4cb7-815d-ef1624b97d8d",
+  "timeline_name": "ออกไม่ได้เลยวะ ฮ่าๆๆ-Minecraft-vdo",
+  "approved": false,
+  "source_model": "gemini-3.5-flash-lite",
+  "duration_seconds": 75.0,
+  "cues": [
+    {
+      "start": 0.0,
+      "end": 2.685,
+      "text": "ไอ้เหี้ยผมน่ะเอาเอเมอรัลด์แรกผมได้",
+      "source_segment": 0.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 2.685,
+      "end": 5.37,
+      "text": "ผมซ่อมจากใกล้พังแม่งกลายมาครึ่งนึง",
+      "source_segment": 0.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 5.42,
+      "end": 7.692,
+      "text": "อันนี้คือพี่จะวางบล็อกหรือพี่จะไป",
+      "source_segment": 5.42,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 7.692,
+      "end": 8.16,
+      "text": "ทำอะไร",
+      "source_segment": 5.42,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 9.42,
+      "end": 10.37,
+      "text": "ฮึ้ยอ่ามันทำตาม",
+      "source_segment": 9.42,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 10.42,
+      "end": 13.87,
+      "text": "อ๋อ",
+      "source_segment": 10.42,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 13.92,
+      "end": 16.87,
+      "text": "มึงทำมันทำ",
+      "source_segment": 13.92,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 16.92,
+      "end": 26.63,
+      "text": "ไอ้เหี้ยอ้าวเอาเฮ้ยๆๆ",
+      "source_segment": 16.92,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 26.68,
+      "end": 30.897,
+      "text": "เออๆมันมาอย่างนี้มึงเอาผ่านทาง",
+      "source_segment": 26.68,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 30.897,
+      "end": 33.13,
+      "text": "หัวมึงใช่มั้ยไอ้เหี้ย",
+      "source_segment": 26.68,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 33.18,
+      "end": 37.87,
+      "text": "เอ้อเอ้อเอ้อไอ้เหี้ย",
+      "source_segment": 33.18,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 37.92,
+      "end": 39.07,
+      "text": "อันนี้เอ็นนี้",
+      "source_segment": 37.92,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 39.12,
+      "end": 42.087,
+      "text": "อ่าผมบอกแล้วนะว่าตะกรรมพี่มันมี",
+      "source_segment": 39.12,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 42.087,
+      "end": 42.61,
+      "text": "ปัญหานี่",
+      "source_segment": 39.12,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 42.66,
+      "end": 50.07,
+      "text": "ฮ่าๆๆพี่เนี่ยมันเอาไม่ได้เล่ห์ฮ่าๆๆ",
+      "source_segment": 42.66,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 50.12,
+      "end": 54.29,
+      "text": "ไอ้เหี้ยอ้าวเหี้ยอะไรวะเนี่ยออกละ",
+      "source_segment": 50.12,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 54.34,
+      "end": 56.494,
+      "text": "เอ้อเหี้ยเหลือเหลือครับวกทำไมมัน",
+      "source_segment": 54.34,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 56.494,
+      "end": 58.918,
+      "text": "ทำไมมาโจมมาเว้ยมาโจมไม้มาเดิน",
+      "source_segment": 54.34,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 58.918,
+      "end": 60.13,
+      "text": "ออกหน้ามาอีกเหรอ",
+      "source_segment": 54.34,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 60.18,
+      "end": 63.43,
+      "text": "ใช่ต้องหาบล็อกอะไรมาปิดอ่า",
+      "source_segment": 60.18,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 63.48,
+      "end": 66.493,
+      "text": "เดี๋ยวผมเอาเอาไอ้เอาไอ้เอาแตงโม",
+      "source_segment": 63.48,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 66.493,
+      "end": 67.33,
+      "text": "มาแลกแป๊บ",
+      "source_segment": 63.48,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 67.38,
+      "end": 74.83,
+      "text": "ไหนดูซิ 35 อันที่คุณผมจะปิด",
+      "source_segment": 67.38,
+      "gemini_uncertain": false,
+      "flags": []
+    }
+  ],
+  "qc_required": true,
+  "status": "unreviewed_draft"
+}

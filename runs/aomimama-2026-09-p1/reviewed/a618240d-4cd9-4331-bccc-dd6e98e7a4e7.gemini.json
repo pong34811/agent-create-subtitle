@@ -1,0 +1,277 @@
+{
+  "timeline_id": "a618240d-4cd9-4331-bccc-dd6e98e7a4e7",
+  "timeline_name": "Windows XP  Vista  8  ลองหมด-alien shooter 2-vdo",
+  "approved": false,
+  "source_model": "gemini-2.5-flash",
+  "duration_seconds": 108.86666666666666,
+  "cues": [
+    {
+      "start": 0.7,
+      "end": 1.1,
+      "text": "โคตรเหี้ยเลยไอ้เหี้ยเอ้ย",
+      "source_segment": 0.7,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 1.1500000000000001,
+      "end": 1.873,
+      "text": "ไม่ได้ใช้ไม่ได้ใช้ไม่ได้ใช้ DG กูดูการนะเนี่ยเฮ้ย Windows 8 ยังไม่ลองเลยนะพี่ไล่ไปเหี้ยอันกด Play เลยพี่กด Play เลยนี่น่าจะเกมเด้งเป็นไงผมรู้ผมผมนี่โคตรเก่งเลยไอ้เหี้ยคลิกขวา Windows 8 พี่ Windows 8 รอบนี้ Windows 8 อือจิ้มไปไอ้เหี้ยนําไปใช้ตกลงปื๊ดไม่ได้ไอ้เหี้ยไอ้นี่เด้ง [หัวเราะ] การแสดงผลเกมนั่งคําคุณสมบัติ",
+      "source_segment": 1.014,
+      "gemini_uncertain": false,
+      "flags": [
+        "start_clipped_to_previous",
+        "overlap_merged",
+        "overlap_merged",
+        "overlap_merged",
+        "overlap_merged",
+        "overlap_merged",
+        "overlap_merged",
+        "overlap_merged",
+        "overlap_merged",
+        "overlap_merged",
+        "overlap_merged",
+        "overlap_merged",
+        "overlap_merged",
+        "overlap_merged",
+        "overlap_merged",
+        "overlap_merged",
+        "overlap_merged"
+      ]
+    },
+    {
+      "start": 3.1,
+      "end": 5.379,
+      "text": "มีแต่ผู้พัฒนามาเห็นคงภาคภูมิใจในตัวเรา",
+      "source_segment": 3.1,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 5.379,
+      "end": 5.9,
+      "text": "อ่ะไอ้เหี้ย",
+      "source_segment": 3.1,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 8.5,
+      "end": 8.9,
+      "text": "แล้วก็ดับเออ",
+      "source_segment": 8.5,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 9.0,
+      "end": 11.5,
+      "text": "ภาคภูมิใจที่แม่งมาแฮกเกมเค้าอยู่ไอ้สัตว์",
+      "source_segment": 9.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 12.3,
+      "end": 14.169,
+      "text": "แฮกเกมเหี้ยอะไรเรายังกด Edit ด้วย",
+      "source_segment": 12.3,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 14.169,
+      "end": 15.0,
+      "text": "Notepad อยู่เลยพี่",
+      "source_segment": 12.3,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 15.3,
+      "end": 16.0,
+      "text": "ไอ้เหี้ย",
+      "source_segment": 15.3,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 16.6,
+      "end": 18.8,
+      "text": "เปลี่ยนเป็น XP แพ็ค 1 ดิพี่",
+      "source_segment": 16.6,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 19.0,
+      "end": 21.528,
+      "text": "ไปเอาสักแพ็คนึงอ่ะไอ้เหี้ยที่มันแบบ",
+      "source_segment": 19.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 21.528,
+      "end": 22.9,
+      "text": "ว่ามันคู่อยู่คู่ 202 อ่ะ",
+      "source_segment": 19.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 23.3,
+      "end": 25.0,
+      "text": "สรุป Windows 7 แล้วพี่เปลี่ยนแล้วหรอ",
+      "source_segment": 23.3,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 26.9,
+      "end": 27.3,
+      "text": "แล้ว",
+      "source_segment": 26.9,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 30.2,
+      "end": 30.6,
+      "text": "ไม่ใช่",
+      "source_segment": 30.2,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 30.8,
+      "end": 33.263,
+      "text": "ยังไม่เปลี่ยนยังไม่เปลี่ยนพี่พี่คลิกขวา",
+      "source_segment": 30.8,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 33.263,
+      "end": 33.663,
+      "text": "ไป",
+      "source_segment": 30.8,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 34.2,
+      "end": 36.849,
+      "text": "แสดงการคิดเห็นเออคุณสมบัติการเข้า",
+      "source_segment": 34.2,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 36.849,
+      "end": 37.249,
+      "text": "ถึง",
+      "source_segment": 34.2,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 37.3,
+      "end": 38.8,
+      "text": "เปลี่ยนเป็น Windows XP",
+      "source_segment": 37.3,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 39.6,
+      "end": 41.6,
+      "text": "XP แพ็คแพ็ค 1 มั้ย",
+      "source_segment": 39.6,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 42.1,
+      "end": 44.3,
+      "text": "พิซซ่าเอ้ย Vista แม่งเลยพี่ของจริง",
+      "source_segment": 42.1,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 44.3,
+      "end": 45.3,
+      "text": "เหี้ย Vista แพ็ค 1",
+      "source_segment": 42.1,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 45.9,
+      "end": 47.5,
+      "text": "1 ไม่ได้ก็ 2 ต่ออ่ะไอ้เหี้ย",
+      "source_segment": 45.9,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 47.9,
+      "end": 49.3,
+      "text": "ไม่ต้องเล่นแอลแล้วไอ้เหี้ย",
+      "source_segment": 47.9,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 49.9,
+      "end": 52.086,
+      "text": "มานั่งมานั่งมานั่งผาหาแบบหาหา",
+      "source_segment": 49.9,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 52.086,
+      "end": 54.4,
+      "text": "Windows โหมดเปิดเกมได้โคตรเหี้ยเลย",
+      "source_segment": 49.9,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 55.6,
+      "end": 56.15,
+      "text": "ไม่ได้",
+      "source_segment": 55.6,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 56.2,
+      "end": 56.95,
+      "text": "ไม่ได้",
+      "source_segment": 56.2,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 57.0,
+      "end": 58.5,
+      "text": "ใช้ Windows เลยว่ะ",
+      "source_segment": 57.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 59.0,
+      "end": 59.9,
+      "text": "Vista ปกติพี่",
+      "source_segment": 59.0,
+      "gemini_uncertain": false,
+      "flags": []
+    }
+  ],
+  "qc_required": true,
+  "status": "unreviewed_draft"
+}

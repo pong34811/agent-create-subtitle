@@ -1,0 +1,176 @@
+{
+  "metadata": {
+    "model": "gemini-3.5-flash",
+    "route": "google-generativeai-direct",
+    "timeline_index": 17,
+    "timeline_id": "b9040425-567c-426b-b68b-3edf88537994",
+    "timeline_name": "ถือถังลาวาไว้กันหนาว-Minecraft-vdo",
+    "expected_duration_seconds": 84.46666666666667,
+    "prompt_token_count": 2343
+  },
+  "duration_seconds": 84.46666666666667,
+  "gemini": {
+    "audio_available": true,
+    "duration_seconds": 84.5,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.0,
+        "text": "อุ๊ย",
+        "uncertain": false
+      },
+      {
+        "start": 2.0,
+        "end": 4.0,
+        "text": "เฮ้ย มัน มัน ปรับ อันนี้ยังไงวะ",
+        "uncertain": false
+      },
+      {
+        "start": 4.0,
+        "end": 8.0,
+        "text": "เออ พี่ ออกจากม้ายังไงอ่ะ",
+        "uncertain": false
+      },
+      {
+        "start": 8.0,
+        "end": 10.0,
+        "text": "ก็กดนั่งไง",
+        "uncertain": false
+      },
+      {
+        "start": 16.0,
+        "end": 18.0,
+        "text": "ไอ้เหี้ย ไอ้เหี้ย",
+        "uncertain": false
+      },
+      {
+        "start": 18.0,
+        "end": 20.0,
+        "text": "มือห้ามมาหรอ",
+        "uncertain": true
+      },
+      {
+        "start": 20.0,
+        "end": 23.0,
+        "text": "แม่งกดคลิกขวาไป ไอ้เหี้ยลาวาร่วงพี่",
+        "uncertain": false
+      },
+      {
+        "start": 23.0,
+        "end": 25.0,
+        "text": "ฉิบหาย",
+        "uncertain": false
+      },
+      {
+        "start": 25.0,
+        "end": 35.0,
+        "text": "บอกอยู่ว่าอุบัติเหตุ ไอ้เหี้ยลาวานี่แม่งทำพิษจริงๆ ไอ้สัส แม่งถือมานี่คือแบบแม่ง ถือไว้ดีกว่า ไอ้เหี้ยกูไม่เชื่อใจมึงละ",
+        "uncertain": false
+      },
+      {
+        "start": 35.0,
+        "end": 39.0,
+        "text": "เฮ้ย แล้วมันมีปุ่ม ตายเลยอ่ะ มันเดินไม่ออกเลยอ่ะอะไรวะเนี่ย",
+        "uncertain": false
+      },
+      {
+        "start": 39.0,
+        "end": 44.0,
+        "text": "ใช่พี่ แม่งไม่ถือลาวาอยู่ไม่ได้ ผมว่ารีบเดินไปเหอะ ไอ้เหี้ยเดี๋ยวเราจะฉิบหายวายวอดกันหมดอ่ะ",
+        "uncertain": false
+      },
+      {
+        "start": 44.0,
+        "end": 46.0,
+        "text": "แม่งติดลบฉิบหายวายวอดเลย",
+        "uncertain": false
+      },
+      {
+        "start": 46.0,
+        "end": 51.0,
+        "text": "เดี๋ยวสิ มัน มันอันนี้ยังไงอ่ะ แต่ว่า ปรับ",
+        "uncertain": false
+      },
+      {
+        "start": 51.0,
+        "end": 53.0,
+        "text": "อะไรพี่",
+        "uncertain": false
+      },
+      {
+        "start": 53.0,
+        "end": 54.0,
+        "text": "ปรับ อันเนี้ย",
+        "uncertain": false
+      },
+      {
+        "start": 54.0,
+        "end": 58.0,
+        "text": "เออ เค้าเรียกว่าอะไรวะ ไอ้ที่พี่หมายถึงแบบซูมเอาท์เยอะๆ ใช่ป่ะ กับซูมอินอ่ะ",
+        "uncertain": false
+      },
+      {
+        "start": 58.0,
+        "end": 61.0,
+        "text": "ไม่ใช่ ไม่ใช่ พี่หมายถึง",
+        "uncertain": false
+      },
+      {
+        "start": 61.0,
+        "end": 65.0,
+        "text": "ปุ่มหา ไอ้ปุ่มปรับคีย์บอร์ดไม่ได้อ่ะ พี่อยากเปลี่ยนปุ่ม",
+        "uncertain": true
+      },
+      {
+        "start": 65.0,
+        "end": 69.0,
+        "text": "เออ กด คอน เออ เดี๋ยว นะ ผมดูแป๊บนึง",
+        "uncertain": false
+      },
+      {
+        "start": 69.0,
+        "end": 73.0,
+        "text": "พี่ พี่ พี่ไปที่ Option พี่ พี่กด ESC ไป Option แล้วก็ไปที่ Control",
+        "uncertain": false
+      },
+      {
+        "start": 73.0,
+        "end": 76.0,
+        "text": "ไหนพี่นะ Control พี่ดูว่าทำไมมีแค่นี้วะ",
+        "uncertain": false
+      },
+      {
+        "start": 76.0,
+        "end": 80.0,
+        "text": "Keyboard Bind มันก็มีแค่นี้แหละพี่ Minecraft",
+        "uncertain": false
+      },
+      {
+        "start": 80.0,
+        "end": 81.5,
+        "text": "ใช่ๆ อยู่หัวข้อ Key Bind",
+        "uncertain": false
+      },
+      {
+        "start": 81.5,
+        "end": 84.5,
+        "text": "พี่เอาไรมากกับเกมที่เด็กเค้าเล่นกันวะพี่ พี่อย่าทำเหมือนเกมที่เพื่อนเอ็ดดี้ดิ",
+        "uncertain": false
+      }
+    ],
+    "timing_measurement": "seconds",
+    "uncertainties": [
+      {
+        "start": 18.0,
+        "end": 20.0,
+        "reason": "เสียงพูดค่อนข้างเร็วและไม่ชัดเจนว่าพูดว่า มือห้ามมาหรอ หรือ มือห้ามาหรอ"
+      },
+      {
+        "start": 61.0,
+        "end": 65.0,
+        "reason": "คำว่า ปุ่มหา อาจจะเป็นคำอื่นเนื่องจากเสียงพูดไม่ชัดเจน"
+      }
+    ],
+    "segment_count": 24
+  }
+}

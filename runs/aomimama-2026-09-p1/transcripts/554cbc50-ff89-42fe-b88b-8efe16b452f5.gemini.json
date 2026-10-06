@@ -1,0 +1,81 @@
+{
+  "metadata": {
+    "model": "chunked:gemini-3-flash-preview,gemini-3.5-flash-lite",
+    "route": "google-generativeai-direct",
+    "timeline_index": 13,
+    "timeline_id": "554cbc50-ff89-42fe-b88b-8efe16b452f5",
+    "timeline_name": "ด่านเขียวสุดท้ายก่อนจอดับ-alien shooter-vdo",
+    "expected_duration_seconds": 116.0,
+    "chunk_seconds": 45.0,
+    "chunk_boundaries": [
+      0.0,
+      40.0,
+      87.0,
+      116.0
+    ]
+  },
+  "duration_seconds": 116.0,
+  "gemini": {
+    "audio_available": true,
+    "duration_seconds": 116.0,
+    "segments": [
+      {
+        "start": 10.4,
+        "end": 11.4,
+        "text": "ฮึม ฮึม ฮึม ฮึม ฮึม",
+        "uncertain": false,
+        "chunk": 1
+      },
+      {
+        "start": 11.4,
+        "end": 12.0,
+        "text": "ดีนะ",
+        "uncertain": true,
+        "chunk": 1
+      },
+      {
+        "start": 81.5,
+        "end": 83.8,
+        "text": "เฮ้ย เดี๋ยวนะ",
+        "uncertain": false,
+        "chunk": 2
+      },
+      {
+        "start": 84.5,
+        "end": 86.8,
+        "text": "เฮ้ย เดี๋ยวนะ",
+        "uncertain": false,
+        "chunk": 2
+      },
+      {
+        "start": 87.0,
+        "end": 89.9,
+        "text": "เอา มะ แพง",
+        "uncertain": false,
+        "chunk": 3
+      },
+      {
+        "start": 97.0,
+        "end": 99.0,
+        "text": "เป็น ไร ตรง นี้ ไม่ ได้",
+        "uncertain": false,
+        "chunk": 3
+      },
+      {
+        "start": 100.0,
+        "end": 105.0,
+        "text": "เอา หรือ ว่า ที่ เรา อ่ะ มา งาน โทรศัพท์",
+        "uncertain": false,
+        "chunk": 3
+      },
+      {
+        "start": 108.0,
+        "end": 109.0,
+        "text": "เป็น ไง",
+        "uncertain": false,
+        "chunk": 3
+      }
+    ],
+    "segment_count": 8
+  }
+}

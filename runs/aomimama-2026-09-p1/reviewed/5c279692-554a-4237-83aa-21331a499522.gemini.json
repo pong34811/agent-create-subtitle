@@ -1,0 +1,27 @@
+{
+  "timeline_id": "5c279692-554a-4237-83aa-21331a499522",
+  "timeline_name": "เมาท์เรื่องสายเล่นเกม-League of Legends-vdo",
+  "approved": false,
+  "source_model": "gemini-3.5-flash",
+  "duration_seconds": 100.0,
+  "cues": [
+    {
+      "start": 43.0,
+      "end": 47.0,
+      "text": "อื้อหือคิลเลอร์ของนี่นี่",
+      "source_segment": 43.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 78.0,
+      "end": 84.0,
+      "text": "โอ้โหนะนะคะช่วยเยอะสุดบอกเลยนะฮะ",
+      "source_segment": 78.0,
+      "gemini_uncertain": false,
+      "flags": []
+    }
+  ],
+  "qc_required": true,
+  "status": "unreviewed_draft"
+}

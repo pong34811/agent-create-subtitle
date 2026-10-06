@@ -1,0 +1,33 @@
+{
+  "job": {
+    "JobId": "325540f8-8f86-409b-a99f-09d443ae803c",
+    "RenderJobName": "Job 1",
+    "TimelineName": "เปิดสตรีมทักทายก่อนเริ่มเกม-alien shooter last hope-vdo",
+    "TargetDir": "C:\\Users\\warit\\Desktop\\agent-create-subtitle\\runs\\aomimama-2026-09-p1\\audio",
+    "IsExportVideo": false,
+    "IsExportAudio": true,
+    "FormatWidth": 1920,
+    "FormatHeight": 1080,
+    "FrameRate": "60",
+    "PixelAspectRatio": 1.0,
+    "MarkIn": 0,
+    "MarkOut": 5435,
+    "AudioBitDepth": 16,
+    "AudioSampleRate": 48000,
+    "ExportAlpha": false,
+    "OutputFilename": "4720b0bd-a3f4-4106-bdcb-18101a54c2f6-mix.wav",
+    "RenderMode": "Single clip",
+    "PresetName": "Audio Only",
+    "VideoFormat": "Wave",
+    "VideoCodec": "",
+    "AudioCodec": "lpcm",
+    "NetworkOptimization": false,
+    "ClipStartFrame": 1,
+    "TimelineStartTimecode": "00:00:00:00"
+  },
+  "status": {
+    "JobStatus": "Complete",
+    "CompletionPercentage": 100,
+    "TimeTakenToRenderInMs": 5363
+  }
+}

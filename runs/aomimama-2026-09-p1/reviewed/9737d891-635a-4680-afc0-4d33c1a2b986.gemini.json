@@ -1,0 +1,171 @@
+{
+  "timeline_id": "9737d891-635a-4680-afc0-4d33c1a2b986",
+  "timeline_name": "ลุยฐานใต้ดิน เข้าได้สองทาง-alien shooter 2-vdo",
+  "approved": false,
+  "source_model": "gemini-2.5-flash",
+  "duration_seconds": 85.0,
+  "cues": [
+    {
+      "start": 0.0,
+      "end": 1.522,
+      "text": "to the base, but the entrance gate",
+      "source_segment": 0.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 1.522,
+      "end": 2.0,
+      "text": "is blocked.",
+      "source_segment": 0.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 3.2,
+      "end": 4.557,
+      "text": "The magma team that was here",
+      "source_segment": 3.2,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 4.557,
+      "end": 6.243,
+      "text": "earlier operated from a garage back",
+      "source_segment": 3.2,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 6.243,
+      "end": 7.6,
+      "text": "off the main road behind you.",
+      "source_segment": 3.2,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 8.3,
+      "end": 9.896,
+      "text": "They told me they left a cache of",
+      "source_segment": 8.3,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 9.896,
+      "end": 10.6,
+      "text": "dynamite there.",
+      "source_segment": 8.3,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 14.2,
+      "end": 16.0,
+      "text": "มันมี 2 ทางหรอ",
+      "source_segment": 14.2,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 16.4,
+      "end": 17.0,
+      "text": "หาจริง",
+      "source_segment": 16.4,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 18.4,
+      "end": 20.4,
+      "text": "จริงจังเลยพ่อนี่ครับอันนี้",
+      "source_segment": 18.4,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 42.5,
+      "end": 44.5,
+      "text": "มันรูอะไรคือถ้าเราเข้าไปแล้วมัน",
+      "source_segment": 42.5,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 44.5,
+      "end": 45.5,
+      "text": "ทางตันหมดเลยนะ",
+      "source_segment": 42.5,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 46.3,
+      "end": 47.0,
+      "text": "เข้าไปเลยมั้ย",
+      "source_segment": 46.3,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 47.6,
+      "end": 49.5,
+      "text": "มันต้องมันต้องตักขึ้นมาได้",
+      "source_segment": 47.6,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 50.0,
+      "end": 50.5,
+      "text": "ไม่ได้",
+      "source_segment": 50.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 52.0,
+      "end": 53.7,
+      "text": "ไม่ได้ไม่ได้ถ้าเข้าก็เข้าเลย",
+      "source_segment": 52.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 57.7,
+      "end": 59.0,
+      "text": "หัวเข้าได้ 2 ทาง",
+      "source_segment": 57.7,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 60.7,
+      "end": 62.4,
+      "text": "โอเคโอเคโอเคโอเค",
+      "source_segment": 60.7,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 65.8,
+      "end": 68.832,
+      "text": "ถ้าขอสํารวจให้ทั่วก่อนแล้วค่อยไปนะ",
+      "source_segment": 65.8,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 68.832,
+      "end": 69.232,
+      "text": "คะ",
+      "source_segment": 65.8,
+      "gemini_uncertain": false,
+      "flags": []
+    }
+  ],
+  "qc_required": true,
+  "status": "unreviewed_draft"
+}

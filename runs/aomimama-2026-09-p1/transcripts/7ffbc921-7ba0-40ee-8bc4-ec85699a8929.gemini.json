@@ -1,0 +1,74 @@
+{
+  "metadata": {
+    "model": "gemini-3.5-flash-lite",
+    "route": "google-generativeai-direct",
+    "timeline_index": 44,
+    "timeline_id": "7ffbc921-7ba0-40ee-8bc4-ec85699a8929",
+    "timeline_name": "ทีมไฟต์ถูกชัตดาวน์-League of Legends-vdo",
+    "expected_duration_seconds": 63.71666666666667,
+    "prompt_token_count": 1786
+  },
+  "duration_seconds": 63.71666666666667,
+  "gemini": {
+    "audio_available": true,
+    "duration_seconds": 63.858,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.758,
+        "text": "พ่อมึงแสบ หาอะไร หาอะไร หาพ่อมึงแสบเหรออีนี่",
+        "uncertain": false
+      },
+      {
+        "start": 5.958,
+        "end": 6.798,
+        "text": "พอข้ามส่ะ",
+        "uncertain": false
+      },
+      {
+        "start": 13.018,
+        "end": 19.358,
+        "text": "โอ๊ย เหี้ย หมากvanguardเมื่อกี้นี้ ถ้าหมาไม่โดนเคลียร์เมื่อตายห่าละ",
+        "uncertain": false
+      },
+      {
+        "start": 20.258,
+        "end": 25.138,
+        "text": "เมื่อกี้เมื่อเผลอเราไปตีป้อมเพลิน เสียหมาเยอะเกิน ไม่มีดาเมจพอข้ามแม่ม",
+        "uncertain": false
+      },
+      {
+        "start": 26.078,
+        "end": 32.558,
+        "text": "ถ้าผมเป็นหนึ่งอยู่ ดูดิ ผมเป็นดิเห็นผมเดินไปกดสกิล 2 ที ไปกอดแล้วก็ตายกันไป แพ้เกม",
+        "uncertain": false
+      },
+      {
+        "start": 33.378,
+        "end": 44.898,
+        "text": "ไอ้เหี้ยมึงแทงกูก่อนดิไอ้สัตว์ มึงแทงกูเจ็บว่ะไอ้สัตว์ ไหน โตไรต่อไป อ้าว ไอ้เหี้ยเดี๋ยวป้อมเธลอนไอ้เหี้ยหรอ ป้อมเธอชิพหาย ป้อมตัวชิพหายไอ้ควาย",
+        "uncertain": false
+      },
+      {
+        "start": 48.018,
+        "end": 51.538,
+        "text": "ยังเดือดเลย จะเล่นทำไมวะ โปเกมอน",
+        "uncertain": false
+      },
+      {
+        "start": 53.618,
+        "end": 56.518,
+        "text": "โดนย้อมไปลูกหมาไอ้เหี้ย",
+        "uncertain": false
+      },
+      {
+        "start": 60.058,
+        "end": 60.998,
+        "text": "ลูกเฮ้ย",
+        "uncertain": false
+      }
+    ],
+    "timing_measurement": "frame",
+    "segment_count": 9
+  }
+}

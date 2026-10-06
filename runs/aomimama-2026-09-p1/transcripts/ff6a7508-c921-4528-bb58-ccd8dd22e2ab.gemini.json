@@ -1,0 +1,248 @@
+{
+  "metadata": {
+    "model": "gemini-2.5-flash",
+    "route": "google-generativeai-direct",
+    "timeline_index": 29,
+    "timeline_id": "ff6a7508-c921-4528-bb58-ccd8dd22e2ab",
+    "timeline_name": "ไฟต์ใหญ่ในอารีนา-League of Legends-vdo",
+    "expected_duration_seconds": 80.76666666666667,
+    "prompt_token_count": 2778
+  },
+  "duration_seconds": 80.76666666666667,
+  "gemini": {
+    "audio_available": true,
+    "duration_seconds": 80.0,
+    "segments": [
+      {
+        "start": 0.04,
+        "end": 0.049,
+        "text": "อื้อ",
+        "uncertain": false
+      },
+      {
+        "start": 0.06,
+        "end": 0.069,
+        "text": "อื้อ",
+        "uncertain": false
+      },
+      {
+        "start": 0.08,
+        "end": 0.089,
+        "text": "อื้อ",
+        "uncertain": false
+      },
+      {
+        "start": 0.1,
+        "end": 0.109,
+        "text": "อื้อ",
+        "uncertain": false
+      },
+      {
+        "start": 0.12,
+        "end": 0.129,
+        "text": "อื้อ",
+        "uncertain": false
+      },
+      {
+        "start": 0.135,
+        "end": 0.155,
+        "text": "My name [ฟังไม่ชัด]",
+        "uncertain": true
+      },
+      {
+        "start": 0.16,
+        "end": 0.169,
+        "text": "อื้อ",
+        "uncertain": false
+      },
+      {
+        "start": 0.18,
+        "end": 0.189,
+        "text": "อื้อ",
+        "uncertain": false
+      },
+      {
+        "start": 0.2,
+        "end": 0.209,
+        "text": "อื้อ",
+        "uncertain": false
+      },
+      {
+        "start": 0.22,
+        "end": 0.229,
+        "text": "อื้อ",
+        "uncertain": false
+      },
+      {
+        "start": 0.24,
+        "end": 0.249,
+        "text": "อื้อ",
+        "uncertain": false
+      },
+      {
+        "start": 0.26,
+        "end": 0.269,
+        "text": "อื้อ",
+        "uncertain": false
+      },
+      {
+        "start": 0.28,
+        "end": 0.289,
+        "text": "อื้อ",
+        "uncertain": false
+      },
+      {
+        "start": 0.3,
+        "end": 0.309,
+        "text": "อื้อ",
+        "uncertain": false
+      },
+      {
+        "start": 0.32,
+        "end": 0.329,
+        "text": "อื้อ",
+        "uncertain": false
+      },
+      {
+        "start": 0.34,
+        "end": 0.349,
+        "text": "อื้อ",
+        "uncertain": false
+      },
+      {
+        "start": 0.36,
+        "end": 0.369,
+        "text": "อื้อ",
+        "uncertain": false
+      },
+      {
+        "start": 0.38,
+        "end": 0.389,
+        "text": "อื้อ",
+        "uncertain": false
+      },
+      {
+        "start": 0.4,
+        "end": 0.409,
+        "text": "อื้อ",
+        "uncertain": false
+      },
+      {
+        "start": 0.42,
+        "end": 0.429,
+        "text": "อื้อ",
+        "uncertain": false
+      },
+      {
+        "start": 0.435,
+        "end": 0.455,
+        "text": "enemy slain",
+        "uncertain": false
+      },
+      {
+        "start": 0.46,
+        "end": 0.469,
+        "text": "อื้อ",
+        "uncertain": false
+      },
+      {
+        "start": 0.48,
+        "end": 0.489,
+        "text": "อื้อ",
+        "uncertain": false
+      },
+      {
+        "start": 0.5,
+        "end": 0.509,
+        "text": "อื้อ",
+        "uncertain": false
+      },
+      {
+        "start": 0.52,
+        "end": 0.529,
+        "text": "อื้อ",
+        "uncertain": false
+      },
+      {
+        "start": 0.54,
+        "end": 0.559,
+        "text": "enemy slain",
+        "uncertain": false
+      },
+      {
+        "start": 0.57,
+        "end": 0.579,
+        "text": "อื้อ",
+        "uncertain": false
+      },
+      {
+        "start": 0.59,
+        "end": 0.599,
+        "text": "อื้อ",
+        "uncertain": false
+      },
+      {
+        "start": 1.01,
+        "end": 1.019,
+        "text": "อื้อ",
+        "uncertain": false
+      },
+      {
+        "start": 1.03,
+        "end": 1.039,
+        "text": "อื้อ",
+        "uncertain": false
+      },
+      {
+        "start": 1.05,
+        "end": 1.059,
+        "text": "อื้อ",
+        "uncertain": false
+      },
+      {
+        "start": 1.07,
+        "end": 1.079,
+        "text": "อื้อ",
+        "uncertain": false
+      },
+      {
+        "start": 1.09,
+        "end": 1.099,
+        "text": "อื้อ",
+        "uncertain": false
+      },
+      {
+        "start": 1.11,
+        "end": 1.119,
+        "text": "อื้อ",
+        "uncertain": false
+      },
+      {
+        "start": 1.13,
+        "end": 1.149,
+        "text": "enemy slain",
+        "uncertain": false
+      },
+      {
+        "start": 1.16,
+        "end": 1.169,
+        "text": "อื้อ",
+        "uncertain": false
+      },
+      {
+        "start": 1.185,
+        "end": 1.199,
+        "text": "frag down",
+        "uncertain": false
+      }
+    ],
+    "uncertainties": [
+      {
+        "start": 0.15,
+        "end": 0.155,
+        "reason": "คำท้ายไม่ชัดเจน"
+      }
+    ],
+    "segment_count": 37
+  }
+}

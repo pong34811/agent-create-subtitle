@@ -1,0 +1,179 @@
+{
+  "timeline_id": "f1940f17-24c4-440c-9a6d-d97545268986",
+  "timeline_name": "ไฟต์หน้าป้อม-League of Legends-vdo",
+  "approved": false,
+  "source_model": "gemini-3.5-flash-lite",
+  "duration_seconds": 98.61666666666666,
+  "cues": [
+    {
+      "start": 0.0,
+      "end": 8.95,
+      "text": "[ฟังไม่ชัด]",
+      "source_segment": 0.0,
+      "gemini_uncertain": true,
+      "flags": []
+    },
+    {
+      "start": 9.0,
+      "end": 13.95,
+      "text": "สุดยอด",
+      "source_segment": 9.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 14.0,
+      "end": 16.95,
+      "text": "[ฟังไม่ชัด]",
+      "source_segment": 14.0,
+      "gemini_uncertain": true,
+      "flags": []
+    },
+    {
+      "start": 17.0,
+      "end": 19.716,
+      "text": "โอ๊ยเหี้ยเหี้ยอะไรวะเนี่ยไอ้เหี้ยเหี้ยอะไร",
+      "source_segment": 17.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 19.716,
+      "end": 20.95,
+      "text": "เนี่ยไม่ได้ทำไรไอนี่",
+      "source_segment": 17.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 21.0,
+      "end": 24.95,
+      "text": "มึงไม่ทันแบบกลัวชิบหายเลยแบบ",
+      "source_segment": 21.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 25.0,
+      "end": 27.95,
+      "text": "ไม่ได้ลาภอยู่นะ [ฟังไม่ชัด]",
+      "source_segment": 25.0,
+      "gemini_uncertain": true,
+      "flags": []
+    },
+    {
+      "start": 28.0,
+      "end": 34.95,
+      "text": "[ฟังไม่ชัด]",
+      "source_segment": 28.0,
+      "gemini_uncertain": true,
+      "flags": []
+    },
+    {
+      "start": 35.0,
+      "end": 43.95,
+      "text": "กูไม่ได้แบบกูไอ้เหี้ยนี่เว้ยตัวมันหนา",
+      "source_segment": 35.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 44.0,
+      "end": 49.492,
+      "text": "ไอ้เหี้ยหนีได้หนีได้หนีได้หนีได้หมดเลยดิไอ้",
+      "source_segment": 44.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 49.492,
+      "end": 49.95,
+      "text": "เหี้ย",
+      "source_segment": 44.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 50.0,
+      "end": 55.95,
+      "text": "ถ้าเสือกเล่นพี่ตัววะ",
+      "source_segment": 50.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 56.0,
+      "end": 58.95,
+      "text": "Dark in my blood queen",
+      "source_segment": 56.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 59.0,
+      "end": 63.95,
+      "text": "ไม่สู้ไม่สู้ไม่เหมือนมาแบบไม่เล่นกันแบบ",
+      "source_segment": 59.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 64.0,
+      "end": 66.95,
+      "text": "ไม่ทำอะไรอ่ะ",
+      "source_segment": 64.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 67.0,
+      "end": 70.95,
+      "text": "[ฟังไม่ชัด]",
+      "source_segment": 67.0,
+      "gemini_uncertain": true,
+      "flags": []
+    },
+    {
+      "start": 71.0,
+      "end": 75.95,
+      "text": "Strike the wind",
+      "source_segment": 71.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 76.0,
+      "end": 80.95,
+      "text": "[ฟังไม่ชัด]",
+      "source_segment": 76.0,
+      "gemini_uncertain": true,
+      "flags": []
+    },
+    {
+      "start": 81.0,
+      "end": 91.95,
+      "text": "[ฟังไม่ชัด]",
+      "source_segment": 81.0,
+      "gemini_uncertain": true,
+      "flags": []
+    },
+    {
+      "start": 92.0,
+      "end": 95.93,
+      "text": "ไม่เคลียร์มันเล่นย่างเดียววะเอาข้าม่ะไม่ทำ",
+      "source_segment": 92.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 95.93,
+      "end": 98.4,
+      "text": "ยังไงล่ะวะทีมมันย่างเดียวอ่ะ",
+      "source_segment": 92.0,
+      "gemini_uncertain": false,
+      "flags": []
+    }
+  ],
+  "qc_required": true,
+  "status": "unreviewed_draft"
+}

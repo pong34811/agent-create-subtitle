@@ -1,0 +1,462 @@
+{
+ "project": "aomimama-2026-09-p1",
+ "project_db": "G:\\My Drive\\Projects\\Resolve Project Library\\Resolve Projects\\Users\\guest\\Projects\\Aommi-mama\\2026-09\\aomimama-2026-09-p1\\Project.db",
+ "user_db": "G:\\My Drive\\Projects\\Resolve Project Library\\Resolve Projects\\Users\\guest\\User.db",
+ "preset": "Mitr Font",
+ "style": "134 bytes",
+ "tracks": [
+  {
+   "track_id": "20cc60a7-9377-4dfd-8dff-78e5e51a86c9",
+   "timeline_id": "a618240d-4cd9-4331-bccc-dd6e98e7a4e7",
+   "timeline": "Windows XP  Vista  8  ลองหมด-alien shooter 2-vdo",
+   "already_matches": false
+  },
+  {
+   "track_id": "81f2d401-2e2b-4efb-b5d1-5cdbdbadb1bc",
+   "timeline_id": "c36ae3b0-6f93-401e-bf07-9b13cb8fb3a1",
+   "timeline": "กดเล่นแล้วเกมเด้ง ลบโหลดใหม่เลย-alien shooter 2-vdo",
+   "already_matches": false
+  },
+  {
+   "track_id": "d30cf174-1f4d-460f-838f-f83627e09d86",
+   "timeline_id": "53521e92-7059-484f-9ddb-01d5d94dca0d",
+   "timeline": "กวาดศัตรูในฐานมืด-alien shooter 2-vdo",
+   "already_matches": false
+  },
+  {
+   "track_id": "c35a4662-0cfc-4c9b-8698-d5b382ca8a68",
+   "timeline_id": "781816e7-4d4b-4b95-937e-0f8feeea26b6",
+   "timeline": "กวาดห้องจนจบภารกิจ-alien shooter-vdo",
+   "already_matches": false
+  },
+  {
+   "track_id": "7ea302b0-d1c0-4543-be4e-899e66e98409",
+   "timeline_id": "f95d96d1-4362-4a0f-803b-125834044a94",
+   "timeline": "คุยกับแชทช่วงต้นไลฟ์ เล่าว่าเล่นเกมนี้มาหล-alien shooter-vdo",
+   "already_matches": false
+  },
+  {
+   "track_id": "16801542-bba8-416c-9e20-9897a9c909da",
+   "timeline_id": "46154505-65f7-4736-9680-9c990e912fe0",
+   "timeline": "คุยสรุปเกมหลังเล่นจบ ก่อนปิดไลฟ์-alien shooter-vdo",
+   "already_matches": false
+  },
+  {
+   "track_id": "a0d46e85-f676-40a9-815d-fccb9ad57208",
+   "timeline_id": "28e23409-55dc-4284-8a0f-4b0985620b4e",
+   "timeline": "คุยเรื่องอายุและเด็กรุ่นหลาน-alien shooter last hope-vdo",
+   "already_matches": false
+  },
+  {
+   "track_id": "f562c3ad-2e8a-4d58-b2d7-4fe7623be273",
+   "timeline_id": "5fd287ef-4107-47b3-bf00-8ff0da72ed65",
+   "timeline": "จบเกมในครั้งเดียว-alien shooter last hope-vdo",
+   "already_matches": false
+  },
+  {
+   "track_id": "57bbb67a-39e7-471d-b1e7-6342ccc649f5",
+   "timeline_id": "b3966e65-e09f-4268-9211-1e781766f911",
+   "timeline": "ซอมบี้มาได้ไงวะ!-Minecraft-vdo",
+   "already_matches": false
+  },
+  {
+   "track_id": "2181ae45-6241-4716-984a-07fdb3799edf",
+   "timeline_id": "e8138ad0-a985-420e-a3ff-fe688b80c335",
+   "timeline": "ซื้อปืนไม่พอเงินขาดไปพันเดียว-alien shooter last hope-vdo",
+   "already_matches": false
+  },
+  {
+   "track_id": "c2454163-ab6e-4c6c-bb5a-4136c6471cb1",
+   "timeline_id": "7f517373-d087-46ad-abca-635edce690df",
+   "timeline": "ดับเบิลคิลแล้วโดนฝัง-League of Legends-vdo",
+   "already_matches": false
+  },
+  {
+   "track_id": "f5bab6da-503c-40de-8a89-5f431912cba0",
+   "timeline_id": "60c95da2-e1dc-472e-89da-d553ab4d2631",
+   "timeline": "ด่าทีมรัวๆ ไอ้เชี่ยทีมตาก-League of Legends-vdo",
+   "already_matches": false
+  },
+  {
+   "track_id": "f9b49896-cdcf-487d-aeae-bc72b759050d",
+   "timeline_id": "554cbc50-ff89-42fe-b88b-8efe16b452f5",
+   "timeline": "ด่านเขียวสุดท้ายก่อนจอดับ-alien shooter-vdo",
+   "already_matches": false
+  },
+  {
+   "track_id": "50202461-3f8b-428d-800b-acbbe8a37422",
+   "timeline_id": "da042c09-7409-4a21-b4e3-7a672f6e6c57",
+   "timeline": "ตอบแชทว่าเกมยากไหมระหว่างเล่น-alien shooter-vdo",
+   "already_matches": false
+  },
+  {
+   "track_id": "54115e7b-d15c-4c7f-a8a1-15d7a0fa70d1",
+   "timeline_id": "d3d75d8a-9c67-4a5d-b2a5-65262ae4bdbb",
+   "timeline": "ตั้งค่าหน้าจอไลฟ์ เจอวิธีใหม่-alien shooter-vdo",
+   "already_matches": false
+  },
+  {
+   "track_id": "d6e450f8-5f63-4aa3-b6d8-e4d709cab6a3",
+   "timeline_id": "a1247cea-a500-4b94-869e-b0d9fee6b8ff",
+   "timeline": "ตามหาห้องที่หายไป-alien shooter last hope-vdo",
+   "already_matches": false
+  },
+  {
+   "track_id": "199f51cf-8418-4e60-98ee-96e6aba07dc6",
+   "timeline_id": "b9040425-567c-426b-b68b-3edf88537994",
+   "timeline": "ถือถังลาวาไว้กันหนาว-Minecraft-vdo",
+   "already_matches": false
+  },
+  {
+   "track_id": "083378ab-7b58-4460-8958-284e36aa4b45",
+   "timeline_id": "7ffbc921-7ba0-40ee-8bc4-ec85699a8929",
+   "timeline": "ทีมไฟต์ถูกชัตดาวน์-League of Legends-vdo",
+   "already_matches": false
+  },
+  {
+   "track_id": "344b8ebc-b552-486e-a1e0-2170dedd8f80",
+   "timeline_id": "efb952b7-a2f7-4df4-b967-0d8e0ce30191",
+   "timeline": "ปรับความละเอียด 1024x768 ไอ้เฮีย-alien shooter 2-vdo",
+   "already_matches": false
+  },
+  {
+   "track_id": "14f55d65-ed65-443c-baef-22ffd4fc0204",
+   "timeline_id": "8a3f90c9-7a47-47eb-a99a-363c893d0075",
+   "timeline": "ฝูงเอเลี่ยนบุกจนร้องลั่น-alien shooter last hope-vdo",
+   "already_matches": false
+  },
+  {
+   "track_id": "df88cbc8-9033-469f-97fd-d83f36b148b3",
+   "timeline_id": "59ff8512-7507-4892-a807-90e4ab1e8b69",
+   "timeline": "พี่จ๋าช่วยด้วย เรือไปไหนวะ-Minecraft-vdo",
+   "already_matches": false
+  },
+  {
+   "track_id": "a0fcb4e9-65cb-4fe8-9713-bd62f7c60bc4",
+   "timeline_id": "e188f573-7841-4fd1-887b-070576c15175",
+   "timeline": "พี่น้องไม่เคยช่วยอะไรเลย-Minecraft-vdo",
+   "already_matches": false
+  },
+  {
+   "track_id": "eb901755-c9d1-4fbc-a22c-37523c4c73bf",
+   "timeline_id": "0e39b07b-9b88-4f69-8c9e-77f4ce3383e7",
+   "timeline": "ลาสตรีม ขอบคุณทุกคน-League of Legends-vdo",
+   "already_matches": false
+  },
+  {
+   "track_id": "9dc6c544-cd40-404d-8f09-6bc4915028c2",
+   "timeline_id": "8634612e-5907-41f4-9f04-4c8efe08ee96",
+   "timeline": "ลืมเปิดเสียงเพื่อน คุยกับผีมาตั้งนาน-Minecraft-vdo",
+   "already_matches": false
+  },
+  {
+   "track_id": "d52fd65d-a093-4589-9dbb-f88c2fe3f3ac",
+   "timeline_id": "d28ccb47-b2f0-4e45-8179-e1f0c9bd0176",
+   "timeline": "ลืมเอาอาหาร ต้องกินเนื้อซอมบี้-Minecraft-vdo",
+   "already_matches": false
+  },
+  {
+   "track_id": "12adc7db-048a-4c27-9e63-744fc0eaa441",
+   "timeline_id": "9ecc1f98-28a7-4376-addd-2233b933dccd",
+   "timeline": "ลืมแชร์จอ จบของวีทูปเบอร์ที่ไม่เตรียมตัว-Minecraft-vdo",
+   "already_matches": false
+  },
+  {
+   "track_id": "1c227be1-bce6-4332-831e-bdf8cf5b1121",
+   "timeline_id": "9737d891-635a-4680-afc0-4d33c1a2b986",
+   "timeline": "ลุยฐานใต้ดิน เข้าได้สองทาง-alien shooter 2-vdo",
+   "already_matches": false
+  },
+  {
+   "track_id": "951e21b1-fc22-44d6-aaa4-65ce00ef9247",
+   "timeline_id": "b99149a7-7693-4f2e-bafe-b493e2bc889e",
+   "timeline": "ล่อบอสตัวเหนียวจนเหนื่อย-alien shooter last hope-vdo",
+   "already_matches": false
+  },
+  {
+   "track_id": "eb2912a4-5e97-47f8-ba5a-4d852b265577",
+   "timeline_id": "fbf4c70a-6bb7-4e47-8d13-1363ef777b4e",
+   "timeline": "วิ่งหนีมอนตอนมืดจนเห็นบ้าน-Minecraft-vdo",
+   "already_matches": false
+  },
+  {
+   "track_id": "54c77c45-f5b0-4a57-b23f-5722595372d2",
+   "timeline_id": "f39dd3ca-5158-4141-8870-1c1cbc47975c",
+   "timeline": "หนาวติดลบ 16 ต้องถือลาวา-Minecraft-vdo",
+   "already_matches": false
+  },
+  {
+   "track_id": "7aee09d9-4934-4003-aa14-9a38c04ccce7",
+   "timeline_id": "a4637e1f-4f07-4f01-af2f-81d3e1dd36f6",
+   "timeline": "หัวยังไม่ฟู ตายก่อนเลย-League of Legends-vdo",
+   "already_matches": false
+  },
+  {
+   "track_id": "cbfe30f3-9cb9-44e0-9aeb-06fa604f6132",
+   "timeline_id": "caf467e9-cd05-472b-ad67-7509a17d7cc3",
+   "timeline": "อยากเปลี่ยนร่าง เอาคนไม่มีเสียงในหัวมาเล่นแทน-Minecraft-vdo",
+   "already_matches": false
+  },
+  {
+   "track_id": "b0aabfef-9ddd-4169-a22b-097eaa59c327",
+   "timeline_id": "12775bd0-acc9-4658-b216-500a2e1c7755",
+   "timeline": "อย่าใส่ร้ายผม เกือบจมลาวา-Minecraft-vdo",
+   "already_matches": false
+  },
+  {
+   "track_id": "43c60329-a15a-4530-9842-e154585f24b4",
+   "timeline_id": "4c7555ea-2f61-4214-88a7-877c809e14df",
+   "timeline": "ออกเมื่อไหร่มีตายเมื่อนั้น-League of Legends-vdo",
+   "already_matches": false
+  },
+  {
+   "track_id": "ef40b8dd-9345-441e-acc0-fa9d5b41dfd8",
+   "timeline_id": "d1abfb93-c076-4cb7-815d-ef1624b97d8d",
+   "timeline": "ออกไม่ได้เลยวะ ฮ่าๆๆ-Minecraft-vdo",
+   "already_matches": false
+  },
+  {
+   "track_id": "0cfc1325-04ee-4d2a-88b6-ef3a47689831",
+   "timeline_id": "3ad8b944-9545-4283-9f58-3b03d07ef5d6",
+   "timeline": "เจอทางกลับบ้านแต่เพื่อนไปห้องน้ำ-Minecraft-vdo",
+   "already_matches": false
+  },
+  {
+   "track_id": "8234c417-9d44-4065-abfa-a8809da90880",
+   "timeline_id": "4bddb8e1-865b-46d1-9263-cbd5c5849c5c",
+   "timeline": "เจอเพชรแล้ว! ยิส!-Minecraft-vdo",
+   "already_matches": false
+  },
+  {
+   "track_id": "792f69b6-a1e4-4738-bdb4-effd7a241cd8",
+   "timeline_id": "827f407c-0041-46cd-9d6f-dc12cc1d0a48",
+   "timeline": "เช็กของ เซฟยัง แล้วลุยต่อ-alien shooter 2-vdo",
+   "already_matches": false
+  },
+  {
+   "track_id": "48a5f569-1d77-48d7-a116-52855b005ef0",
+   "timeline_id": "0803c999-9d25-4106-ab2b-a5f43047881e",
+   "timeline": "เตรียมป้อมสู้ศึกใหญ่-alien shooter last hope-vdo",
+   "already_matches": false
+  },
+  {
+   "track_id": "788bc326-0a94-4494-8bde-bcc4d43d6673",
+   "timeline_id": "4720b0bd-a3f4-4106-bdcb-18101a54c2f6",
+   "timeline": "เปิดสตรีมทักทายก่อนเริ่มเกม-alien shooter last hope-vdo",
+   "already_matches": false
+  },
+  {
+   "track_id": "10c684df-5853-46f1-bc81-5c53c585009e",
+   "timeline_id": "341f7397-908a-49e0-995f-b57bcbf4f749",
+   "timeline": "เพนตาคิลแล้วพ่ายแพ้-League of Legends-vdo",
+   "already_matches": false
+  },
+  {
+   "track_id": "4fcc0a5e-b919-4c52-8edd-d8abf868d1a3",
+   "timeline_id": "5c279692-554a-4237-83aa-21331a499522",
+   "timeline": "เมาท์เรื่องสายเล่นเกม-League of Legends-vdo",
+   "already_matches": false
+  },
+  {
+   "track_id": "11dd8026-ea44-4c7b-b362-6d32285713be",
+   "timeline_id": "fea3bf4f-544d-45f3-8b39-d19e449b54b0",
+   "timeline": "เริ่มเกมแล้วเจอไฟต์-League of Legends-vdo",
+   "already_matches": false
+  },
+  {
+   "track_id": "c351096b-cd77-47ff-a271-d4a682f7bcb6",
+   "timeline_id": "48ebe6cc-2063-4388-9e97-1740506c55f0",
+   "timeline": "เสียงร้องโอ๊ยๆ-League of Legends-vdo",
+   "already_matches": false
+  },
+  {
+   "track_id": "2a7c25e2-7073-4ead-868c-03246df6d625",
+   "timeline_id": "ced25d58-9d0b-4545-915e-1ac549e2bce6",
+   "timeline": "ในที่สุดแชร์จอเหมือนคนปกติได้แล้ว-alien shooter 2-vdo",
+   "already_matches": false
+  },
+  {
+   "track_id": "e5eb4f01-4eae-4f4c-a1b3-7f5d43a20fb9",
+   "timeline_id": "a897710f-8a14-429b-8fe5-d4f3548364a5",
+   "timeline": "ไฟต์ท้ายเกมสุดมัน-League of Legends-vdo",
+   "already_matches": false
+  },
+  {
+   "track_id": "4308c5f9-4e67-442e-b8c3-64e3ce141d93",
+   "timeline_id": "f1940f17-24c4-440c-9a6d-d97545268986",
+   "timeline": "ไฟต์หน้าป้อม-League of Legends-vdo",
+   "already_matches": false
+  },
+  {
+   "track_id": "2c8c973c-e875-4ed5-8f6d-a3d8703e3815",
+   "timeline_id": "23199d97-af37-4526-ad6b-950f04571983",
+   "timeline": "ไฟต์ในเลนกับเสียงร้องเฮ้ย-League of Legends-vdo",
+   "already_matches": false
+  },
+  {
+   "track_id": "e465e12f-2800-46a0-bcb4-4c9cc2a9a72b",
+   "timeline_id": "ff6a7508-c921-4528-bb58-ccd8dd22e2ab",
+   "timeline": "ไฟต์ใหญ่ในอารีนา-League of Legends-vdo",
+   "already_matches": false
+  }
+ ]
+}
+49 of 49 subtitle track(s) would change.
+{
+ "verified_tracks": 49,
+ "changed_tracks": 49,
+ "backup_dir": "C:\\Users\\warit\\Documents\\resolve-subtitle-preset-backups\\aomimama-2026-09-p1_20261006-150958",
+ "cue_counts": {
+  "4720b0bd-a3f4-4106-bdcb-18101a54c2f6": [
+   14
+  ],
+  "a1247cea-a500-4b94-869e-b0d9fee6b8ff": [
+   16
+  ],
+  "8a3f90c9-7a47-47eb-a99a-363c893d0075": [
+   15
+  ],
+  "28e23409-55dc-4284-8a0f-4b0985620b4e": [
+   18
+  ],
+  "e8138ad0-a985-420e-a3ff-fe688b80c335": [
+   17
+  ],
+  "0803c999-9d25-4106-ab2b-a5f43047881e": [
+   8
+  ],
+  "b99149a7-7693-4f2e-bafe-b493e2bc889e": [
+   11
+  ],
+  "5fd287ef-4107-47b3-bf00-8ff0da72ed65": [
+   13
+  ],
+  "f95d96d1-4362-4a0f-803b-125834044a94": [
+   19
+  ],
+  "d3d75d8a-9c67-4a5d-b2a5-65262ae4bdbb": [
+   21
+  ],
+  "781816e7-4d4b-4b95-937e-0f8feeea26b6": [
+   1
+  ],
+  "da042c09-7409-4a21-b4e3-7a672f6e6c57": [
+   9
+  ],
+  "554cbc50-ff89-42fe-b88b-8efe16b452f5": [
+   8
+  ],
+  "46154505-65f7-4736-9680-9c990e912fe0": [
+   37
+  ],
+  "9ecc1f98-28a7-4376-addd-2233b933dccd": [
+   24
+  ],
+  "f39dd3ca-5158-4141-8870-1c1cbc47975c": [
+   48
+  ],
+  "b9040425-567c-426b-b68b-3edf88537994": [
+   33
+  ],
+  "e188f573-7841-4fd1-887b-070576c15175": [
+   26
+  ],
+  "12775bd0-acc9-4658-b216-500a2e1c7755": [
+   47
+  ],
+  "4bddb8e1-865b-46d1-9263-cbd5c5849c5c": [
+   36
+  ],
+  "3ad8b944-9545-4283-9f58-3b03d07ef5d6": [
+   39
+  ],
+  "9737d891-635a-4680-afc0-4d33c1a2b986": [
+   20
+  ],
+  "53521e92-7059-484f-9ddb-01d5d94dca0d": [
+   3
+  ],
+  "827f407c-0041-46cd-9d6f-dc12cc1d0a48": [
+   10
+  ],
+  "c36ae3b0-6f93-401e-bf07-9b13cb8fb3a1": [
+   28
+  ],
+  "a618240d-4cd9-4331-bccc-dd6e98e7a4e7": [
+   31
+  ],
+  "ced25d58-9d0b-4545-915e-1ac549e2bce6": [
+   24
+  ],
+  "efb952b7-a2f7-4df4-b967-0d8e0ce30191": [
+   37
+  ],
+  "ff6a7508-c921-4528-bb58-ccd8dd22e2ab": [
+   2
+  ],
+  "48ebe6cc-2063-4388-9e97-1740506c55f0": [
+   15
+  ],
+  "7f517373-d087-46ad-abca-635edce690df": [
+   7
+  ],
+  "f1940f17-24c4-440c-9a6d-d97545268986": [
+   21
+  ],
+  "5c279692-554a-4237-83aa-21331a499522": [
+   2
+  ],
+  "341f7397-908a-49e0-995f-b57bcbf4f749": [
+   2
+  ],
+  "a897710f-8a14-429b-8fe5-d4f3548364a5": [
+   4
+  ],
+  "8634612e-5907-41f4-9f04-4c8efe08ee96": [
+   15
+  ],
+  "d28ccb47-b2f0-4e45-8179-e1f0c9bd0176": [
+   31
+  ],
+  "b3966e65-e09f-4268-9211-1e781766f911": [
+   20
+  ],
+  "caf467e9-cd05-472b-ad67-7509a17d7cc3": [
+   10
+  ],
+  "59ff8512-7507-4892-a807-90e4ab1e8b69": [
+   22
+  ],
+  "fbf4c70a-6bb7-4e47-8d13-1363ef777b4e": [
+   40
+  ],
+  "d1abfb93-c076-4cb7-815d-ef1624b97d8d": [
+   23
+  ],
+  "23199d97-af37-4526-ad6b-950f04571983": [
+   13
+  ],
+  "7ffbc921-7ba0-40ee-8bc4-ec85699a8929": [
+   16
+  ],
+  "fea3bf4f-544d-45f3-8b39-d19e449b54b0": [
+   22
+  ],
+  "a4637e1f-4f07-4f01-af2f-81d3e1dd36f6": [
+   35
+  ],
+  "4c7555ea-2f61-4214-88a7-877c809e14df": [
+   18
+  ],
+  "60c95da2-e1dc-472e-89da-d553ab4d2631": [
+   10
+  ],
+  "0e39b07b-9b88-4f69-8c9e-77f4ce3383e7": [
+   22
+  ]
+ },
+ "page": "edit",
+ "active_timeline_restored": true,
+ "playhead": "00:01:08:00"
+}
+Done. Check the viewer: Inspector should show the preset's font/position on each subtitle track.

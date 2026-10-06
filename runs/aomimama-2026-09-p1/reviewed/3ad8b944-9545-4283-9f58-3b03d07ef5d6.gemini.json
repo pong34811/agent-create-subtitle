@@ -1,0 +1,323 @@
+{
+  "timeline_id": "3ad8b944-9545-4283-9f58-3b03d07ef5d6",
+  "timeline_name": "เจอทางกลับบ้านแต่เพื่อนไปห้องน้ำ-Minecraft-vdo",
+  "approved": false,
+  "source_model": "gemini-2.5-flash",
+  "duration_seconds": 90.0,
+  "cues": [
+    {
+      "start": 0.0,
+      "end": 1.2,
+      "text": "เนี่ยมันบังเอิญมากเลย",
+      "source_segment": 0.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 1.5,
+      "end": 2.2,
+      "text": "โอ้โหน่าจะ",
+      "source_segment": 1.5,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 3.5,
+      "end": 4.5,
+      "text": "เส้นทางเดียวกัน",
+      "source_segment": 3.5,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 5.2,
+      "end": 7.075,
+      "text": "แม่งเอ้ยเส้นทางเดียวกันพี่เคแม่งไป",
+      "source_segment": 5.2,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 7.075,
+      "end": 8.846,
+      "text": "ขึ้นทางนู้นอยู่ไอ้เหี้ยกูเดินมาโง่ๆ",
+      "source_segment": 5.2,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 8.846,
+      "end": 10.2,
+      "text": "มาเจอทางกลับบ้านแล้วเนี่ย",
+      "source_segment": 5.2,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 18.3,
+      "end": 20.138,
+      "text": "แล้วพี่เคแม่งก็ไปห้องน้ําพอดีด้วย",
+      "source_segment": 18.3,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 20.138,
+      "end": 22.084,
+      "text": "นะโอ้โหร้อยวันพันปีไอ้เหี้ยไม่คิดจะ",
+      "source_segment": 18.3,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 22.084,
+      "end": 23.976,
+      "text": "เข้าเข้าตอนเข้าตอนเข้าตอนจะกลับ",
+      "source_segment": 18.3,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 23.976,
+      "end": 24.376,
+      "text": "บ้านได้",
+      "source_segment": 18.3,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 27.6,
+      "end": 29.0,
+      "text": "แล้วกูจะไอ้นี่ยังไงวะ",
+      "source_segment": 27.6,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 29.3,
+      "end": 29.7,
+      "text": "เดี๋ยวๆ",
+      "source_segment": 29.3,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 39.5,
+      "end": 41.0,
+      "text": "โคตรโชคดีเลยคือมาขุดเหล็ก",
+      "source_segment": 39.5,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 41.2,
+      "end": 42.58,
+      "text": "แม่งบังเอิญมากขุดเหล็กพอดีเลยเว้ย",
+      "source_segment": 41.2,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 42.58,
+      "end": 44.0,
+      "text": "เลยแบบเลยเจอทางกลับบ้านแล้วคุณดู",
+      "source_segment": 41.2,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 44.3,
+      "end": 46.306,
+      "text": "ตอนนี้ก็คือเดี๋ยวเรารอพี่โอมิกลับมา",
+      "source_segment": 44.3,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 46.306,
+      "end": 48.198,
+      "text": "แล้วก็เดี๋ยวชวนพี่เค้ากลับบ้านก่อน",
+      "source_segment": 44.3,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 48.198,
+      "end": 49.0,
+      "text": "เอาของไปเก็บ",
+      "source_segment": 44.3,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 49.2,
+      "end": 50.982,
+      "text": "แล้วก็เราก็จะบิดเลยเพราะว่าตอน",
+      "source_segment": 49.2,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 50.982,
+      "end": 51.95,
+      "text": "นี้คือหมดแล้วไอ้เหี้ย",
+      "source_segment": 49.2,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 52.0,
+      "end": 53.2,
+      "text": "ไม่เหลืออะไรแล้วแม่งชีวิต",
+      "source_segment": 52.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 53.4,
+      "end": 55.5,
+      "text": "เดี๋ยวๆยังยังคราฟที่ขุดได้อีกรอบนึง",
+      "source_segment": 53.4,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 56.2,
+      "end": 57.0,
+      "text": "เอ่อตัวคราฟ",
+      "source_segment": 56.2,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 59.0,
+      "end": 60.665,
+      "text": "ทรัพยากรขุดได้เยอะชิบหายเลยบล็อก",
+      "source_segment": 59.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 60.665,
+      "end": 62.28,
+      "text": "หินเนี่ยไม่ทําเหี้ยอะไรเลยบล็อกนี้",
+      "source_segment": 59.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 62.28,
+      "end": 63.7,
+      "text": "ไม่ได้ใช้ด้วยคุณดูอย่างแย่เลย",
+      "source_segment": 59.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 64.5,
+      "end": 66.833,
+      "text": "หัวใจแม่งแตกสลายไอ้เหี้ยไดมอนด์แม่",
+      "source_segment": 64.5,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 66.833,
+      "end": 67.5,
+      "text": "งได้ 19 อัน",
+      "source_segment": 64.5,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 67.7,
+      "end": 68.5,
+      "text": "โอ้ยเลิฟยู",
+      "source_segment": 67.7,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 68.8,
+      "end": 70.2,
+      "text": "พี่จ๋าเจอทางกลับบ้านแล้ว",
+      "source_segment": 68.8,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 71.0,
+      "end": 71.8,
+      "text": "เจอทางกลับบ้านแล้วพี่",
+      "source_segment": 71.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 73.2,
+      "end": 74.2,
+      "text": "เจอทางกลับบ้านแล้วพี่มาหาผม",
+      "source_segment": 73.2,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 74.5,
+      "end": 76.78,
+      "text": "มันบังเอิญมากเลยเว้ยไอ้ถ้ําที่เราอยู่",
+      "source_segment": 74.5,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 76.78,
+      "end": 78.997,
+      "text": "ไอ้สัตว์เสือกเสือกเชื่อมกับตอนที่เรา",
+      "source_segment": 74.5,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 78.997,
+      "end": 80.2,
+      "text": "ลงมาครั้งแรกเลยพี่",
+      "source_segment": 74.5,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 81.0,
+      "end": 82.0,
+      "text": "พี่ๆๆเห็นผมมั้ย",
+      "source_segment": 81.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 83.0,
+      "end": 85.359,
+      "text": "พี่ดูตาม GPS อ่ะแล้วพี่เดินเดินมาเดิน",
+      "source_segment": 83.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 85.359,
+      "end": 86.8,
+      "text": "มาตามพิกัดสีผมได้เลย",
+      "source_segment": 83.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 88.0,
+      "end": 89.5,
+      "text": "แม่งบังเอิญมากเลยไอ้เหี้ยขุดแร่ไป",
+      "source_segment": 88.0,
+      "gemini_uncertain": false,
+      "flags": []
+    }
+  ],
+  "qc_required": true,
+  "status": "unreviewed_draft"
+}

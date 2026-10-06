@@ -1,0 +1,99 @@
+{
+  "metadata": {
+    "model": "gemini-3.5-flash",
+    "route": "google-generativeai-direct",
+    "timeline_index": 36,
+    "timeline_id": "8634612e-5907-41f4-9f04-4c8efe08ee96",
+    "timeline_name": "ลืมเปิดเสียงเพื่อน คุยกับผีมาตั้งนาน-Minecraft-vdo",
+    "expected_duration_seconds": 55.0,
+    "prompt_token_count": 1568
+  },
+  "duration_seconds": 55.0,
+  "gemini": {
+    "audio_available": true,
+    "duration_seconds": 54.0,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.2,
+        "text": "โอ้ จบการไลฟ์ โม้กับพี่จ๋าตั้งนาน แม่งลืมเอาเสียงเรคคอร์ดเข้า",
+        "uncertain": false
+      },
+      {
+        "start": 3.2,
+        "end": 5.5,
+        "text": "ว่าแล้วว่าชีวิตนี้ลืมอะไร พี่จ๋า 3 4",
+        "uncertain": false
+      },
+      {
+        "start": 5.5,
+        "end": 8.0,
+        "text": "อ้าว โอเค ดังลั่นละ",
+        "uncertain": false
+      },
+      {
+        "start": 8.0,
+        "end": 10.0,
+        "text": "ลืมเอาเสียงพี่เข้าสตรีมอะ",
+        "uncertain": false
+      },
+      {
+        "start": 10.0,
+        "end": 13.0,
+        "text": "โอ้โห เหมือนผีเลยดิอย่างงั้นน่ะ",
+        "uncertain": false
+      },
+      {
+        "start": 13.0,
+        "end": 14.5,
+        "text": "ใช่พี่",
+        "uncertain": false
+      },
+      {
+        "start": 21.0,
+        "end": 23.0,
+        "text": "ติดเชื้อพี่อูมิมาพ้นเลยอะ",
+        "uncertain": true
+      },
+      {
+        "start": 26.5,
+        "end": 28.0,
+        "text": "เจอปัญหาหน้างานไง",
+        "uncertain": false
+      },
+      {
+        "start": 28.0,
+        "end": 32.0,
+        "text": "ที่พี่ชอบโม้ว่าคอนเทนต์อะ เนี่ยคอนเทนต์ไง คุยกับผีมาตั้งนานละ",
+        "uncertain": false
+      },
+      {
+        "start": 32.0,
+        "end": 36.0,
+        "text": "ไม่ ๆ อันนี้ไม่ได้ อันนี้ไม่ใช่คอนเทนต์ อันนี้ซุ่มซ่าม",
+        "uncertain": false
+      },
+      {
+        "start": 36.0,
+        "end": 39.0,
+        "text": "โอ้ พี่ก็เหมือนกันแหละ โอ้โห",
+        "uncertain": false
+      },
+      {
+        "start": 39.0,
+        "end": 44.5,
+        "text": "ไอ้ ไอ้การกระทำที่มันรู้อยู่แล้วว่ามันคือการกระทำอะไร แต่พี่ก็บอกว่าคอนเทนต์อะ",
+        "uncertain": false
+      }
+    ],
+    "timing_measurement": "manual",
+    "uncertainties": [
+      {
+        "start": 21.0,
+        "end": 23.0,
+        "reason": "The speaker's pronunciation is unclear, possibly referring to a name or slang."
+      }
+    ],
+    "segment_count": 12
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "metadata": {
+    "model": "gemini-2.5-flash",
+    "route": "google-generativeai-direct",
+    "timeline_index": 30,
+    "timeline_id": "48ebe6cc-2063-4388-9e97-1740506c55f0",
+    "timeline_name": "เสียงร้องโอ๊ยๆ-League of Legends-vdo",
+    "expected_duration_seconds": 79.51666666666667,
+    "prompt_token_count": 2738
+  },
+  "duration_seconds": 79.51666666666667,
+  "gemini": {
+    "audio_available": true,
+    "duration_seconds": 79.0,
+    "segments": [
+      {
+        "start": 10.5,
+        "end": 13.5,
+        "text": "An ally has been slain.",
+        "uncertain": false
+      },
+      {
+        "start": 16.4,
+        "end": 17.5,
+        "text": "An ally has been slain.",
+        "uncertain": false
+      },
+      {
+        "start": 21.2,
+        "end": 21.7,
+        "text": "Look out!",
+        "uncertain": false
+      },
+      {
+        "start": 23.4,
+        "end": 24.5,
+        "text": "นี่มันโดนหนึ่ง",
+        "uncertain": false
+      },
+      {
+        "start": 24.5,
+        "end": 25.5,
+        "text": "[ฟังไม่ชัด]",
+        "uncertain": true
+      },
+      {
+        "start": 25.5,
+        "end": 26.5,
+        "text": "โคตรแย่เลย",
+        "uncertain": false
+      },
+      {
+        "start": 28.5,
+        "end": 29.5,
+        "text": "An enemy has been slain.",
+        "uncertain": false
+      },
+      {
+        "start": 31.5,
+        "end": 33.0,
+        "text": "ไอ้กูแม่งสูงนี่พอดี",
+        "uncertain": false
+      },
+      {
+        "start": 33.5,
+        "end": 35.5,
+        "text": "แม่งโคตรโดนหลบเลย โคตรแย่เลย",
+        "uncertain": false
+      },
+      {
+        "start": 36.7,
+        "end": 40.5,
+        "text": "Some lessons cannot be passed from teacher to student.",
+        "uncertain": false
+      },
+      {
+        "start": 40.8,
+        "end": 42.5,
+        "text": "They must be experienced.",
+        "uncertain": false
+      },
+      {
+        "start": 50.5,
+        "end": 53.5,
+        "text": "An ally has been slain.",
+        "uncertain": false
+      },
+      {
+        "start": 62.5,
+        "end": 64.0,
+        "text": "Feel that power.",
+        "uncertain": false
+      },
+      {
+        "start": 66.5,
+        "end": 68.0,
+        "text": "An ally has been slain.",
+        "uncertain": false
+      }
+    ],
+    "timing_measurement": "seconds",
+    "uncertainties": [
+      {
+        "start": 24.5,
+        "end": 25.5,
+        "reason": "Speech is garbled and unintelligible."
+      }
+    ],
+    "segment_count": 14
+  }
+}

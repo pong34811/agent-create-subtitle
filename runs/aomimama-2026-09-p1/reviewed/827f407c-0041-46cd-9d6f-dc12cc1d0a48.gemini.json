@@ -1,0 +1,91 @@
+{
+  "timeline_id": "827f407c-0041-46cd-9d6f-dc12cc1d0a48",
+  "timeline_name": "เช็กของ เซฟยัง แล้วลุยต่อ-alien shooter 2-vdo",
+  "approved": false,
+  "source_model": "gemini-3.6-flash",
+  "duration_seconds": 100.0,
+  "cues": [
+    {
+      "start": 0.0,
+      "end": 2.9,
+      "text": "เดี๋ยวขอให้เก็บมาผ่านง่าย",
+      "source_segment": 0.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 3.1,
+      "end": 5.8,
+      "text": "ตาที่ไม่ใช่ก็หายอยู่ดี",
+      "source_segment": 3.1,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 24.5,
+      "end": 26.8,
+      "text": "อันนี้ครึ่งทางมากเลยนะ",
+      "source_segment": 24.5,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 37.3,
+      "end": 39.5,
+      "text": "เดี๋ยวสั่งให้ไอ้นั่นเดี๋ยวเก็บปืนก่อน",
+      "source_segment": 37.3,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 39.9,
+      "end": 41.695,
+      "text": "The base quarters are down the",
+      "source_segment": 39.9,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 41.695,
+      "end": 43.2,
+      "text": "corridor on the left side.",
+      "source_segment": 39.9,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 87.2,
+      "end": 88.0,
+      "text": "โอ้ย",
+      "source_segment": 87.2,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 94.5,
+      "end": 95.5,
+      "text": "เอ้า",
+      "source_segment": 94.5,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 95.8,
+      "end": 96.6,
+      "text": "โอเค",
+      "source_segment": 95.8,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 96.8,
+      "end": 97.8,
+      "text": "เอ้า",
+      "source_segment": 96.8,
+      "gemini_uncertain": false,
+      "flags": []
+    }
+  ],
+  "qc_required": true,
+  "status": "unreviewed_draft"
+}

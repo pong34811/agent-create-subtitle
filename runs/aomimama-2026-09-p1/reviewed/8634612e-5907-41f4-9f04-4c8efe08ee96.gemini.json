@@ -1,0 +1,131 @@
+{
+  "timeline_id": "8634612e-5907-41f4-9f04-4c8efe08ee96",
+  "timeline_name": "ลืมเปิดเสียงเพื่อน คุยกับผีมาตั้งนาน-Minecraft-vdo",
+  "approved": false,
+  "source_model": "gemini-3.5-flash",
+  "duration_seconds": 55.0,
+  "cues": [
+    {
+      "start": 0.0,
+      "end": 2.212,
+      "text": "โอ้จบการไลฟ์โม้กับพี่จ๋าตั้งนานแม่งลืมเอา",
+      "source_segment": 0.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 2.212,
+      "end": 3.15,
+      "text": "เสียงเรคคอร์ดเข้า",
+      "source_segment": 0.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 3.2,
+      "end": 5.45,
+      "text": "ว่าแล้วว่าชีวิตนี้ลืมอะไรพี่จ๋า 3 4",
+      "source_segment": 3.2,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 5.5,
+      "end": 7.95,
+      "text": "อ้าวโอเคดังลั่นละ",
+      "source_segment": 5.5,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 8.0,
+      "end": 9.95,
+      "text": "ลืมเอาเสียงพี่เข้าสตรีมอะ",
+      "source_segment": 8.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 10.0,
+      "end": 12.95,
+      "text": "โอ้โหเหมือนผีเลยดิอย่างงั้นน่ะ",
+      "source_segment": 10.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 13.0,
+      "end": 14.5,
+      "text": "ใช่พี่",
+      "source_segment": 13.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 21.0,
+      "end": 23.0,
+      "text": "ติดเชื้อพี่อูมิมาพ้นเลยอะ",
+      "source_segment": 21.0,
+      "gemini_uncertain": true,
+      "flags": []
+    },
+    {
+      "start": 26.5,
+      "end": 27.95,
+      "text": "เจอปัญหาหน้างานไง",
+      "source_segment": 26.5,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 28.0,
+      "end": 31.091,
+      "text": "ที่พี่ชอบโม้ว่าคอนเทนต์อะเนี่ยคอนเทนต์ไงคุยกับ",
+      "source_segment": 28.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 31.091,
+      "end": 31.95,
+      "text": "ผีมาตั้งนานละ",
+      "source_segment": 28.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 32.0,
+      "end": 35.95,
+      "text": "ไม่ๆอันนี้ไม่ได้อันนี้ไม่ใช่คอนเทนต์อันนี้ซุ่มซ่าม",
+      "source_segment": 32.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 36.0,
+      "end": 38.95,
+      "text": "โอ้พี่ก็เหมือนกันแหละโอ้โห",
+      "source_segment": 36.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 39.0,
+      "end": 42.356,
+      "text": "ไอ้ไอ้การกระทำที่มันรู้อยู่แล้วว่ามันคือการกระทำ",
+      "source_segment": 39.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 42.356,
+      "end": 44.5,
+      "text": "อะไรแต่พี่ก็บอกว่าคอนเทนต์อะ",
+      "source_segment": 39.0,
+      "gemini_uncertain": false,
+      "flags": []
+    }
+  ],
+  "qc_required": true,
+  "status": "unreviewed_draft"
+}

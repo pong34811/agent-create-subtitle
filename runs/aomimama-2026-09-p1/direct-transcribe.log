@@ -1,0 +1,354 @@
+1 4720b0bd-a3f4-4106-bdcb-18101a54c2f6 RESUME_SKIP
+2 a1247cea-a500-4b94-869e-b0d9fee6b8ff RESUME_SKIP
+3 8a3f90c9-7a47-47eb-a99a-363c893d0075 RESUME_SKIP
+4 28e23409-55dc-4284-8a0f-4b0985620b4e RESUME_SKIP
+5 e8138ad0-a985-420e-a3ff-fe688b80c335 RESUME_SKIP
+6 0803c999-9d25-4106-ab2b-a5f43047881e RESUME_SKIP
+7 b99149a7-7693-4f2e-bafe-b493e2bc889e OK 9 segments 119.3 s
+8 5fd287ef-4107-47b3-bf00-8ff0da72ed65 OK 14 segments 21.4 s
+9 f95d96d1-4362-4a0f-803b-125834044a94 OK 16 segments 33.6 s
+10 d3d75d8a-9c67-4a5d-b2a5-65262ae4bdbb OK 21 segments 33.2 s
+11 781816e7-4d4b-4b95-937e-0f8feeea26b6 OK 0 segments 7.8 s
+12 da042c09-7409-4a21-b4e3-7a672f6e6c57 OK 8 segments 14.8 s
+13 554cbc50-ff89-42fe-b88b-8efe16b452f5 OK 7 segments 9.1 s
+14 46154505-65f7-4736-9680-9c990e912fe0 OK 26 segments 15.4 s
+  15 attempt 1: HTTP 429 {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai
+  15 attempt 2: HTTP 429 {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai
+  15 attempt 3: HTTP 429 {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai
+  15 attempt 4: HTTP 429 {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai
+  15 attempt 5: HTTP 429 {
+  "error": {
+    "code": 429,
+    "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai
+Traceback (most recent call last):
+  File "C:\Users\warit\Desktop\agent-create-subtitle\scripts\gemini_direct_transcribe.py", line 228, in <module>
+    main()
+    ~~~~^^
+  File "C:\Users\warit\Desktop\agent-create-subtitle\scripts\gemini_direct_transcribe.py", line 199, in main
+    text, finish, usage = call(key, wav)
+                          ~~~~^^^^^^^^^^
+  File "C:\Users\warit\Desktop\agent-create-subtitle\scripts\gemini_direct_transcribe.py", line 97, in call
+    with urllib.request.urlopen(req, timeout=560) as r:
+         ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "C:\Users\warit\AppData\Local\hermes\tools\python-3.14.7+20260901-win32-x64\Lib\urllib\request.py", line 187, in urlopen
+    return opener.open(url, data, timeout)
+           ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\warit\AppData\Local\hermes\tools\python-3.14.7+20260901-win32-x64\Lib\urllib\request.py", line 493, in open
+    response = meth(req, response)
+  File "C:\Users\warit\AppData\Local\hermes\tools\python-3.14.7+20260901-win32-x64\Lib\urllib\request.py", line 602, in http_response
+    response = self.parent.error(
+        'http', request, response, code, msg, hdrs)
+  File "C:\Users\warit\AppData\Local\hermes\tools\python-3.14.7+20260901-win32-x64\Lib\urllib\request.py", line 531, in error
+    return self._call_chain(*args)
+           ~~~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\warit\AppData\Local\hermes\tools\python-3.14.7+20260901-win32-x64\Lib\urllib\request.py", line 464, in _call_chain
+    result = func(*args)
+  File "C:\Users\warit\AppData\Local\hermes\tools\python-3.14.7+20260901-win32-x64\Lib\urllib\request.py", line 611, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 429: Too Many Requests
+1 4720b0bd-a3f4-4106-bdcb-18101a54c2f6 RESUME_SKIP
+2 a1247cea-a500-4b94-869e-b0d9fee6b8ff RESUME_SKIP
+3 8a3f90c9-7a47-47eb-a99a-363c893d0075 RESUME_SKIP
+4 28e23409-55dc-4284-8a0f-4b0985620b4e RESUME_SKIP
+5 e8138ad0-a985-420e-a3ff-fe688b80c335 RESUME_SKIP
+6 0803c999-9d25-4106-ab2b-a5f43047881e RESUME_SKIP
+7 b99149a7-7693-4f2e-bafe-b493e2bc889e RESUME_SKIP
+8 5fd287ef-4107-47b3-bf00-8ff0da72ed65 RESUME_SKIP
+9 f95d96d1-4362-4a0f-803b-125834044a94 RESUME_SKIP
+10 d3d75d8a-9c67-4a5d-b2a5-65262ae4bdbb RESUME_SKIP
+11 781816e7-4d4b-4b95-937e-0f8feeea26b6 RESUME_SKIP
+12 da042c09-7409-4a21-b4e3-7a672f6e6c57 RESUME_SKIP
+13 554cbc50-ff89-42fe-b88b-8efe16b452f5 RESUME_SKIP
+14 46154505-65f7-4736-9680-9c990e912fe0 RESUME_SKIP
+  429 on gemini-3-flash-preview; trying next model
+  503 on gemini-2.5-flash; trying next model
+Traceback (most recent call last):
+  File "C:\Users\warit\Desktop\agent-create-subtitle\scripts\gemini_direct_transcribe.py", line 241, in <module>
+    main()
+    ~~~~^^
+  File "C:\Users\warit\Desktop\agent-create-subtitle\scripts\gemini_direct_transcribe.py", line 222, in main
+    text, finish, usage = call_with_fallback(key, wav)
+                          ~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\warit\Desktop\agent-create-subtitle\scripts\gemini_direct_transcribe.py", line 115, in call_with_fallback
+    text, finish, usage = call(key, wav_path, model)
+                          ~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\warit\Desktop\agent-create-subtitle\scripts\gemini_direct_transcribe.py", line 99, in call
+    with urllib.request.urlopen(req, timeout=560) as r:
+         ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "C:\Users\warit\AppData\Local\hermes\tools\python-3.14.7+20260901-win32-x64\Lib\urllib\request.py", line 187, in urlopen
+    return opener.open(url, data, timeout)
+           ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\warit\AppData\Local\hermes\tools\python-3.14.7+20260901-win32-x64\Lib\urllib\request.py", line 493, in open
+    response = meth(req, response)
+  File "C:\Users\warit\AppData\Local\hermes\tools\python-3.14.7+20260901-win32-x64\Lib\urllib\request.py", line 602, in http_response
+    response = self.parent.error(
+        'http', request, response, code, msg, hdrs)
+  File "C:\Users\warit\AppData\Local\hermes\tools\python-3.14.7+20260901-win32-x64\Lib\urllib\request.py", line 531, in error
+    return self._call_chain(*args)
+           ~~~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\warit\AppData\Local\hermes\tools\python-3.14.7+20260901-win32-x64\Lib\urllib\request.py", line 464, in _call_chain
+    result = func(*args)
+  File "C:\Users\warit\AppData\Local\hermes\tools\python-3.14.7+20260901-win32-x64\Lib\urllib\request.py", line 611, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 404: Not Found
+1 4720b0bd-a3f4-4106-bdcb-18101a54c2f6 RESUME_SKIP
+2 a1247cea-a500-4b94-869e-b0d9fee6b8ff RESUME_SKIP
+3 8a3f90c9-7a47-47eb-a99a-363c893d0075 RESUME_SKIP
+4 28e23409-55dc-4284-8a0f-4b0985620b4e RESUME_SKIP
+5 e8138ad0-a985-420e-a3ff-fe688b80c335 RESUME_SKIP
+6 0803c999-9d25-4106-ab2b-a5f43047881e RESUME_SKIP
+7 b99149a7-7693-4f2e-bafe-b493e2bc889e RESUME_SKIP
+8 5fd287ef-4107-47b3-bf00-8ff0da72ed65 RESUME_SKIP
+9 f95d96d1-4362-4a0f-803b-125834044a94 RESUME_SKIP
+10 d3d75d8a-9c67-4a5d-b2a5-65262ae4bdbb RESUME_SKIP
+11 781816e7-4d4b-4b95-937e-0f8feeea26b6 RESUME_SKIP
+12 da042c09-7409-4a21-b4e3-7a672f6e6c57 RESUME_SKIP
+13 554cbc50-ff89-42fe-b88b-8efe16b452f5 RESUME_SKIP
+14 46154505-65f7-4736-9680-9c990e912fe0 RESUME_SKIP
+  503 on gemini-2.5-flash; trying next model
+15 9ecc1f98-28a7-4376-addd-2233b933dccd OK 17 segments [gemini-3.1-flash-lite] 10.9 s
+16 f39dd3ca-5158-4141-8870-1c1cbc47975c OK 33 segments [gemini-2.5-flash] 31.2 s
+17 b9040425-567c-426b-b68b-3edf88537994 OK 24 segments [gemini-2.5-flash] 34.2 s
+18 e188f573-7841-4fd1-887b-070576c15175 OK 27 segments [gemini-2.5-flash] 13.5 s
+19 12775bd0-acc9-4658-b216-500a2e1c7755 OK 36 segments [gemini-2.5-flash] 22.9 s
+20 4bddb8e1-865b-46d1-9263-cbd5c5849c5c OK 30 segments [gemini-2.5-flash] 19.4 s
+21 3ad8b944-9545-4283-9f58-3b03d07ef5d6 OK 24 segments [gemini-2.5-flash] 17.1 s
+22 9737d891-635a-4680-afc0-4d33c1a2b986 OK 14 segments [gemini-2.5-flash] 14.2 s
+23 53521e92-7059-484f-9ddb-01d5d94dca0d OK 3 segments [gemini-2.5-flash] 10.8 s
+24 827f407c-0041-46cd-9d6f-dc12cc1d0a48 OK 8 segments [gemini-2.5-flash] 11.6 s
+25 c36ae3b0-6f93-401e-bf07-9b13cb8fb3a1 OK 30 segments [gemini-2.5-flash] 20.5 s
+26 a618240d-4cd9-4331-bccc-dd6e98e7a4e7 OK 39 segments [gemini-2.5-flash] 16.7 s
+  503 on gemini-2.5-flash; trying next model
+27 ced25d58-9d0b-4545-915e-1ac549e2bce6 OK 23 segments [gemini-3.1-flash-lite] 11.0 s
+28 efb952b7-a2f7-4df4-b967-0d8e0ce30191 OK 43 segments [gemini-2.5-flash] 24.4 s
+29 ff6a7508-c921-4528-bb58-ccd8dd22e2ab OK 37 segments [gemini-2.5-flash] 33.1 s
+30 48ebe6cc-2063-4388-9e97-1740506c55f0 OK 14 segments [gemini-2.5-flash] 21.3 s
+  429 on gemini-2.5-flash; trying next model
+31 7f517373-d087-46ad-abca-635edce690df OK 6 segments [gemini-3.1-flash-lite] 5.7 s
+  429 on gemini-2.5-flash; trying next model
+Traceback (most recent call last):
+  File "C:\Users\warit\Desktop\agent-create-subtitle\scripts\gemini_direct_transcribe.py", line 245, in <module>
+    main()
+    ~~~~^^
+  File "C:\Users\warit\Desktop\agent-create-subtitle\scripts\gemini_direct_transcribe.py", line 231, in main
+    result = parse(text, expected, finish)
+  File "C:\Users\warit\Desktop\agent-create-subtitle\scripts\gemini_direct_transcribe.py", line 136, in parse
+    assert match, f'no JSON in reply (finish={finish}): {text[:300]}'
+           ^^^^^
+AssertionError: no JSON in reply (finish=MAX_TOKENS): {
+  "audio_available": true,
+  "duration_seconds": 138.5,
+  "segments": [
+    {
+      "start": 17.5,
+      "end": 20.5,
+      "text": "โอ้ยโฮ้ยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยยย
+1 4720b0bd-a3f4-4106-bdcb-18101a54c2f6 RESUME_SKIP
+2 a1247cea-a500-4b94-869e-b0d9fee6b8ff RESUME_SKIP
+3 8a3f90c9-7a47-47eb-a99a-363c893d0075 RESUME_SKIP
+4 28e23409-55dc-4284-8a0f-4b0985620b4e RESUME_SKIP
+5 e8138ad0-a985-420e-a3ff-fe688b80c335 RESUME_SKIP
+6 0803c999-9d25-4106-ab2b-a5f43047881e RESUME_SKIP
+7 b99149a7-7693-4f2e-bafe-b493e2bc889e RESUME_SKIP
+8 5fd287ef-4107-47b3-bf00-8ff0da72ed65 RESUME_SKIP
+9 f95d96d1-4362-4a0f-803b-125834044a94 RESUME_SKIP
+10 d3d75d8a-9c67-4a5d-b2a5-65262ae4bdbb RESUME_SKIP
+11 781816e7-4d4b-4b95-937e-0f8feeea26b6 RESUME_SKIP
+12 da042c09-7409-4a21-b4e3-7a672f6e6c57 RESUME_SKIP
+13 554cbc50-ff89-42fe-b88b-8efe16b452f5 RESUME_SKIP
+14 46154505-65f7-4736-9680-9c990e912fe0 RESUME_SKIP
+15 9ecc1f98-28a7-4376-addd-2233b933dccd RESUME_SKIP
+16 f39dd3ca-5158-4141-8870-1c1cbc47975c RESUME_SKIP
+17 b9040425-567c-426b-b68b-3edf88537994 RESUME_SKIP
+18 e188f573-7841-4fd1-887b-070576c15175 RESUME_SKIP
+19 12775bd0-acc9-4658-b216-500a2e1c7755 RESUME_SKIP
+20 4bddb8e1-865b-46d1-9263-cbd5c5849c5c RESUME_SKIP
+21 3ad8b944-9545-4283-9f58-3b03d07ef5d6 RESUME_SKIP
+22 9737d891-635a-4680-afc0-4d33c1a2b986 RESUME_SKIP
+23 53521e92-7059-484f-9ddb-01d5d94dca0d RESUME_SKIP
+24 827f407c-0041-46cd-9d6f-dc12cc1d0a48 RESUME_SKIP
+25 c36ae3b0-6f93-401e-bf07-9b13cb8fb3a1 RESUME_SKIP
+26 a618240d-4cd9-4331-bccc-dd6e98e7a4e7 RESUME_SKIP
+27 ced25d58-9d0b-4545-915e-1ac549e2bce6 RESUME_SKIP
+28 efb952b7-a2f7-4df4-b967-0d8e0ce30191 RESUME_SKIP
+29 ff6a7508-c921-4528-bb58-ccd8dd22e2ab RESUME_SKIP
+30 48ebe6cc-2063-4388-9e97-1740506c55f0 RESUME_SKIP
+31 7f517373-d087-46ad-abca-635edce690df RESUME_SKIP
+  429 on gemini-3-flash-preview; trying next model
+Traceback (most recent call last):
+  File "C:\Users\warit\Desktop\agent-create-subtitle\scripts\gemini_direct_transcribe.py", line 277, in <module>
+    main()
+    ~~~~^^
+  File "C:\Users\warit\Desktop\agent-create-subtitle\scripts\gemini_direct_transcribe.py", line 258, in main
+    result, usage = call_with_fallback(key, wav)
+                    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\warit\Desktop\agent-create-subtitle\scripts\gemini_direct_transcribe.py", line 133, in call_with_fallback
+    text, finish, usage = call(key, wav_path, model)
+                          ~~~~^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\warit\Desktop\agent-create-subtitle\scripts\gemini_direct_transcribe.py", line 109, in call
+    with urllib.request.urlopen(req, timeout=560) as r:
+         ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+  File "C:\Users\warit\AppData\Local\hermes\tools\python-3.14.7+20260901-win32-x64\Lib\urllib\request.py", line 187, in urlopen
+    return opener.open(url, data, timeout)
+           ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\warit\AppData\Local\hermes\tools\python-3.14.7+20260901-win32-x64\Lib\urllib\request.py", line 493, in open
+    response = meth(req, response)
+  File "C:\Users\warit\AppData\Local\hermes\tools\python-3.14.7+20260901-win32-x64\Lib\urllib\request.py", line 602, in http_response
+    response = self.parent.error(
+        'http', request, response, code, msg, hdrs)
+  File "C:\Users\warit\AppData\Local\hermes\tools\python-3.14.7+20260901-win32-x64\Lib\urllib\request.py", line 531, in error
+    return self._call_chain(*args)
+           ~~~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\warit\AppData\Local\hermes\tools\python-3.14.7+20260901-win32-x64\Lib\urllib\request.py", line 464, in _call_chain
+    result = func(*args)
+  File "C:\Users\warit\AppData\Local\hermes\tools\python-3.14.7+20260901-win32-x64\Lib\urllib\request.py", line 611, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 400: Bad Request
+1 4720b0bd-a3f4-4106-bdcb-18101a54c2f6 RESUME_SKIP
+2 a1247cea-a500-4b94-869e-b0d9fee6b8ff RESUME_SKIP
+3 8a3f90c9-7a47-47eb-a99a-363c893d0075 RESUME_SKIP
+4 28e23409-55dc-4284-8a0f-4b0985620b4e RESUME_SKIP
+5 e8138ad0-a985-420e-a3ff-fe688b80c335 RESUME_SKIP
+6 0803c999-9d25-4106-ab2b-a5f43047881e RESUME_SKIP
+7 b99149a7-7693-4f2e-bafe-b493e2bc889e RESUME_SKIP
+  503 on gemini-3.7-flash; trying next model
+  503 on gemini-3.6-flash; trying next model
+  503 on gemini-3.5-flash; trying next model
+8 5fd287ef-4107-47b3-bf00-8ff0da72ed65 OK 10 segments [gemini-3.5-flash-lite] 140.9 s
+9 f95d96d1-4362-4a0f-803b-125834044a94 RESUME_SKIP
+10 d3d75d8a-9c67-4a5d-b2a5-65262ae4bdbb RESUME_SKIP
+11 781816e7-4d4b-4b95-937e-0f8feeea26b6 RESUME_SKIP
+12 da042c09-7409-4a21-b4e3-7a672f6e6c57 RESUME_SKIP
+13 554cbc50-ff89-42fe-b88b-8efe16b452f5 RESUME_SKIP
+14 46154505-65f7-4736-9680-9c990e912fe0 RESUME_SKIP
+15 9ecc1f98-28a7-4376-addd-2233b933dccd RESUME_SKIP
+16 f39dd3ca-5158-4141-8870-1c1cbc47975c RESUME_SKIP
+17 b9040425-567c-426b-b68b-3edf88537994 RESUME_SKIP
+18 e188f573-7841-4fd1-887b-070576c15175 RESUME_SKIP
+19 12775bd0-acc9-4658-b216-500a2e1c7755 RESUME_SKIP
+20 4bddb8e1-865b-46d1-9263-cbd5c5849c5c RESUME_SKIP
+21 3ad8b944-9545-4283-9f58-3b03d07ef5d6 RESUME_SKIP
+22 9737d891-635a-4680-afc0-4d33c1a2b986 RESUME_SKIP
+23 53521e92-7059-484f-9ddb-01d5d94dca0d RESUME_SKIP
+24 827f407c-0041-46cd-9d6f-dc12cc1d0a48 RESUME_SKIP
+25 c36ae3b0-6f93-401e-bf07-9b13cb8fb3a1 RESUME_SKIP
+26 a618240d-4cd9-4331-bccc-dd6e98e7a4e7 RESUME_SKIP
+27 ced25d58-9d0b-4545-915e-1ac549e2bce6 RESUME_SKIP
+28 efb952b7-a2f7-4df4-b967-0d8e0ce30191 RESUME_SKIP
+29 ff6a7508-c921-4528-bb58-ccd8dd22e2ab RESUME_SKIP
+30 48ebe6cc-2063-4388-9e97-1740506c55f0 RESUME_SKIP
+31 7f517373-d087-46ad-abca-635edce690df RESUME_SKIP
+  503 on gemini-3.7-flash; trying next model
+  503 on gemini-3.6-flash; trying next model
+  503 on gemini-3.5-flash; trying next model
+32 f1940f17-24c4-440c-9a6d-d97545268986 OK 18 segments [gemini-3.5-flash-lite] 30.9 s
+  503 on gemini-3.7-flash; trying next model
+33 5c279692-554a-4237-83aa-21331a499522 OK 2 segments [gemini-3.6-flash] 13.8 s
+  503 on gemini-3.7-flash; trying next model
+  503 on gemini-3.6-flash; trying next model
+34 341f7397-908a-49e0-995f-b57bcbf4f749 OK 2 segments [gemini-3.5-flash] 16.6 s
+  503 on gemini-3.7-flash; trying next model
+  503 on gemini-3.6-flash; trying next model
+  503 on gemini-3.5-flash; trying next model
+35 a897710f-8a14-429b-8fe5-d4f3548364a5 OK 3 segments [gemini-3.5-flash-lite] 26.4 s
+  503 on gemini-3.7-flash; trying next model
+  503 on gemini-3.6-flash; trying next model
+36 8634612e-5907-41f4-9f04-4c8efe08ee96 OK 12 segments [gemini-3.5-flash] 57.9 s
+  503 on gemini-3.7-flash; trying next model
+  503 on gemini-3.6-flash; trying next model
+37 d28ccb47-b2f0-4e45-8179-e1f0c9bd0176 OK 11 segments [gemini-3.5-flash] 227.3 s
+38 b3966e65-e09f-4268-9211-1e781766f911 OK 14 segments [gemini-3.7-flash] 14.8 s
+  429 on gemini-3.7-flash; trying next model
+  503 on gemini-3.6-flash; trying next model
+39 caf467e9-cd05-472b-ad67-7509a17d7cc3 OK 6 segments [gemini-3.5-flash] 174.0 s
+  429 on gemini-3.7-flash; trying next model
+  429 on gemini-3.6-flash; trying next model
+40 59ff8512-7507-4892-a807-90e4ab1e8b69 OK 27 segments [gemini-3.5-flash] 16.7 s
+  429 on gemini-3.7-flash; trying next model
+  429 on gemini-3.6-flash; trying next model
+41 fbf4c70a-6bb7-4e47-8d13-1363ef777b4e OK 28 segments [gemini-3.5-flash] 20.5 s
+  429 on gemini-3.7-flash; trying next model
+  429 on gemini-3.6-flash; trying next model
+  429 on gemini-3.5-flash; trying next model
+42 d1abfb93-c076-4cb7-815d-ef1624b97d8d OK 16 segments [gemini-3.5-flash-lite] 10.5 s
+  429 on gemini-3.7-flash; trying next model
+  429 on gemini-3.6-flash; trying next model
+  429 on gemini-3.5-flash; trying next model
+43 23199d97-af37-4526-ad6b-950f04571983 OK 13 segments [gemini-3.5-flash-lite] 9.2 s
+  429 on gemini-3.7-flash; trying next model
+  429 on gemini-3.6-flash; trying next model
+  429 on gemini-3.5-flash; trying next model
+44 7ffbc921-7ba0-40ee-8bc4-ec85699a8929 OK 9 segments [gemini-3.5-flash-lite] 9.5 s
+  429 on gemini-3.7-flash; trying next model
+  429 on gemini-3.6-flash; trying next model
+  429 on gemini-3.5-flash; trying next model
+45 fea3bf4f-544d-45f3-8b39-d19e449b54b0 OK 18 segments [gemini-3.5-flash-lite] 10.0 s
+  429 on gemini-3.7-flash; trying next model
+  429 on gemini-3.6-flash; trying next model
+  429 on gemini-3.5-flash; trying next model
+46 a4637e1f-4f07-4f01-af2f-81d3e1dd36f6 OK 38 segments [gemini-3.5-flash-lite] 12.6 s
+  429 on gemini-3.7-flash; trying next model
+  429 on gemini-3.6-flash; trying next model
+  429 on gemini-3.5-flash; trying next model
+47 4c7555ea-2f61-4214-88a7-877c809e14df OK 16 segments [gemini-3.5-flash-lite] 10.9 s
+  429 on gemini-3.7-flash; trying next model
+  429 on gemini-3.6-flash; trying next model
+  429 on gemini-3.5-flash; trying next model
+48 60c95da2-e1dc-472e-89da-d553ab4d2631 OK 8 segments [gemini-3.5-flash-lite] 8.0 s
+  429 on gemini-3.7-flash; trying next model
+  429 on gemini-3.6-flash; trying next model
+  429 on gemini-3.5-flash; trying next model
+49 0e39b07b-9b88-4f69-8c9e-77f4ce3383e7 OK 9 segments [gemini-3.5-flash-lite] 8.1 s
+  503 on gemini-3.7-flash; trying next model
+  503 on gemini-3.6-flash; trying next model
+5 e8138ad0-a985-420e-a3ff-fe688b80c335 OK 15 segments [gemini-3.5-flash] 59.5 s
+  503 on gemini-3.7-flash; trying next model
+  503 on gemini-3.6-flash; trying next model
+12 da042c09-7409-4a21-b4e3-7a672f6e6c57 OK 7 segments [gemini-3.5-flash] 42.6 s
+  503 on gemini-3.7-flash; trying next model
+  503 on gemini-3.6-flash; trying next model
+13 554cbc50-ff89-42fe-b88b-8efe16b452f5 OK 9 segments [gemini-3.5-flash] 27.9 s
+  503 on gemini-3.7-flash; trying next model
+  503 on gemini-3.6-flash; trying next model
+15 9ecc1f98-28a7-4376-addd-2233b933dccd OK 20 segments [gemini-3.5-flash] 205.9 s
+  503 on gemini-3.7-flash; trying next model
+  503 on gemini-3.6-flash; trying next model
+17 b9040425-567c-426b-b68b-3edf88537994 OK 24 segments [gemini-3.5-flash] 88.8 s
+18 e188f573-7841-4fd1-887b-070576c15175 OK 16 segments [gemini-3.7-flash] 66.5 s
+  503 on gemini-3.7-flash; trying next model
+24 827f407c-0041-46cd-9d6f-dc12cc1d0a48 OK 9 segments [gemini-3.6-flash] 29.5 s
+  503 on gemini-3.7-flash; trying next model
+  503 on gemini-3.6-flash; trying next model
+25 c36ae3b0-6f93-401e-bf07-9b13cb8fb3a1 OK 19 segments [gemini-3.5-flash] 41.3 s
+  503 on gemini-3.7-flash; trying next model
+  503 on gemini-3.6-flash; trying next model
+28 efb952b7-a2f7-4df4-b967-0d8e0ce30191 OK 29 segments [gemini-3.5-flash] 51.5 s
+  503 on gemini-3.7-flash; trying next model
+  503 on gemini-3.6-flash; trying next model
+33 5c279692-554a-4237-83aa-21331a499522 OK 2 segments [gemini-3.5-flash] 21.4 s
+  429 on gemini-3.7-flash; trying next model
+37 d28ccb47-b2f0-4e45-8179-e1f0c9bd0176 OK 21 segments [gemini-3.6-flash] 24.9 s
+  429 on gemini-3.7-flash; trying next model
+  429 on gemini-3.6-flash; trying next model
+  unusable reply from gemini-3.5-flash (MAX_TOKENS); trying next model
+41 fbf4c70a-6bb7-4e47-8d13-1363ef777b4e OK 28 segments [gemini-3.5-flash-lite] 219.5 s
+  429 on gemini-3.7-flash; trying next model
+  429 on gemini-3.6-flash; trying next model
+  429 on gemini-3.5-flash; trying next model
+43 23199d97-af37-4526-ad6b-950f04571983 OK 9 segments [gemini-3.5-flash-lite] 22.1 s
+  429 on gemini-3.7-flash; trying next model
+  429 on gemini-3.6-flash; trying next model
+  429 on gemini-3.5-flash; trying next model
+46 a4637e1f-4f07-4f01-af2f-81d3e1dd36f6 OK 35 segments [gemini-3.5-flash-lite] 16.8 s

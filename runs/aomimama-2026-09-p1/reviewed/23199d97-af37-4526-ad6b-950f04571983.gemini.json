@@ -1,0 +1,117 @@
+{
+  "timeline_id": "23199d97-af37-4526-ad6b-950f04571983",
+  "timeline_name": "ไฟต์ในเลนกับเสียงร้องเฮ้ย-League of Legends-vdo",
+  "approved": false,
+  "source_model": "gemini-3.5-flash-lite",
+  "duration_seconds": 70.0,
+  "cues": [
+    {
+      "start": 0.0,
+      "end": 0.95,
+      "text": "เลเวลสูงสุดแล้ว",
+      "source_segment": 0.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 1.0,
+      "end": 12.95,
+      "text": "[ฟังไม่ชัด]",
+      "source_segment": 1.0,
+      "gemini_uncertain": true,
+      "flags": []
+    },
+    {
+      "start": 13.0,
+      "end": 15.915,
+      "text": "ไอ้เหี้ยทำไมอารมณ์เปลี่ยนได้ไงวะป่าแม่มก็",
+      "source_segment": 13.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 15.915,
+      "end": 19.007,
+      "text": "ไม่ค่อยอยากจะเล่นไอ้สัตว์ไอ้ครูอยู่ซัพเลนแต่กู",
+      "source_segment": 13.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 19.007,
+      "end": 20.95,
+      "text": "เหมือนเจอสองหนึ่งตลอดเวลา",
+      "source_segment": 13.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 21.0,
+      "end": 23.95,
+      "text": "แล้วไอ้ครูอยู่ด้านไหนเหี้ย",
+      "source_segment": 21.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 24.0,
+      "end": 28.95,
+      "text": "นั่นแหละคุณเซียน",
+      "source_segment": 24.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 29.0,
+      "end": 32.736,
+      "text": "ไอ้เหี้ยทำไมกูต้องมาซ่อมด้วยวะซ่อมเพื่อมาเนี่ย",
+      "source_segment": 29.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 32.736,
+      "end": 33.136,
+      "text": "สัส",
+      "source_segment": 29.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 33.186,
+      "end": 38.274,
+      "text": "ตัวลูกเนี่ยสิแม่นะเหี้ยสามารถไปหาแม่โดน",
+      "source_segment": 33.0,
+      "gemini_uncertain": false,
+      "flags": [
+        "start_clipped_to_previous"
+      ]
+    },
+    {
+      "start": 38.274,
+      "end": 41.95,
+      "text": "ดูดนมแม่ไปคุยมือแม่เล่นเหี้ยสัส",
+      "source_segment": 33.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 42.0,
+      "end": 44.95,
+      "text": "ขึ้นท็อปเลยมึงอย่าทำรูดตูดดิ้วะ",
+      "source_segment": 42.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 45.0,
+      "end": 70.0,
+      "text": "[ฟังไม่ชัด]",
+      "source_segment": 45.0,
+      "gemini_uncertain": true,
+      "flags": []
+    }
+  ],
+  "qc_required": true,
+  "status": "unreviewed_draft"
+}

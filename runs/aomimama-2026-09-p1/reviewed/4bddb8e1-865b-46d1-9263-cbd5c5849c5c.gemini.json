@@ -1,0 +1,301 @@
+{
+  "timeline_id": "4bddb8e1-865b-46d1-9263-cbd5c5849c5c",
+  "timeline_name": "เจอเพชรแล้ว! ยิส!-Minecraft-vdo",
+  "approved": false,
+  "source_model": "gemini-2.5-flash",
+  "duration_seconds": 80.0,
+  "cues": [
+    {
+      "start": 2.0,
+      "end": 2.4,
+      "text": "เฮ้ย",
+      "source_segment": 2.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 6.7,
+      "end": 8.5,
+      "text": "50 ลบ 53 มึงไป",
+      "source_segment": 6.7,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 9.5,
+      "end": 11.5,
+      "text": "ถ้าเจอเยอะสุดจะเป็น 50 ลบ 58",
+      "source_segment": 9.5,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 12.2,
+      "end": 12.6,
+      "text": "อ่าฮะ",
+      "source_segment": 12.2,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 13.2,
+      "end": 15.522,
+      "text": "เฮ้ยนี่ 54 ไม่ดงทีรู้สึกทีดงหมายัง",
+      "source_segment": 13.2,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 15.522,
+      "end": 16.0,
+      "text": "อ่ะคุณดู",
+      "source_segment": 13.2,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 17.1,
+      "end": 18.0,
+      "text": "นี่ขุดตรงมากเลยนะ",
+      "source_segment": 17.1,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 19.3,
+      "end": 20.99,
+      "text": "โหพี่จ๋าสุดยอดมากเลยแม่งอยู่ขุด",
+      "source_segment": 19.3,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 20.99,
+      "end": 21.4,
+      "text": "ข้างๆอ่ะ",
+      "source_segment": 19.3,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 21.5,
+      "end": 22.5,
+      "text": "สาธุขอให้เจอนะ",
+      "source_segment": 21.5,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 35.0,
+      "end": 36.372,
+      "text": "ถ้าเราได้ Diamond ใหม่นะพี่เราลง",
+      "source_segment": 35.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 36.372,
+      "end": 37.3,
+      "text": "นรกไปเอา Netherite นะ",
+      "source_segment": 35.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 37.5,
+      "end": 39.056,
+      "text": "ไม่งั้นเพื่อชีวิตอันโหดร้ายในการมา",
+      "source_segment": 37.5,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 39.056,
+      "end": 40.611,
+      "text": "นั่งขุดบล็อกโง่ๆแบบนี้จะได้หายไป",
+      "source_segment": 37.5,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 40.611,
+      "end": 41.011,
+      "text": "อ่ะ",
+      "source_segment": 37.5,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 41.061,
+      "end": 42.95,
+      "text": "แล้ว enchant แม่งเอาแบบไอ้อะไรวะ",
+      "source_segment": 40.8,
+      "gemini_uncertain": false,
+      "flags": [
+        "start_clipped_to_previous"
+      ]
+    },
+    {
+      "start": 43.0,
+      "end": 43.5,
+      "text": "ไอ้",
+      "source_segment": 43.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 46.0,
+      "end": 46.5,
+      "text": "กูจะลืม",
+      "source_segment": 46.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 47.2,
+      "end": 48.7,
+      "text": "3x3 เจอแน่",
+      "source_segment": 47.2,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 49.3,
+      "end": 50.7,
+      "text": "เฮ้ยเฮ้ยเฮ้ยสายทานป่ะนี่",
+      "source_segment": 49.3,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 51.0,
+      "end": 51.8,
+      "text": "อื้อสายทานป่ะนี่",
+      "source_segment": 51.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 52.2,
+      "end": 53.5,
+      "text": "เดี๋ยวๆๆๆอื้อขอสแกนก่อน",
+      "source_segment": 52.2,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 58.0,
+      "end": 58.6,
+      "text": "ใช่เปล่าวะ",
+      "source_segment": 58.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 59.3,
+      "end": 60.0,
+      "text": "ใช่เปล่าวะ",
+      "source_segment": 59.3,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 60.3,
+      "end": 61.3,
+      "text": "ผมตาไม่ถั่วนะ",
+      "source_segment": 60.3,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 61.6,
+      "end": 62.2,
+      "text": "เฮ้ยนี่มัน",
+      "source_segment": 61.6,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 62.5,
+      "end": 63.0,
+      "text": "เยส",
+      "source_segment": 62.5,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 64.2,
+      "end": 64.6,
+      "text": "โอ้",
+      "source_segment": 64.2,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 65.3,
+      "end": 66.0,
+      "text": "หวานเจี๊ยบ",
+      "source_segment": 65.3,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 66.6,
+      "end": 67.0,
+      "text": "โอ้ย",
+      "source_segment": 66.6,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 67.3,
+      "end": 68.0,
+      "text": "พี่ไอ้เหี้ย",
+      "source_segment": 67.3,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 68.5,
+      "end": 69.2,
+      "text": "ไอ้บีไอ้เหี้ย",
+      "source_segment": 68.5,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 70.0,
+      "end": 71.2,
+      "text": "แตก Diamond เหลืออันนึง",
+      "source_segment": 70.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 73.3,
+      "end": 74.7,
+      "text": "เนี่ยพี่ Diamond เต็มเลยพี่จ๋า",
+      "source_segment": 73.3,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 77.2,
+      "end": 78.89,
+      "text": "ถ้าผมตายแล้วผมจะเอาพี่ไปลงนรก",
+      "source_segment": 77.2,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 78.89,
+      "end": 79.5,
+      "text": "ด้วยกันไอ้เหี้ย",
+      "source_segment": 77.2,
+      "gemini_uncertain": false,
+      "flags": []
+    }
+  ],
+  "qc_required": true,
+  "status": "unreviewed_draft"
+}

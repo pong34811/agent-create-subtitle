@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "model": "gemini-3.5-flash",
+    "route": "google-generativeai-direct",
+    "timeline_index": 33,
+    "timeline_id": "5c279692-554a-4237-83aa-21331a499522",
+    "timeline_name": "เมาท์เรื่องสายเล่นเกม-League of Legends-vdo",
+    "expected_duration_seconds": 100.0,
+    "prompt_token_count": 2734
+  },
+  "duration_seconds": 100.0,
+  "gemini": {
+    "audio_available": true,
+    "duration_seconds": 100.0,
+    "segments": [
+      {
+        "start": 43.0,
+        "end": 47.0,
+        "text": "อื้อหือ คิลเลอร์ ของนี่นี่",
+        "uncertain": false
+      },
+      {
+        "start": 78.0,
+        "end": 84.0,
+        "text": "โอ้โห นะ นะคะ ช่วยเยอะสุดบอกเลยนะฮะ",
+        "uncertain": false
+      }
+    ],
+    "segment_count": 2
+  }
+}

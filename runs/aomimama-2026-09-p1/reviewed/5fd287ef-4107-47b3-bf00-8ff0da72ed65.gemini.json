@@ -1,0 +1,115 @@
+{
+  "timeline_id": "5fd287ef-4107-47b3-bf00-8ff0da72ed65",
+  "timeline_name": "จบเกมในครั้งเดียว-alien shooter last hope-vdo",
+  "approved": false,
+  "source_model": "gemini-3.5-flash-lite",
+  "duration_seconds": 57.96666666666667,
+  "cues": [
+    {
+      "start": 12.38,
+      "end": 13.98,
+      "text": "อีตายายจบแล้ว",
+      "source_segment": 12.38,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 19.38,
+      "end": 20.44,
+      "text": "เอ้เป็นยังไง",
+      "source_segment": 19.38,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 23.36,
+      "end": 24.78,
+      "text": "อื้อ",
+      "source_segment": 23.36,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 25.86,
+      "end": 27.66,
+      "text": "ฮะโหลเออฮัลโหลพี่",
+      "source_segment": 25.86,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 28.02,
+      "end": 28.78,
+      "text": "อ้าวเป็นไง",
+      "source_segment": 28.02,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 29.18,
+      "end": 30.12,
+      "text": "อื้อ",
+      "source_segment": 29.18,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 30.58,
+      "end": 33.512,
+      "text": "เขาบอกเขาว่าลืมลืมพากย์เอ้ยถ่ายพากย์",
+      "source_segment": 30.58,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 33.512,
+      "end": 36.36,
+      "text": "ลืมเปิดเนี่ยลืมพากย์ทางนั้นมีเคหุด้วย",
+      "source_segment": 30.58,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 37.16,
+      "end": 39.84,
+      "text": "ไอ้เหี้ยจบไปได้ไลฟ์เดียวว่ะพี่",
+      "source_segment": 37.16,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 42.92,
+      "end": 45.66,
+      "text": "อยากลั่นเลยไอ้เหี้ยไลฟ์ละเกมเลยว่ะ",
+      "source_segment": 42.92,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 46.1,
+      "end": 49.938,
+      "text": "ไปไปไปแค่นาทีด้วยเคเพราะว่าเพราะ",
+      "source_segment": 46.1,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 49.938,
+      "end": 53.562,
+      "text": "พี่บอกว่าทำไมพี่มีอะไรเคค้างไว้อ่ะมันมีเพิ่ม",
+      "source_segment": 46.1,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 53.562,
+      "end": 57.08,
+      "text": "พาดสอสองอะไรที่กูว่ามันไปแค่นาทีด้วย",
+      "source_segment": 46.1,
+      "gemini_uncertain": false,
+      "flags": []
+    }
+  ],
+  "qc_required": true,
+  "status": "unreviewed_draft"
+}

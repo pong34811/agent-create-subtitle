@@ -1,0 +1,331 @@
+{
+  "timeline_id": "fbf4c70a-6bb7-4e47-8d13-1363ef777b4e",
+  "timeline_name": "วิ่งหนีมอนตอนมืดจนเห็นบ้าน-Minecraft-vdo",
+  "approved": false,
+  "source_model": "chunked:gemini-3.5-flash-lite",
+  "duration_seconds": 152.61666666666667,
+  "cues": [
+    {
+      "start": 0.824,
+      "end": 2.914,
+      "text": "ไปเดินทางหมู่บ้านไปเดินทางหมู่บ้าน",
+      "source_segment": 0.824,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 3.734,
+      "end": 4.964,
+      "text": "เพราะว่ามืดแล้ว",
+      "source_segment": 3.734,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 10.454,
+      "end": 12.374,
+      "text": "ใครจะไปยอมใครจะไปยอมไอ้เหี้ย",
+      "source_segment": 10.454,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 12.914,
+      "end": 15.618,
+      "text": "ตายต้องใช้โคบาร์นิดนึงคนดู 3 เซ็นแม่",
+      "source_segment": 12.914,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 15.618,
+      "end": 16.294,
+      "text": "งเลยเหี้ย",
+      "source_segment": 12.914,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 16.484,
+      "end": 18.004,
+      "text": "กูไม่ยอม",
+      "source_segment": 16.484,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 21.324,
+      "end": 22.754,
+      "text": "ทำไมไม่ขึ้นเรือ",
+      "source_segment": 21.324,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 23.014,
+      "end": 25.147,
+      "text": "ตอนแรกขึ้นเรือแล้วแต่พี่จ๋าแต่ว่าพี่",
+      "source_segment": 23.014,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 25.147,
+      "end": 26.244,
+      "text": "จ๋าเค้าขี้เกียจไอ้นี่",
+      "source_segment": 23.014,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 26.464,
+      "end": 28.174,
+      "text": "เฮ้ยเดี๋ยวๆมันมาจากไหนตัวนึงอ่ะ",
+      "source_segment": 26.464,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 30.124,
+      "end": 32.554,
+      "text": "มันรอได้ 2 ตัวเท่านี้ดิมันรอไปหมด",
+      "source_segment": 30.124,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 33.324,
+      "end": 35.534,
+      "text": "ไม่ตอนนี้มันตรงผมมี 2 ตัวเฉยเว้ยพี่",
+      "source_segment": 33.324,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 40.014,
+      "end": 40.804,
+      "text": "สยามนี่ถึงป่ะวะ",
+      "source_segment": 40.014,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 44.474,
+      "end": 45.474,
+      "text": "เฮ้ยลงมาลงมาละ",
+      "source_segment": 44.474,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 48.094,
+      "end": 49.334,
+      "text": "เฮ้ยอย่าบอกว่า",
+      "source_segment": 48.094,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 55.918,
+      "end": 57.398,
+      "text": "เราอย่าพูดความร้ายมาอยู่ดู",
+      "source_segment": 55.918,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 58.718,
+      "end": 59.778,
+      "text": "เดินมาแล้วเดินละ",
+      "source_segment": 58.718,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 66.328,
+      "end": 67.544,
+      "text": "อ๋อต้องวางเท่านั้นด้วยเชี่ยแม้โยน",
+      "source_segment": 66.328,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 67.544,
+      "end": 67.944,
+      "text": "ไม่ได้",
+      "source_segment": 66.328,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 68.258,
+      "end": 69.388,
+      "text": "ต้องวางเท่านั้นใช่",
+      "source_segment": 68.258,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 71.058,
+      "end": 73.838,
+      "text": "เอ้าเหี้ยเอ้ยโยน 1 มาถึง 2",
+      "source_segment": 71.058,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 75.128,
+      "end": 76.068,
+      "text": "แบบ",
+      "source_segment": 75.128,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 77.248,
+      "end": 78.848,
+      "text": "มานี่มานี่มานี่มานี่ครับบนบุ",
+      "source_segment": 77.248,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 79.838,
+      "end": 81.908,
+      "text": "follow me you can see เออ",
+      "source_segment": 79.838,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 83.68,
+      "end": 86.198,
+      "text": "จริงๆอ่ะให้นั่งเรือทะเลคว่ํานี่",
+      "source_segment": 83.68,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 86.578,
+      "end": 88.919,
+      "text": "แต่ว่าด้วยความที่ทางไม่ไหวอย่าง",
+      "source_segment": 86.578,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 88.919,
+      "end": 90.408,
+      "text": "เนี้ยเออใครไม่หินเนี่ย",
+      "source_segment": 86.578,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 92.158,
+      "end": 95.113,
+      "text": "แต่ถ้าเธอถ้าถ้าถ้าเธอห้ามห้ามเห็น",
+      "source_segment": 92.158,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 95.113,
+      "end": 98.068,
+      "text": "หมูห่าวันแล้วเอาเนื้อพาแน่นอนเยอะ",
+      "source_segment": 92.158,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 99.338,
+      "end": 100.848,
+      "text": "follow follow come on",
+      "source_segment": 99.338,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 107.516,
+      "end": 109.716,
+      "text": "นี่เหรอห้องไม่มีเอนอีตี้ใช่ไหม",
+      "source_segment": 107.516,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 113.836,
+      "end": 115.896,
+      "text": "come on come on follow follow me",
+      "source_segment": 113.836,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 123.186,
+      "end": 125.561,
+      "text": "เป็นยอดครั้งแรกในชีวิตเลยในการเอาในการล่าวิ",
+      "source_segment": 123.186,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 125.561,
+      "end": 127.606,
+      "text": "เรนเจอร์กลับบ้านเนี่ยปกติให้เอฟซีทำให้อ่ะ",
+      "source_segment": 123.186,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 131.146,
+      "end": 132.816,
+      "text": "come on โป๊ะมานี่ดิ",
+      "source_segment": 131.146,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 132.866,
+      "end": 133.706,
+      "text": "นายเอ้ย",
+      "source_segment": 132.866,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 136.196,
+      "end": 137.326,
+      "text": "คะแนน",
+      "source_segment": 136.196,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 137.856,
+      "end": 138.666,
+      "text": "เพิ่งมาใหม่",
+      "source_segment": 137.856,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 139.306,
+      "end": 141.706,
+      "text": "วิ่งมาเร็วๆๆๆทำเวลา",
+      "source_segment": 139.306,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 150.1,
+      "end": 150.6,
+      "text": "เอ๋",
+      "source_segment": 150.1,
+      "gemini_uncertain": true,
+      "flags": []
+    }
+  ],
+  "qc_required": true,
+  "status": "unreviewed_draft"
+}

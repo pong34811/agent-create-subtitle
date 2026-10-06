@@ -1,0 +1,219 @@
+{
+  "timeline_id": "e188f573-7841-4fd1-887b-070576c15175",
+  "timeline_name": "พี่น้องไม่เคยช่วยอะไรเลย-Minecraft-vdo",
+  "approved": false,
+  "source_model": "gemini-3.7-flash",
+  "duration_seconds": 69.8,
+  "cues": [
+    {
+      "start": 2.22,
+      "end": 3.73,
+      "text": "ไอ้เหี้ยเอ๊ย",
+      "source_segment": 2.22,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 3.78,
+      "end": 6.387,
+      "text": "พี่แม่งมาได้โคตรถูกเวลาเลยไอ้เหี้ยมาตอนตี",
+      "source_segment": 3.78,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 6.387,
+      "end": 8.52,
+      "text": "ซอมบี้เสร็จแล้วโอ้โหรักฉิบหายเลย",
+      "source_segment": 3.78,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 8.78,
+      "end": 11.007,
+      "text": "แม่งคำว่าคำว่าพี่น้องแม่งไม่เคยช่วยเหี้ยอะไร",
+      "source_segment": 8.78,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 11.007,
+      "end": 11.58,
+      "text": "เลยอะตอนนี้",
+      "source_segment": 8.78,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 11.84,
+      "end": 13.78,
+      "text": "เฮ้ยพี่มาอีกแล้วพี่",
+      "source_segment": 11.84,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 14.16,
+      "end": 15.85,
+      "text": "อะไรของมึงวิ่งขอขวานไงวะ",
+      "source_segment": 14.16,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 15.9,
+      "end": 18.126,
+      "text": "ไม่เอาไม่เอาดาบมาไอ้เหี้ยลืมคราฟต์ดาบมา",
+      "source_segment": 15.9,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 18.126,
+      "end": 20.353,
+      "text": "เนี่ยไอ้เหี้ยเอ๊ยเดี๋ยวรีบขุดเหล็กหาแล้วหาเพิ่ม",
+      "source_segment": 15.9,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 20.353,
+      "end": 20.753,
+      "text": "ว่ะ",
+      "source_segment": 15.9,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 20.96,
+      "end": 22.84,
+      "text": "เนี่ยสว่างเอ๊ย",
+      "source_segment": 20.96,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 23.3,
+      "end": 25.71,
+      "text": "แม่งก็ต้องมีอะโอ้โหไม่งั้นไม่มานั่งร้องหาพี่",
+      "source_segment": 23.3,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 25.71,
+      "end": 27.9,
+      "text": "หรอกพี่ไปดูข้างล่างมั้ยด้านล่างมีถ่านนะ",
+      "source_segment": 23.3,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 32.74,
+      "end": 36.09,
+      "text": "ก็คือเราจะไม่แบบว่าอุดไอ้เหี้ยลาวาเหี้ยนี่ก่อน",
+      "source_segment": 32.74,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 36.14,
+      "end": 38.83,
+      "text": "พี่พี่ปล่อยมันไปเหอะไอ้เหี้ยให้มันให้มันเป็น",
+      "source_segment": 36.14,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 38.83,
+      "end": 41.52,
+      "text": "พื้นที่ในการที่ทำให้เราแม่งไม่หนาวตายได้ก็พอนะ",
+      "source_segment": 36.14,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 41.6,
+      "end": 46.432,
+      "text": "ไม่เอาถ้าปล่อยไว้เดี๋ยวแม่งคือแบบเหี้ยทำไง",
+      "source_segment": 41.6,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 46.432,
+      "end": 46.832,
+      "text": "วะ",
+      "source_segment": 41.6,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 48.9,
+      "end": 51.388,
+      "text": "ไอ้เหี้ยโคตรแย่อะคนดูใครพิมพ์วะอย่าให้พี่กี้รู้",
+      "source_segment": 48.9,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 51.388,
+      "end": 53.947,
+      "text": "นะโอ้โหแม่งบอกซอมบี้ฉลาดกว่ากี้กี้แม่งตีซอมบี้",
+      "source_segment": 48.9,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 53.947,
+      "end": 55.44,
+      "text": "ตายไป 4 ตัวแล้วนะเมื่อกี้อะ",
+      "source_segment": 48.9,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 58.12,
+      "end": 59.5,
+      "text": "ฮึดเข้าแท้",
+      "source_segment": 58.12,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 59.88,
+      "end": 62.549,
+      "text": "เฮ้ยพี่ตัวเล็กพี่ตัวเล็กตัวเล็กพี่ถอยไป",
+      "source_segment": 59.88,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 62.549,
+      "end": 63.02,
+      "text": "หมดแล้ว",
+      "source_segment": 59.88,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 63.34,
+      "end": 65.0,
+      "text": "ต้องหาที่อุ่นจริง",
+      "source_segment": 63.34,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 66.12,
+      "end": 68.64,
+      "text": "ผู้ใหญ่บ้านชอบมาตอนสายเสมอฮ่าๆ",
+      "source_segment": 66.12,
+      "gemini_uncertain": false,
+      "flags": []
+    }
+  ],
+  "qc_required": true,
+  "status": "unreviewed_draft"
+}

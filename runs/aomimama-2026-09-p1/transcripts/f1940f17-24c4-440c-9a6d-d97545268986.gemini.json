@@ -1,0 +1,165 @@
+{
+  "metadata": {
+    "model": "gemini-3.5-flash-lite",
+    "route": "google-generativeai-direct",
+    "timeline_index": 32,
+    "timeline_id": "f1940f17-24c4-440c-9a6d-d97545268986",
+    "timeline_name": "ไฟต์หน้าป้อม-League of Legends-vdo",
+    "expected_duration_seconds": 98.61666666666666,
+    "prompt_token_count": 2659
+  },
+  "duration_seconds": 98.61666666666666,
+  "gemini": {
+    "audio_available": true,
+    "duration_seconds": 98.4,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 9.0,
+        "text": "[ฟังไม่ชัด]",
+        "uncertain": true
+      },
+      {
+        "start": 9.0,
+        "end": 14.0,
+        "text": "สุดยอด",
+        "uncertain": false
+      },
+      {
+        "start": 14.0,
+        "end": 17.0,
+        "text": "[ฟังไม่ชัด]",
+        "uncertain": true
+      },
+      {
+        "start": 17.0,
+        "end": 21.0,
+        "text": "โอ๊ยเหี้ย เหี้ยอะไรวะเนี่ย ไอ้เหี้ย เหี้ยอะไรเนี่ย ไม่ได้ทำไรไอนี่",
+        "uncertain": false
+      },
+      {
+        "start": 21.0,
+        "end": 25.0,
+        "text": "มึงไม่ทันแบบ กลัวชิบหายเลย แบบ",
+        "uncertain": false
+      },
+      {
+        "start": 25.0,
+        "end": 28.0,
+        "text": "ไม่ได้ลาภอยู่นะ [ฟังไม่ชัด]",
+        "uncertain": true
+      },
+      {
+        "start": 28.0,
+        "end": 35.0,
+        "text": "[ฟังไม่ชัด]",
+        "uncertain": true
+      },
+      {
+        "start": 35.0,
+        "end": 44.0,
+        "text": "กูไม่ได้แบบกู ไอ้เหี้ยนี่เว้ย ตัวมันหนา",
+        "uncertain": false
+      },
+      {
+        "start": 44.0,
+        "end": 50.0,
+        "text": "ไอ้เหี้ย หนีได้ หนีได้ หนีได้ หนีได้ หมดเลยดิ ไอ้เหี้ย",
+        "uncertain": false
+      },
+      {
+        "start": 50.0,
+        "end": 56.0,
+        "text": "ถ้าเสือกเล่นพี่ตัววะ",
+        "uncertain": false
+      },
+      {
+        "start": 56.0,
+        "end": 59.0,
+        "text": "Dark in my blood queen",
+        "uncertain": false
+      },
+      {
+        "start": 59.0,
+        "end": 64.0,
+        "text": "ไม่สู้ ไม่สู้ ไม่เหมือนมาแบบไม่เล่นกันแบบ",
+        "uncertain": false
+      },
+      {
+        "start": 64.0,
+        "end": 67.0,
+        "text": "ไม่ทำอะไรอ่ะ",
+        "uncertain": false
+      },
+      {
+        "start": 67.0,
+        "end": 71.0,
+        "text": "[ฟังไม่ชัด]",
+        "uncertain": true
+      },
+      {
+        "start": 71.0,
+        "end": 76.0,
+        "text": "Strike the wind",
+        "uncertain": false
+      },
+      {
+        "start": 76.0,
+        "end": 81.0,
+        "text": "[ฟังไม่ชัด]",
+        "uncertain": true
+      },
+      {
+        "start": 81.0,
+        "end": 92.0,
+        "text": "[ฟังไม่ชัด]",
+        "uncertain": true
+      },
+      {
+        "start": 92.0,
+        "end": 98.4,
+        "text": "ไม่เคลียร์ มันเล่นย่างเดียววะ เอาข้าม่ะ ไม่ทำยังไงล่ะวะ ทีมมันย่างเดียวอ่ะ",
+        "uncertain": false
+      }
+    ],
+    "timing_measurement": "seconds",
+    "uncertainties": [
+      {
+        "start": 0.0,
+        "end": 9.0,
+        "reason": "unclear audio"
+      },
+      {
+        "start": 14.0,
+        "end": 17.0,
+        "reason": "unclear audio"
+      },
+      {
+        "start": 25.0,
+        "end": 28.0,
+        "reason": "unclear audio"
+      },
+      {
+        "start": 28.0,
+        "end": 35.0,
+        "reason": "unclear audio"
+      },
+      {
+        "start": 67.0,
+        "end": 71.0,
+        "reason": "unclear audio"
+      },
+      {
+        "start": 76.0,
+        "end": 81.0,
+        "reason": "unclear audio"
+      },
+      {
+        "start": 81.0,
+        "end": 92.0,
+        "reason": "unclear audio"
+      }
+    ],
+    "segment_count": 18
+  }
+}

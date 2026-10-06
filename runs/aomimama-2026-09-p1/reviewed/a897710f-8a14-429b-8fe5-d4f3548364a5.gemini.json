@@ -1,0 +1,43 @@
+{
+  "timeline_id": "a897710f-8a14-429b-8fe5-d4f3548364a5",
+  "timeline_name": "ไฟต์ท้ายเกมสุดมัน-League of Legends-vdo",
+  "approved": false,
+  "source_model": "gemini-3.5-flash-lite",
+  "duration_seconds": 80.0,
+  "cues": [
+    {
+      "start": 6.0,
+      "end": 9.0,
+      "text": "โอ๊ยเหี้ยไม่ได้ขยับเลย",
+      "source_segment": 6.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 14.0,
+      "end": 16.595,
+      "text": "จะตีให้ 2 อันนะแต่ไม่ทีมแบบน่า",
+      "source_segment": 14.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 16.595,
+      "end": 17.0,
+      "text": "เกลียด",
+      "source_segment": 14.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 27.0,
+      "end": 33.0,
+      "text": "[ฟังไม่ชัด]",
+      "source_segment": 27.0,
+      "gemini_uncertain": true,
+      "flags": []
+    }
+  ],
+  "qc_required": true,
+  "status": "unreviewed_draft"
+}

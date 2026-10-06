@@ -1,0 +1,155 @@
+{
+  "timeline_id": "28e23409-55dc-4284-8a0f-4b0985620b4e",
+  "timeline_name": "คุยเรื่องอายุและเด็กรุ่นหลาน-alien shooter last hope-vdo",
+  "approved": false,
+  "source_model": "gemini-3-flash-preview",
+  "duration_seconds": 108.46666666666667,
+  "cues": [
+    {
+      "start": 0.5,
+      "end": 2.8,
+      "text": "เพื่อนชั้นบางคนแม่งแต่งงานจนลูกแม่งมีหลานแล้ว",
+      "source_segment": 0.5,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 3.2,
+      "end": 4.5,
+      "text": "เหี้ยฉิบหาย",
+      "source_segment": 3.2,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 9.2,
+      "end": 11.5,
+      "text": "ไม่รู้มันจะขยันปั๊มอะไรขนาดนั้นฉิบหาย",
+      "source_segment": 9.2,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 12.2,
+      "end": 13.8,
+      "text": "ไอ้เหี้ยเอ๊ย",
+      "source_segment": 12.2,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 14.8,
+      "end": 17.2,
+      "text": "มีลูกตอนวัยที่แม่งโคตรเหมาะสมเลย",
+      "source_segment": 14.8,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 17.5,
+      "end": 19.5,
+      "text": "วัยทำพุงเก็ต",
+      "source_segment": 17.5,
+      "gemini_uncertain": true,
+      "flags": []
+    },
+    {
+      "start": 24.2,
+      "end": 25.5,
+      "text": "ขนาดนั้นเลยเหรอ",
+      "source_segment": 24.2,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 26.2,
+      "end": 28.467,
+      "text": "มึงเทียบภาพนะเพื่อนชั้นบางคนมีลูกตั้งแต่อายุ",
+      "source_segment": 26.2,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 28.467,
+      "end": 28.867,
+      "text": "15 นะ",
+      "source_segment": 26.2,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 29.2,
+      "end": 31.5,
+      "text": "ลูกมันก็ดันมีลูกตั้งแต่อายุแบบว่า",
+      "source_segment": 29.2,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 32.2,
+      "end": 34.5,
+      "text": "ตอนเท่าแม่มันตอนมีลูกอะ",
+      "source_segment": 32.2,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 37.2,
+      "end": 39.5,
+      "text": "กูเนี่ยอายุยังไม่ถึงเลข 3 อะ",
+      "source_segment": 37.2,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 40.2,
+      "end": 42.5,
+      "text": "แต่กูมีแบบว่า",
+      "source_segment": 40.2,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 43.2,
+      "end": 45.5,
+      "text": "มีเพื่อนที่แม่งมีหลานแล้ว",
+      "source_segment": 43.2,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 46.2,
+      "end": 48.5,
+      "text": "ให้กูรู้สึกยังไงวะ",
+      "source_segment": 46.2,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 78.2,
+      "end": 80.0,
+      "text": "ยุคเราแชท",
+      "source_segment": 78.2,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 81.2,
+      "end": 83.5,
+      "text": "ยุคชั้นมันเป็นยุคที่แบบ",
+      "source_segment": 81.2,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 84.2,
+      "end": 86.5,
+      "text": "บางทีแม่งไม่มีรหัสป้องกันอะ",
+      "source_segment": 84.2,
+      "gemini_uncertain": false,
+      "flags": []
+    }
+  ],
+  "qc_required": true,
+  "status": "unreviewed_draft"
+}

@@ -1,0 +1,140 @@
+{
+  "metadata": {
+    "model": "gemini-3.5-flash-lite",
+    "route": "google-generativeai-direct",
+    "timeline_index": 45,
+    "timeline_id": "fea3bf4f-544d-45f3-8b39-d19e449b54b0",
+    "timeline_name": "เริ่มเกมแล้วเจอไฟต์-League of Legends-vdo",
+    "expected_duration_seconds": 70.0,
+    "prompt_token_count": 1943
+  },
+  "duration_seconds": 70.0,
+  "gemini": {
+    "audio_available": true,
+    "duration_seconds": 69.577,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.167,
+        "text": "[ฟังไม่ชัด]",
+        "uncertain": true
+      },
+      {
+        "start": 2.167,
+        "end": 7.077,
+        "text": "ของ มัน มี มั้ย ไม่ ไม่ ใช่ ของ แฮกแมน",
+        "uncertain": false
+      },
+      {
+        "start": 7.077,
+        "end": 12.017,
+        "text": "ไม่ใช่ มั้ย ใช่ เออ มัน มี มั้ย อ่านดิ๊ เกม ให้ มัน ฮีล ได้ เยอะ",
+        "uncertain": false
+      },
+      {
+        "start": 12.017,
+        "end": 14.507,
+        "text": "อัน นี้ ใช่ นี่ อะไร ไม่ หนา วะ",
+        "uncertain": false
+      },
+      {
+        "start": 14.507,
+        "end": 16.487,
+        "text": "เดี๋ยว ออก ชิ้น แรก",
+        "uncertain": false
+      },
+      {
+        "start": 16.487,
+        "end": 18.067,
+        "text": "ไม่ๆ มีๆ",
+        "uncertain": false
+      },
+      {
+        "start": 18.067,
+        "end": 20.307,
+        "text": "เดี่ยวก่อนตีต่อ",
+        "uncertain": false
+      },
+      {
+        "start": 23.637,
+        "end": 26.687,
+        "text": "มานี่มา",
+        "uncertain": false
+      },
+      {
+        "start": 26.687,
+        "end": 32.187,
+        "text": "[ฟังไม่ชัด] หนึ่ง รัว ตัด ไป หนึ่ง เดี๋ยว ตัด ท้าย แม่ เปิด เมกะบ็อกซ์",
+        "uncertain": true
+      },
+      {
+        "start": 39.427,
+        "end": 41.527,
+        "text": "เดี๋ยว ผม จะ ตี พันธุ์ พื้น",
+        "uncertain": false
+      },
+      {
+        "start": 41.527,
+        "end": 46.507,
+        "text": "เดี๋ยว ผม จะ สกิล ดัก ดัก ไม่ ใช่ ไม่ ใช่ ดัก เป็น ไอ",
+        "uncertain": false
+      },
+      {
+        "start": 46.507,
+        "end": 49.697,
+        "text": "เดี๋ยว ผม จะ กั๊ก ระยะ ตรง ที่ มัน ดิ่ง มา นะ",
+        "uncertain": false
+      },
+      {
+        "start": 49.697,
+        "end": 51.527,
+        "text": "แบบ คน เด่ง เลย",
+        "uncertain": false
+      },
+      {
+        "start": 51.527,
+        "end": 54.217,
+        "text": "แมพ แล้ว ฝน ตก ด้วย นะ",
+        "uncertain": false
+      },
+      {
+        "start": 54.217,
+        "end": 56.407,
+        "text": "เรียบร้อย",
+        "uncertain": false
+      },
+      {
+        "start": 56.407,
+        "end": 59.957,
+        "text": "เฮ้ย อย่า ไป โดน",
+        "uncertain": false
+      },
+      {
+        "start": 59.957,
+        "end": 63.857,
+        "text": "อื้อหือ บวิก เหรอ บวิก อยู่",
+        "uncertain": false
+      },
+      {
+        "start": 63.857,
+        "end": 69.377,
+        "text": "กลาง กำลัง เดิน ลง มา ล่าง กัด ใส่ ล้า ตาย แล้ว",
+        "uncertain": false
+      }
+    ],
+    "timing_measurement": "seconds",
+    "uncertainties": [
+      {
+        "start": 0.0,
+        "end": 2.167,
+        "reason": "เสียงเบาและไม่ชัดเจน"
+      },
+      {
+        "start": 26.687,
+        "end": 32.187,
+        "reason": "เสียงทับซ้อนและพูดเร็วเกินไป"
+      }
+    ],
+    "segment_count": 18
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "metadata": {
+    "model": "gemini-3.7-flash",
+    "route": "google-generativeai-direct",
+    "timeline_index": 18,
+    "timeline_id": "e188f573-7841-4fd1-887b-070576c15175",
+    "timeline_name": "พี่น้องไม่เคยช่วยอะไรเลย-Minecraft-vdo",
+    "expected_duration_seconds": 69.8,
+    "prompt_token_count": 1976
+  },
+  "duration_seconds": 69.8,
+  "gemini": {
+    "audio_available": true,
+    "duration_seconds": 69.8,
+    "segments": [
+      {
+        "start": 2.22,
+        "end": 3.78,
+        "text": "ไอ้เหี้ยเอ๊ย",
+        "uncertain": false
+      },
+      {
+        "start": 3.78,
+        "end": 8.52,
+        "text": "พี่แม่งมาได้โคตรถูกเวลาเลยไอ้เหี้ย มาตอนตีซอมบี้เสร็จแล้ว โอ้โห รักฉิบหายเลย",
+        "uncertain": false
+      },
+      {
+        "start": 8.78,
+        "end": 11.58,
+        "text": "แม่ง คำว่า คำว่าพี่น้องแม่งไม่เคยช่วยเหี้ยอะไรเลยอะตอนนี้",
+        "uncertain": false
+      },
+      {
+        "start": 11.84,
+        "end": 13.78,
+        "text": "เฮ้ย พี่ มาอีกแล้วพี่",
+        "uncertain": false
+      },
+      {
+        "start": 14.16,
+        "end": 15.9,
+        "text": "อะไรของมึง วิ่งขอขวานไงวะ",
+        "uncertain": false
+      },
+      {
+        "start": 15.9,
+        "end": 20.48,
+        "text": "ไม่เอา ไม่เอาดาบมา ไอ้เหี้ย ลืมคราฟต์ดาบมาเนี่ย ไอ้เหี้ยเอ๊ย เดี๋ยวรีบขุดเหล็กหาแล้วหาเพิ่มว่ะ",
+        "uncertain": false
+      },
+      {
+        "start": 20.96,
+        "end": 22.84,
+        "text": "เนี่ย สว่างเอ๊ย",
+        "uncertain": false
+      },
+      {
+        "start": 23.3,
+        "end": 27.9,
+        "text": "แม่ง ก็ต้องมีอะ โอ้โห ไม่งั้นไม่มานั่งร้องหาพี่หรอก พี่ไปดูข้างล่างมั้ย ด้านล่างมีถ่านนะ",
+        "uncertain": false
+      },
+      {
+        "start": 32.74,
+        "end": 36.14,
+        "text": "ก็คือเราจะไม่แบบว่า อุดไอ้เหี้ย ลาวาเหี้ยนี่ก่อน",
+        "uncertain": false
+      },
+      {
+        "start": 36.14,
+        "end": 41.52,
+        "text": "พี่ พี่ ปล่อยมันไปเหอะ ไอ้เหี้ย ให้มัน ให้มันเป็นพื้นที่ในการที่ทำให้เราแม่งไม่หนาวตายได้ก็พอนะ",
+        "uncertain": false
+      },
+      {
+        "start": 41.6,
+        "end": 46.7,
+        "text": "ไม่เอา ถ้าปล่อยไว้ เดี๋ยวแม่งคือแบบ เหี้ย ทำไงวะ",
+        "uncertain": false
+      },
+      {
+        "start": 48.9,
+        "end": 55.44,
+        "text": "ไอ้เหี้ย โคตรแย่อะ คนดูใครพิมพ์วะ อย่าให้พี่กี้รู้นะ โอ้โห แม่งบอกซอมบี้ฉลาดกว่ากี้ กี้แม่งตีซอมบี้ตายไป 4 ตัวแล้วนะเมื่อกี้อะ",
+        "uncertain": false
+      },
+      {
+        "start": 58.12,
+        "end": 59.5,
+        "text": "ฮึดเข้าแท้",
+        "uncertain": false
+      },
+      {
+        "start": 59.88,
+        "end": 63.02,
+        "text": "เฮ้ย พี่ ตัวเล็ก พี่ ตัวเล็ก ตัวเล็ก พี่ถอย ไป หมดแล้ว",
+        "uncertain": false
+      },
+      {
+        "start": 63.34,
+        "end": 65.0,
+        "text": "ต้องหาที่อุ่นจริง",
+        "uncertain": false
+      },
+      {
+        "start": 66.12,
+        "end": 68.64,
+        "text": "ผู้ใหญ่บ้านชอบมาตอนสายเสมอ ฮ่า ๆ",
+        "uncertain": false
+      }
+    ],
+    "timing_measurement": "manual_fine_grain",
+    "uncertainties": [],
+    "segment_count": 16
+  }
+}

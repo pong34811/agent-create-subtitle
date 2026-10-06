@@ -1,0 +1,177 @@
+{
+  "metadata": {
+    "model": "gemini-3-flash-preview",
+    "route": "google-generativeai-direct",
+    "timeline_index": 14,
+    "timeline_id": "46154505-65f7-4736-9680-9c990e912fe0",
+    "timeline_name": "คุยสรุปเกมหลังเล่นจบ ก่อนปิดไลฟ์-alien shooter-vdo",
+    "expected_duration_seconds": 128.01666666666668,
+    "prompt_token_count": 3394
+  },
+  "duration_seconds": 128.01666666666668,
+  "gemini": {
+    "audio_available": true,
+    "duration_seconds": 128.0,
+    "segments": [
+      {
+        "start": 4.0,
+        "end": 8.0,
+        "text": "เหนื่อย จบซะที แยกย้าย แยกย้าย เหี้ย",
+        "uncertain": false
+      },
+      {
+        "start": 8.0,
+        "end": 11.0,
+        "text": "ปิดไลฟ์ได้แล้ว ไปก่อนนะ ไปแล้ว",
+        "uncertain": false
+      },
+      {
+        "start": 11.0,
+        "end": 17.0,
+        "text": "ฮ่าๆๆๆๆๆ",
+        "uncertain": false
+      },
+      {
+        "start": 17.0,
+        "end": 21.0,
+        "text": "สมองแบบว่า หมดไปแบบ ไป 80",
+        "uncertain": false
+      },
+      {
+        "start": 26.0,
+        "end": 30.0,
+        "text": "ก็สำหรับชุดนี้นะ ตัวเกม พูดตามตรงนะ",
+        "uncertain": false
+      },
+      {
+        "start": 30.0,
+        "end": 34.0,
+        "text": "สำหรับหนูมันง่ายมากเลย เพราะว่า เล่นมา บ่อยมากๆ",
+        "uncertain": false
+      },
+      {
+        "start": 34.0,
+        "end": 38.0,
+        "text": "จนมันจำได้เกือบหมดแล้วอ่ะ",
+        "uncertain": false
+      },
+      {
+        "start": 38.0,
+        "end": 43.0,
+        "text": "ซึ่งด่านที่ให้มีภาคต่อๆ ไปนะฮะ สำหรับด่านหน้าๆ",
+        "uncertain": false
+      },
+      {
+        "start": 43.0,
+        "end": 48.0,
+        "text": "ซึ่งด่านหลังๆ เนี่ย มันจะเริ่มยากขึ้นมาแล้ว เพราะเขาเริ่มปรับ",
+        "uncertain": false
+      },
+      {
+        "start": 48.0,
+        "end": 52.0,
+        "text": "ตาม เริ่มมีการปรับสมดุล",
+        "uncertain": false
+      },
+      {
+        "start": 52.0,
+        "end": 57.0,
+        "text": "แล้วก็เริ่มมีความกวนส้นตีนผู้เล่นเพิ่มขึ้นเรื่อยๆ นะ",
+        "uncertain": false
+      },
+      {
+        "start": 57.0,
+        "end": 61.0,
+        "text": "ก็หวังว่า จะรอ",
+        "uncertain": false
+      },
+      {
+        "start": 61.0,
+        "end": 65.0,
+        "text": "ติดตามกันต่อไปนะฮะ ผมคิดว่าภาคหลังมันคงไม่จบเร็วอย่างนี้หรอก",
+        "uncertain": false
+      },
+      {
+        "start": 65.0,
+        "end": 70.0,
+        "text": "อันนี้มันภาคแรกไง แล้วเตรียมมาสั้นด้วย มันก็เลยแบบ ตกไปนิดนึง",
+        "uncertain": false
+      },
+      {
+        "start": 70.0,
+        "end": 74.0,
+        "text": "ฮ่าๆๆๆๆๆ",
+        "uncertain": false
+      },
+      {
+        "start": 74.0,
+        "end": 78.0,
+        "text": "อันนี้ที่หนูไม่ค่อยพูดนะ เพราะว่าเกมมันค่อนข้างใช้สมาธินิดนึง",
+        "uncertain": false
+      },
+      {
+        "start": 78.0,
+        "end": 82.0,
+        "text": "หนึ่ง ยูนิตในแมพมันค่อนข้างเยอะ",
+        "uncertain": false
+      },
+      {
+        "start": 82.0,
+        "end": 86.0,
+        "text": "แล้ว สเตตัสของยูนิตมันก็แตกต่างกันด้วย",
+        "uncertain": false
+      },
+      {
+        "start": 86.0,
+        "end": 90.0,
+        "text": "เราต้องโฟกัสด้วยว่า เฮ้ย เราอ่ะ ตอนนี้ ยืนตรงไหน",
+        "uncertain": false
+      },
+      {
+        "start": 90.0,
+        "end": 94.0,
+        "text": "มันมีความเสี่ยงว่าเราจะโดนดาเมจมากน้อยแค่ไหนอยู่",
+        "uncertain": false
+      },
+      {
+        "start": 94.0,
+        "end": 99.0,
+        "text": "มันก็เลยแบบว่า ต้องใช้สมาธิในการเล่น มากๆ เลยทีเดียวนะ",
+        "uncertain": false
+      },
+      {
+        "start": 99.0,
+        "end": 103.0,
+        "text": "เป็นเกมหนึ่งที่รู้สึกว่า มันเล่นแบบจริงจังอ่ะ สนุกดี",
+        "uncertain": false
+      },
+      {
+        "start": 103.0,
+        "end": 108.0,
+        "text": "ได้มาทดสอบสมองด้วยนะฮะ อย่างที่เขียน ต่อให้ตายไปถ้ามีตัวแถม 5 ตัว",
+        "uncertain": false
+      },
+      {
+        "start": 108.0,
+        "end": 113.0,
+        "text": "มันไม่ได้ยากขนาดนั้นนะ มองว่าอย่างนั้นเถอะทุกคน",
+        "uncertain": false
+      },
+      {
+        "start": 118.0,
+        "end": 123.0,
+        "text": "ก็สำหรับวันนี้ ไปก่อนนะฮะ ไว้เจอกันใหม่ในคลิปถัดไปนะทุกคน บ๊ายบาย",
+        "uncertain": false
+      },
+      {
+        "start": 123.0,
+        "end": 128.0,
+        "text": "บ๊ายบาย",
+        "uncertain": false
+      }
+    ],
+    "timing_measurement": "seconds",
+    "uncertainties": [],
+    "segment_count": 26
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "model": "gemini-3.5-flash",
+    "route": "google-generativeai-direct",
+    "timeline_index": 11,
+    "timeline_id": "781816e7-4d4b-4b95-937e-0f8feeea26b6",
+    "timeline_name": "กวาดห้องจนจบภารกิจ-alien shooter-vdo",
+    "expected_duration_seconds": 66.16666666666667,
+    "audio_normalized": true,
+    "note": "source WAV peak was 10.3% (vs 54.5% median); loudnorm applied before ASR"
+  },
+  "duration_seconds": 66.16666666666667,
+  "gemini": {
+    "audio_available": true,
+    "duration_seconds": 67.0,
+    "segments": [
+      {
+        "start": 46.2,
+        "end": 48.5,
+        "text": "โอเค เพื่อน เดี๋ยวมานะ",
+        "uncertain": false
+      }
+    ],
+    "segment_count": 1
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "timeline_id": "0803c999-9d25-4106-ab2b-a5f43047881e",
+  "timeline_name": "เตรียมป้อมสู้ศึกใหญ่-alien shooter last hope-vdo",
+  "approved": false,
+  "source_model": "gemini-3-flash-preview",
+  "duration_seconds": 91.61666666666666,
+  "cues": [
+    {
+      "start": 6.4,
+      "end": 10.2,
+      "text": "มีแค่ทำทีมเหรอวะทำไมไม่มีที่ทำพีซ",
+      "source_segment": 6.4,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 11.5,
+      "end": 14.596,
+      "text": "มันมีแค่ทำทีมเหรอวะยังเหลือไอ้เหี้ยนี่อยู่คนเดียว",
+      "source_segment": 11.5,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 14.596,
+      "end": 15.8,
+      "text": "เนี่ยมันคืออะไรวะ",
+      "source_segment": 11.5,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 52.1,
+      "end": 54.5,
+      "text": "ไอ้เหี้ยเห็นป่ะล่ะผมแม่งไม่ถนัด",
+      "source_segment": 52.1,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 74.2,
+      "end": 76.5,
+      "text": "ฮ่าๆๆ",
+      "source_segment": 74.2,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 77.1,
+      "end": 80.4,
+      "text": "แค่อยากรู้ว่ามันฆ่าได้ไหมก็น่าจะได้นะ",
+      "source_segment": 77.1,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 81.2,
+      "end": 88.114,
+      "text": "แต่ว่ารอบนี้เราลองเก็บลองไอ้ตัวป้อมเอาไว้",
+      "source_segment": 81.2,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 88.114,
+      "end": 90.0,
+      "text": "เยอะๆเลย",
+      "source_segment": 81.2,
+      "gemini_uncertain": false,
+      "flags": []
+    }
+  ],
+  "qc_required": true,
+  "status": "unreviewed_draft"
+}

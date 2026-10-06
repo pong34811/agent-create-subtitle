@@ -1,0 +1,203 @@
+{
+  "timeline_id": "ced25d58-9d0b-4545-915e-1ac549e2bce6",
+  "timeline_name": "ในที่สุดแชร์จอเหมือนคนปกติได้แล้ว-alien shooter 2-vdo",
+  "approved": false,
+  "source_model": "gemini-3.1-flash-lite",
+  "duration_seconds": 85.13333333333334,
+  "cues": [
+    {
+      "start": 0.0,
+      "end": 2.0,
+      "text": "ตั้งชื่อเองได้แท้ว่าเกมไร",
+      "source_segment": 0.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 3.0,
+      "end": 4.5,
+      "text": "นั่นน่ะพี่เออดับเบิลคลิกไป",
+      "source_segment": 3.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 5.0,
+      "end": 6.5,
+      "text": "ตอนนี้หน้าจะมีเกมขึ้นมาละ",
+      "source_segment": 5.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 8.5,
+      "end": 10.5,
+      "text": "เกมบ้าเกมบอใช่ไหมเข้าสิ",
+      "source_segment": 8.5,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 11.0,
+      "end": 12.5,
+      "text": "เออเนี่ยหน้าไหนเนี่ยชูเตอร์สอง",
+      "source_segment": 11.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 13.0,
+      "end": 14.5,
+      "text": "โหเราน่าจะใช้วิธีนี้แต่แรก",
+      "source_segment": 13.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 15.0,
+      "end": 17.0,
+      "text": "อันนี้อันนี้อันนี้พี่กดกดโอเคไปเลย",
+      "source_segment": 15.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 20.0,
+      "end": 23.375,
+      "text": "เลิศเนี่ยในที่สุดไอ้เหี้ยเราก็แชร์แบบแชร์จอแบบคน",
+      "source_segment": 20.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 23.375,
+      "end": 24.5,
+      "text": "ปกติเขาก็ได้สักที",
+      "source_segment": 20.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 26.0,
+      "end": 27.45,
+      "text": "พี่ไม่ต้องพี่ไม่ต้องไอ้นี่หรอก",
+      "source_segment": 26.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 27.5,
+      "end": 30.0,
+      "text": "เอาไว้ตรงโห",
+      "source_segment": 27.5,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 35.0,
+      "end": 36.5,
+      "text": "คนดูภูมิใจในตัวพี่แล้วมั้งเนี่ย",
+      "source_segment": 35.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 42.0,
+      "end": 44.0,
+      "text": "อืออือ",
+      "source_segment": 42.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 46.5,
+      "end": 51.5,
+      "text": "อ่าต่อไปอะพี่ไปกดที่ลิงก์แก๊สนาวหน่อย",
+      "source_segment": 46.5,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 52.0,
+      "end": 53.5,
+      "text": "ไอ้ที่เป็นหลอดโดเนทพี่อะ",
+      "source_segment": 52.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 57.0,
+      "end": 58.0,
+      "text": "อ่าดับเบิลคลิก",
+      "source_segment": 57.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 59.0,
+      "end": 60.45,
+      "text": "ไม่ไม่ต้องไปโดเนทโกดิพี่",
+      "source_segment": 59.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 60.5,
+      "end": 62.0,
+      "text": "อันนี้มันลิงก์โดเนท",
+      "source_segment": 60.5,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 64.5,
+      "end": 65.0,
+      "text": "อันล่าง",
+      "source_segment": 64.5,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 65.5,
+      "end": 66.5,
+      "text": "อันล่างพี่",
+      "source_segment": 65.5,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 68.0,
+      "end": 68.5,
+      "text": "เออ",
+      "source_segment": 68.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 70.5,
+      "end": 71.5,
+      "text": "แล้วพี่ไปแก๊สนาว",
+      "source_segment": 70.5,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 73.0,
+      "end": 74.5,
+      "text": "ไปไปล็อกอินแก๊สนาว",
+      "source_segment": 73.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 82.0,
+      "end": 84.5,
+      "text": "แล้วแล้วแล้วพี่ไปไปที่เออหลังบ้านพี่",
+      "source_segment": 82.0,
+      "gemini_uncertain": false,
+      "flags": []
+    }
+  ],
+  "qc_required": true,
+  "status": "unreviewed_draft"
+}

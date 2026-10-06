@@ -1,0 +1,259 @@
+{
+  "timeline_id": "d28ccb47-b2f0-4e45-8179-e1f0c9bd0176",
+  "timeline_name": "ลืมเอาอาหาร ต้องกินเนื้อซอมบี้-Minecraft-vdo",
+  "approved": false,
+  "source_model": "gemini-3.6-flash",
+  "duration_seconds": 120.0,
+  "cues": [
+    {
+      "start": 0.13,
+      "end": 2.8,
+      "text": "แต่ว่าเราได้เหล็กกลับมาเยอะเลยนะ",
+      "source_segment": 0.13,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 15.0,
+      "end": 19.566,
+      "text": "สวัสดีคุณไดมอนด์นะครับยินดีต้อนรับเข้าสู่เรดดี้ทีวี",
+      "source_segment": 15.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 19.566,
+      "end": 20.2,
+      "text": "นะครับ",
+      "source_segment": 15.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 30.3,
+      "end": 33.3,
+      "text": "ชิบหายแม่งลืมเอาของกินมาอู๊หูย",
+      "source_segment": 30.3,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 33.5,
+      "end": 36.2,
+      "text": "อะไรก็ได้โอ้โหแม่งไม่มีของกิน",
+      "source_segment": 33.5,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 36.3,
+      "end": 39.932,
+      "text": "ได้ได้เวลาอยู่แบบแบร์กริลส์แล้วไอ้เหี้ยแดก",
+      "source_segment": 36.3,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 39.932,
+      "end": 41.0,
+      "text": "เนื้อซอมบี้แล้ว",
+      "source_segment": 36.3,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 41.1,
+      "end": 43.1,
+      "text": "เฮ้อชีวิต",
+      "source_segment": 41.1,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 44.3,
+      "end": 46.2,
+      "text": "เนี่ยทุกคนรู้ไว้ซะ",
+      "source_segment": 44.3,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 46.3,
+      "end": 49.3,
+      "text": "สภาพคนที่มันเตรียมตัวไม่พร้อมอ่ะเป็นอย่างเนี้ย",
+      "source_segment": 46.3,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 49.5,
+      "end": 51.2,
+      "text": "มันจะทำอะไรอ่ะ",
+      "source_segment": 49.5,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 52.2,
+      "end": 54.408,
+      "text": "วันนี้มาทำอะไรครับตอนแรกอาจจะมาขุด",
+      "source_segment": 52.2,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 54.408,
+      "end": 57.058,
+      "text": "ดินเหนียวครับคนดูพอดีเจอดินเหนียวจำนวนเยอะ",
+      "source_segment": 52.2,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 57.058,
+      "end": 57.5,
+      "text": "มากเลย",
+      "source_segment": 52.2,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 57.6,
+      "end": 60.2,
+      "text": "แต่ว่าอยู่ไปอยู่มาก็มันอยู่นี่แล้วครับ",
+      "source_segment": 57.6,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 62.0,
+      "end": 64.011,
+      "text": "ดินเหนียวแม่งโผล่หัวอย่างเยอะเลยนะตอนที่ขุด",
+      "source_segment": 62.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 64.011,
+      "end": 66.023,
+      "text": "มาเอ้ยตอนแรกเหมือนเยอะนะพอไมน์คราฟท์",
+      "source_segment": 62.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 66.023,
+      "end": 67.0,
+      "text": "จริงๆไม่ค่อยมีตอนนี้นะ",
+      "source_segment": 62.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 67.1,
+      "end": 69.5,
+      "text": "เออไมน์คราฟท์จริงๆน้อยมากพี่ใช่ๆ",
+      "source_segment": 67.1,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 69.6,
+      "end": 72.5,
+      "text": "ผมเจอแบบว่ามันเป็นแหล่งเลยอ่ะพี่",
+      "source_segment": 69.6,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 75.1,
+      "end": 78.5,
+      "text": "ขุดไว้ก่อนเพราะว่ามันหายาก",
+      "source_segment": 75.1,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 81.0,
+      "end": 84.036,
+      "text": "เอาไปเอาไปให้หมดอ่ะดิเดี๋ยวนึกว่าดินเหนียว",
+      "source_segment": 81.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 84.036,
+      "end": 86.819,
+      "text": "แล้วจะได้ไม่ต้องขุดเลเทอร์แล้วทำเป็นเผื่อ",
+      "source_segment": 81.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 86.819,
+      "end": 88.0,
+      "text": "ทำเป็นกล่องดินด้วย",
+      "source_segment": 81.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 88.8,
+      "end": 91.634,
+      "text": "ซอมบี้เยอะมากเลยกูจะแดกเนื้อซอมบี้แทนเนื้อคน",
+      "source_segment": 88.8,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 91.634,
+      "end": 92.5,
+      "text": "แล้วเนี่ยไอ้เหี้ย",
+      "source_segment": 88.8,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 92.8,
+      "end": 94.5,
+      "text": "ออกมายะ",
+      "source_segment": 92.8,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 102.1,
+      "end": 105.5,
+      "text": "อย่าหนีมานี่แทงเข้าเนื้อ",
+      "source_segment": 102.1,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 106.0,
+      "end": 109.5,
+      "text": "อื้ออื้ออื้ออื้อ",
+      "source_segment": 106.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 110.0,
+      "end": 113.661,
+      "text": "เสียชีวิตเลยไอ้เหี้ยเพิ่งมีขวานเพิ่งมีข้าววะไอ้",
+      "source_segment": 110.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 113.661,
+      "end": 116.0,
+      "text": "เหี้ยแดกเนื้อซอเนื้อคนไปแล้ว",
+      "source_segment": 110.0,
+      "gemini_uncertain": false,
+      "flags": []
+    }
+  ],
+  "qc_required": true,
+  "status": "unreviewed_draft"
+}

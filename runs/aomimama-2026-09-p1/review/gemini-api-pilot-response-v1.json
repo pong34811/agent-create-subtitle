@@ -1,0 +1,23 @@
+{
+  "model": "google/gemini-3.8-flash via Nous Portal proxy",
+  "duration_seconds": 88.0,
+  "timing_measurement": "accurate_timestamps",
+  "segments": [
+    {"start": 4.14, "end": 5.98, "text": "ฮัลโหล", "uncertain": false},
+    {"start": 6.78, "end": 9.42, "text": "ฮัลโหล", "uncertain": false},
+    {"start": 9.42, "end": 14.88, "text": "วันนี้เราพยายามตรงคือได้เวลา 20:00 น. ด้วยนะ", "uncertain": false},
+    {"start": 15.66, "end": 17.64, "text": "อือ", "uncertain": false},
+    {"start": 18.98, "end": 26.16, "text": "วันนี้สำหรับเกม [ฟังไม่ชัด] ภาคแรกครบเนาะ", "uncertain": true},
+    {"start": 26.78, "end": 31.96, "text": "ก็น่าทำเหมือนเดิมนะคือเดี๋ยวเราสปีดรัน", "uncertain": false},
+    {"start": 33.28, "end": 36.6, "text": "เออเดี๋ยว", "uncertain": false},
+    {"start": 37.96, "end": 45.66, "text": "แต่ก็นะเหมือนเดิมเปิดเกมผมก็ต้องมาเซ็ตติ้งนิดนึงเพราะว่านั่นแหละ", "uncertain": false},
+    {"start": 46.12, "end": 50.7, "text": "เอาเป็นเกมเก่านะต้องขอเวลาเซ็ตติ้ง", "uncertain": false},
+    {"start": 51.04, "end": 54.34, "text": "มีฮะมีค่า", "uncertain": false},
+    {"start": 81.68, "end": 84.84, "text": "เอ๊ะโอ้เดี๋ยวนะ", "uncertain": false},
+    {"start": 85.38, "end": 87.78, "text": "น้องยูขอ [ฟังไม่ชัด]", "uncertain": true}
+  ],
+  "uncertainties": [
+    {"text": "[ฟังไม่ชัด]", "start": 21.0, "end": 23.5, "reason": "เสียงเอฟเฟกต์ดัดเสียงสูงทำให้ฟังชื่อเฉพาะของเกมไม่ชัดเจนและไม่ต้องการเดาคำ"},
+    {"text": "[ฟังไม่ชัด]", "start": 86.6, "end": 87.78, "reason": "เสียงพูดถูกตัดตอนท้ายไฟล์"}
+  ]
+}

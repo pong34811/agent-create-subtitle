@@ -1,0 +1,91 @@
+{
+  "timeline_id": "caf467e9-cd05-472b-ad67-7509a17d7cc3",
+  "timeline_name": "อยากเปลี่ยนร่าง เอาคนไม่มีเสียงในหัวมาเล่นแทน-Minecraft-vdo",
+  "approved": false,
+  "source_model": "gemini-3.5-flash",
+  "duration_seconds": 55.0,
+  "cues": [
+    {
+      "start": 3.0,
+      "end": 5.851,
+      "text": "แต่ตอนเนี้ยกูชักอยากจะเปลี่ยนร่างแล้วเนี่ยค่ะกู",
+      "source_segment": 3.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 5.851,
+      "end": 8.545,
+      "text": "อยากกูอยากเอาไอ้คนที่มีเสียงในหัวกูเนี่ยมา",
+      "source_segment": 3.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 8.545,
+      "end": 11.0,
+      "text": "เล่นแทนกูแล้วเนี่ยแม่งบ่นไม่หยุดเลยไอ้สัส",
+      "source_segment": 3.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 17.0,
+      "end": 20.064,
+      "text": "เดี๋ยวมึงนะมึงนะแสบหัวชิบหายเลยแทนที่แบบมึง",
+      "source_segment": 17.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 20.064,
+      "end": 23.043,
+      "text": "จะเอาเลเวลที่มึงใช้ไปไปทารูเมนดี้เนี่ยทำไม",
+      "source_segment": 17.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 23.043,
+      "end": 25.0,
+      "text": "มึงไม่เอาไปซ่อมแซมร่างใหญ่วะ",
+      "source_segment": 17.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 26.0,
+      "end": 28.95,
+      "text": "กูไปเอากูไปเอากูไปเอาเซฟแป๊บนึงไม่ไหวละ",
+      "source_segment": 26.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 29.0,
+      "end": 31.0,
+      "text": "แม่งบ่นไม่หยุดเลยไอ้เหี้ย",
+      "source_segment": 29.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 39.0,
+      "end": 43.0,
+      "text": "มึงหยุดบ่นมั่งมึงบ่นเสียงในหัวมึงนี่มั่ง",
+      "source_segment": 39.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 51.0,
+      "end": 55.0,
+      "text": "อึ๊อึ๊ตายห่าแล้ว",
+      "source_segment": 51.0,
+      "gemini_uncertain": false,
+      "flags": []
+    }
+  ],
+  "qc_required": true,
+  "status": "unreviewed_draft"
+}

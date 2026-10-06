@@ -1,0 +1,54 @@
+index 13 554cbc50 dur=116.0s chunks=3 cuts=[40.0, 87.0]
+  429 on gemini-3.7-flash; trying next model
+  429 on gemini-3.6-flash; trying next model
+  429 on gemini-3.5-flash; trying next model
+  gemini-3.5-flash-lite returned no real speech (all uncertain/empty); trying next model
+   chunk 1: 0.0-40.0s -> 2 segments [gemini-3-flash-preview]
+  429 on gemini-3.7-flash; trying next model
+  429 on gemini-3.6-flash; trying next model
+  429 on gemini-3.5-flash; trying next model
+  gemini-3.5-flash-lite returned no real speech (all uncertain/empty); trying next model
+   chunk 2: 40.0-87.0s -> 2 segments [gemini-3-flash-preview]
+  429 on gemini-3.7-flash; trying next model
+  429 on gemini-3.6-flash; trying next model
+  429 on gemini-3.5-flash; trying next model
+   chunk 3: 87.0-116.0s -> 4 segments [gemini-3.5-flash-lite]
+   SAVED 8 segments, max end 109.0s <= 116.0s
+index 41 fbf4c70a dur=152.6s chunks=4 cuts=[50.0, 101.0, 148.0]
+  429 on gemini-3.7-flash; trying next model
+  429 on gemini-3.6-flash; trying next model
+  429 on gemini-3.5-flash; trying next model
+   chunk 1: 0.0-50.0s -> 13 segments [gemini-3.5-flash-lite]
+  429 on gemini-3.7-flash; trying next model
+  429 on gemini-3.6-flash; trying next model
+  429 on gemini-3.5-flash; trying next model
+   chunk 2: 50.0-101.0s -> 12 segments [gemini-3.5-flash-lite]
+  429 on gemini-3.7-flash; trying next model
+  429 on gemini-3.6-flash; trying next model
+  429 on gemini-3.5-flash; trying next model
+   chunk 3: 101.0-148.0s -> 8 segments [gemini-3.5-flash-lite]
+  429 on gemini-3.7-flash; trying next model
+  429 on gemini-3.6-flash; trying next model
+  429 on gemini-3.5-flash; trying next model
+   chunk 4: 148.0-152.6s -> 1 segments [gemini-3.5-flash-lite]
+   SAVED 34 segments, max end 150.6s <= 152.6s
+index 46 a4637e1f dur=145.0s chunks=4 cuts=[52.0, 92.0, 143.0]
+  429 on gemini-3.7-flash; trying next model
+  429 on gemini-3.6-flash; trying next model
+  429 on gemini-3.5-flash; trying next model
+   chunk 1: 0.0-52.0s -> 14 segments [gemini-3.5-flash-lite]
+  429 on gemini-3.7-flash; trying next model
+  429 on gemini-3.6-flash; trying next model
+  429 on gemini-3.5-flash; trying next model
+   chunk 2: 52.0-92.0s -> 4 segments [gemini-3.5-flash-lite]
+  429 on gemini-3.7-flash; trying next model
+  429 on gemini-3.6-flash; trying next model
+  429 on gemini-3.5-flash; trying next model
+   chunk 3: 92.0-143.0s -> 11 segments [gemini-3.5-flash-lite]
+  429 on gemini-3.7-flash; trying next model
+  429 on gemini-3.6-flash; trying next model
+  429 on gemini-3.5-flash; trying next model
+  gemini-3.5-flash-lite returned no real speech (all uncertain/empty); trying next model
+  gemini-3-flash-preview returned no real speech (all uncertain/empty); trying next model
+   chunk 4: 143.0-145.0s -> 1 segments [gemini-3.1-flash-lite]
+   SAVED 30 segments, max end 145.0s <= 145.0s

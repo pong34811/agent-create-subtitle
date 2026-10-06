@@ -1,0 +1,83 @@
+{
+  "timeline_id": "da042c09-7409-4a21-b4e3-7a672f6e6c57",
+  "timeline_name": "ตอบแชทว่าเกมยากไหมระหว่างเล่น-alien shooter-vdo",
+  "approved": false,
+  "source_model": "gemini-3.5-flash",
+  "duration_seconds": 89.98333333333333,
+  "cues": [
+    {
+      "start": 5.0,
+      "end": 7.45,
+      "text": "ออกเสียงอะไรเนี่ย",
+      "source_segment": 5.0,
+      "gemini_uncertain": true,
+      "flags": []
+    },
+    {
+      "start": 7.5,
+      "end": 9.45,
+      "text": "อะไรนะ",
+      "source_segment": 7.5,
+      "gemini_uncertain": true,
+      "flags": []
+    },
+    {
+      "start": 9.5,
+      "end": 13.5,
+      "text": "อ๋ออันนี้มันเป็นสกินของ...",
+      "source_segment": 9.5,
+      "gemini_uncertain": true,
+      "flags": []
+    },
+    {
+      "start": 45.5,
+      "end": 47.5,
+      "text": "เล่นง่ายมั้ยพี่",
+      "source_segment": 45.5,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 48.0,
+      "end": 52.167,
+      "text": "อืมอันนี้เล่นโหมดฮาร์ดนะแต่ว่าด้วยความที่เคย",
+      "source_segment": 48.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 52.167,
+      "end": 55.5,
+      "text": "เล่นมาหลายรอบแล้วมันก็เลยดูง่ายมั้ง",
+      "source_segment": 48.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 67.0,
+      "end": 72.442,
+      "text": "คือไม่รู้นะส่วนตัวพี่พี่จำได้หมดแล้วว่าตรงไหนมี",
+      "source_segment": 67.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 72.442,
+      "end": 73.5,
+      "text": "อะไรบ้าง",
+      "source_segment": 67.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 74.0,
+      "end": 77.5,
+      "text": "มันก็เลยแบบว่านั่นแหละ",
+      "source_segment": 74.0,
+      "gemini_uncertain": false,
+      "flags": []
+    }
+  ],
+  "qc_required": true,
+  "status": "unreviewed_draft"
+}

@@ -1,0 +1,75 @@
+{
+  "metadata": {
+    "model": "gemini-3.6-flash",
+    "route": "google-generativeai-direct",
+    "timeline_index": 24,
+    "timeline_id": "827f407c-0041-46cd-9d6f-dc12cc1d0a48",
+    "timeline_name": "เช็กของ เซฟยัง แล้วลุยต่อ-alien shooter 2-vdo",
+    "expected_duration_seconds": 100.0,
+    "prompt_token_count": 2734
+  },
+  "duration_seconds": 100.0,
+  "gemini": {
+    "audio_available": true,
+    "duration_seconds": 100.0,
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 2.9,
+        "text": "เดี๋ยวขอให้เก็บมาผ่านง่าย",
+        "uncertain": false
+      },
+      {
+        "start": 3.1,
+        "end": 5.8,
+        "text": "ตาที่ไม่ใช่ก็หายอยู่ดี",
+        "uncertain": false
+      },
+      {
+        "start": 24.5,
+        "end": 26.8,
+        "text": "อันนี้ครึ่งทางมากเลยนะ",
+        "uncertain": false
+      },
+      {
+        "start": 37.3,
+        "end": 39.5,
+        "text": "เดี๋ยวสั่งให้ไอ้นั่น เดี๋ยวเก็บปืนก่อน",
+        "uncertain": false
+      },
+      {
+        "start": 39.9,
+        "end": 43.2,
+        "text": "The base quarters are down the corridor on the left side.",
+        "uncertain": false
+      },
+      {
+        "start": 87.2,
+        "end": 88.0,
+        "text": "โอ้ย",
+        "uncertain": false
+      },
+      {
+        "start": 94.5,
+        "end": 95.5,
+        "text": "เอ้า",
+        "uncertain": false
+      },
+      {
+        "start": 95.8,
+        "end": 96.6,
+        "text": "โอเค",
+        "uncertain": false
+      },
+      {
+        "start": 96.8,
+        "end": 97.8,
+        "text": "เอ้า",
+        "uncertain": false
+      }
+    ],
+    "timing_measurement": "seconds",
+    "uncertainties": [],
+    "segment_count": 9
+  }
+}

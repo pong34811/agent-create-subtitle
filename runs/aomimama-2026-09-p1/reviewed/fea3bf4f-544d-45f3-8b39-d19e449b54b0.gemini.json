@@ -1,0 +1,187 @@
+{
+  "timeline_id": "fea3bf4f-544d-45f3-8b39-d19e449b54b0",
+  "timeline_name": "เริ่มเกมแล้วเจอไฟต์-League of Legends-vdo",
+  "approved": false,
+  "source_model": "gemini-3.5-flash-lite",
+  "duration_seconds": 70.0,
+  "cues": [
+    {
+      "start": 0.0,
+      "end": 2.117,
+      "text": "[ฟังไม่ชัด]",
+      "source_segment": 0.0,
+      "gemini_uncertain": true,
+      "flags": []
+    },
+    {
+      "start": 2.167,
+      "end": 7.027,
+      "text": "ของมันมีมั้ยไม่ไม่ใช่ของแฮกแมน",
+      "source_segment": 2.167,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 7.077,
+      "end": 10.643,
+      "text": "ไม่ใช่มั้ยใช่เออมันมีมั้ยอ่านดิ๊เกมให้",
+      "source_segment": 7.077,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 10.643,
+      "end": 11.967,
+      "text": "มันฮีลได้เยอะ",
+      "source_segment": 7.077,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 12.017,
+      "end": 14.457,
+      "text": "อันนี้ใช่นี่อะไรไม่หนาวะ",
+      "source_segment": 12.017,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 14.507,
+      "end": 16.437,
+      "text": "เดี๋ยวออกชิ้นแรก",
+      "source_segment": 14.507,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 16.487,
+      "end": 18.017,
+      "text": "ไม่ๆมีๆ",
+      "source_segment": 16.487,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 18.067,
+      "end": 20.307,
+      "text": "เดี่ยวก่อนตีต่อ",
+      "source_segment": 18.067,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 23.637,
+      "end": 26.637,
+      "text": "มานี่มา",
+      "source_segment": 23.637,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 26.687,
+      "end": 30.215,
+      "text": "[ฟังไม่ชัด] หนึ่งรัวตัดไปหนึ่งเดี๋ยวตัด",
+      "source_segment": 26.687,
+      "gemini_uncertain": true,
+      "flags": []
+    },
+    {
+      "start": 30.215,
+      "end": 32.187,
+      "text": "ท้ายแม่เปิดเมกะบ็อกซ์",
+      "source_segment": 26.687,
+      "gemini_uncertain": true,
+      "flags": []
+    },
+    {
+      "start": 39.427,
+      "end": 41.477,
+      "text": "เดี๋ยวผมจะตีพันธุ์พื้น",
+      "source_segment": 39.427,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 41.527,
+      "end": 45.753,
+      "text": "เดี๋ยวผมจะสกิลดักดักไม่ใช่ไม่ใช่ดัก",
+      "source_segment": 41.527,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 45.753,
+      "end": 46.457,
+      "text": "เป็นไอ",
+      "source_segment": 41.527,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 46.507,
+      "end": 49.647,
+      "text": "เดี๋ยวผมจะกั๊กระยะตรงที่มันดิ่งมานะ",
+      "source_segment": 46.507,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 49.697,
+      "end": 51.477,
+      "text": "แบบคนเด่งเลย",
+      "source_segment": 49.697,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 51.527,
+      "end": 54.167,
+      "text": "แมพแล้วฝนตกด้วยนะ",
+      "source_segment": 51.527,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 54.217,
+      "end": 56.357,
+      "text": "เรียบร้อย",
+      "source_segment": 54.217,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 56.407,
+      "end": 59.907,
+      "text": "เฮ้ยอย่าไปโดน",
+      "source_segment": 56.407,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 59.957,
+      "end": 63.807,
+      "text": "อื้อหือบวิกเหรอบวิกอยู่",
+      "source_segment": 59.957,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 63.857,
+      "end": 68.411,
+      "text": "กลางกำลังเดินลงมาล่างกัดใส่ล้า",
+      "source_segment": 63.857,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 68.411,
+      "end": 69.377,
+      "text": "ตายแล้ว",
+      "source_segment": 63.857,
+      "gemini_uncertain": false,
+      "flags": []
+    }
+  ],
+  "qc_required": true,
+  "status": "unreviewed_draft"
+}

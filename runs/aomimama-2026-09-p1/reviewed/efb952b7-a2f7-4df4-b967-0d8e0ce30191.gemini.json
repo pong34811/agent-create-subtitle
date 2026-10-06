@@ -1,0 +1,307 @@
+{
+  "timeline_id": "efb952b7-a2f7-4df4-b967-0d8e0ce30191",
+  "timeline_name": "ปรับความละเอียด 1024x768 ไอ้เฮีย-alien shooter 2-vdo",
+  "approved": false,
+  "source_model": "gemini-3.5-flash",
+  "duration_seconds": 125.83333333333333,
+  "cues": [
+    {
+      "start": 0.0,
+      "end": 4.851,
+      "text": "ไอ้เหี้ยทำเหมือนพี่มีซีดีรอมอ่ะเห็นไหม 1,600",
+      "source_segment": 0.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 4.851,
+      "end": 7.95,
+      "text": "1,600 1,600 ใช้ได้พี่เฮ็ดไง",
+      "source_segment": 0.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 8.0,
+      "end": 10.962,
+      "text": "ยุคนั้นมันอาจจะยังไม่มีความละเอียด 1,000",
+      "source_segment": 8.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 10.962,
+      "end": 11.95,
+      "text": "1,080 อยู่ไงพี่",
+      "source_segment": 8.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 12.0,
+      "end": 17.95,
+      "text": "เฮ้ยเฮ้ยเฮ้ยโอ๊ยไม่รอดอ่ะพี่",
+      "source_segment": 12.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 18.0,
+      "end": 22.764,
+      "text": "ไอ้เหี้ยกลับกลับคืนสู่สามัญไอ้เหี้ย 1 0 1",
+      "source_segment": 18.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 22.764,
+      "end": 26.95,
+      "text": "อะไรวะ 1 1 0 1 0 2 4 คูณ 7 6 8",
+      "source_segment": 18.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 27.0,
+      "end": 31.549,
+      "text": "กูเข็ดแล้วไอ้เหี้ยเอ๊ยไอ้เหี้ยหัวหมอทุกวิถีทาง",
+      "source_segment": 27.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 31.549,
+      "end": 33.95,
+      "text": "สุดท้ายไม่ได้เหี้ยอะไรเลย",
+      "source_segment": 27.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 34.0,
+      "end": 37.141,
+      "text": "เออปรับเป็น 0 ก็ได้พี่แต่ว่าถ้าปรับเป็น 0",
+      "source_segment": 34.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 37.141,
+      "end": 38.95,
+      "text": "เอ้ยเออปรับปรับเออ",
+      "source_segment": 34.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 39.0,
+      "end": 40.95,
+      "text": "เท่าไหร่นะ",
+      "source_segment": 39.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 41.0,
+      "end": 43.95,
+      "text": "1,000 1,024",
+      "source_segment": 41.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 44.0,
+      "end": 44.95,
+      "text": "ฮะเท่าไหร่",
+      "source_segment": 44.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 45.0,
+      "end": 47.95,
+      "text": "1 0 2 4 1 0 2 4",
+      "source_segment": 45.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 48.0,
+      "end": 52.25,
+      "text": "โหพี่นี่ไม่ผ่านเลยแม่งต้องคุยต้องบอกเลขทีละ",
+      "source_segment": 48.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 52.25,
+      "end": 53.95,
+      "text": "ตัวเออ 7 7 6 8",
+      "source_segment": 48.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 54.0,
+      "end": 56.95,
+      "text": "เซฟ",
+      "source_segment": 54.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 57.0,
+      "end": 59.95,
+      "text": "เออพี่เชื่อผมผมไม่หักหลังพี่หรอก",
+      "source_segment": 57.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 60.0,
+      "end": 63.95,
+      "text": "พี่ย้ำด้วย",
+      "source_segment": 60.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 64.0,
+      "end": 66.95,
+      "text": "ถ้ามันบูทไม่ได้เออ",
+      "source_segment": 64.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 67.0,
+      "end": 69.95,
+      "text": "พี่พี่พี่ปรับพี่ปรับฟูลสกรีนแล้วเหรอ",
+      "source_segment": 67.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 70.0,
+      "end": 73.95,
+      "text": "ดูดิปรับ 1,600 แล้วมันไม่เลือกว่ะ",
+      "source_segment": 70.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 74.0,
+      "end": 76.95,
+      "text": "อุ๊ยผมไม่โกหกพี่หรอกโหรู้จักกันมาตั้งนาน",
+      "source_segment": 74.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 77.0,
+      "end": 79.0,
+      "text": "อือๆ",
+      "source_segment": 77.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 84.0,
+      "end": 87.95,
+      "text": "เห็นไหมโอ้โหขนาดนี้แล้วระดับผมแล้วพี่",
+      "source_segment": 84.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 88.0,
+      "end": 91.0,
+      "text": "เออขำขำเฮ้ยไม่หายโอเค",
+      "source_segment": 88.0,
+      "gemini_uncertain": true,
+      "flags": []
+    },
+    {
+      "start": 96.0,
+      "end": 99.95,
+      "text": "อันล่างพี่อันล่างอย่าไปโดนหลอก",
+      "source_segment": 96.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 100.0,
+      "end": 102.95,
+      "text": "ปรับเป็น 1",
+      "source_segment": 100.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 103.0,
+      "end": 104.95,
+      "text": "เซฟ",
+      "source_segment": 103.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 105.0,
+      "end": 108.468,
+      "text": "แต่ถ้าเกิดแต่ถ้าเกิดว่าเกมแม่งแครชเหมือนเดิม",
+      "source_segment": 105.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 108.468,
+      "end": 108.95,
+      "text": "ไอ้เหี้ย",
+      "source_segment": 105.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 109.0,
+      "end": 111.401,
+      "text": "โหยมันจะแครชทำไมล่ะพี่เราเพิ่งเปิดฟูลสกรีน",
+      "source_segment": 109.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 111.401,
+      "end": 111.95,
+      "text": "กันมาเมื่อกี้",
+      "source_segment": 109.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 112.0,
+      "end": 116.95,
+      "text": "คนดู 2 คนแม่งภาคภูมิใจในตัวพี่แล้วเนี่ย",
+      "source_segment": 112.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 117.0,
+      "end": 118.95,
+      "text": "เนอะ",
+      "source_segment": 117.0,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 119.0,
+      "end": 125.0,
+      "text": "พี่นี่หัวเราะจนคอแตกอ่ะไอ้เหี้ย",
+      "source_segment": 119.0,
+      "gemini_uncertain": false,
+      "flags": []
+    }
+  ],
+  "qc_required": true,
+  "status": "unreviewed_draft"
+}

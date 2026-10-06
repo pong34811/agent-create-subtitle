@@ -1,0 +1,155 @@
+{
+  "timeline_id": "4c7555ea-2f61-4214-88a7-877c809e14df",
+  "timeline_name": "ออกเมื่อไหร่มีตายเมื่อนั้น-League of Legends-vdo",
+  "approved": false,
+  "source_model": "gemini-3.5-flash-lite",
+  "duration_seconds": 59.833333333333336,
+  "cues": [
+    {
+      "start": 1.84,
+      "end": 3.5,
+      "text": "ยิงเซตก็โดนเซตกระทืบ",
+      "source_segment": 1.84,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 4.1,
+      "end": 5.92,
+      "text": "ยิงการเรียนก็โดนหมุนแน่ๆ",
+      "source_segment": 4.1,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 6.02,
+      "end": 7.8,
+      "text": "ยิงแฟนก็ไม่ได้อีกติดโล่",
+      "source_segment": 6.02,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 8.22,
+      "end": 10.66,
+      "text": "ยิงดาวินไม่ได้ติดโซน่า",
+      "source_segment": 8.22,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 11.14,
+      "end": 12.18,
+      "text": "มีใครได้บ้างเนี่ย",
+      "source_segment": 11.14,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 13.14,
+      "end": 14.44,
+      "text": "หนีไปไม่เป็นแล้วตอนนี้สั่นไป",
+      "source_segment": 13.14,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 24.64,
+      "end": 25.32,
+      "text": "เออเรามีรีซินด้วย",
+      "source_segment": 24.64,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 25.86,
+      "end": 27.7,
+      "text": "เราเชื่อมันรีซินมันช่วยเราได้",
+      "source_segment": 25.86,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 28.32,
+      "end": 29.34,
+      "text": "เชื่อในตัวรีซิน",
+      "source_segment": 28.32,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 33.28,
+      "end": 34.82,
+      "text": "เอาซื้ออันนั้นดีกว่า",
+      "source_segment": 33.28,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 39.06,
+      "end": 40.04,
+      "text": "ไอเทมมีม",
+      "source_segment": 39.06,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 42.06,
+      "end": 43.14,
+      "text": "อ๋อหรอเพื่อนขาด",
+      "source_segment": 42.06,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 45.16,
+      "end": 46.54,
+      "text": "อ๋อเมื่อไหร่มึงตายเมื่อนั้น",
+      "source_segment": 45.16,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 47.7,
+      "end": 50.04,
+      "text": "ออกไปแหละไอ้ตานั้นสกอร์จะพุ่งขึ้น",
+      "source_segment": 47.7,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 50.04,
+      "end": 52.18,
+      "text": "เลยตรงกลางอ่ะสกอร์ตรงกลางอ่ะ",
+      "source_segment": 47.7,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 53.94,
+      "end": 55.76,
+      "text": "คิวแอสซินจะไม่มี",
+      "source_segment": 53.94,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 56.34,
+      "end": 59.4,
+      "text": "แล้วแล้วแบบสมมุติว่าถ้ามันแบบออก",
+      "source_segment": 56.34,
+      "gemini_uncertain": false,
+      "flags": []
+    },
+    {
+      "start": 59.4,
+      "end": 59.8,
+      "text": "มาดี",
+      "source_segment": 56.34,
+      "gemini_uncertain": false,
+      "flags": []
+    }
+  ],
+  "qc_required": true,
+  "status": "unreviewed_draft"
+}

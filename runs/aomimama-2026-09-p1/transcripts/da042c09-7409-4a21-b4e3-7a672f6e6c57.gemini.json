@@ -1,0 +1,69 @@
+{
+  "metadata": {
+    "model": "gemini-3.5-flash",
+    "route": "google-generativeai-direct",
+    "timeline_index": 12,
+    "timeline_id": "da042c09-7409-4a21-b4e3-7a672f6e6c57",
+    "timeline_name": "ตอบแชทว่าเกมยากไหมระหว่างเล่น-alien shooter-vdo",
+    "expected_duration_seconds": 89.98333333333333,
+    "prompt_token_count": 2481
+  },
+  "duration_seconds": 89.98333333333333,
+  "gemini": {
+    "audio_available": true,
+    "duration_seconds": 90.0,
+    "segments": [
+      {
+        "start": 5.0,
+        "end": 7.5,
+        "text": "ออกเสียงอะไรเนี่ย",
+        "uncertain": true
+      },
+      {
+        "start": 7.5,
+        "end": 9.5,
+        "text": "อะไรนะ",
+        "uncertain": true
+      },
+      {
+        "start": 9.5,
+        "end": 13.5,
+        "text": "อ๋อ อันนี้มันเป็นสกินของ...",
+        "uncertain": true
+      },
+      {
+        "start": 45.5,
+        "end": 47.5,
+        "text": "เล่นง่ายมั้ยพี่",
+        "uncertain": false
+      },
+      {
+        "start": 48.0,
+        "end": 55.5,
+        "text": "อืม อันนี้เล่นโหมดฮาร์ดนะ แต่ว่าด้วยความที่เคยเล่นมาหลายรอบแล้ว มันก็เลยดูง่ายมั้ง",
+        "uncertain": false
+      },
+      {
+        "start": 67.0,
+        "end": 73.5,
+        "text": "คือ ไม่รู้นะ ส่วนตัวพี่ พี่จำได้หมดแล้วว่าตรงไหนมีอะไรบ้าง",
+        "uncertain": false
+      },
+      {
+        "start": 74.0,
+        "end": 77.5,
+        "text": "มันก็เลยแบบว่า นั่นแหละ",
+        "uncertain": false
+      }
+    ],
+    "timing_measurement": "seconds",
+    "uncertainties": [
+      {
+        "start": 5.0,
+        "end": 13.5,
+        "reason": "เสียงพูดเบาและมีเสียงเกมแทรกดังมาก"
+      }
+    ],
+    "segment_count": 7
+  }
+}

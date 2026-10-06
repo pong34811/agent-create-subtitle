@@ -1,0 +1,75 @@
+{
+  "metadata": {
+    "model": "gemini-3-flash-preview",
+    "route": "google-generativeai-direct",
+    "timeline_index": 7,
+    "timeline_id": "b99149a7-7693-4f2e-bafe-b493e2bc889e",
+    "timeline_name": "ล่อบอสตัวเหนียวจนเหนื่อย-alien shooter last hope-vdo",
+    "expected_duration_seconds": 149.18333333333334,
+    "prompt_token_count": 3923
+  },
+  "duration_seconds": 149.18333333333334,
+  "gemini": {
+    "audio_available": true,
+    "duration_seconds": 150,
+    "segments": [
+      {
+        "start": 47,
+        "end": 48,
+        "text": "เอาล่ะ ได้เวลา",
+        "uncertain": false
+      },
+      {
+        "start": 48,
+        "end": 50,
+        "text": "ย้าาาาา",
+        "uncertain": false
+      },
+      {
+        "start": 56,
+        "end": 59,
+        "text": "เอามาสู้ เอามาให้ตาย ไอ้เหี้ย",
+        "uncertain": false
+      },
+      {
+        "start": 77,
+        "end": 86,
+        "text": "เพิ่งทำเอง โห คลิปมันเยอะอ่ะ ไม่ถึงไม่ไหวอ่ะ มันเพิ่งทำอ่ะ ดูดิ มันเยอะฉิบหายเลยอ่ะ",
+        "uncertain": false
+      },
+      {
+        "start": 92,
+        "end": 94,
+        "text": "มันหายไปไหนเนี่ย",
+        "uncertain": false
+      },
+      {
+        "start": 95,
+        "end": 97,
+        "text": "หรือว่ามีคนมาขโมยวะ",
+        "uncertain": false
+      },
+      {
+        "start": 97,
+        "end": 98,
+        "text": "งงว่ะ",
+        "uncertain": false
+      },
+      {
+        "start": 105,
+        "end": 107,
+        "text": "ไม่เกี่ยวหรอก อือ",
+        "uncertain": false
+      },
+      {
+        "start": 134,
+        "end": 140,
+        "text": "แป๊บนึงนะ ใช้เหรียญทั้งหมดแล้วอ่ะ มันเพิ่งได้ครึ่งเดียวเองอ่ะ ไอ้เหี้ย",
+        "uncertain": false
+      }
+    ],
+    "timing_measurement": "seconds",
+    "uncertainties": [],
+    "segment_count": 9
+  }
+}

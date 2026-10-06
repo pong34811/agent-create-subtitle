@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "model": "google/gemini-3.8-flash",
+    "timeline_index": 4,
+    "timeline_id": "28e23409-55dc-4284-8a0f-4b0985620b4e",
+    "timeline_name": "คุยเรื่องอายุและเด็กรุ่นหลาน-alien shooter last hope-vdo",
+    "expected_duration_seconds": 108.46666666666667,
+    "wav_sha256_note": "hash recorded by transcribe; see audio hash in reviewed artifacts"
+  },
+  "duration_seconds": 108.46666666666667,
+  "gemini": {
+    "audio_available": true,
+    "duration_seconds": 150.8,
+    "timing_measurement": "measured_timestamps",
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 4.14,
+        "text": "เพื่อนชั้นบางคนแม่งแต่งงานจนลูกมันมีหลานแล้วอะ",
+        "uncertain": false
+      },
+      {
+        "start": 4.88,
+        "end": 6.36,
+        "text": "เชี่ยจริง ๆ ว่ะ",
+        "uncertain": false
+      },
+      {
+        "start": 7.04,
+        "end": 9.92,
+        "text": "มึง ไม่รู้มึงจะขยันปั๊มอะไรขนาดนั้นเพื่อนชั้น",
+        "uncertain": false
+      },
+      {
+        "start": 10.32,
+        "end": 12.38,
+        "text": "ก็ไม่น่าหาไอ้นี่",
+        "uncertain": false
+      },
+      {
+        "start": 12.56,
+        "end": 15.68,
+        "text": "มีลูกก่อนวัยนี่แม่งโคตรบัดซบเลย มึงทำกูแก่",
+        "uncertain": false
+      },
+      {
+        "start": 23.46,
+        "end": 25.14,
+        "text": "ขนาดนั้นเลยเหรอ",
+        "uncertain": false
+      },
+      {
+        "start": 25.32,
+        "end": 31.84,
+        "text": "มึงเทียบภาพนะ เพื่อนชั้นบางคนมีลูกตั้งแต่อายุสิบห้านะ แล้วลูกมันก็ต้องมีลูกตั้งแต่อายุตอนอายุแบบว่า",
+        "uncertain": false
+      },
+      {
+        "start": 32.22,
+        "end": 34.62,
+        "text": "ตอนเท่า ๆ กับแม่มันน่ะ ตอนมีลูกอะ",
+        "uncertain": false
+      },
+      {
+        "start": 35.8,
+        "end": 36.6,
+        "text": "ฮึ้",
+        "uncertain": false
+      },
+      {
+        "start": 36.6,
+        "end": 40.52,
+        "text": "กูเนี่ยอายุยังไม่ถึงเลขสามอะ แต่ แต่กูมีแบบว่า",
+        "uncertain": false
+      },
+      {
+        "start": 41.22,
+        "end": 44.38,
+        "text": "มีเพื่อนที่แม่งมี มีหลานแล้วอะ",
+        "uncertain": false
+      },
+      {
+        "start": 44.42,
+        "end": 46.54,
+        "text": "ให้ ให้ชั้นรู้สึกยังไงวะ",
+        "uncertain": false
+      },
+      {
+        "start": 111.48,
+        "end": 113.1,
+        "text": "มีลูกเร็วแท้",
+        "uncertain": false
+      },
+      {
+        "start": 113.24,
+        "end": 117.84,
+        "text": "เออ ยุคชั้นมันเป็นยุคที่แบบบางทีแม่งไม่รู้จักป้องกันอะ",
+        "uncertain": false
+      }
+    ],
+    "uncertainties": [],
+    "duration_drift_note": "model reported 150.8s vs manifest 108.46666666666667s; kept model segments"
+  }
+}

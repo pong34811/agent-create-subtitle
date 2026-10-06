@@ -1,0 +1,260 @@
+{
+  "metadata": {
+    "model": "gemini-2.5-flash",
+    "route": "google-generativeai-direct",
+    "timeline_index": 26,
+    "timeline_id": "a618240d-4cd9-4331-bccc-dd6e98e7a4e7",
+    "timeline_name": "Windows XP  Vista  8  ลองหมด-alien shooter 2-vdo",
+    "expected_duration_seconds": 108.86666666666666,
+    "prompt_token_count": 3677
+  },
+  "duration_seconds": 108.86666666666666,
+  "gemini": {
+    "audio_available": true,
+    "duration_seconds": 108.5,
+    "segments": [
+      {
+        "start": 0.7,
+        "end": 2.5,
+        "text": "โคตร เหี้ย เลย ไอ้เหี้ย เอ้ย",
+        "uncertain": false
+      },
+      {
+        "start": 3.1,
+        "end": 5.9,
+        "text": "มี แต่ ผู้ พัฒนา มา เห็น คงภาคภูมิใจในตัวเราอ่ะ ไอ้เหี้ย",
+        "uncertain": false
+      },
+      {
+        "start": 8.5,
+        "end": 8.9,
+        "text": "แล้ว ก็ ดับ เออ",
+        "uncertain": false
+      },
+      {
+        "start": 9.0,
+        "end": 11.5,
+        "text": "ภาคภูมิใจที่แม่ง มา แฮก เกม เค้า อยู่ ไอ้ สัตว์",
+        "uncertain": false
+      },
+      {
+        "start": 12.3,
+        "end": 15.0,
+        "text": "แฮก เกม เหี้ย อะไร เรา ยัง กด Edit ด้วย Notepad อยู่ เลย พี่",
+        "uncertain": false
+      },
+      {
+        "start": 15.3,
+        "end": 16.0,
+        "text": "ไอ้เหี้ย",
+        "uncertain": false
+      },
+      {
+        "start": 16.6,
+        "end": 18.8,
+        "text": "เปลี่ยน เป็น XP แพ็ค 1 ดิ พี่",
+        "uncertain": false
+      },
+      {
+        "start": 19.0,
+        "end": 22.9,
+        "text": "ไป เอา สัก แพ็ค นึง อ่ะ ไอ้เหี้ย ที่ มัน แบบ ว่า มัน คู่ อยู่ คู่ 202 อ่ะ",
+        "uncertain": false
+      },
+      {
+        "start": 23.3,
+        "end": 25.0,
+        "text": "สรุป Windows 7 แล้ว พี่ เปลี่ยน แล้ว หรอ",
+        "uncertain": false
+      },
+      {
+        "start": 26.9,
+        "end": 27.3,
+        "text": "แล้ว",
+        "uncertain": false
+      },
+      {
+        "start": 30.2,
+        "end": 30.6,
+        "text": "ไม่ ใช่",
+        "uncertain": false
+      },
+      {
+        "start": 30.8,
+        "end": 33.4,
+        "text": "ยัง ไม่ เปลี่ยน ยัง ไม่ เปลี่ยน พี่ พี่ คลิก ขวา ไป",
+        "uncertain": false
+      },
+      {
+        "start": 34.2,
+        "end": 37.0,
+        "text": "แสดง การ คิด เห็น เออ คุณสมบัติ การ เข้า ถึง",
+        "uncertain": false
+      },
+      {
+        "start": 37.3,
+        "end": 38.8,
+        "text": "เปลี่ยน เป็น Windows XP",
+        "uncertain": false
+      },
+      {
+        "start": 39.6,
+        "end": 41.6,
+        "text": "XP แพ็ค แพ็ค 1 มั้ย",
+        "uncertain": false
+      },
+      {
+        "start": 42.1,
+        "end": 45.3,
+        "text": "พิซซ่า เอ้ย Vista แม่ง เลย พี่ ของ จริง เหี้ย Vista แพ็ค 1",
+        "uncertain": false
+      },
+      {
+        "start": 45.9,
+        "end": 47.5,
+        "text": "1 ไม่ ได้ ก็ 2 ต่อ อ่ะ ไอ้เหี้ย",
+        "uncertain": false
+      },
+      {
+        "start": 47.9,
+        "end": 49.3,
+        "text": "ไม่ ต้อง เล่น แอล แล้ว ไอ้เหี้ย",
+        "uncertain": false
+      },
+      {
+        "start": 49.9,
+        "end": 54.4,
+        "text": "มา นั่ง มา นั่ง มา นั่ง ผา หา แบบ หา หา Windows โหมด เปิด เกม ได้ โคตร เหี้ย เลย",
+        "uncertain": false
+      },
+      {
+        "start": 55.6,
+        "end": 56.2,
+        "text": "ไม่ ได้",
+        "uncertain": false
+      },
+      {
+        "start": 56.2,
+        "end": 57.0,
+        "text": "ไม่ ได้",
+        "uncertain": false
+      },
+      {
+        "start": 57.0,
+        "end": 58.5,
+        "text": "ใช้ Windows เลย ว่ะ",
+        "uncertain": false
+      },
+      {
+        "start": 59.0,
+        "end": 59.9,
+        "text": "Vista ปกติ พี่",
+        "uncertain": false
+      },
+      {
+        "start": 1.014,
+        "end": 1.023,
+        "text": "ไม่ ได้ ใช้",
+        "uncertain": false
+      },
+      {
+        "start": 1.033,
+        "end": 1.037,
+        "text": "ไม่ ได้ ใช้",
+        "uncertain": false
+      },
+      {
+        "start": 1.049,
+        "end": 1.066,
+        "text": "ไม่ ได้ ใช้ DG กู ดู การ นะ เนี่ย",
+        "uncertain": false
+      },
+      {
+        "start": 1.084,
+        "end": 1.1,
+        "text": "เฮ้ย Windows 8 ยัง ไม่ ลอง เลย นะ พี่",
+        "uncertain": false
+      },
+      {
+        "start": 1.118,
+        "end": 1.129,
+        "text": "ไล่ ไป เหี้ย อัน",
+        "uncertain": false
+      },
+      {
+        "start": 1.13,
+        "end": 1.139,
+        "text": "กด Play เลย พี่ กด Play เลย",
+        "uncertain": false
+      },
+      {
+        "start": 1.176,
+        "end": 1.185,
+        "text": "นี่ น่า จะ เกม เด้ง",
+        "uncertain": false
+      },
+      {
+        "start": 1.198,
+        "end": 1.204,
+        "text": "เป็น ไง ผม รู้",
+        "uncertain": false
+      },
+      {
+        "start": 1.219,
+        "end": 1.239,
+        "text": "ผม ผม นี่ โคตร เก่ง เลย ไอ้เหี้ย คลิก ขวา",
+        "uncertain": false
+      },
+      {
+        "start": 1.249,
+        "end": 1.266,
+        "text": "Windows 8 พี่ Windows 8 รอบ นี้ Windows 8",
+        "uncertain": false
+      },
+      {
+        "start": 1.304,
+        "end": 1.329,
+        "text": "อือ จิ้ม ไป ไอ้เหี้ย นํา ไป ใช้ ตกลง",
+        "uncertain": false
+      },
+      {
+        "start": 1.339,
+        "end": 1.343,
+        "text": "ปื๊ด",
+        "uncertain": false
+      },
+      {
+        "start": 1.352,
+        "end": 1.368,
+        "text": "ไม่ ได้ ไอ้เหี้ย ไอ้ นี่ เด้ง",
+        "uncertain": false
+      },
+      {
+        "start": 1.415,
+        "end": 1.44,
+        "text": "[หัวเราะ]",
+        "uncertain": true
+      },
+      {
+        "start": 1.456,
+        "end": 1.469,
+        "text": "การ แสดง ผล เกม",
+        "uncertain": false
+      },
+      {
+        "start": 1.473,
+        "end": 1.485,
+        "text": "นั่ง คํา คุณสมบัติ",
+        "uncertain": false
+      }
+    ],
+    "uncertainties": [
+      {
+        "start": 1.415,
+        "end": 1.44,
+        "reason": "laughter"
+      }
+    ],
+    "segment_count": 39
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "model": "gemini-3.5-flash",
+    "route": "google-generativeai-direct",
+    "timeline_index": 39,
+    "timeline_id": "caf467e9-cd05-472b-ad67-7509a17d7cc3",
+    "timeline_name": "อยากเปลี่ยนร่าง เอาคนไม่มีเสียงในหัวมาเล่นแทน-Minecraft-vdo",
+    "expected_duration_seconds": 55.0,
+    "prompt_token_count": 1568
+  },
+  "duration_seconds": 55.0,
+  "gemini": {
+    "audio_available": true,
+    "duration_seconds": 56.0,
+    "segments": [
+      {
+        "start": 3.0,
+        "end": 11.0,
+        "text": "แต่ตอนเนี้ย กูชักอยากจะเปลี่ยนร่างแล้วเนี่ยค่ะ กูอยาก กูอยากเอาไอ้คนที่มีเสียงในหัวกูเนี่ย มาเล่นแทนกูแล้วเนี่ย แม่งบ่นไม่หยุดเลยไอ้สัส",
+        "uncertain": false
+      },
+      {
+        "start": 17.0,
+        "end": 25.0,
+        "text": "เดี๋ยวมึงนะมึงนะ แสบหัวชิบหายเลย แทนที่แบบมึงจะเอาเลเวลที่มึงใช้ไป ไปทารูเมนดี้เนี่ย ทำไมมึงไม่เอาไปซ่อมแซมร่างใหญ่วะ",
+        "uncertain": false
+      },
+      {
+        "start": 26.0,
+        "end": 29.0,
+        "text": "กูไปเอา กูไปเอา กูไปเอาเซฟแป๊บนึง ไม่ไหวละ",
+        "uncertain": false
+      },
+      {
+        "start": 29.0,
+        "end": 31.0,
+        "text": "แม่งบ่นไม่หยุดเลย ไอ้เหี้ย",
+        "uncertain": false
+      },
+      {
+        "start": 39.0,
+        "end": 43.0,
+        "text": "มึงหยุดบ่นมั่ง มึงบ่นเสียงในหัวมึงนี่มั่ง",
+        "uncertain": false
+      },
+      {
+        "start": 51.0,
+        "end": 55.0,
+        "text": "อึ๊ อึ๊ ตายห่าแล้ว",
+        "uncertain": false
+      }
+    ],
+    "segment_count": 6
+  }
+}
