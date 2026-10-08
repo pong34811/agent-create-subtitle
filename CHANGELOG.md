@@ -1,5 +1,30 @@
 # Changelog
 
+## v0.5.0
+
+Follow-up to the v0.4.0 audit, tested against the live Gemini API and a running Resolve.
+
+### Added
+- `scripts/run_pipeline.py`: single entry point (`status|transcribe|cues|verify|import`)
+  that picks the right interpreter per stage; `import` is a dry run unless `--apply`.
+- `scripts/verify_cues_audio.py`: per-cue speech-band energy check against the WAV
+  (cue over silence, no onset near start, past end of audio). Writes
+  `audio-verification.json`; a plausibility check, not proof of correct words.
+- `tests/test_verify_and_runner.py` and two `pick_timeline` tests: 39 tests total.
+- `GLOSSARY.md` and `docs/adr/0001-gemini-asr-over-whisper.md`.
+
+### Fixed
+- Resolve re-issued every timeline id, so the importer reported all 49 timelines
+  missing even though all held the right subtitle track. `pick_timeline` falls back
+  to a unique name.
+- `gemini_direct_transcribe.py` and `gemini_batch_transcribe.py` asserted a manifest
+  of exactly 49 timelines; `import_subtitles_resolve.py`, `debug_timeline2_reply.py`
+  and the import tests no longer use absolute paths.
+
+### Measured
+- Same model, same audio, re-run: different words and timestamps up to ~2 s apart.
+- 963 cues across 49 timelines: 204 flagged for listening (uncalibrated thresholds).
+
 ## v0.4.0
 
 Project audit: skills brought in line with the real (Gemini) pipeline, the

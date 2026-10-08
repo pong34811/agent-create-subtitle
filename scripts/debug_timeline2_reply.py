@@ -8,7 +8,7 @@ RUN_ROOT = Path(_os.environ.get('AOMIMAMA_RUN_ROOT') or Path(__file__).resolve()
 row = json.loads((RUN_ROOT / 'manifest.json').read_text(encoding='utf-8'))['timelines'][1]
 wav = RUN_ROOT / 'audio' / f"{row['id']}.wav"
 payload = base64.b64encode(wav.read_bytes()).decode()
-prompt = Path('C:/Users/warit/Desktop/agent-create-subtitle/scripts/gemini_batch_transcribe.py').read_text(encoding='utf-8')
+prompt = Path(__file__).resolve().parent / 'gemini_batch_transcribe.py'.read_text(encoding='utf-8')
 p_start = prompt.find("PROMPT = ('") + len("PROMPT = ('")
 p_end = prompt.find("')", p_start)
 PROMPT = prompt[p_start:p_end].replace('\\n', '\n').replace("', '\n", '\n').replace("' '", '')

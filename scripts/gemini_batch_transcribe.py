@@ -34,7 +34,7 @@ PROMPT = ('ตรวจฟังไฟล์เสียงที่แนบจ
 
 def load_manifest():
     rows = json.loads((RUN_ROOT / 'manifest.json').read_text(encoding='utf-8'))['timelines']
-    assert len({r['id'] for r in rows}) == len(rows) == 49
+    assert rows and len({r['id'] for r in rows}) == len(rows), 'manifest ids must be unique and non-empty'
     return rows
 
 

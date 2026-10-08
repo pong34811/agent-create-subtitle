@@ -13,7 +13,8 @@ import re
 import time
 from pathlib import Path
 
-RUN_ROOT = Path('C:/Users/warit/Desktop/agent-create-subtitle/runs/aomimama-2026-09-p1')
+import os
+RUN_ROOT = Path(os.environ.get('AOMIMAMA_RUN_ROOT') or Path(__file__).resolve().parents[1] / 'runs' / 'aomimama-2026-09-p1')
 MANIFEST = RUN_ROOT / 'manifest.json'
 SRT_DIR = RUN_ROOT / 'srt'
 RESULTS = RUN_ROOT / 'import-results.json'
@@ -101,19 +102,33 @@ def connect():
     return resolve, project, project.GetMediaPool()
 
 
-def find_timeline(project, uid):
-    for i in range(1, project.GetTimelineCount() + 1):
-        tl = project.GetTimelineByIndex(i)
+def pick_timeline(timelines, uid, name=None):
+    """Choose a timeline: by unique id, else by name when exactly one has it.
+
+    Resolve re-issues timeline ids when a project is re-opened or re-imported (all 49
+    manifest ids no longer matched the live project, which still held all 49 timelines
+    by name). Matching by id alone then reports every timeline missing.
+    """
+    for tl in timelines:
         if tl.GetUniqueId() == uid:
             return tl
+    if name:
+        same = [tl for tl in timelines if tl.GetName() == name]
+        if len(same) == 1:
+            return same[0]
     return None
+
+
+def find_timeline(project, uid, name=None):
+    timelines = [project.GetTimelineByIndex(i) for i in range(1, project.GetTimelineCount() + 1)]
+    return pick_timeline(timelines, uid, name)
 
 
 def live_track_counts(project, rows):
     """Read how many subtitle tracks each timeline has right now."""
     counts = {}
     for row in rows:
-        tl = find_timeline(project, row['id'])
+        tl = find_timeline(project, row['id'], row.get('name'))
         counts[row['id']] = tl.GetTrackCount('subtitle') if tl else -1
     return counts
 
@@ -207,7 +222,7 @@ def main():
             print(f"  {entry['index']:>3} SKIP (already has {entry['existing_tracks']} track)")
             results.append({**entry, 'ok': True, 'skipped': True})
             continue
-        tl = find_timeline(project, entry['id'])
+        tl = find_timeline(project, entry['id'], entry.get('name'))
         if tl is None:
             print(f"  {entry['index']:>3} MISSING TIMELINE {entry['id']}")
             results.append({**entry, 'ok': False, 'error': 'timeline not found'})

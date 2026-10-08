@@ -12,12 +12,15 @@ original Whisper pipeline is archived under `legacy/`.
   - `import_subtitles_resolve.py` imports to Resolve (dry run by default).
   - `aomimama_asr.py` and `aomimama_caption_core.py` are the phrase splitter and quality gates.
   - `compare_asr*.py` are model comparisons.
+  - `run_pipeline.py` is the single entry point (`status|transcribe|cues|verify|import`).
+  - `verify_cues_audio.py` checks cues against audio energy.
   - `sync_skills.py` mirrors skills.
-- `tests/`: pytest suite (32 tests).
+- `tests/`: pytest suite (39 tests).
 - `runs/<run>/`: manifests, transcripts, reviewed JSON, SRT drafts and logs for one batch. Audio and `.drp` backups are git-ignored.
 - `legacy/k404-whisper/`: K404 batch, the Whisper transcribers and builders, their transcripts, ASS/SRT and the Mitr font. Self-contained; run scripts from inside it.
 - `.agents/skills/`: project skills, the source of truth (`create-subtitle`, `thai-subtitles-resolve`, `thai-proofread`, `resolve-mitr-subtitle-presets`, `grilling`, `domain-modeling`, `grill-with-docs`). `.claude/skills/` is a generated mirror: run `python scripts/sync_skills.py` after editing.
 - `.hermes/`: plans, notes and SDD records (history, not code).
+- `GLOSSARY.md` (project vocabulary) and `docs/adr/` (decisions).
 - `TOOLING.md`: verified interpreters, packages, providers and pitfalls. `CHANGELOG.md` and `VERSION` track releases. `docs/REVIEW-th.md` records the weaknesses review.
 
 ## Build, Test, and Development Commands
@@ -25,6 +28,7 @@ original Whisper pipeline is archived under `legacy/`.
 Run from the repository root with FFmpeg on PATH and `GEMINI_API_KEY` set (or in the Hermes `.env`).
 
 ```powershell
+python scripts/run_pipeline.py status                       # what exists, per stage
 python -X utf8 scripts/gemini_direct_transcribe.py          # transcribe with model fallback
 python -X utf8 scripts/build_gemini_cues.py                 # transcripts -> draft SRT
 py -3.12 scripts/import_subtitles_resolve.py                # dry run

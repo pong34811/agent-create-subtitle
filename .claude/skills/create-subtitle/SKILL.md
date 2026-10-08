@@ -22,6 +22,11 @@ the shell's current directory.
 
 ## Pipeline A — Gemini ASR (default, current)
 
+One entry point picks the right interpreter per stage:
+`python scripts/run_pipeline.py status|transcribe|cues|verify|import [N ...]`.
+`import` is a dry run unless `--apply` is given. Vocabulary is in `GLOSSARY.md`;
+why Gemini and not Whisper is in `docs/adr/0001-gemini-asr-over-whisper.md`.
+
 Proven on 49 Resolve timelines (`runs/aomimama-2026-09-p1`). Whisper is **not**
 the default: it produced garbled or hallucinated Thai on game audio. Do not
 re-litigate without new evidence; the measurements are in
@@ -33,6 +38,7 @@ re-litigate without new evidence; the measurements are in
 | 2. Transcribe, model fallback chain | `scripts/gemini_direct_transcribe.py` | `transcripts/<id>.gemini.json` |
 | 2b. Clips over ~100 s | `scripts/transcribe_chunked.py` | split at quietest seconds |
 | 3. Review `uncertain` segments, then build cues | `scripts/build_gemini_cues.py` | `srt/<id>.draft.srt` |
+| 3b. Plausibility check against audio | `scripts/verify_cues_audio.py` | `audio-verification.json`: cues to listen to first |
 | 4. Proofread Thai text | skill `thai-proofread` | corrected cues |
 | 5. Import to subtitle tracks (dry run first) | `scripts/import_subtitles_resolve.py` | readback-verified |
 | 6. Apply Mitr preset by orientation | skill `resolve-mitr-subtitle-presets` | styled tracks |
@@ -76,10 +82,12 @@ specific to that batch; inspect them before reuse.
 
 Reparse the written SRTs as UTF-8 and assert: consecutive indices, `end > start`,
 no overlaps, last cue within the clip, no foreign-script junk, no leftover
-`[ฟังไม่ชัด]` unless intended. Run `python -m pytest tests` (32 tests). State
+`[ฟังไม่ชัด]` unless intended. Run `python -m pytest tests` (39 tests). State
 plainly whether the audio was actually listened to: drafts are `approved: false`
 until a person has checked them against speech. Never claim sync you did not
-verify.
+verify. `verify_cues_audio.py` only shows that audio exists under a cue; it does not
+prove the words. Re-running Gemini on the same audio gives different words and
+timestamps up to ~2 s apart, so do not regenerate an approved Draft casually.
 
 ## Hygiene
 

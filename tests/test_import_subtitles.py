@@ -8,7 +8,7 @@ import pytest
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / 'scripts'))
 import import_subtitles_resolve as imp  # noqa: E402
 
-MAIN_RUN = Path('C:/Users/warit/Desktop/agent-create-subtitle/runs/aomimama-2026-09-p1')
+MAIN_RUN = Path(__file__).resolve().parents[1] / 'runs' / 'aomimama-2026-09-p1'
 
 
 def test_parse_srt_reads_every_cue():
@@ -68,3 +68,28 @@ def test_srt_cues_never_exceed_timeline_duration():
 def test_srt_time_parses_milliseconds():
     assert imp.srt_time('00:00:10,500') == 10.5
     assert imp.srt_time('01:02:03,250') == 3723.25
+
+
+class _FakeTimeline:
+    def __init__(self, uid, name):
+        self._uid, self._name = uid, name
+
+    def GetUniqueId(self):
+        return self._uid
+
+    def GetName(self):
+        return self._name
+
+
+def test_pick_timeline_prefers_id_then_unique_name():
+    a, b = _FakeTimeline('id-a', 'one'), _FakeTimeline('id-b', 'two')
+    assert imp.pick_timeline([a, b], 'id-b') is b
+    # ids re-issued by Resolve: fall back to the unique name
+    assert imp.pick_timeline([a, b], 'stale-id', 'one') is a
+
+
+def test_pick_timeline_refuses_ambiguous_or_unknown_names():
+    a, b = _FakeTimeline('id-a', 'same'), _FakeTimeline('id-b', 'same')
+    assert imp.pick_timeline([a, b], 'stale-id', 'same') is None
+    assert imp.pick_timeline([a], 'stale-id', 'other') is None
+    assert imp.pick_timeline([a], 'stale-id') is None
