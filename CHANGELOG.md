@@ -1,5 +1,30 @@
 # Changelog
 
+## v0.6.0
+
+Transcription and text-quality pass, driven by rule-checking all 963 cues and reading about 20 of 49 timelines and by experiments
+that were kept only when they measurably helped.
+
+### Added
+- `scripts/thai_text.py`: deterministic clean-up (decomposed sara am -> `ำ`, `[ฟังไม่ชัด]`
+  never shown, stutter collapsed). `build_gemini_cues.py` applies it.
+- `scripts/check_thai_text.py` + `run_pipeline.py check`: rule-based proofreading (foreign
+  script, doubled tone marks, orphan vowels, stretched characters, wall-of-text cues,
+  reading speed, dictionary misses, bracketed annotations). Writes `text-check.json`.
+- `vocab/games.json`: game titles and preferred spellings, injected into the Gemini prompt
+  by timeline name and treated as valid words by the checker.
+- 7 tests (46 total), including a regression for the 290-glyph merged cue.
+
+### Changed
+- Gemini prompt: names the game, lists preferred spellings, asks for segments of at most 4 s.
+- Overlapping segments that would merge into a wall of text now stay separate cues
+  (`forced_after_previous` flag).
+- Draft SRTs rebuilt: 963 -> 957 cues, 0 placeholders, 0 over-long cues, 0 overlaps.
+
+### Measured and rejected
+- Re-transcribing 13 weak-model files: worse timing (11-29% flagged vs 3-10%); not adopted.
+- Linear rescale of drifting timestamps: flagged cues rose to 38-50%; not adopted.
+
 ## v0.5.0
 
 Follow-up to the v0.4.0 audit, tested against the live Gemini API and a running Resolve.

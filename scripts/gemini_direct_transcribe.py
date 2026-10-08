@@ -33,7 +33,8 @@ MODELS = ['gemini-3.7-flash', 'gemini-3.6-flash', 'gemini-3.5-flash', 'gemini-3.
 API = 'https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent'
 
 PROMPT = ('ตรวจฟังไฟล์เสียงที่แนบจริง แล้วถอดบทพูดภาษาไทยครบทั้งไฟล์ อย่าเดาจากชื่อไฟล์ '
-          'ไม่เติมคำ ไม่ย่อ ไม่เซ็นเซอร์ จัดเป็นวลีธรรมชาติตามความหมาย แบ่งวลียาวโดยไม่ตัดคำติดกัน '
+          'ไม่เติมคำ ไม่ย่อ ไม่เซ็นเซอร์ จัดเป็นวลีธรรมชาติตามความหมาย แต่ละ segment ต้องสั้น ยาวไม่เกิน 4 วินาที '
+          'ถ้ายาวกว่านั้นให้แบ่งเป็นหลาย segment แบ่งวลียาวโดยไม่ตัดคำติดกัน '
           'ชื่อเฉพาะ หรือคำปฏิเสธ ไม่บังคับจำนวนคำ ไม่ใส่ข้อความระหว่างช่วงเงียบ '
           'รวมคำอุทานและภาษาอังกฤษที่ได้ยินจริง ถ้าฟังไม่ชัดให้ใช้ [ฟังไม่ชัด] พร้อมช่วงเวลา '
           'ถ้าไม่ได้รับเสียงจริงให้ตอบ {"audio_available": false} แล้วหยุด ห้ามแต่ง timestamp '
@@ -90,13 +91,37 @@ def api_key():
     raise SystemExit('GEMINI_API_KEY not found in Hermes .env')
 
 
+VOCAB_FILE = Path(__file__).resolve().parents[1] / 'vocab' / 'games.json'
+
+
+def context_hint(timeline_name):
+    """Prompt prefix naming the game and its preferred spellings, or '' when unknown.
+
+    Measured failure this fixes: the game title was heard as "Heavy Rain Shooter" and
+    "Vengeance" for Alien Shooter, and names/loanwords were spelled differently from
+    clip to clip. The hint carries spellings only; the model is told to ignore it
+    whenever the audio says otherwise, so it cannot invent speech.
+    """
+    if not VOCAB_FILE.is_file():
+        return ''
+    data = json.loads(VOCAB_FILE.read_text(encoding='utf-8'))
+    name = (timeline_name or '').lower()
+    game = next((g for g in data.get('games', []) if g['match'] in name), None)
+    terms = list(data.get('common', [])) + (game['terms'] if game else [])
+    if not terms:
+        return ''
+    head = f"บริบท: เสียงนี้มาจากการสตรีมเกม {game['title']}. " if game else 'บริบท: เสียงนี้มาจากการสตรีมเกม. '
+    return (head + 'สะกดคำเหล่านี้ตามนี้เมื่อได้ยินจริง: ' + ', '.join(terms) +
+            '. ถ้าเสียงไม่ได้พูดคำเหล่านี้ ห้ามใส่เพิ่ม ให้ยึดเสียงเป็นหลัก. ')
+
+
 def load_manifest():
     rows = json.loads((RUN_ROOT / 'manifest.json').read_text(encoding='utf-8'))['timelines']
     assert rows and len({r['id'] for r in rows}) == len(rows), 'manifest ids must be unique and non-empty'
     return rows
 
 
-def call(key, wav_path, model, duration=None):
+def call(key, wav_path, model, duration=None, hint=''):
     """One generateContent request.
 
     frequencyPenalty stops the character-repetition loops ("โอ้ยยยยย…") that eat
@@ -107,7 +132,7 @@ def call(key, wav_path, model, duration=None):
     clip they emitted the back half of the timeline at 104-124s. Naming the exact
     length pins every timestamp inside the file.
     """
-    prompt = PROMPT
+    prompt = hint + PROMPT
     if duration:
         prompt += (f' ไฟล์เสียงนี้ยาว {duration:.1f} วินาทีพอดี '
                    f'ทุก timestamp ต้องอยู่ระหว่าง 0 ถึง {duration:.1f} '
@@ -156,12 +181,12 @@ class ReplyUnusable(Exception):
     """
 
 
-def call_with_fallback(key, wav_path, duration=None):
+def call_with_fallback(key, wav_path, duration=None, hint=''):
     """Try each model in turn. 429 = daily quota spent; unusable reply = retry next."""
     last_error = None
     for model in MODELS:
         try:
-            text, finish, usage = call(key, wav_path, model, duration)
+            text, finish, usage = call(key, wav_path, model, duration, hint)
         except urllib.error.HTTPError as exc:
             payload = exc.read()[:400].decode('utf-8', 'replace')
             if exc.code in (429, 500, 502, 503, 504):
@@ -313,7 +338,8 @@ def main():
         assert wav.is_file() and wav.stat().st_size > 0
         t0 = time.monotonic()
         try:
-            result, usage = call_with_fallback(key, wav, expected)
+            hint = context_hint(row['name'])
+            result, usage = call_with_fallback(key, wav, expected, hint)
         except QuotaExhausted as exc:
             print(f"STOPPING at timeline {row['index']}: {exc}", flush=True)
             print('Re-run this script later to resume; completed files are skipped.', flush=True)
@@ -323,6 +349,7 @@ def main():
             'metadata': {'model': usage.get('model_used'), 'route': 'google-generativeai-direct',
                          'timeline_index': row['index'], 'timeline_id': uid,
                          'timeline_name': row['name'], 'expected_duration_seconds': expected,
+                         'context_hint': bool(hint),
                          'prompt_token_count': usage.get('promptTokenCount')},
             'duration_seconds': expected, 'gemini': result,
         }, ensure_ascii=False, indent=2), encoding='utf-8')

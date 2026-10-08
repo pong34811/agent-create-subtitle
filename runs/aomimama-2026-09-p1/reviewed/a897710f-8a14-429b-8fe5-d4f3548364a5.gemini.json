@@ -28,14 +28,6 @@
       "source_segment": 14.0,
       "gemini_uncertain": false,
       "flags": []
-    },
-    {
-      "start": 27.0,
-      "end": 33.0,
-      "text": "[ฟังไม่ชัด]",
-      "source_segment": 27.0,
-      "gemini_uncertain": true,
-      "flags": []
     }
   ],
   "qc_required": true,

@@ -6,27 +6,11 @@
   "duration_seconds": 98.61666666666666,
   "cues": [
     {
-      "start": 0.0,
-      "end": 8.95,
-      "text": "[ฟังไม่ชัด]",
-      "source_segment": 0.0,
-      "gemini_uncertain": true,
-      "flags": []
-    },
-    {
       "start": 9.0,
       "end": 13.95,
       "text": "สุดยอด",
       "source_segment": 9.0,
       "gemini_uncertain": false,
-      "flags": []
-    },
-    {
-      "start": 14.0,
-      "end": 16.95,
-      "text": "[ฟังไม่ชัด]",
-      "source_segment": 14.0,
-      "gemini_uncertain": true,
       "flags": []
     },
     {
@@ -56,16 +40,8 @@
     {
       "start": 25.0,
       "end": 27.95,
-      "text": "ไม่ได้ลาภอยู่นะ [ฟังไม่ชัด]",
+      "text": "ไม่ได้ลาภอยู่นะ",
       "source_segment": 25.0,
-      "gemini_uncertain": true,
-      "flags": []
-    },
-    {
-      "start": 28.0,
-      "end": 34.95,
-      "text": "[ฟังไม่ชัด]",
-      "source_segment": 28.0,
       "gemini_uncertain": true,
       "flags": []
     },
@@ -126,35 +102,11 @@
       "flags": []
     },
     {
-      "start": 67.0,
-      "end": 70.95,
-      "text": "[ฟังไม่ชัด]",
-      "source_segment": 67.0,
-      "gemini_uncertain": true,
-      "flags": []
-    },
-    {
       "start": 71.0,
       "end": 75.95,
       "text": "Strike the wind",
       "source_segment": 71.0,
       "gemini_uncertain": false,
-      "flags": []
-    },
-    {
-      "start": 76.0,
-      "end": 80.95,
-      "text": "[ฟังไม่ชัด]",
-      "source_segment": 76.0,
-      "gemini_uncertain": true,
-      "flags": []
-    },
-    {
-      "start": 81.0,
-      "end": 91.95,
-      "text": "[ฟังไม่ชัด]",
-      "source_segment": 81.0,
-      "gemini_uncertain": true,
       "flags": []
     },
     {

@@ -13,9 +13,10 @@ original Whisper pipeline is archived under `legacy/`.
   - `aomimama_asr.py` and `aomimama_caption_core.py` are the phrase splitter and quality gates.
   - `compare_asr*.py` are model comparisons.
   - `run_pipeline.py` is the single entry point (`status|transcribe|cues|verify|import`).
-  - `verify_cues_audio.py` checks cues against audio energy.
+  - `verify_cues_audio.py` checks cues against audio energy; `check_thai_text.py` applies Thai proofreading rules; `thai_text.py` is the deterministic clean-up.
+- `vocab/games.json`: game titles and preferred spellings for the transcription prompt and spell-check.
   - `sync_skills.py` mirrors skills.
-- `tests/`: pytest suite (39 tests).
+- `tests/`: pytest suite (46 tests).
 - `runs/<run>/`: manifests, transcripts, reviewed JSON, SRT drafts and logs for one batch. Audio and `.drp` backups are git-ignored.
 - `legacy/k404-whisper/`: K404 batch, the Whisper transcribers and builders, their transcripts, ASS/SRT and the Mitr font. Self-contained; run scripts from inside it.
 - `.agents/skills/`: project skills, the source of truth (`create-subtitle`, `thai-subtitles-resolve`, `thai-proofread`, `resolve-mitr-subtitle-presets`, `grilling`, `domain-modeling`, `grill-with-docs`). `.claude/skills/` is a generated mirror: run `python scripts/sync_skills.py` after editing.

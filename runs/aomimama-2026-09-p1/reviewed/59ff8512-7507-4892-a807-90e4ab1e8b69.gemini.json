@@ -71,34 +71,36 @@
     },
     {
       "start": 11.75,
-      "end": 12.5,
-      "text": "ฮัลโหลยังไม่ได้ทำอะไรเลยเคมึงอ่ะมึงมึงทำตัวมึงเองอ่ะกด Shift ขวานั่งหน้าแล้วพายพายไอ้เหี้ยเอ๊ยเกือบละ",
+      "end": 12.319,
+      "text": "ฮัลโหลยังไม่ได้ทำอะไรเลยเคมึงอ่ะมึงมึงทำตัวมึงเองอ่ะ",
       "source_segment": 11.3,
       "gemini_uncertain": false,
       "flags": [
         "start_clipped_to_previous",
         "overlap_merged",
-        "overlap_merged",
-        "overlap_merged",
         "overlap_merged"
       ]
     },
     {
-      "start": 12.7,
-      "end": 13.1,
-      "text": "แง้นๆไปละไอ้เหี้ยเจอกัน",
-      "source_segment": 12.7,
-      "gemini_uncertain": false,
-      "flags": []
-    },
-    {
-      "start": 13.15,
-      "end": 13.55,
-      "text": "โอ้โหแม่งทางแม่งโคตรไม่สมประกอบอ่ะ",
-      "source_segment": 13.0,
+      "start": 12.369000000000002,
+      "end": 12.969000000000001,
+      "text": "กด Shift ขวานั่งหน้าแล้วพายพายไอ้เหี้ยเอ๊ยเกือบละ",
+      "source_segment": 12.0,
       "gemini_uncertain": false,
       "flags": [
-        "start_clipped_to_previous"
+        "forced_after_previous",
+        "overlap_merged"
+      ]
+    },
+    {
+      "start": 13.019000000000002,
+      "end": 13.619000000000002,
+      "text": "แง้นๆไปละไอ้เหี้ยเจอกันโอ้โหแม่งทางแม่งโคตรไม่สมประกอบอ่ะ",
+      "source_segment": 12.7,
+      "gemini_uncertain": false,
+      "flags": [
+        "forced_after_previous",
+        "overlap_merged"
       ]
     },
     {

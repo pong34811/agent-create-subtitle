@@ -16,6 +16,9 @@ from pathlib import Path
 
 from pythainlp.tokenize import word_tokenize
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from thai_text import clean_cue_text, collapse_stutter  # noqa: E402
+
 # Override with AOMIMAMA_RUN_ROOT; default resolves from this script, not a fixed drive path.
 import os as _os
 RUN_ROOT = Path(_os.environ.get('AOMIMAMA_RUN_ROOT') or Path(__file__).resolve().parents[1] / 'runs' / 'aomimama-2026-09-p1')
@@ -71,7 +74,9 @@ def split_units(text):
 
 def split_segment(segment, next_start):
     """Return cue dicts for one Gemini segment, times interpolated by glyph share."""
-    text = segment['text'].strip()
+    text = clean_cue_text(segment['text'])
+    if not text:
+        return []
     start, end = float(segment['start']), float(segment['end'])
     units = [u for u in split_units(text) if u['text'].strip()]
     if not units:
@@ -138,11 +143,19 @@ def build(transcript, duration):
                 cue['start'] = out[-1]['end'] + MIN_GAP
                 cue['flags'].append('start_clipped_to_previous')
             else:
-                out[-1]['text'] = strip_thai_internal_spaces(
-                    out[-1]['text'] + ' ' + cue['text'])
-                out[-1]['end'] = max(out[-1]['end'], cue['end'])
-                out[-1]['flags'].append('overlap_merged')
-                continue
+                merged = collapse_stutter(strip_thai_internal_spaces(
+                    out[-1]['text'] + ' ' + cue['text']))
+                if glyphs(merged) <= MAX_GLYPHS * 1.5:
+                    out[-1]['text'] = merged
+                    out[-1]['end'] = max(out[-1]['end'], cue['end'])
+                    out[-1]['flags'].append('overlap_merged')
+                    continue
+                # Merging many overlapping segments produced a 290-glyph wall of
+                # text. Keep the words as their own cue, placed right after the
+                # previous one (late, but readable) and flag the timing.
+                cue['start'] = out[-1]['end'] + MIN_GAP
+                cue['end'] = min(duration, max(cue['end'], cue['start'] + 0.6))
+                cue['flags'].append('forced_after_previous')
         if cue['end'] - cue['start'] < 0.3:
             cue['end'] = min(duration, cue['start'] + 0.4)
         if cue['text'].strip() and cue['end'] > cue['start']:

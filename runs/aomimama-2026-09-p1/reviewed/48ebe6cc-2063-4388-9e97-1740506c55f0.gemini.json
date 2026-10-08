@@ -38,14 +38,6 @@
       "flags": []
     },
     {
-      "start": 24.5,
-      "end": 25.45,
-      "text": "[ฟังไม่ชัด]",
-      "source_segment": 24.5,
-      "gemini_uncertain": true,
-      "flags": []
-    },
-    {
       "start": 25.5,
       "end": 26.5,
       "text": "โคตรแย่เลย",

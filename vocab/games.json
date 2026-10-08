@@ -1,0 +1,24 @@
+{
+  "_comment": "Context hints for transcription and spell-checking. 'match' is matched case-insensitively against the timeline name. 'terms' are spellings the transcriber should prefer; they are also treated as valid words by scripts/check_thai_text.py.",
+  "common": [
+    "Vtuber", "สตรีม", "ไลฟ์", "แชท", "เซิร์ฟ", "เซิร์ฟเวอร์", "ม็อด", "แมพ", "สปอว์น", "สกิล",
+    "ตี้", "เลเวล", "ดาเมจ", "สเตตัส", "ยูนิต", "ไอเทม", "บอส", "เควส", "ปลั๊กอิน", "คลิป"
+  ],
+  "games": [
+    {
+      "match": "alien shooter",
+      "title": "Alien Shooter: Last Hope (เกมยิงเอเลี่ยนมุมมองจากด้านบน)",
+      "terms": ["Alien Shooter", "Last Hope", "เอเลี่ยน", "ปืนเขียว", "ด่าน", "ป้อมปืน", "หินประดับ", "กุญแจ", "Resident Evil"]
+    },
+    {
+      "match": "minecraft",
+      "title": "Minecraft (เล่นกับเพื่อนบนเซิร์ฟเวอร์ เวอร์ชัน 1.21)",
+      "terms": ["Minecraft", "ครีปเปอร์", "สเกเลตัน", "ซอมบี้", "ลาวา", "Diamond", "เพชร", "Netherite", "เนเธอร์", "บล็อก", "คราฟต์", "แร่", "ถ้ำ", "Launcher", "Key Bind", "Option", "Control", "ESC"]
+    },
+    {
+      "match": "league of legends",
+      "title": "League of Legends / RoV (เกม MOBA; ประกาศของเกมเป็นภาษาอังกฤษ เช่น First blood, Enemy slain)",
+      "terms": ["League of Legends", "First blood", "Enemy slain", "อัลติ", "สกิล", "มินเนียน", "ดราก้อน", "บารอน", "แกงค์", "เลน", "ทาวเวอร์", "ฟาร์ม", "เอเนมี่"]
+    }
+  ]
+}

@@ -14,14 +14,6 @@
       "flags": []
     },
     {
-      "start": 1.0,
-      "end": 12.95,
-      "text": "[ฟังไม่ชัด]",
-      "source_segment": 1.0,
-      "gemini_uncertain": true,
-      "flags": []
-    },
-    {
       "start": 13.0,
       "end": 15.915,
       "text": "ไอ้เหี้ยทำไมอารมณ์เปลี่ยนได้ไงวะป่าแม่มก็",
@@ -101,14 +93,6 @@
       "text": "ขึ้นท็อปเลยมึงอย่าทำรูดตูดดิ้วะ",
       "source_segment": 42.0,
       "gemini_uncertain": false,
-      "flags": []
-    },
-    {
-      "start": 45.0,
-      "end": 70.0,
-      "text": "[ฟังไม่ชัด]",
-      "source_segment": 45.0,
-      "gemini_uncertain": true,
       "flags": []
     }
   ],

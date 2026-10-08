@@ -15,45 +15,94 @@
     },
     {
       "start": 1.1500000000000001,
-      "end": 1.873,
-      "text": "ไม่ได้ใช้ไม่ได้ใช้ไม่ได้ใช้ DG กูดูการนะเนี่ยเฮ้ย Windows 8 ยังไม่ลองเลยนะพี่ไล่ไปเหี้ยอันกด Play เลยพี่กด Play เลยนี่น่าจะเกมเด้งเป็นไงผมรู้ผมผมนี่โคตรเก่งเลยไอ้เหี้ยคลิกขวา Windows 8 พี่ Windows 8 รอบนี้ Windows 8 อือจิ้มไปไอ้เหี้ยนําไปใช้ตกลงปื๊ดไม่ได้ไอ้เหี้ยไอ้นี่เด้ง [หัวเราะ] การแสดงผลเกมนั่งคําคุณสมบัติ",
+      "end": 1.5500000000000003,
+      "text": "ไม่ได้ใช้ไม่ได้ใช้ไม่ได้ใช้ DG กูดูการนะเนี่ย",
       "source_segment": 1.014,
       "gemini_uncertain": false,
       "flags": [
         "start_clipped_to_previous",
         "overlap_merged",
+        "overlap_merged"
+      ]
+    },
+    {
+      "start": 1.6000000000000003,
+      "end": 2.2,
+      "text": "เฮ้ย Windows 8 ยังไม่ลองเลยนะพี่ไล่ไปเหี้ยอัน",
+      "source_segment": 1.084,
+      "gemini_uncertain": false,
+      "flags": [
+        "forced_after_previous",
+        "overlap_merged"
+      ]
+    },
+    {
+      "start": 2.25,
+      "end": 2.85,
+      "text": "กด Play เลยพี่กด Play เลยนี่น่าจะเกมเด้งเป็นไงผมรู้",
+      "source_segment": 1.13,
+      "gemini_uncertain": false,
+      "flags": [
+        "forced_after_previous",
         "overlap_merged",
-        "overlap_merged",
-        "overlap_merged",
-        "overlap_merged",
-        "overlap_merged",
-        "overlap_merged",
-        "overlap_merged",
-        "overlap_merged",
-        "overlap_merged",
-        "overlap_merged",
-        "overlap_merged",
-        "overlap_merged",
+        "overlap_merged"
+      ]
+    },
+    {
+      "start": 2.9,
+      "end": 3.5,
+      "text": "ผมผมนี่โคตรเก่งเลยไอ้เหี้ยคลิกขวา",
+      "source_segment": 1.219,
+      "gemini_uncertain": false,
+      "flags": [
+        "forced_after_previous"
+      ]
+    },
+    {
+      "start": 3.55,
+      "end": 4.1499999999999995,
+      "text": "Windows 8 พี่ Windows 8 รอบนี้ Windows 8",
+      "source_segment": 1.249,
+      "gemini_uncertain": false,
+      "flags": [
+        "forced_after_previous",
+        "overlap_merged"
+      ]
+    },
+    {
+      "start": 4.199999999999999,
+      "end": 4.799999999999999,
+      "text": "อือจิ้มไปไอ้เหี้ยนำไปใช้ตกลงปื๊ดไม่ได้ไอ้เหี้ยไอ้นี่เด้ง [หัวเราะ]",
+      "source_segment": 1.304,
+      "gemini_uncertain": false,
+      "flags": [
+        "forced_after_previous",
         "overlap_merged",
         "overlap_merged",
         "overlap_merged"
       ]
     },
     {
-      "start": 3.1,
-      "end": 5.379,
-      "text": "มีแต่ผู้พัฒนามาเห็นคงภาคภูมิใจในตัวเรา",
-      "source_segment": 3.1,
+      "start": 4.849999999999999,
+      "end": 5.449999999999998,
+      "text": "การแสดงผลเกมนั่งคำคุณสมบัติมีแต่ผู้พัฒนามาเห็นคงภาคภูมิใจในตัวเรา",
+      "source_segment": 1.456,
       "gemini_uncertain": false,
-      "flags": []
+      "flags": [
+        "forced_after_previous",
+        "overlap_merged",
+        "overlap_merged"
+      ]
     },
     {
-      "start": 5.379,
+      "start": 5.499999999999998,
       "end": 5.9,
       "text": "อ่ะไอ้เหี้ย",
       "source_segment": 3.1,
       "gemini_uncertain": false,
-      "flags": []
+      "flags": [
+        "start_clipped_to_previous"
+      ]
     },
     {
       "start": 8.5,

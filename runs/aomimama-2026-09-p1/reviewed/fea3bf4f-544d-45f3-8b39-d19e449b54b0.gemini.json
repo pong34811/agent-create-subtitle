@@ -6,14 +6,6 @@
   "duration_seconds": 70.0,
   "cues": [
     {
-      "start": 0.0,
-      "end": 2.117,
-      "text": "[ฟังไม่ชัด]",
-      "source_segment": 0.0,
-      "gemini_uncertain": true,
-      "flags": []
-    },
-    {
       "start": 2.167,
       "end": 7.027,
       "text": "ของมันมีมั้ยไม่ไม่ใช่ของแฮกแมน",
@@ -79,16 +71,16 @@
     },
     {
       "start": 26.687,
-      "end": 30.215,
-      "text": "[ฟังไม่ชัด] หนึ่งรัวตัดไปหนึ่งเดี๋ยวตัด",
+      "end": 31.187,
+      "text": "หนึ่งรัวตัดไปหนึ่งเดี๋ยวตัดท้ายแม่เปิด",
       "source_segment": 26.687,
       "gemini_uncertain": true,
       "flags": []
     },
     {
-      "start": 30.215,
+      "start": 31.187,
       "end": 32.187,
-      "text": "ท้ายแม่เปิดเมกะบ็อกซ์",
+      "text": "เมกะบ็อกซ์",
       "source_segment": 26.687,
       "gemini_uncertain": true,
       "flags": []

@@ -1,0 +1,4155 @@
+{
+  "4720b0bd-a3f4-4106-bdcb-18101a54c2f6": {
+    "index": 1,
+    "name": "เปิดสตรีมทักทายก่อนเริ่มเกม-alien shooter last hope-vdo",
+    "cues": 14,
+    "findings": [
+      {
+        "cue": 3,
+        "start": 16.5,
+        "text": "วันนี้พยายามทำฟิล์มได้เวลา 2 ทุ่มด้วยนะ",
+        "issues": [
+          {
+            "severity": "info",
+            "code": "has_digits",
+            "detail": "2"
+          }
+        ]
+      },
+      {
+        "cue": 5,
+        "start": 27.5,
+        "text": "วันนี้อยู่กับเกม Alien Shooter ภาค",
+        "issues": [
+          {
+            "severity": "info",
+            "code": "latin_words",
+            "detail": "Alien Shooter"
+          }
+        ]
+      },
+      {
+        "cue": 6,
+        "start": 32.45,
+        "text": "Vengeance นะ",
+        "issues": [
+          {
+            "severity": "info",
+            "code": "latin_words",
+            "detail": "Vengeance"
+          }
+        ]
+      }
+    ]
+  },
+  "a1247cea-a500-4b94-869e-b0d9fee6b8ff": {
+    "index": 2,
+    "name": "ตามหาห้องที่หายไป-alien shooter last hope-vdo",
+    "cues": 16,
+    "findings": [
+      {
+        "cue": 6,
+        "start": 34.67,
+        "text": "สุดท้าย",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "17.5 chars/s"
+          }
+        ]
+      }
+    ]
+  },
+  "8a3f90c9-7a47-47eb-a99a-363c893d0075": {
+    "index": 3,
+    "name": "ฝูงเอเลี่ยนบุกจนร้องลั่น-alien shooter last hope-vdo",
+    "cues": 15,
+    "findings": [
+      {
+        "cue": 8,
+        "start": 31.0,
+        "text": "จะเล่นด้วยกันตอนไหนดีกันอย่างเงี้ย",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "17.4 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 9,
+        "start": 33.0,
+        "text": "อันเนี้ยยังไงก็ต้องติดต่อเรามา",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "not_in_dictionary",
+            "detail": "เนี้ย"
+          }
+        ]
+      }
+    ]
+  },
+  "28e23409-55dc-4284-8a0f-4b0985620b4e": {
+    "index": 4,
+    "name": "คุยเรื่องอายุและเด็กรุ่นหลาน-alien shooter last hope-vdo",
+    "cues": 18,
+    "findings": [
+      {
+        "cue": 1,
+        "start": 0.5,
+        "text": "เพื่อนชั้นบางคนแม่งแต่งงานจนลูกแม่งมีหลานแล้ว",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "19.6 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 6,
+        "start": 17.5,
+        "text": "วัยทำพุงเก็ต",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "not_in_dictionary",
+            "detail": "เก็ต"
+          }
+        ]
+      },
+      {
+        "cue": 8,
+        "start": 26.2,
+        "text": "มึงเทียบภาพนะเพื่อนชั้นบางคนมีลูกตั้งแต่อายุ",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "19.4 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 9,
+        "start": 28.47,
+        "text": "15 นะ",
+        "issues": [
+          {
+            "severity": "info",
+            "code": "has_digits",
+            "detail": "15"
+          }
+        ]
+      },
+      {
+        "cue": 12,
+        "start": 37.2,
+        "text": "กูเนี่ยอายุยังไม่ถึงเลข 3 อะ",
+        "issues": [
+          {
+            "severity": "info",
+            "code": "has_digits",
+            "detail": "3"
+          }
+        ]
+      }
+    ]
+  },
+  "e8138ad0-a985-420e-a3ff-fe688b80c335": {
+    "index": 5,
+    "name": "ซื้อปืนไม่พอเงินขาดไปพันเดียว-alien shooter last hope-vdo",
+    "cues": 17,
+    "findings": [
+      {
+        "cue": 8,
+        "start": 22.0,
+        "text": "26,000 ป่ะขาดไป 1,000 เดียววู้",
+        "issues": [
+          {
+            "severity": "info",
+            "code": "has_digits",
+            "detail": "260001000"
+          }
+        ]
+      },
+      {
+        "cue": 11,
+        "start": 42.0,
+        "text": "เอาไอเทมนี้ดีกว่าเอ้ยคุณไม่อยากได้เหรอคะถ้า",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "17.4 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 12,
+        "start": 44.47,
+        "text": "เติมไป 24,000 ได้ตั้ง 20,000 แหนะ",
+        "issues": [
+          {
+            "severity": "info",
+            "code": "has_digits",
+            "detail": "2400020000"
+          }
+        ]
+      }
+    ]
+  },
+  "0803c999-9d25-4106-ab2b-a5f43047881e": {
+    "index": 6,
+    "name": "เตรียมป้อมสู้ศึกใหญ่-alien shooter last hope-vdo",
+    "cues": 8,
+    "findings": []
+  },
+  "b99149a7-7693-4f2e-bafe-b493e2bc889e": {
+    "index": 7,
+    "name": "ล่อบอสตัวเหนียวจนเหนื่อย-alien shooter last hope-vdo",
+    "cues": 11,
+    "findings": [
+      {
+        "cue": 2,
+        "start": 48.0,
+        "text": "ย้าาาาา",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "stretched_character",
+            "detail": "าาาาา"
+          },
+          {
+            "severity": "warn",
+            "code": "not_in_dictionary",
+            "detail": "ย้าาาาา"
+          }
+        ]
+      }
+    ]
+  },
+  "5fd287ef-4107-47b3-bf00-8ff0da72ed65": {
+    "index": 8,
+    "name": "จบเกมในครั้งเดียว-alien shooter last hope-vdo",
+    "cues": 13,
+    "findings": [
+      {
+        "cue": 8,
+        "start": 33.51,
+        "text": "ลืมเปิดเนี่ยลืมพากย์ทางนั้นมีเคหุด้วย",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "not_in_dictionary",
+            "detail": "หุ"
+          }
+        ]
+      }
+    ]
+  },
+  "f95d96d1-4362-4a0f-803b-125834044a94": {
+    "index": 9,
+    "name": "คุยกับแชทช่วงต้นไลฟ์ เล่าว่าเล่นเกมนี้มาหล-alien shooter-vdo",
+    "cues": 19,
+    "findings": [
+      {
+        "cue": 1,
+        "start": 3.0,
+        "text": "ฮัลโหลเทส 1 2 3 4",
+        "issues": [
+          {
+            "severity": "info",
+            "code": "has_digits",
+            "detail": "1234"
+          }
+        ]
+      },
+      {
+        "cue": 4,
+        "start": 30.0,
+        "text": "วันนี้อยู่กับเกม Heavy Rain Shooter นะ",
+        "issues": [
+          {
+            "severity": "info",
+            "code": "latin_words",
+            "detail": "Heavy Rain Shooter"
+          }
+        ]
+      },
+      {
+        "cue": 11,
+        "start": 56.0,
+        "text": "อย่าง Resident Evil ภาค 4",
+        "issues": [
+          {
+            "severity": "info",
+            "code": "has_digits",
+            "detail": "4"
+          },
+          {
+            "severity": "info",
+            "code": "latin_words",
+            "detail": "Resident Evil"
+          }
+        ]
+      },
+      {
+        "cue": 14,
+        "start": 63.14,
+        "text": "มั้งนะส่วนตัวหนูว่าเคยเล่นเกมนี้มา",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "18.8 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 18,
+        "start": 83.0,
+        "text": "เดี๋ยวขอไปดู Setting กันดีกว่า",
+        "issues": [
+          {
+            "severity": "info",
+            "code": "latin_words",
+            "detail": "Setting"
+          }
+        ]
+      },
+      {
+        "cue": 19,
+        "start": 88.0,
+        "text": "เดี๋ยวขอเปลี่ยน Setting แป๊บนึง",
+        "issues": [
+          {
+            "severity": "info",
+            "code": "latin_words",
+            "detail": "Setting"
+          }
+        ]
+      }
+    ]
+  },
+  "d3d75d8a-9c67-4a5d-b2a5-65262ae4bdbb": {
+    "index": 10,
+    "name": "ตั้งค่าหน้าจอไลฟ์ เจอวิธีใหม่-alien shooter-vdo",
+    "cues": 21,
+    "findings": [
+      {
+        "cue": 12,
+        "start": 53.5,
+        "text": "เฮ้ยจีเนียส",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "not_in_dictionary",
+            "detail": "เนียส"
+          }
+        ]
+      }
+    ]
+  },
+  "781816e7-4d4b-4b95-937e-0f8feeea26b6": {
+    "index": 11,
+    "name": "กวาดห้องจนจบภารกิจ-alien shooter-vdo",
+    "cues": 1,
+    "findings": []
+  },
+  "da042c09-7409-4a21-b4e3-7a672f6e6c57": {
+    "index": 12,
+    "name": "ตอบแชทว่าเกมยากไหมระหว่างเล่น-alien shooter-vdo",
+    "cues": 9,
+    "findings": []
+  },
+  "554cbc50-ff89-42fe-b88b-8efe16b452f5": {
+    "index": 13,
+    "name": "ด่านเขียวสุดท้ายก่อนจอดับ-alien shooter-vdo",
+    "cues": 8,
+    "findings": []
+  },
+  "46154505-65f7-4736-9680-9c990e912fe0": {
+    "index": 14,
+    "name": "คุยสรุปเกมหลังเล่นจบ ก่อนปิดไลฟ์-alien shooter-vdo",
+    "cues": 37,
+    "findings": [
+      {
+        "cue": 4,
+        "start": 17.0,
+        "text": "สมองแบบว่าหมดไปแบบไป 80",
+        "issues": [
+          {
+            "severity": "info",
+            "code": "has_digits",
+            "detail": "80"
+          }
+        ]
+      },
+      {
+        "cue": 32,
+        "start": 106.27,
+        "text": "ตายไปถ้ามีตัวแถม 5 ตัว",
+        "issues": [
+          {
+            "severity": "info",
+            "code": "has_digits",
+            "detail": "5"
+          }
+        ]
+      }
+    ]
+  },
+  "9ecc1f98-28a7-4376-addd-2233b933dccd": {
+    "index": 15,
+    "name": "ลืมแชร์จอ จบของวีทูปเบอร์ที่ไม่เตรียมตัว-Minecraft-vdo",
+    "cues": 24,
+    "findings": [
+      {
+        "cue": 2,
+        "start": 2.1,
+        "text": "ไม่ใช่เซิร์ฟที่เราไม่ใช่เซิร์ฟส่วนตัวเรา",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "19.5 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 10,
+        "start": 28.54,
+        "text": "เซิร์ฟเนโกะอยู่พี่จ๋า",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "not_in_dictionary",
+            "detail": "เซิร์ฟเน"
+          }
+        ]
+      },
+      {
+        "cue": 12,
+        "start": 37.0,
+        "text": "หืม",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "not_in_dictionary",
+            "detail": "หืม"
+          }
+        ]
+      },
+      {
+        "cue": 13,
+        "start": 39.0,
+        "text": "Minecraft",
+        "issues": [
+          {
+            "severity": "info",
+            "code": "latin_words",
+            "detail": "Minecraft"
+          }
+        ]
+      },
+      {
+        "cue": 14,
+        "start": 41.0,
+        "text": "โอเคโค้ดไอ้โค้ดแอนเชอร์ตอนนี้ผมตายพอดี",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "not_in_dictionary",
+            "detail": "เชอร์"
+          }
+        ]
+      },
+      {
+        "cue": 15,
+        "start": 48.0,
+        "text": "Minecraft Launcher ก็เข้าได้นะ",
+        "issues": [
+          {
+            "severity": "info",
+            "code": "latin_words",
+            "detail": "Minecraft Launcher"
+          }
+        ]
+      },
+      {
+        "cue": 16,
+        "start": 52.0,
+        "text": "แค่เนโกะแค่เนโกะมันมันแบบมันเป็นแบบ",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "not_in_dictionary",
+            "detail": "เน เน"
+          }
+        ]
+      },
+      {
+        "cue": 17,
+        "start": 55.13,
+        "text": "Launcher ที่แบบมันลงปลั๊กอินของเซิร์ฟไว้ให้",
+        "issues": [
+          {
+            "severity": "info",
+            "code": "latin_words",
+            "detail": "Launcher"
+          }
+        ]
+      },
+      {
+        "cue": 20,
+        "start": 61.0,
+        "text": "พี่พี่นัทมองเสียงคนนี้ดินี่เสียงคนนี้",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "not_in_dictionary",
+            "detail": "นัท"
+          }
+        ]
+      },
+      {
+        "cue": 21,
+        "start": 66.0,
+        "text": "นี่นะครับจุดจบของ Vtuber ที่ลืมเตรียม",
+        "issues": [
+          {
+            "severity": "info",
+            "code": "latin_words",
+            "detail": "Vtuber"
+          }
+        ]
+      }
+    ]
+  },
+  "f39dd3ca-5158-4141-8870-1c1cbc47975c": {
+    "index": 16,
+    "name": "หนาวติดลบ 16 ต้องถือลาวา-Minecraft-vdo",
+    "cues": 48,
+    "findings": [
+      {
+        "cue": 2,
+        "start": 0.9,
+        "text": "พี่มันคือทางเดียวไม่ได้ทำให้พี่กลับ",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "17.4 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 3,
+        "start": 2.91,
+        "text": "มาได้ภายใน 5,000 บล็อกอ่ะ",
+        "issues": [
+          {
+            "severity": "info",
+            "code": "has_digits",
+            "detail": "5000"
+          }
+        ]
+      },
+      {
+        "cue": 5,
+        "start": 6.79,
+        "text": "นะพี่จ๋า",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "19.5 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 6,
+        "start": 8.8,
+        "text": "พี่มีเสื้ออะไรบ้างอ่ะ",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "20.0 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 7,
+        "start": 9.9,
+        "text": "แม่งจะหนาวตายของแท้เลยติดลบ 12",
+        "issues": [
+          {
+            "severity": "info",
+            "code": "has_digits",
+            "detail": "12"
+          }
+        ]
+      },
+      {
+        "cue": 9,
+        "start": 13.5,
+        "text": "โอ้โหเหี้ยบ้านพี่นี่แม่งจนสมชื่อจริงๆ",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "not_in_dictionary",
+            "detail": "งจนสม"
+          }
+        ]
+      },
+      {
+        "cue": 11,
+        "start": 21.0,
+        "text": "ไอ้เหี้ยมีทุกอย่างยกเว้นแร่จริงๆนะ",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "19.4 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 15,
+        "start": 25.9,
+        "text": "เฮ้ยเนี่ยมีอยู่อ่ะพี่",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "20.0 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 16,
+        "start": 27.0,
+        "text": "ไอ้เหี้ยเหล็กเหล็กยังเยอะเลยเนี่ยชุด",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "22.1 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 17,
+        "start": 28.63,
+        "text": "นึงเนี่ย",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "20.0 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 25,
+        "start": 48.0,
+        "text": "แป๊บนึงนะผมผมขอ setting อะไรก่อน",
+        "issues": [
+          {
+            "severity": "info",
+            "code": "latin_words",
+            "detail": "setting"
+          }
+        ]
+      },
+      {
+        "cue": 26,
+        "start": 51.0,
+        "text": "พี่หาเสื้อให้หน่อยดิพี่",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "19.2 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 35,
+        "start": 78.6,
+        "text": "ไอ้เหี้ยจะหนาวตายของแท้เลยนี่ติด",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "19.8 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 36,
+        "start": 80.22,
+        "text": "ลบ 15",
+        "issues": [
+          {
+            "severity": "info",
+            "code": "has_digits",
+            "detail": "15"
+          }
+        ]
+      },
+      {
+        "cue": 37,
+        "start": 80.67,
+        "text": "โอ้โหคนเราต้องทำบาปทำกรรมมา",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "21.0 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 38,
+        "start": 81.96,
+        "text": "ขนาดไหนวะเนี่ย",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "21.8 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 41,
+        "start": 93.4,
+        "text": "มึงอย่าฮิ้วขวาฮิ้วซ้ายแล้วเผาบ้านกู",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "not_in_dictionary",
+            "detail": "ฮิ้ว ฮิ้ว"
+          }
+        ]
+      },
+      {
+        "cue": 46,
+        "start": 102.9,
+        "text": "แม่งมีแต่หินเนี่ย",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "18.9 chars/s"
+          }
+        ]
+      }
+    ]
+  },
+  "b9040425-567c-426b-b68b-3edf88537994": {
+    "index": 17,
+    "name": "ถือถังลาวาไว้กันหนาว-Minecraft-vdo",
+    "cues": 33,
+    "findings": [
+      {
+        "cue": 10,
+        "start": 29.26,
+        "text": "ไอ้สัสแม่งถือมานี่คือแบบแม่งถือไว้ดีกว่าไอ้เหี้ย",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "not_in_dictionary",
+            "detail": "สัส"
+          }
+        ]
+      },
+      {
+        "cue": 14,
+        "start": 39.0,
+        "text": "ใช่พี่แม่งไม่ถือลาวาอยู่ไม่ได้ผมว่ารีบเดินไป",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "18.9 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 20,
+        "start": 53.0,
+        "text": "ปรับอันเนี้ย",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "not_in_dictionary",
+            "detail": "เนี้ย"
+          }
+        ]
+      },
+      {
+        "cue": 21,
+        "start": 54.0,
+        "text": "เออเค้าเรียกว่าอะไรวะไอ้ที่พี่หมายถึงแบบซูม",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "18.0 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 22,
+        "start": 56.38,
+        "text": "เอาท์เยอะๆใช่ป่ะกับซูมอินอ่ะ",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "17.9 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 27,
+        "start": 69.0,
+        "text": "พี่พี่พี่ไปที่ Option พี่พี่กด ESC ไป Option",
+        "issues": [
+          {
+            "severity": "info",
+            "code": "latin_words",
+            "detail": "Option ESC Option"
+          }
+        ]
+      },
+      {
+        "cue": 28,
+        "start": 71.79,
+        "text": "แล้วก็ไปที่ Control",
+        "issues": [
+          {
+            "severity": "info",
+            "code": "latin_words",
+            "detail": "Control"
+          }
+        ]
+      },
+      {
+        "cue": 29,
+        "start": 73.0,
+        "text": "ไหนพี่นะ Control พี่ดูว่าทำไมมีแค่นี้วะ",
+        "issues": [
+          {
+            "severity": "info",
+            "code": "latin_words",
+            "detail": "Control"
+          }
+        ]
+      },
+      {
+        "cue": 30,
+        "start": 76.0,
+        "text": "Keyboard Bind มันก็มีแค่นี้แหละพี่ Minecraft",
+        "issues": [
+          {
+            "severity": "info",
+            "code": "latin_words",
+            "detail": "Keyboard Bind Minecraft"
+          }
+        ]
+      },
+      {
+        "cue": 31,
+        "start": 80.0,
+        "text": "ใช่ๆอยู่หัวข้อ Key Bind",
+        "issues": [
+          {
+            "severity": "info",
+            "code": "latin_words",
+            "detail": "Key Bind"
+          }
+        ]
+      },
+      {
+        "cue": 32,
+        "start": 81.5,
+        "text": "พี่เอาไรมากกับเกมที่เด็กเค้าเล่นกันวะพี่พี่อย่าทำ",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "24.5 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 33,
+        "start": 83.5,
+        "text": "เหมือนเกมที่เพื่อนเอ็ดดี้ดิ",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "27.9 chars/s"
+          },
+          {
+            "severity": "warn",
+            "code": "not_in_dictionary",
+            "detail": "ดี้"
+          }
+        ]
+      }
+    ]
+  },
+  "e188f573-7841-4fd1-887b-070576c15175": {
+    "index": 18,
+    "name": "พี่น้องไม่เคยช่วยอะไรเลย-Minecraft-vdo",
+    "cues": 26,
+    "findings": [
+      {
+        "cue": 4,
+        "start": 8.78,
+        "text": "แม่งคำว่าคำว่าพี่น้องแม่งไม่เคยช่วยเหี้ยอะไร",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "19.8 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 5,
+        "start": 11.01,
+        "text": "เลยอะตอนนี้",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "19.2 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 8,
+        "start": 15.9,
+        "text": "ไม่เอาไม่เอาดาบมาไอ้เหี้ยลืมคราฟต์ดาบมา",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "17.5 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 9,
+        "start": 18.13,
+        "text": "เนี่ยไอ้เหี้ยเอ๊ยเดี๋ยวรีบขุดเหล็กหาแล้วหาเพิ่ม",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "21.1 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 12,
+        "start": 23.3,
+        "text": "แม่งก็ต้องมีอะโอ้โหไม่งั้นไม่มานั่งร้องหาพี่",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "18.3 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 13,
+        "start": 25.71,
+        "text": "หรอกพี่ไปดูข้างล่างมั้ยด้านล่างมีถ่านนะ",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "17.8 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 16,
+        "start": 38.83,
+        "text": "พื้นที่ในการที่ทำให้เราแม่งไม่หนาวตายได้ก็พอนะ",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "17.1 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 19,
+        "start": 48.9,
+        "text": "ไอ้เหี้ยโคตรแย่อะคนดูใครพิมพ์วะอย่าให้พี่กี้รู้",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "18.9 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 20,
+        "start": 51.39,
+        "text": "นะโอ้โหแม่งบอกซอมบี้ฉลาดกว่ากี้กี้แม่งตีซอมบี้",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "18.0 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 21,
+        "start": 53.95,
+        "text": "ตายไป 4 ตัวแล้วนะเมื่อกี้อะ",
+        "issues": [
+          {
+            "severity": "info",
+            "code": "has_digits",
+            "detail": "4"
+          }
+        ]
+      }
+    ]
+  },
+  "12775bd0-acc9-4658-b216-500a2e1c7755": {
+    "index": 19,
+    "name": "อย่าใส่ร้ายผม เกือบจมลาวา-Minecraft-vdo",
+    "cues": 47,
+    "findings": [
+      {
+        "cue": 8,
+        "start": 16.4,
+        "text": "อันนี้คือพี่อุดลาวาแล้วเหรอ",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "19.3 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 10,
+        "start": 20.0,
+        "text": "เหี้ยแม่งเหล็กอยู่ด้านหน้าพี่อ่ะ",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "20.0 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 13,
+        "start": 35.3,
+        "text": "อุ้ยใช้ได้แล้วเนี่ยตรงนี้เต็มเลยพี่",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "17.5 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 16,
+        "start": 44.2,
+        "text": "แต่ว่าโดนมา 100 นึงด้วย",
+        "issues": [
+          {
+            "severity": "info",
+            "code": "has_digits",
+            "detail": "100"
+          }
+        ]
+      },
+      {
+        "cue": 19,
+        "start": 53.6,
+        "text": "สัมผัสได้แล้วไอ้เหี้ยฉันได้กลิ่น",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "18.8 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 20,
+        "start": 55.4,
+        "text": "ไอ้สัตว์เอ้ยสเกเลตัน",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "not_in_dictionary",
+            "detail": "เล"
+          }
+        ]
+      },
+      {
+        "cue": 24,
+        "start": 64.2,
+        "text": "มึงลงไปอย่างงั้นเดี๋ยวมึงลืมทางขึ้น",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "19.2 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 29,
+        "start": 74.2,
+        "text": "Minecraft เวอร์ชั่นไหนเหรอ",
+        "issues": [
+          {
+            "severity": "info",
+            "code": "latin_words",
+            "detail": "Minecraft"
+          }
+        ]
+      },
+      {
+        "cue": 30,
+        "start": 76.2,
+        "text": "ตอนนี้เล่น Minecraft เวอร์ชั่น 1.21.1",
+        "issues": [
+          {
+            "severity": "info",
+            "code": "has_digits",
+            "detail": "1211"
+          },
+          {
+            "severity": "info",
+            "code": "latin_words",
+            "detail": "Minecraft"
+          }
+        ]
+      },
+      {
+        "cue": 32,
+        "start": 79.2,
+        "text": "เอ้ย.11 ครับ",
+        "issues": [
+          {
+            "severity": "info",
+            "code": "has_digits",
+            "detail": "11"
+          }
+        ]
+      },
+      {
+        "cue": 35,
+        "start": 90.67,
+        "text": "VIP เลยอ่ะ",
+        "issues": [
+          {
+            "severity": "info",
+            "code": "latin_words",
+            "detail": "VIP"
+          }
+        ]
+      },
+      {
+        "cue": 41,
+        "start": 105.6,
+        "text": "อุ้ยอุ้ยเดี๋ยวๆๆๆอันนี้อันนี้อันนี้สมควร",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "24.0 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 42,
+        "start": 107.27,
+        "text": "บล็อกอันนี้สมควรบล็อกมากไอ้เหี้ย",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "21.6 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 43,
+        "start": 108.75,
+        "text": "เกือบลงหลุมละ",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "20.0 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 47,
+        "start": 115.2,
+        "text": "โอ้เหล็กเยี่ยมเลย",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "21.3 chars/s"
+          }
+        ]
+      }
+    ]
+  },
+  "4bddb8e1-865b-46d1-9263-cbd5c5849c5c": {
+    "index": 20,
+    "name": "เจอเพชรแล้ว! ยิส!-Minecraft-vdo",
+    "cues": 36,
+    "findings": [
+      {
+        "cue": 2,
+        "start": 6.7,
+        "text": "50 ลบ 53 มึงไป",
+        "issues": [
+          {
+            "severity": "info",
+            "code": "has_digits",
+            "detail": "5053"
+          }
+        ]
+      },
+      {
+        "cue": 3,
+        "start": 9.5,
+        "text": "ถ้าเจอเยอะสุดจะเป็น 50 ลบ 58",
+        "issues": [
+          {
+            "severity": "info",
+            "code": "has_digits",
+            "detail": "5058"
+          }
+        ]
+      },
+      {
+        "cue": 5,
+        "start": 13.2,
+        "text": "เฮ้ยนี่ 54 ไม่ดงทีรู้สึกทีดงหมายัง",
+        "issues": [
+          {
+            "severity": "info",
+            "code": "has_digits",
+            "detail": "54"
+          }
+        ]
+      },
+      {
+        "cue": 7,
+        "start": 17.1,
+        "text": "นี่ขุดตรงมากเลยนะ",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "18.9 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 8,
+        "start": 19.3,
+        "text": "โหพี่จ๋าสุดยอดมากเลยแม่งอยู่ขุด",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "18.3 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 9,
+        "start": 20.99,
+        "text": "ข้างๆอ่ะ",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "19.5 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 11,
+        "start": 35.0,
+        "text": "ถ้าเราได้ Diamond ใหม่นะพี่เราลง",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "21.9 chars/s"
+          },
+          {
+            "severity": "info",
+            "code": "latin_words",
+            "detail": "Diamond"
+          }
+        ]
+      },
+      {
+        "cue": 12,
+        "start": 36.37,
+        "text": "นรกไปเอา Netherite นะ",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "20.5 chars/s"
+          },
+          {
+            "severity": "info",
+            "code": "latin_words",
+            "detail": "Netherite"
+          }
+        ]
+      },
+      {
+        "cue": 13,
+        "start": 37.5,
+        "text": "ไม่งั้นเพื่อชีวิตอันโหดร้ายในการมา",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "21.9 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 14,
+        "start": 39.06,
+        "text": "นั่งขุดบล็อกโง่ๆแบบนี้จะได้หายไป",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "20.6 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 16,
+        "start": 41.06,
+        "text": "แล้ว enchant แม่งเอาแบบไอ้อะไรวะ",
+        "issues": [
+          {
+            "severity": "info",
+            "code": "latin_words",
+            "detail": "enchant"
+          }
+        ]
+      },
+      {
+        "cue": 19,
+        "start": 47.2,
+        "text": "3x3 เจอแน่",
+        "issues": [
+          {
+            "severity": "info",
+            "code": "has_digits",
+            "detail": "33"
+          }
+        ]
+      },
+      {
+        "cue": 20,
+        "start": 49.3,
+        "text": "เฮ้ยเฮ้ยเฮ้ยสายทานป่ะนี่",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "17.1 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 21,
+        "start": 51.0,
+        "text": "อื้อสายทานป่ะนี่",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "20.0 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 22,
+        "start": 52.2,
+        "text": "เดี๋ยวๆๆๆอื้อขอสแกนก่อน",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "17.7 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 32,
+        "start": 68.5,
+        "text": "ไอ้บีไอ้เหี้ย",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "18.6 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 33,
+        "start": 70.0,
+        "text": "แตก Diamond เหลืออันนึง",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "17.5 chars/s"
+          },
+          {
+            "severity": "info",
+            "code": "latin_words",
+            "detail": "Diamond"
+          }
+        ]
+      },
+      {
+        "cue": 34,
+        "start": 73.3,
+        "text": "เนี่ยพี่ Diamond เต็มเลยพี่จ๋า",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "20.0 chars/s"
+          },
+          {
+            "severity": "info",
+            "code": "latin_words",
+            "detail": "Diamond"
+          }
+        ]
+      },
+      {
+        "cue": 35,
+        "start": 77.2,
+        "text": "ถ้าผมตายแล้วผมจะเอาพี่ไปลงนรก",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "17.2 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 36,
+        "start": 78.89,
+        "text": "ด้วยกันไอ้เหี้ย",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "24.6 chars/s"
+          }
+        ]
+      }
+    ]
+  },
+  "3ad8b944-9545-4283-9f58-3b03d07ef5d6": {
+    "index": 21,
+    "name": "เจอทางกลับบ้านแต่เพื่อนไปห้องน้ำ-Minecraft-vdo",
+    "cues": 39,
+    "findings": [
+      {
+        "cue": 1,
+        "start": 0.0,
+        "text": "เนี่ยมันบังเอิญมากเลย",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "17.5 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 4,
+        "start": 5.2,
+        "text": "แม่งเอ้ยเส้นทางเดียวกันพี่เคแม่งไป",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "18.1 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 5,
+        "start": 7.08,
+        "text": "ขึ้นทางนู้นอยู่ไอ้เหี้ยกูเดินมาโง่ๆ",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "19.8 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 6,
+        "start": 8.85,
+        "text": "มาเจอทางกลับบ้านแล้วเนี่ย",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "18.5 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 7,
+        "start": 18.3,
+        "text": "แล้วพี่เคแม่งก็ไปห้องน้ำพอดีด้วย",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "17.4 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 8,
+        "start": 20.14,
+        "text": "นะโอ้โหร้อยวันพันปีไอ้เหี้ยไม่คิดจะ",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "18.0 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 10,
+        "start": 23.98,
+        "text": "บ้านได้",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "17.5 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 12,
+        "start": 29.3,
+        "text": "เดี๋ยวๆ",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "17.5 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 14,
+        "start": 41.2,
+        "text": "แม่งบังเอิญมากขุดเหล็กพอดีเลยเว้ย",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "23.9 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 15,
+        "start": 42.58,
+        "text": "เลยแบบเลยเจอทางกลับบ้านแล้วคุณดู",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "22.5 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 16,
+        "start": 44.3,
+        "text": "ตอนนี้ก็คือเดี๋ยวเรารอพี่โอมิกลับมา",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "17.4 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 17,
+        "start": 46.31,
+        "text": "แล้วก็เดี๋ยวชวนพี่เค้ากลับบ้านก่อน",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "18.0 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 20,
+        "start": 50.98,
+        "text": "นี้คือหมดแล้วไอ้เหี้ย",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "21.7 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 21,
+        "start": 52.0,
+        "text": "ไม่เหลืออะไรแล้วแม่งชีวิต",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "20.8 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 24,
+        "start": 59.0,
+        "text": "ทรัพยากรขุดได้เยอะชิบหายเลยบล็อก",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "19.2 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 25,
+        "start": 60.66,
+        "text": "หินเนี่ยไม่ทำเหี้ยอะไรเลยบล็อกนี้",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "20.4 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 26,
+        "start": 62.28,
+        "text": "ไม่ได้ใช้ด้วยคุณดูอย่างแย่เลย",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "20.4 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 27,
+        "start": 64.5,
+        "text": "หัวใจแม่งแตกสลายไอ้เหี้ยไดมอนด์แม่",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "not_in_dictionary",
+            "detail": "มอนด์"
+          }
+        ]
+      },
+      {
+        "cue": 28,
+        "start": 66.83,
+        "text": "งได้ 19 อัน",
+        "issues": [
+          {
+            "severity": "info",
+            "code": "has_digits",
+            "detail": "19"
+          }
+        ]
+      },
+      {
+        "cue": 30,
+        "start": 68.8,
+        "text": "พี่จ๋าเจอทางกลับบ้านแล้ว",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "17.1 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 31,
+        "start": 71.0,
+        "text": "เจอทางกลับบ้านแล้วพี่",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "26.3 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 32,
+        "start": 73.2,
+        "text": "เจอทางกลับบ้านแล้วพี่มาหาผม",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "27.0 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 37,
+        "start": 83.0,
+        "text": "พี่ดูตาม GPS อ่ะแล้วพี่เดินเดินมาเดิน",
+        "issues": [
+          {
+            "severity": "info",
+            "code": "latin_words",
+            "detail": "GPS"
+          }
+        ]
+      },
+      {
+        "cue": 39,
+        "start": 88.0,
+        "text": "แม่งบังเอิญมากเลยไอ้เหี้ยขุดแร่ไป",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "22.0 chars/s"
+          }
+        ]
+      }
+    ]
+  },
+  "9737d891-635a-4680-afc0-4d33c1a2b986": {
+    "index": 22,
+    "name": "ลุยฐานใต้ดิน เข้าได้สองทาง-alien shooter 2-vdo",
+    "cues": 20,
+    "findings": [
+      {
+        "cue": 1,
+        "start": 0.0,
+        "text": "to the base, but the entrance gate",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "18.4 chars/s"
+          },
+          {
+            "severity": "info",
+            "code": "latin_words",
+            "detail": "to the base but the entrance gate"
+          }
+        ]
+      },
+      {
+        "cue": 2,
+        "start": 1.52,
+        "text": "is blocked.",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "20.9 chars/s"
+          },
+          {
+            "severity": "info",
+            "code": "latin_words",
+            "detail": "is blocked"
+          }
+        ]
+      },
+      {
+        "cue": 3,
+        "start": 3.2,
+        "text": "The magma team that was here",
+        "issues": [
+          {
+            "severity": "info",
+            "code": "latin_words",
+            "detail": "The magma team that was here"
+          }
+        ]
+      },
+      {
+        "cue": 4,
+        "start": 4.56,
+        "text": "earlier operated from a garage back",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "17.8 chars/s"
+          },
+          {
+            "severity": "info",
+            "code": "latin_words",
+            "detail": "earlier operated from garage back"
+          }
+        ]
+      },
+      {
+        "cue": 5,
+        "start": 6.24,
+        "text": "off the main road behind you.",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "17.7 chars/s"
+          },
+          {
+            "severity": "info",
+            "code": "latin_words",
+            "detail": "off the main road behind you"
+          }
+        ]
+      },
+      {
+        "cue": 6,
+        "start": 8.3,
+        "text": "They told me they left a cache of",
+        "issues": [
+          {
+            "severity": "info",
+            "code": "latin_words",
+            "detail": "They told me they left cache of"
+          }
+        ]
+      },
+      {
+        "cue": 7,
+        "start": 9.9,
+        "text": "dynamite there.",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "19.9 chars/s"
+          },
+          {
+            "severity": "info",
+            "code": "latin_words",
+            "detail": "dynamite there"
+          }
+        ]
+      },
+      {
+        "cue": 8,
+        "start": 14.2,
+        "text": "มันมี 2 ทางหรอ",
+        "issues": [
+          {
+            "severity": "info",
+            "code": "has_digits",
+            "detail": "2"
+          }
+        ]
+      },
+      {
+        "cue": 13,
+        "start": 46.3,
+        "text": "เข้าไปเลยมั้ย",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "18.6 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 17,
+        "start": 57.7,
+        "text": "หัวเข้าได้ 2 ทาง",
+        "issues": [
+          {
+            "severity": "info",
+            "code": "has_digits",
+            "detail": "2"
+          }
+        ]
+      }
+    ]
+  },
+  "53521e92-7059-484f-9ddb-01d5d94dca0d": {
+    "index": 23,
+    "name": "กวาดศัตรูในฐานมืด-alien shooter 2-vdo",
+    "cues": 3,
+    "findings": [
+      {
+        "cue": 3,
+        "start": 45.0,
+        "text": "ขอเดินเพิ่มอีกหน่อยนะ",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "21.0 chars/s"
+          }
+        ]
+      }
+    ]
+  },
+  "827f407c-0041-46cd-9d6f-dc12cc1d0a48": {
+    "index": 24,
+    "name": "เช็กของ เซฟยัง แล้วลุยต่อ-alien shooter 2-vdo",
+    "cues": 10,
+    "findings": [
+      {
+        "cue": 5,
+        "start": 39.9,
+        "text": "The base quarters are down the",
+        "issues": [
+          {
+            "severity": "info",
+            "code": "latin_words",
+            "detail": "The base quarters are down the"
+          }
+        ]
+      },
+      {
+        "cue": 6,
+        "start": 41.7,
+        "text": "corridor on the left side.",
+        "issues": [
+          {
+            "severity": "info",
+            "code": "latin_words",
+            "detail": "corridor on the left side"
+          }
+        ]
+      },
+      {
+        "cue": 8,
+        "start": 94.5,
+        "text": "เอ้า",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "not_in_dictionary",
+            "detail": "เอ้า"
+          }
+        ]
+      },
+      {
+        "cue": 10,
+        "start": 96.8,
+        "text": "เอ้า",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "not_in_dictionary",
+            "detail": "เอ้า"
+          }
+        ]
+      }
+    ]
+  },
+  "c36ae3b0-6f93-401e-bf07-9b13cb8fb3a1": {
+    "index": 25,
+    "name": "กดเล่นแล้วเกมเด้ง ลบโหลดใหม่เลย-alien shooter 2-vdo",
+    "cues": 28,
+    "findings": [
+      {
+        "cue": 1,
+        "start": 3.1,
+        "text": "กด play เลยพี่",
+        "issues": [
+          {
+            "severity": "info",
+            "code": "latin_words",
+            "detail": "play"
+          }
+        ]
+      },
+      {
+        "cue": 2,
+        "start": 7.1,
+        "text": "นี่เป็นไงพี่เป็นไงเป็นไง Windows desktop",
+        "issues": [
+          {
+            "severity": "info",
+            "code": "latin_words",
+            "detail": "Windows desktop"
+          }
+        ]
+      },
+      {
+        "cue": 4,
+        "start": 13.56,
+        "text": "เชี่ยเกมแครช",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "not_in_dictionary",
+            "detail": "เชี่ย รช"
+          }
+        ]
+      },
+      {
+        "cue": 6,
+        "start": 20.1,
+        "text": "วิถีลูกผู้ชายเหรอพี่ใช่ทูพี่เชี่ยเกมแครช",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "not_in_dictionary",
+            "detail": "เชี่ย รช"
+          }
+        ]
+      },
+      {
+        "cue": 8,
+        "start": 31.52,
+        "text": "พอลพี่เคตั้งเปิด notepad อยู่เมื่อกี้",
+        "issues": [
+          {
+            "severity": "info",
+            "code": "latin_words",
+            "detail": "notepad"
+          }
+        ]
+      },
+      {
+        "cue": 10,
+        "start": 38.39,
+        "text": "เออ Minecraft ผมก็ทำอยู่มันมีม็อดบางอันที่มัน",
+        "issues": [
+          {
+            "severity": "info",
+            "code": "latin_words",
+            "detail": "Minecraft"
+          }
+        ]
+      },
+      {
+        "cue": 15,
+        "start": 57.8,
+        "text": "ทำไมมันถึงแครชวะ",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "not_in_dictionary",
+            "detail": "รช"
+          }
+        ]
+      },
+      {
+        "cue": 16,
+        "start": 61.1,
+        "text": "เออบอกว่าเล่นเวอร์ชันนี้แล้วแครชด้วยนะ",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "not_in_dictionary",
+            "detail": "รช"
+          }
+        ]
+      },
+      {
+        "cue": 19,
+        "start": 72.32,
+        "text": "ตเตอร์อาจจะเป็นสแกมเมอร์ก็ได้นะพี่ปิดไปสักวัน",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "not_in_dictionary",
+            "detail": "ตเตอร์ เมอร์"
+          }
+        ]
+      },
+      {
+        "cue": 21,
+        "start": 76.1,
+        "text": "เป็นไปได้ไอ้เพอนั่นแหละแล้วก็เลือก 1 day",
+        "issues": [
+          {
+            "severity": "info",
+            "code": "has_digits",
+            "detail": "1"
+          },
+          {
+            "severity": "info",
+            "code": "latin_words",
+            "detail": "day"
+          }
+        ]
+      },
+      {
+        "cue": 25,
+        "start": 89.1,
+        "text": "ไม่กำลังกำลังนึกอยู่ทำทำไมเกมแครชวะ",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "not_in_dictionary",
+            "detail": "รช"
+          }
+        ]
+      },
+      {
+        "cue": 27,
+        "start": 100.1,
+        "text": "อืออะน่ออะน่อ",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "not_in_dictionary",
+            "detail": "น่อ น่อ"
+          }
+        ]
+      }
+    ]
+  },
+  "a618240d-4cd9-4331-bccc-dd6e98e7a4e7": {
+    "index": 26,
+    "name": "Windows XP  Vista  8  ลองหมด-alien shooter 2-vdo",
+    "cues": 36,
+    "findings": [
+      {
+        "cue": 1,
+        "start": 0.7,
+        "text": "โคตรเหี้ยเลยไอ้เหี้ยเอ้ย",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "60.0 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 2,
+        "start": 1.15,
+        "text": "ไม่ได้ใช้ไม่ได้ใช้ไม่ได้ใช้ DG กูดูการนะเนี่ย",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "107.5 chars/s"
+          },
+          {
+            "severity": "info",
+            "code": "latin_words",
+            "detail": "DG"
+          }
+        ]
+      },
+      {
+        "cue": 3,
+        "start": 1.6,
+        "text": "เฮ้ย Windows 8 ยังไม่ลองเลยนะพี่ไล่ไปเหี้ยอัน",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "70.0 chars/s"
+          },
+          {
+            "severity": "info",
+            "code": "has_digits",
+            "detail": "8"
+          },
+          {
+            "severity": "info",
+            "code": "latin_words",
+            "detail": "Windows"
+          }
+        ]
+      },
+      {
+        "cue": 4,
+        "start": 2.25,
+        "text": "กด Play เลยพี่กด Play เลยนี่น่าจะเกมเด้งเป็นไงผมรู้",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "78.3 chars/s"
+          },
+          {
+            "severity": "info",
+            "code": "latin_words",
+            "detail": "Play Play"
+          }
+        ]
+      },
+      {
+        "cue": 5,
+        "start": 2.9,
+        "text": "ผมผมนี่โคตรเก่งเลยไอ้เหี้ยคลิกขวา",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "55.0 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 6,
+        "start": 3.55,
+        "text": "Windows 8 พี่ Windows 8 รอบนี้ Windows 8",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "55.0 chars/s"
+          },
+          {
+            "severity": "info",
+            "code": "has_digits",
+            "detail": "888"
+          },
+          {
+            "severity": "info",
+            "code": "latin_words",
+            "detail": "Windows Windows Windows"
+          }
+        ]
+      },
+      {
+        "cue": 7,
+        "start": 4.2,
+        "text": "อือจิ้มไปไอ้เหี้ยนำไปใช้ตกลงปื๊ดไม่ได้ไอ้เหี้ยไอ้นี่เด้ง [หัวเราะ]",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "bracketed_annotation",
+            "detail": "[หัวเราะ]"
+          },
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "108.3 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 8,
+        "start": 4.85,
+        "text": "การแสดงผลเกมนั่งคำคุณสมบัติมีแต่ผู้พัฒนามาเห็นคงภาคภูมิใจในตัวเรา",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "108.3 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 9,
+        "start": 5.5,
+        "text": "อ่ะไอ้เหี้ย",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "27.5 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 10,
+        "start": 8.5,
+        "text": "แล้วก็ดับเออ",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "30.0 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 12,
+        "start": 12.3,
+        "text": "แฮกเกมเหี้ยอะไรเรายังกด Edit ด้วย",
+        "issues": [
+          {
+            "severity": "info",
+            "code": "latin_words",
+            "detail": "Edit"
+          }
+        ]
+      },
+      {
+        "cue": 13,
+        "start": 14.17,
+        "text": "Notepad อยู่เลยพี่",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "20.5 chars/s"
+          },
+          {
+            "severity": "info",
+            "code": "latin_words",
+            "detail": "Notepad"
+          }
+        ]
+      },
+      {
+        "cue": 15,
+        "start": 16.6,
+        "text": "เปลี่ยนเป็น XP แพ็ค 1 ดิพี่",
+        "issues": [
+          {
+            "severity": "info",
+            "code": "has_digits",
+            "detail": "1"
+          },
+          {
+            "severity": "info",
+            "code": "latin_words",
+            "detail": "XP"
+          }
+        ]
+      },
+      {
+        "cue": 17,
+        "start": 21.53,
+        "text": "ว่ามันคู่อยู่คู่ 202 อ่ะ",
+        "issues": [
+          {
+            "severity": "info",
+            "code": "has_digits",
+            "detail": "202"
+          }
+        ]
+      },
+      {
+        "cue": 18,
+        "start": 23.3,
+        "text": "สรุป Windows 7 แล้วพี่เปลี่ยนแล้วหรอ",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "19.4 chars/s"
+          },
+          {
+            "severity": "info",
+            "code": "has_digits",
+            "detail": "7"
+          },
+          {
+            "severity": "info",
+            "code": "latin_words",
+            "detail": "Windows"
+          }
+        ]
+      },
+      {
+        "cue": 25,
+        "start": 37.3,
+        "text": "เปลี่ยนเป็น Windows XP",
+        "issues": [
+          {
+            "severity": "info",
+            "code": "latin_words",
+            "detail": "Windows XP"
+          }
+        ]
+      },
+      {
+        "cue": 26,
+        "start": 39.6,
+        "text": "XP แพ็คแพ็ค 1 มั้ย",
+        "issues": [
+          {
+            "severity": "info",
+            "code": "has_digits",
+            "detail": "1"
+          },
+          {
+            "severity": "info",
+            "code": "latin_words",
+            "detail": "XP"
+          }
+        ]
+      },
+      {
+        "cue": 27,
+        "start": 42.1,
+        "text": "พิซซ่าเอ้ย Vista แม่งเลยพี่ของจริง",
+        "issues": [
+          {
+            "severity": "info",
+            "code": "latin_words",
+            "detail": "Vista"
+          }
+        ]
+      },
+      {
+        "cue": 28,
+        "start": 44.3,
+        "text": "เหี้ย Vista แพ็ค 1",
+        "issues": [
+          {
+            "severity": "info",
+            "code": "has_digits",
+            "detail": "1"
+          },
+          {
+            "severity": "info",
+            "code": "latin_words",
+            "detail": "Vista"
+          }
+        ]
+      },
+      {
+        "cue": 29,
+        "start": 45.9,
+        "text": "1 ไม่ได้ก็ 2 ต่ออ่ะไอ้เหี้ย",
+        "issues": [
+          {
+            "severity": "info",
+            "code": "has_digits",
+            "detail": "12"
+          }
+        ]
+      },
+      {
+        "cue": 30,
+        "start": 47.9,
+        "text": "ไม่ต้องเล่นแอลแล้วไอ้เหี้ย",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "18.6 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 32,
+        "start": 52.09,
+        "text": "Windows โหมดเปิดเกมได้โคตรเหี้ยเลย",
+        "issues": [
+          {
+            "severity": "info",
+            "code": "latin_words",
+            "detail": "Windows"
+          }
+        ]
+      },
+      {
+        "cue": 35,
+        "start": 57.0,
+        "text": "ใช้ Windows เลยว่ะ",
+        "issues": [
+          {
+            "severity": "info",
+            "code": "latin_words",
+            "detail": "Windows"
+          }
+        ]
+      },
+      {
+        "cue": 36,
+        "start": 59.0,
+        "text": "Vista ปกติพี่",
+        "issues": [
+          {
+            "severity": "info",
+            "code": "latin_words",
+            "detail": "Vista"
+          }
+        ]
+      }
+    ]
+  },
+  "ced25d58-9d0b-4545-915e-1ac549e2bce6": {
+    "index": 27,
+    "name": "ในที่สุดแชร์จอเหมือนคนปกติได้แล้ว-alien shooter 2-vdo",
+    "cues": 24,
+    "findings": [
+      {
+        "cue": 2,
+        "start": 3.0,
+        "text": "นั่นน่ะพี่เออดับเบิลคลิกไป",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "17.3 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 5,
+        "start": 11.0,
+        "text": "เออเนี่ยหน้าไหนเนี่ยชูเตอร์สอง",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "20.0 chars/s"
+          },
+          {
+            "severity": "warn",
+            "code": "not_in_dictionary",
+            "detail": "เตอร์"
+          }
+        ]
+      },
+      {
+        "cue": 6,
+        "start": 13.0,
+        "text": "โหเราน่าจะใช้วิธีนี้แต่แรก",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "17.3 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 10,
+        "start": 26.0,
+        "text": "พี่ไม่ต้องพี่ไม่ต้องไอ้นี่หรอก",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "20.7 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 12,
+        "start": 35.0,
+        "text": "คนดูภูมิใจในตัวพี่แล้วมั้งเนี่ย",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "20.7 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 15,
+        "start": 52.0,
+        "text": "ไอ้ที่เป็นหลอดโดเนทพี่อะ",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "not_in_dictionary",
+            "detail": "เนท"
+          }
+        ]
+      },
+      {
+        "cue": 17,
+        "start": 59.0,
+        "text": "ไม่ไม่ต้องไปโดเนทโกดิพี่",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "not_in_dictionary",
+            "detail": "เนท"
+          }
+        ]
+      },
+      {
+        "cue": 18,
+        "start": 60.5,
+        "text": "อันนี้มันลิงก์โดเนท",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "not_in_dictionary",
+            "detail": "เนท"
+          }
+        ]
+      }
+    ]
+  },
+  "efb952b7-a2f7-4df4-b967-0d8e0ce30191": {
+    "index": 28,
+    "name": "ปรับความละเอียด 1024x768 ไอ้เฮีย-alien shooter 2-vdo",
+    "cues": 37,
+    "findings": [
+      {
+        "cue": 1,
+        "start": 0.0,
+        "text": "ไอ้เหี้ยทำเหมือนพี่มีซีดีรอมอ่ะเห็นไหม 1,600",
+        "issues": [
+          {
+            "severity": "info",
+            "code": "has_digits",
+            "detail": "1600"
+          }
+        ]
+      },
+      {
+        "cue": 2,
+        "start": 4.85,
+        "text": "1,600 1,600 ใช้ได้พี่เฮ็ดไง",
+        "issues": [
+          {
+            "severity": "info",
+            "code": "has_digits",
+            "detail": "16001600"
+          }
+        ]
+      },
+      {
+        "cue": 3,
+        "start": 8.0,
+        "text": "ยุคนั้นมันอาจจะยังไม่มีความละเอียด 1,000",
+        "issues": [
+          {
+            "severity": "info",
+            "code": "has_digits",
+            "detail": "1000"
+          }
+        ]
+      },
+      {
+        "cue": 4,
+        "start": 10.96,
+        "text": "1,080 อยู่ไงพี่",
+        "issues": [
+          {
+            "severity": "info",
+            "code": "has_digits",
+            "detail": "1080"
+          }
+        ]
+      },
+      {
+        "cue": 6,
+        "start": 18.0,
+        "text": "ไอ้เหี้ยกลับกลับคืนสู่สามัญไอ้เหี้ย 1 0 1",
+        "issues": [
+          {
+            "severity": "info",
+            "code": "has_digits",
+            "detail": "101"
+          }
+        ]
+      },
+      {
+        "cue": 7,
+        "start": 22.76,
+        "text": "อะไรวะ 1 1 0 1 0 2 4 คูณ 7 6 8",
+        "issues": [
+          {
+            "severity": "info",
+            "code": "has_digits",
+            "detail": "1101024768"
+          }
+        ]
+      },
+      {
+        "cue": 10,
+        "start": 34.0,
+        "text": "เออปรับเป็น 0 ก็ได้พี่แต่ว่าถ้าปรับเป็น 0",
+        "issues": [
+          {
+            "severity": "info",
+            "code": "has_digits",
+            "detail": "00"
+          }
+        ]
+      },
+      {
+        "cue": 13,
+        "start": 41.0,
+        "text": "1,000 1,024",
+        "issues": [
+          {
+            "severity": "info",
+            "code": "has_digits",
+            "detail": "10001024"
+          }
+        ]
+      },
+      {
+        "cue": 15,
+        "start": 45.0,
+        "text": "1 0 2 4 1 0 2 4",
+        "issues": [
+          {
+            "severity": "info",
+            "code": "has_digits",
+            "detail": "10241024"
+          }
+        ]
+      },
+      {
+        "cue": 17,
+        "start": 52.25,
+        "text": "ตัวเออ 7 7 6 8",
+        "issues": [
+          {
+            "severity": "info",
+            "code": "has_digits",
+            "detail": "7768"
+          }
+        ]
+      },
+      {
+        "cue": 23,
+        "start": 70.0,
+        "text": "ดูดิปรับ 1,600 แล้วมันไม่เลือกว่ะ",
+        "issues": [
+          {
+            "severity": "info",
+            "code": "has_digits",
+            "detail": "1600"
+          }
+        ]
+      },
+      {
+        "cue": 29,
+        "start": 100.0,
+        "text": "ปรับเป็น 1",
+        "issues": [
+          {
+            "severity": "info",
+            "code": "has_digits",
+            "detail": "1"
+          }
+        ]
+      },
+      {
+        "cue": 31,
+        "start": 105.0,
+        "text": "แต่ถ้าเกิดแต่ถ้าเกิดว่าเกมแม่งแครชเหมือนเดิม",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "not_in_dictionary",
+            "detail": "รช"
+          }
+        ]
+      },
+      {
+        "cue": 33,
+        "start": 109.0,
+        "text": "โหยมันจะแครชทำไมล่ะพี่เราเพิ่งเปิดฟูลสกรีน",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "17.5 chars/s"
+          },
+          {
+            "severity": "warn",
+            "code": "not_in_dictionary",
+            "detail": "รช"
+          }
+        ]
+      },
+      {
+        "cue": 34,
+        "start": 111.4,
+        "text": "กันมาเมื่อกี้",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "23.7 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 35,
+        "start": 112.0,
+        "text": "คนดู 2 คนแม่งภาคภูมิใจในตัวพี่แล้วเนี่ย",
+        "issues": [
+          {
+            "severity": "info",
+            "code": "has_digits",
+            "detail": "2"
+          }
+        ]
+      }
+    ]
+  },
+  "ff6a7508-c921-4528-bb58-ccd8dd22e2ab": {
+    "index": 29,
+    "name": "ไฟต์ใหญ่ในอารีนา-League of Legends-vdo",
+    "cues": 2,
+    "findings": [
+      {
+        "cue": 1,
+        "start": 0.04,
+        "text": "อื้ออื้ออื้อ My name อื้ออื้อ enemy slain อื้ออื้อ enemy slain อื้ออื้อ",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "65.3 chars/s"
+          },
+          {
+            "severity": "info",
+            "code": "latin_words",
+            "detail": "My name enemy slain enemy slain"
+          }
+        ]
+      },
+      {
+        "cue": 2,
+        "start": 1.01,
+        "text": "อื้ออื้อ enemy slain อื้อ frag down",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "52.2 chars/s"
+          },
+          {
+            "severity": "info",
+            "code": "latin_words",
+            "detail": "enemy slain frag down"
+          }
+        ]
+      }
+    ]
+  },
+  "48ebe6cc-2063-4388-9e97-1740506c55f0": {
+    "index": 30,
+    "name": "เสียงร้องโอ๊ยๆ-League of Legends-vdo",
+    "cues": 14,
+    "findings": [
+      {
+        "cue": 1,
+        "start": 10.5,
+        "text": "An ally has been slain.",
+        "issues": [
+          {
+            "severity": "info",
+            "code": "latin_words",
+            "detail": "An ally has been slain"
+          }
+        ]
+      },
+      {
+        "cue": 2,
+        "start": 16.4,
+        "text": "An ally has been slain.",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "17.3 chars/s"
+          },
+          {
+            "severity": "info",
+            "code": "latin_words",
+            "detail": "An ally has been slain"
+          }
+        ]
+      },
+      {
+        "cue": 3,
+        "start": 21.2,
+        "text": "Look out!",
+        "issues": [
+          {
+            "severity": "info",
+            "code": "latin_words",
+            "detail": "Look out"
+          }
+        ]
+      },
+      {
+        "cue": 6,
+        "start": 28.5,
+        "text": "An enemy has been slain.",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "20.0 chars/s"
+          },
+          {
+            "severity": "info",
+            "code": "latin_words",
+            "detail": "An enemy has been slain"
+          }
+        ]
+      },
+      {
+        "cue": 9,
+        "start": 36.7,
+        "text": "Some lessons cannot be passed from",
+        "issues": [
+          {
+            "severity": "info",
+            "code": "latin_words",
+            "detail": "Some lessons cannot be passed from"
+          }
+        ]
+      },
+      {
+        "cue": 10,
+        "start": 39.16,
+        "text": "teacher to student.",
+        "issues": [
+          {
+            "severity": "info",
+            "code": "latin_words",
+            "detail": "teacher to student"
+          }
+        ]
+      },
+      {
+        "cue": 11,
+        "start": 40.8,
+        "text": "They must be experienced.",
+        "issues": [
+          {
+            "severity": "info",
+            "code": "latin_words",
+            "detail": "They must be experienced"
+          }
+        ]
+      },
+      {
+        "cue": 12,
+        "start": 50.5,
+        "text": "An ally has been slain.",
+        "issues": [
+          {
+            "severity": "info",
+            "code": "latin_words",
+            "detail": "An ally has been slain"
+          }
+        ]
+      },
+      {
+        "cue": 13,
+        "start": 62.5,
+        "text": "Feel that power.",
+        "issues": [
+          {
+            "severity": "info",
+            "code": "latin_words",
+            "detail": "Feel that power"
+          }
+        ]
+      },
+      {
+        "cue": 14,
+        "start": 66.5,
+        "text": "An ally has been slain.",
+        "issues": [
+          {
+            "severity": "info",
+            "code": "latin_words",
+            "detail": "An ally has been slain"
+          }
+        ]
+      }
+    ]
+  },
+  "7f517373-d087-46ad-abca-635edce690df": {
+    "index": 31,
+    "name": "ดับเบิลคิลแล้วโดนฝัง-League of Legends-vdo",
+    "cues": 7,
+    "findings": [
+      {
+        "cue": 5,
+        "start": 27.0,
+        "text": "หนูรู้แล้วดิคนนี้เขาเก่งนะวะ",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "28.0 chars/s"
+          }
+        ]
+      }
+    ]
+  },
+  "f1940f17-24c4-440c-9a6d-d97545268986": {
+    "index": 32,
+    "name": "ไฟต์หน้าป้อม-League of Legends-vdo",
+    "cues": 15,
+    "findings": [
+      {
+        "cue": 10,
+        "start": 56.0,
+        "text": "Dark in my blood queen",
+        "issues": [
+          {
+            "severity": "info",
+            "code": "latin_words",
+            "detail": "Dark in my blood queen"
+          }
+        ]
+      },
+      {
+        "cue": 13,
+        "start": 71.0,
+        "text": "Strike the wind",
+        "issues": [
+          {
+            "severity": "info",
+            "code": "latin_words",
+            "detail": "Strike the wind"
+          }
+        ]
+      }
+    ]
+  },
+  "5c279692-554a-4237-83aa-21331a499522": {
+    "index": 33,
+    "name": "เมาท์เรื่องสายเล่นเกม-League of Legends-vdo",
+    "cues": 2,
+    "findings": [
+      {
+        "cue": 1,
+        "start": 43.0,
+        "text": "อื้อหือคิลเลอร์ของนี่นี่",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "not_in_dictionary",
+            "detail": "คิลเลอร์"
+          }
+        ]
+      }
+    ]
+  },
+  "341f7397-908a-49e0-995f-b57bcbf4f749": {
+    "index": 34,
+    "name": "เพนตาคิลแล้วพ่ายแพ้-League of Legends-vdo",
+    "cues": 2,
+    "findings": [
+      {
+        "cue": 1,
+        "start": 0.0,
+        "text": "เอ้าเราไม่มีเซมิเอเลีย",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "not_in_dictionary",
+            "detail": "เอ้า"
+          }
+        ]
+      },
+      {
+        "cue": 2,
+        "start": 2.5,
+        "text": "เอาเลเวลสู้หรอ",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "not_in_dictionary",
+            "detail": "เล"
+          }
+        ]
+      }
+    ]
+  },
+  "a897710f-8a14-429b-8fe5-d4f3548364a5": {
+    "index": 35,
+    "name": "ไฟต์ท้ายเกมสุดมัน-League of Legends-vdo",
+    "cues": 3,
+    "findings": [
+      {
+        "cue": 2,
+        "start": 14.0,
+        "text": "จะตีให้ 2 อันนะแต่ไม่ทีมแบบน่า",
+        "issues": [
+          {
+            "severity": "info",
+            "code": "has_digits",
+            "detail": "2"
+          }
+        ]
+      }
+    ]
+  },
+  "8634612e-5907-41f4-9f04-4c8efe08ee96": {
+    "index": 36,
+    "name": "ลืมเปิดเสียงเพื่อน คุยกับผีมาตั้งนาน-Minecraft-vdo",
+    "cues": 15,
+    "findings": [
+      {
+        "cue": 1,
+        "start": 0.0,
+        "text": "โอ้จบการไลฟ์โม้กับพี่จ๋าตั้งนานแม่งลืมเอา",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "18.5 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 2,
+        "start": 2.21,
+        "text": "เสียงเรคคอร์ดเข้า",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "18.1 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 3,
+        "start": 3.2,
+        "text": "ว่าแล้วว่าชีวิตนี้ลืมอะไรพี่จ๋า 3 4",
+        "issues": [
+          {
+            "severity": "info",
+            "code": "has_digits",
+            "detail": "34"
+          }
+        ]
+      }
+    ]
+  },
+  "d28ccb47-b2f0-4e45-8179-e1f0c9bd0176": {
+    "index": 37,
+    "name": "ลืมเอาอาหาร ต้องกินเนื้อซอมบี้-Minecraft-vdo",
+    "cues": 31,
+    "findings": [
+      {
+        "cue": 2,
+        "start": 15.0,
+        "text": "สวัสดีคุณไดมอนด์นะครับยินดีต้อนรับเข้าสู่เรดดี้ทีวี",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "not_in_dictionary",
+            "detail": "มอนด์ ดดี้"
+          }
+        ]
+      },
+      {
+        "cue": 4,
+        "start": 30.3,
+        "text": "ชิบหายแม่งลืมเอาของกินมาอู๊หูย",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "not_in_dictionary",
+            "detail": "อู๊"
+          }
+        ]
+      },
+      {
+        "cue": 6,
+        "start": 36.3,
+        "text": "ได้ได้เวลาอยู่แบบแบร์กริลส์แล้วไอ้เหี้ยแดก",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "not_in_dictionary",
+            "detail": "แบร์กริลส์"
+          }
+        ]
+      },
+      {
+        "cue": 10,
+        "start": 46.3,
+        "text": "สภาพคนที่มันเตรียมตัวไม่พร้อมอ่ะเป็นอย่างเนี้ย",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "not_in_dictionary",
+            "detail": "เนี้ย"
+          }
+        ]
+      },
+      {
+        "cue": 16,
+        "start": 62.0,
+        "text": "ดินเหนียวแม่งโผล่หัวอย่างเยอะเลยนะตอนที่ขุด",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "21.4 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 17,
+        "start": 64.01,
+        "text": "มาเอ้ยตอนแรกเหมือนเยอะนะพอไมน์คราฟท์",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "17.9 chars/s"
+          },
+          {
+            "severity": "warn",
+            "code": "not_in_dictionary",
+            "detail": "ไมน์คราฟท์"
+          }
+        ]
+      },
+      {
+        "cue": 18,
+        "start": 66.02,
+        "text": "จริงๆไม่ค่อยมีตอนนี้นะ",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "22.5 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 19,
+        "start": 67.1,
+        "text": "เออไมน์คราฟท์จริงๆน้อยมากพี่ใช่ๆ",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "not_in_dictionary",
+            "detail": "ไมน์คราฟท์"
+          }
+        ]
+      },
+      {
+        "cue": 23,
+        "start": 84.04,
+        "text": "แล้วจะได้ไม่ต้องขุดเลเทอร์แล้วทำเป็นเผื่อ",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "not_in_dictionary",
+            "detail": "เลเทอร์"
+          }
+        ]
+      },
+      {
+        "cue": 26,
+        "start": 91.63,
+        "text": "แล้วเนี่ยไอ้เหี้ย",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "19.6 chars/s"
+          }
+        ]
+      }
+    ]
+  },
+  "b3966e65-e09f-4268-9211-1e781766f911": {
+    "index": 38,
+    "name": "ซอมบี้มาได้ไงวะ!-Minecraft-vdo",
+    "cues": 20,
+    "findings": [
+      {
+        "cue": 9,
+        "start": 24.38,
+        "text": "เฮ้ยมันมันมันมีข้อผิดพลาดทางเทคนิคหรือเปล่า",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "18.0 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 10,
+        "start": 26.76,
+        "text": "วะทำไมซอมบี้มันมาได้วะ",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "17.5 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 12,
+        "start": 35.34,
+        "text": "เฮ้ยเดี๋ยวๆๆมันมาได้ไงอะมันไม่ใช่อะมัน",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "18.4 chars/s"
+          }
+        ]
+      }
+    ]
+  },
+  "caf467e9-cd05-472b-ad67-7509a17d7cc3": {
+    "index": 39,
+    "name": "อยากเปลี่ยนร่าง เอาคนไม่มีเสียงในหัวมาเล่นแทน-Minecraft-vdo",
+    "cues": 10,
+    "findings": [
+      {
+        "cue": 1,
+        "start": 3.0,
+        "text": "แต่ตอนเนี้ยกูชักอยากจะเปลี่ยนร่างแล้วเนี่ยค่ะกู",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "not_in_dictionary",
+            "detail": "เนี้ย"
+          }
+        ]
+      },
+      {
+        "cue": 3,
+        "start": 8.54,
+        "text": "เล่นแทนกูแล้วเนี่ยแม่งบ่นไม่หยุดเลยไอ้สัส",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "not_in_dictionary",
+            "detail": "สัส"
+          }
+        ]
+      },
+      {
+        "cue": 5,
+        "start": 20.06,
+        "text": "จะเอาเลเวลที่มึงใช้ไปไปทารูเมนดี้เนี่ยทำไม",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "not_in_dictionary",
+            "detail": "เล ดี้"
+          }
+        ]
+      },
+      {
+        "cue": 10,
+        "start": 51.0,
+        "text": "อึ๊อึ๊ตายห่าแล้ว",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "not_in_dictionary",
+            "detail": "อึ๊อึ๊"
+          }
+        ]
+      }
+    ]
+  },
+  "59ff8512-7507-4892-a807-90e4ab1e8b69": {
+    "index": 40,
+    "name": "พี่จ๋าช่วยด้วย เรือไปไหนวะ-Minecraft-vdo",
+    "cues": 22,
+    "findings": [
+      {
+        "cue": 5,
+        "start": 10.0,
+        "text": "ต้องพายดิว่าแต่เอาเรือมาทำไมเนี่ย",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "66.0 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 6,
+        "start": 10.55,
+        "text": "คุมเรือเป็นไหมเนี่ยนี่พี่ขี่อันนี้ดิผมขี่เรือมันก็โดดไม่ได้",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "107.3 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 7,
+        "start": 11.15,
+        "text": "เนี่ยเออผมจะไปทางนี้เฮ้ยๆพี่ใจเย็นเฮ้ยๆๆๆคุยคุยค่อยฆ่ากัน",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "103.6 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 8,
+        "start": 11.75,
+        "text": "ฮัลโหลยังไม่ได้ทำอะไรเลยเคมึงอ่ะมึงมึงทำตัวมึงเองอ่ะ",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "91.4 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 9,
+        "start": 12.37,
+        "text": "กด Shift ขวานั่งหน้าแล้วพายพายไอ้เหี้ยเอ๊ยเกือบละ",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "78.3 chars/s"
+          },
+          {
+            "severity": "info",
+            "code": "latin_words",
+            "detail": "Shift"
+          }
+        ]
+      },
+      {
+        "cue": 10,
+        "start": 13.02,
+        "text": "แง้นๆไปละไอ้เหี้ยเจอกันโอ้โหแม่งทางแม่งโคตรไม่สมประกอบอ่ะ",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "95.0 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 20,
+        "start": 50.0,
+        "text": "ห้ะ",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "not_in_dictionary",
+            "detail": "ห้ะ"
+          }
+        ]
+      }
+    ]
+  },
+  "fbf4c70a-6bb7-4e47-8d13-1363ef777b4e": {
+    "index": 41,
+    "name": "วิ่งหนีมอนตอนมืดจนเห็นบ้าน-Minecraft-vdo",
+    "cues": 40,
+    "findings": [
+      {
+        "cue": 4,
+        "start": 12.91,
+        "text": "ตายต้องใช้โคบาร์นิดนึงคนดู 3 เซ็นแม่",
+        "issues": [
+          {
+            "severity": "info",
+            "code": "has_digits",
+            "detail": "3"
+          }
+        ]
+      },
+      {
+        "cue": 9,
+        "start": 25.15,
+        "text": "จ๋าเค้าขี้เกียจไอ้นี่",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "19.1 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 10,
+        "start": 26.46,
+        "text": "เฮ้ยเดี๋ยวๆมันมาจากไหนตัวนึงอ่ะ",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "18.1 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 11,
+        "start": 30.12,
+        "text": "มันรอได้ 2 ตัวเท่านี้ดิมันรอไปหมด",
+        "issues": [
+          {
+            "severity": "info",
+            "code": "has_digits",
+            "detail": "2"
+          }
+        ]
+      },
+      {
+        "cue": 12,
+        "start": 33.32,
+        "text": "ไม่ตอนนี้มันตรงผมมี 2 ตัวเฉยเว้ยพี่",
+        "issues": [
+          {
+            "severity": "info",
+            "code": "has_digits",
+            "detail": "2"
+          }
+        ]
+      },
+      {
+        "cue": 13,
+        "start": 40.01,
+        "text": "สยามนี่ถึงป่ะวะ",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "19.0 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 16,
+        "start": 55.92,
+        "text": "เราอย่าพูดความร้ายมาอยู่ดู",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "17.6 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 18,
+        "start": 66.33,
+        "text": "อ๋อต้องวางเท่านั้นด้วยเชี่ยแม้โยน",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "27.1 chars/s"
+          },
+          {
+            "severity": "warn",
+            "code": "not_in_dictionary",
+            "detail": "เชี่ย"
+          }
+        ]
+      },
+      {
+        "cue": 21,
+        "start": 71.06,
+        "text": "เอ้าเหี้ยเอ้ยโยน 1 มาถึง 2",
+        "issues": [
+          {
+            "severity": "info",
+            "code": "has_digits",
+            "detail": "12"
+          },
+          {
+            "severity": "warn",
+            "code": "not_in_dictionary",
+            "detail": "เอ้า"
+          }
+        ]
+      },
+      {
+        "cue": 23,
+        "start": 77.25,
+        "text": "มานี่มานี่มานี่มานี่ครับบนบุ",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "17.5 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 24,
+        "start": 79.84,
+        "text": "follow me you can see เออ",
+        "issues": [
+          {
+            "severity": "info",
+            "code": "latin_words",
+            "detail": "follow me you can see"
+          }
+        ]
+      },
+      {
+        "cue": 27,
+        "start": 88.92,
+        "text": "เนี้ยเออใครไม่หินเนี่ย",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "not_in_dictionary",
+            "detail": "เนี้ย"
+          }
+        ]
+      },
+      {
+        "cue": 30,
+        "start": 99.34,
+        "text": "follow follow come on",
+        "issues": [
+          {
+            "severity": "info",
+            "code": "latin_words",
+            "detail": "follow follow come on"
+          }
+        ]
+      },
+      {
+        "cue": 32,
+        "start": 113.84,
+        "text": "come on come on follow follow me",
+        "issues": [
+          {
+            "severity": "info",
+            "code": "latin_words",
+            "detail": "come on come on follow follow me"
+          }
+        ]
+      },
+      {
+        "cue": 33,
+        "start": 123.19,
+        "text": "เป็นยอดครั้งแรกในชีวิตเลยในการเอาในการล่าวิ",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "18.1 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 34,
+        "start": 125.56,
+        "text": "เรนเจอร์กลับบ้านเนี่ยปกติให้เอฟซีทำให้อ่ะ",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "20.0 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 35,
+        "start": 131.15,
+        "text": "come on โป๊ะมานี่ดิ",
+        "issues": [
+          {
+            "severity": "info",
+            "code": "latin_words",
+            "detail": "come on"
+          }
+        ]
+      }
+    ]
+  },
+  "d1abfb93-c076-4cb7-815d-ef1624b97d8d": {
+    "index": 42,
+    "name": "ออกไม่ได้เลยวะ ฮ่าๆๆ-Minecraft-vdo",
+    "cues": 23,
+    "findings": [
+      {
+        "cue": 1,
+        "start": 0.0,
+        "text": "ไอ้เหี้ยผมน่ะเอาเอเมอรัลด์แรกผมได้",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "not_in_dictionary",
+            "detail": "อรัลด์"
+          }
+        ]
+      },
+      {
+        "cue": 5,
+        "start": 9.42,
+        "text": "ฮึ้ยอ่ามันทำตาม",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "not_in_dictionary",
+            "detail": "ฮึ้ย"
+          }
+        ]
+      },
+      {
+        "cue": 23,
+        "start": 67.38,
+        "text": "ไหนดูซิ 35 อันที่คุณผมจะปิด",
+        "issues": [
+          {
+            "severity": "info",
+            "code": "has_digits",
+            "detail": "35"
+          }
+        ]
+      }
+    ]
+  },
+  "23199d97-af37-4526-ad6b-950f04571983": {
+    "index": 43,
+    "name": "ไฟต์ในเลนกับเสียงร้องเฮ้ย-League of Legends-vdo",
+    "cues": 11,
+    "findings": [
+      {
+        "cue": 1,
+        "start": 0.0,
+        "text": "เลเวลสูงสุดแล้ว",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "not_in_dictionary",
+            "detail": "เล"
+          }
+        ]
+      },
+      {
+        "cue": 8,
+        "start": 32.74,
+        "text": "สัส",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "not_in_dictionary",
+            "detail": "สัส"
+          }
+        ]
+      },
+      {
+        "cue": 10,
+        "start": 38.27,
+        "text": "ดูดนมแม่ไปคุยมือแม่เล่นเหี้ยสัส",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "not_in_dictionary",
+            "detail": "สัส"
+          }
+        ]
+      },
+      {
+        "cue": 11,
+        "start": 42.0,
+        "text": "ขึ้นท็อปเลยมึงอย่าทำรูดตูดดิ้วะ",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "not_in_dictionary",
+            "detail": "ดิ้"
+          }
+        ]
+      }
+    ]
+  },
+  "7ffbc921-7ba0-40ee-8bc4-ec85699a8929": {
+    "index": 44,
+    "name": "ทีมไฟต์ถูกชัตดาวน์-League of Legends-vdo",
+    "cues": 16,
+    "findings": [
+      {
+        "cue": 3,
+        "start": 5.96,
+        "text": "พอข้ามส่ะ",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "not_in_dictionary",
+            "detail": "ส่ะ"
+          }
+        ]
+      },
+      {
+        "cue": 4,
+        "start": 13.02,
+        "text": "โอ๊ยเหี้ยหมากvanguardเมื่อกี้นี้ถ้าหมาไม่โดน",
+        "issues": [
+          {
+            "severity": "info",
+            "code": "latin_words",
+            "detail": "vanguard"
+          }
+        ]
+      },
+      {
+        "cue": 7,
+        "start": 23.36,
+        "text": "เกินไม่มีดาเมจพอข้ามแม่ม",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "not_in_dictionary",
+            "detail": "จพอ"
+          }
+        ]
+      },
+      {
+        "cue": 9,
+        "start": 29.52,
+        "text": "สกิล 2 ทีไปกอดแล้วก็ตายกันไปแพ้เกม",
+        "issues": [
+          {
+            "severity": "info",
+            "code": "has_digits",
+            "detail": "2"
+          }
+        ]
+      },
+      {
+        "cue": 11,
+        "start": 36.97,
+        "text": "สัตว์ไหนโตไรต่อไปอ้าวไอ้เหี้ยเดี๋ยวป้อมเธ",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "not_in_dictionary",
+            "detail": "เธ"
+          }
+        ]
+      }
+    ]
+  },
+  "fea3bf4f-544d-45f3-8b39-d19e449b54b0": {
+    "index": 45,
+    "name": "เริ่มเกมแล้วเจอไฟต์-League of Legends-vdo",
+    "cues": 21,
+    "findings": [
+      {
+        "cue": 2,
+        "start": 7.08,
+        "text": "ไม่ใช่มั้ยใช่เออมันมีมั้ยอ่านดิ๊เกมให้",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "not_in_dictionary",
+            "detail": "ดิ๊"
+          }
+        ]
+      }
+    ]
+  },
+  "a4637e1f-4f07-4f01-af2f-81d3e1dd36f6": {
+    "index": 46,
+    "name": "หัวยังไม่ฟู ตายก่อนเลย-League of Legends-vdo",
+    "cues": 35,
+    "findings": [
+      {
+        "cue": 5,
+        "start": 8.0,
+        "text": "เจอคู่คนในคนที่ 6",
+        "issues": [
+          {
+            "severity": "info",
+            "code": "has_digits",
+            "detail": "6"
+          }
+        ]
+      },
+      {
+        "cue": 6,
+        "start": 10.3,
+        "text": "ไหนอันนี้คนที่ 6 ใช่ไหม",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "17.5 chars/s"
+          },
+          {
+            "severity": "info",
+            "code": "has_digits",
+            "detail": "6"
+          }
+        ]
+      },
+      {
+        "cue": 7,
+        "start": 23.3,
+        "text": "เฮ้ยลืมเพลง",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "18.3 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 8,
+        "start": 28.1,
+        "text": "เฮ้ยใช่ๆ",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "20.0 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 9,
+        "start": 28.8,
+        "text": "เฮ้ยตายจริง",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "27.5 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 10,
+        "start": 29.5,
+        "text": "เฮ้ยตายจริง",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "18.3 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 11,
+        "start": 38.3,
+        "text": "เล่นเยอะเกิน",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "17.1 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 14,
+        "start": 49.0,
+        "text": "กูไม่ตายหรอก",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "17.1 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 27,
+        "start": 114.0,
+        "text": "เดี๋ยวเดี๋ยวเดี๋ยวบูลลี่เยอะเกินก็ได้",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "not_in_dictionary",
+            "detail": "บูล"
+          }
+        ]
+      }
+    ]
+  },
+  "4c7555ea-2f61-4214-88a7-877c809e14df": {
+    "index": 47,
+    "name": "ออกเมื่อไหร่มีตายเมื่อนั้น-League of Legends-vdo",
+    "cues": 18,
+    "findings": [
+      {
+        "cue": 6,
+        "start": 13.14,
+        "text": "หนีไปไม่เป็นแล้วตอนนี้สั่นไป",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "21.5 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 7,
+        "start": 24.64,
+        "text": "เออเรามีรีซินด้วย",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "25.0 chars/s"
+          }
+        ]
+      },
+      {
+        "cue": 13,
+        "start": 45.16,
+        "text": "อ๋อเมื่อไหร่มึงตายเมื่อนั้น",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "19.6 chars/s"
+          }
+        ]
+      }
+    ]
+  },
+  "60c95da2-e1dc-472e-89da-d553ab4d2631": {
+    "index": 48,
+    "name": "ด่าทีมรัวๆ ไอ้เชี่ยทีมตาก-League of Legends-vdo",
+    "cues": 10,
+    "findings": [
+      {
+        "cue": 3,
+        "start": 21.0,
+        "text": "มึงตัวๆอย่างเนี้ยมันไม่ออกก้านเว้ย",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "not_in_dictionary",
+            "detail": "เนี้ย"
+          }
+        ]
+      },
+      {
+        "cue": 6,
+        "start": 28.17,
+        "text": "ไอ้เหี้ยโง่สัตว์",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "reading_speed",
+            "detail": "19.3 chars/s"
+          }
+        ]
+      }
+    ]
+  },
+  "0e39b07b-9b88-4f69-8c9e-77f4ce3383e7": {
+    "index": 49,
+    "name": "ลาสตรีม ขอบคุณทุกคน-League of Legends-vdo",
+    "cues": 22,
+    "findings": [
+      {
+        "cue": 3,
+        "start": 5.16,
+        "text": "คือความที่อ่าตอนเนี้ยมีปัญหาเรื่อง",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "not_in_dictionary",
+            "detail": "เนี้ย"
+          }
+        ]
+      },
+      {
+        "cue": 4,
+        "start": 8.71,
+        "text": "ของอาการผวดฟันมีอาการฟันโลกแล้ว",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "not_in_dictionary",
+            "detail": "ผวด"
+          }
+        ]
+      },
+      {
+        "cue": 7,
+        "start": 16.81,
+        "text": "เนี้ยเลยมีอาการแบบเหมือนเสียวร่าย",
+        "issues": [
+          {
+            "severity": "warn",
+            "code": "not_in_dictionary",
+            "detail": "เนี้ย"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -8,7 +8,7 @@
     {
       "start": 0.04,
       "end": 0.99,
-      "text": "อื้ออื้ออื้ออื้ออื้อ My name [ฟังไม่ชัด] อื้ออื้ออื้ออื้ออื้ออื้ออื้ออื้ออื้ออื้ออื้ออื้ออื้ออื้อ enemy slain อื้ออื้ออื้ออื้อ enemy slain อื้ออื้อ",
+      "text": "อื้ออื้ออื้อ My name อื้ออื้อ enemy slain อื้ออื้อ enemy slain อื้ออื้อ",
       "source_segment": 0.04,
       "gemini_uncertain": false,
       "flags": [
@@ -44,7 +44,7 @@
     {
       "start": 1.01,
       "end": 1.585,
-      "text": "อื้ออื้ออื้ออื้ออื้ออื้อ enemy slain อื้อ frag down",
+      "text": "อื้ออื้อ enemy slain อื้อ frag down",
       "source_segment": 1.01,
       "gemini_uncertain": false,
       "flags": [

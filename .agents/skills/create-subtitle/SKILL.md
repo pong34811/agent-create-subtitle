@@ -23,7 +23,7 @@ the shell's current directory.
 ## Pipeline A — Gemini ASR (default, current)
 
 One entry point picks the right interpreter per stage:
-`python scripts/run_pipeline.py status|transcribe|cues|verify|import [N ...]`.
+`python scripts/run_pipeline.py status|transcribe|cues|verify|check|import [N ...]`.
 `import` is a dry run unless `--apply` is given. Vocabulary is in `GLOSSARY.md`;
 why Gemini and not Whisper is in `docs/adr/0001-gemini-asr-over-whisper.md`.
 
@@ -39,7 +39,8 @@ re-litigate without new evidence; the measurements are in
 | 2b. Clips over ~100 s | `scripts/transcribe_chunked.py` | split at quietest seconds |
 | 3. Review `uncertain` segments, then build cues | `scripts/build_gemini_cues.py` | `srt/<id>.draft.srt` |
 | 3b. Plausibility check against audio | `scripts/verify_cues_audio.py` | `audio-verification.json`: cues to listen to first |
-| 4. Proofread Thai text | skill `thai-proofread` | corrected cues |
+| 3c. Rule-based Thai proofreading | `scripts/check_thai_text.py` | `text-check.json` (errors / warnings / info per cue) |
+| 4. Proofread Thai text (meaning) | skill `thai-proofread` | corrected cues |
 | 5. Import to subtitle tracks (dry run first) | `scripts/import_subtitles_resolve.py` | readback-verified |
 | 6. Apply Mitr preset by orientation | skill `resolve-mitr-subtitle-presets` | styled tracks |
 
@@ -67,6 +68,21 @@ to themselves, so run them from inside that folder. Its job list points at
 media on `G:`; confirm the drive is mounted. The builders contain corrections
 specific to that batch; inspect them before reuse.
 
+## What improves transcription (measured, not assumed)
+
+- **Name the game.** `vocab/games.json` gives the transcriber the game title and preferred
+  spellings (matched from the timeline name). It fixed "Heavy Rain Shooter" and "Vengeance"
+  to "Alien Shooter" and "Last Hope". Add terms there when a name is mis-heard twice.
+- **Ask for short segments** (prompt says at most 4 s). A 44 s single segment became 4 s ones.
+  Long segments make cue timing a guess, because the builder spreads words by character share.
+- **Do not re-run weak-model files hoping for better.** 13 files were re-transcribed: the new
+  text read better in places but timing was worse (11-29% of cues flagged vs 3-10% for the
+  originals), and free-tier quota (429) pushed most re-runs onto the lite model anyway.
+- **Do not rescale drifting timestamps linearly.** Tested on 3 files: flagged cues rose from
+  11-19% to 38-50%. Drift is not a uniform stretch.
+- Deterministic clean-up lives in `scripts/thai_text.py` (decomposed sara am, `[ฟังไม่ชัด]` never
+  shown, stutter collapsed). Never show a placeholder to a viewer.
+
 ## Timing rules
 
 - Cue times are relative to the extracted audio. Timeline time is
@@ -82,7 +98,7 @@ specific to that batch; inspect them before reuse.
 
 Reparse the written SRTs as UTF-8 and assert: consecutive indices, `end > start`,
 no overlaps, last cue within the clip, no foreign-script junk, no leftover
-`[ฟังไม่ชัด]` unless intended. Run `python -m pytest tests` (39 tests). State
+`[ฟังไม่ชัด]` unless intended. Run `python -m pytest tests` (46 tests). State
 plainly whether the audio was actually listened to: drafts are `approved: false`
 until a person has checked them against speech. Never claim sync you did not
 verify. `verify_cues_audio.py` only shows that audio exists under a cue; it does not

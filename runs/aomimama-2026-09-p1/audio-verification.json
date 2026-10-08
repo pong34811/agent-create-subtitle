@@ -1460,24 +1460,68 @@
   "a618240d-4cd9-4331-bccc-dd6e98e7a4e7": {
     "index": 26,
     "name": "Windows XP  Vista  8  ลองหมด-alien shooter 2-vdo",
-    "cues": 31,
+    "cues": 36,
     "audio_seconds": 108.87,
     "overlaps": 0,
-    "flagged": 9,
+    "flagged": 13,
     "flags": [
       {
-        "cue": 4,
-        "start": 5.38,
-        "end": 5.9,
-        "text": "อ่ะไอ้เหี้ย",
+        "cue": 3,
+        "start": 1.6,
+        "end": 2.2,
+        "text": "เฮ้ย Windows 8 ยังไม่ลองเลยนะพี่ไล่ไปเหี้ยอัน",
         "active_fraction": 1.0,
-        "onset_drift_s": null,
+        "onset_drift_s": 0.95,
+        "problems": [
+          "no_audio_onset_near_start"
+        ]
+      },
+      {
+        "cue": 4,
+        "start": 2.25,
+        "end": 2.85,
+        "text": "กด Play เลยพี่กด Play เลยนี่น่าจะเกมเด้งเป็นไงผมรู้",
+        "active_fraction": 1.0,
+        "onset_drift_s": 1.05,
+        "problems": [
+          "no_audio_onset_near_start"
+        ]
+      },
+      {
+        "cue": 7,
+        "start": 4.2,
+        "end": 4.8,
+        "text": "อือจิ้มไปไอ้เหี้ยนำไปใช้ตกลงปื๊ดไม่ได้ไอ้เหี้ยไอ้นี่เด้ง [หัวเราะ]",
+        "active_fraction": 1.0,
+        "onset_drift_s": 0.9,
         "problems": [
           "no_audio_onset_near_start"
         ]
       },
       {
         "cue": 8,
+        "start": 4.85,
+        "end": 5.45,
+        "text": "การแสดงผลเกมนั่งคำคุณสมบัติมีแต่ผู้พัฒนามาเห็นคงภาคภูมิใจในตัวเรา",
+        "active_fraction": 1.0,
+        "onset_drift_s": 1.55,
+        "problems": [
+          "no_audio_onset_near_start"
+        ]
+      },
+      {
+        "cue": 9,
+        "start": 5.5,
+        "end": 5.9,
+        "text": "อ่ะไอ้เหี้ย",
+        "active_fraction": 1.0,
+        "onset_drift_s": 1.35,
+        "problems": [
+          "no_audio_onset_near_start"
+        ]
+      },
+      {
+        "cue": 13,
         "start": 14.17,
         "end": 15.0,
         "text": "Notepad อยู่เลยพี่",
@@ -1488,7 +1532,7 @@
         ]
       },
       {
-        "cue": 9,
+        "cue": 14,
         "start": 15.3,
         "end": 16.0,
         "text": "ไอ้เหี้ย",
@@ -1499,7 +1543,7 @@
         ]
       },
       {
-        "cue": 12,
+        "cue": 17,
         "start": 21.53,
         "end": 22.9,
         "text": "ว่ามันคู่อยู่คู่ 202 อ่ะ",
@@ -1510,7 +1554,7 @@
         ]
       },
       {
-        "cue": 16,
+        "cue": 21,
         "start": 30.8,
         "end": 33.26,
         "text": "ยังไม่เปลี่ยนยังไม่เปลี่ยนพี่พี่คลิกขวา",
@@ -1521,7 +1565,7 @@
         ]
       },
       {
-        "cue": 17,
+        "cue": 22,
         "start": 33.26,
         "end": 33.66,
         "text": "ไป",
@@ -1532,7 +1576,7 @@
         ]
       },
       {
-        "cue": 25,
+        "cue": 30,
         "start": 47.9,
         "end": 49.3,
         "text": "ไม่ต้องเล่นแอลแล้วไอ้เหี้ย",
@@ -1543,7 +1587,7 @@
         ]
       },
       {
-        "cue": 26,
+        "cue": 31,
         "start": 49.9,
         "end": 52.09,
         "text": "มานั่งมานั่งมานั่งผาหาแบบหาหา",
@@ -1554,7 +1598,7 @@
         ]
       },
       {
-        "cue": 27,
+        "cue": 32,
         "start": 52.09,
         "end": 54.4,
         "text": "Windows โหมดเปิดเกมได้โคตรเหี้ยเลย",
@@ -1721,7 +1765,7 @@
         "cue": 1,
         "start": 0.04,
         "end": 0.99,
-        "text": "อื้ออื้ออื้ออื้ออื้อ My name [ฟังไม่ชัด] อื้ออื้ออื้ออื้ออื้ออื้ออื้ออื้ออื้ออื้ออื้ออื้ออื้ออื้อ enemy slain อื้ออื้ออื้ออื้อ enemy slain อื้ออื้อ",
+        "text": "อื้ออื้ออื้อ My name อื้ออื้อ enemy slain อื้ออื้อ enemy slain อื้ออื้อ",
         "active_fraction": 0.0,
         "onset_drift_s": null,
         "problems": [
@@ -1733,7 +1777,7 @@
         "cue": 2,
         "start": 1.01,
         "end": 1.58,
-        "text": "อื้ออื้ออื้ออื้ออื้ออื้อ enemy slain อื้อ frag down",
+        "text": "อื้ออื้อ enemy slain อื้อ frag down",
         "active_fraction": 0.0,
         "onset_drift_s": null,
         "problems": [
@@ -1746,7 +1790,7 @@
   "48ebe6cc-2063-4388-9e97-1740506c55f0": {
     "index": 30,
     "name": "เสียงร้องโอ๊ยๆ-League of Legends-vdo",
-    "cues": 15,
+    "cues": 14,
     "audio_seconds": 79.52,
     "overlaps": 0,
     "flagged": 6,
@@ -1763,7 +1807,7 @@
         ]
       },
       {
-        "cue": 6,
+        "cue": 5,
         "start": 25.5,
         "end": 26.5,
         "text": "โคตรแย่เลย",
@@ -1774,7 +1818,7 @@
         ]
       },
       {
-        "cue": 10,
+        "cue": 9,
         "start": 36.7,
         "end": 39.16,
         "text": "Some lessons cannot be passed from",
@@ -1786,7 +1830,7 @@
         ]
       },
       {
-        "cue": 11,
+        "cue": 10,
         "start": 39.16,
         "end": 40.5,
         "text": "teacher to student.",
@@ -1798,7 +1842,7 @@
         ]
       },
       {
-        "cue": 12,
+        "cue": 11,
         "start": 40.8,
         "end": 42.5,
         "text": "They must be experienced.",
@@ -1810,7 +1854,7 @@
         ]
       },
       {
-        "cue": 14,
+        "cue": 13,
         "start": 62.5,
         "end": 64.0,
         "text": "Feel that power.",
@@ -1857,13 +1901,13 @@
   "f1940f17-24c4-440c-9a6d-d97545268986": {
     "index": 32,
     "name": "ไฟต์หน้าป้อม-League of Legends-vdo",
-    "cues": 21,
+    "cues": 15,
     "audio_seconds": 98.62,
     "overlaps": 0,
-    "flagged": 11,
+    "flagged": 6,
     "flags": [
       {
-        "cue": 2,
+        "cue": 1,
         "start": 9.0,
         "end": 13.95,
         "text": "สุดยอด",
@@ -1874,29 +1918,7 @@
         ]
       },
       {
-        "cue": 3,
-        "start": 14.0,
-        "end": 16.95,
-        "text": "[ฟังไม่ชัด]",
-        "active_fraction": 0.07,
-        "onset_drift_s": 0.75,
-        "problems": [
-          "little_audio_under_cue"
-        ]
-      },
-      {
-        "cue": 8,
-        "start": 28.0,
-        "end": 34.95,
-        "text": "[ฟังไม่ชัด]",
-        "active_fraction": 0.82,
-        "onset_drift_s": null,
-        "problems": [
-          "no_audio_onset_near_start"
-        ]
-      },
-      {
-        "cue": 10,
+        "cue": 7,
         "start": 44.0,
         "end": 49.49,
         "text": "ไอ้เหี้ยหนีได้หนีได้หนีได้หนีได้หมดเลยดิไอ้",
@@ -1907,7 +1929,7 @@
         ]
       },
       {
-        "cue": 11,
+        "cue": 8,
         "start": 49.49,
         "end": 49.95,
         "text": "เหี้ย",
@@ -1918,7 +1940,7 @@
         ]
       },
       {
-        "cue": 13,
+        "cue": 10,
         "start": 56.0,
         "end": 58.95,
         "text": "Dark in my blood queen",
@@ -1929,18 +1951,7 @@
         ]
       },
       {
-        "cue": 16,
-        "start": 67.0,
-        "end": 70.95,
-        "text": "[ฟังไม่ชัด]",
-        "active_fraction": 0.32,
-        "onset_drift_s": 0.3,
-        "problems": [
-          "little_audio_under_cue"
-        ]
-      },
-      {
-        "cue": 17,
+        "cue": 13,
         "start": 71.0,
         "end": 75.95,
         "text": "Strike the wind",
@@ -1951,31 +1962,7 @@
         ]
       },
       {
-        "cue": 18,
-        "start": 76.0,
-        "end": 80.95,
-        "text": "[ฟังไม่ชัด]",
-        "active_fraction": 0.34,
-        "onset_drift_s": 0.85,
-        "problems": [
-          "little_audio_under_cue",
-          "no_audio_onset_near_start"
-        ]
-      },
-      {
-        "cue": 19,
-        "start": 81.0,
-        "end": 91.95,
-        "text": "[ฟังไม่ชัด]",
-        "active_fraction": 0.09,
-        "onset_drift_s": 1.15,
-        "problems": [
-          "little_audio_under_cue",
-          "no_audio_onset_near_start"
-        ]
-      },
-      {
-        "cue": 21,
+        "cue": 15,
         "start": 95.93,
         "end": 98.4,
         "text": "ยังไงล่ะวะทีมมันย่างเดียวอ่ะ",
@@ -2020,24 +2007,11 @@
   "a897710f-8a14-429b-8fe5-d4f3548364a5": {
     "index": 35,
     "name": "ไฟต์ท้ายเกมสุดมัน-League of Legends-vdo",
-    "cues": 4,
+    "cues": 3,
     "audio_seconds": 80.0,
     "overlaps": 0,
-    "flagged": 1,
-    "flags": [
-      {
-        "cue": 4,
-        "start": 27.0,
-        "end": 33.0,
-        "text": "[ฟังไม่ชัด]",
-        "active_fraction": 0.03,
-        "onset_drift_s": null,
-        "problems": [
-          "little_audio_under_cue",
-          "no_audio_onset_near_start"
-        ]
-      }
-    ]
+    "flagged": 0,
+    "flags": []
   },
   "8634612e-5907-41f4-9f04-4c8efe08ee96": {
     "index": 36,
@@ -2150,7 +2124,7 @@
     "cues": 22,
     "audio_seconds": 93.63,
     "overlaps": 0,
-    "flagged": 7,
+    "flagged": 8,
     "flags": [
       {
         "cue": 4,
@@ -2188,13 +2162,24 @@
       {
         "cue": 8,
         "start": 11.75,
-        "end": 12.5,
-        "text": "ฮัลโหลยังไม่ได้ทำอะไรเลยเคมึงอ่ะมึงมึงทำตัวมึงเองอ่ะกด Shift ขวานั่งหน้าแล้วพายพายไอ้เหี้ยเอ๊ยเกือบละ",
+        "end": 12.32,
+        "text": "ฮัลโหลยังไม่ได้ทำอะไรเลยเคมึงอ่ะมึงมึงทำตัวมึงเองอ่ะ",
         "active_fraction": 0.0,
         "onset_drift_s": 1.05,
         "problems": [
           "little_audio_under_cue",
           "no_audio_onset_near_start"
+        ]
+      },
+      {
+        "cue": 9,
+        "start": 12.37,
+        "end": 12.97,
+        "text": "กด Shift ขวานั่งหน้าแล้วพายพายไอ้เหี้ยเอ๊ยเกือบละ",
+        "active_fraction": 0.25,
+        "onset_drift_s": 0.43,
+        "problems": [
+          "little_audio_under_cue"
         ]
       },
       {
@@ -2355,13 +2340,13 @@
   "23199d97-af37-4526-ad6b-950f04571983": {
     "index": 43,
     "name": "ไฟต์ในเลนกับเสียงร้องเฮ้ย-League of Legends-vdo",
-    "cues": 13,
+    "cues": 11,
     "audio_seconds": 70.0,
     "overlaps": 0,
     "flagged": 3,
     "flags": [
       {
-        "cue": 8,
+        "cue": 7,
         "start": 29.0,
         "end": 32.74,
         "text": "ไอ้เหี้ยทำไมกูต้องมาซ่อมด้วยวะซ่อมเพื่อมาเนี่ย",
@@ -2372,7 +2357,7 @@
         ]
       },
       {
-        "cue": 11,
+        "cue": 10,
         "start": 38.27,
         "end": 41.95,
         "text": "ดูดนมแม่ไปคุยมือแม่เล่นเหี้ยสัส",
@@ -2383,7 +2368,7 @@
         ]
       },
       {
-        "cue": 12,
+        "cue": 11,
         "start": 42.0,
         "end": 44.95,
         "text": "ขึ้นท็อปเลยมึงอย่าทำรูดตูดดิ้วะ",
@@ -2441,25 +2426,13 @@
   "fea3bf4f-544d-45f3-8b39-d19e449b54b0": {
     "index": 45,
     "name": "เริ่มเกมแล้วเจอไฟต์-League of Legends-vdo",
-    "cues": 22,
+    "cues": 21,
     "audio_seconds": 70.0,
     "overlaps": 0,
-    "flagged": 11,
+    "flagged": 10,
     "flags": [
       {
-        "cue": 1,
-        "start": 0.0,
-        "end": 2.12,
-        "text": "[ฟังไม่ชัด]",
-        "active_fraction": 0.19,
-        "onset_drift_s": null,
-        "problems": [
-          "little_audio_under_cue",
-          "no_audio_onset_near_start"
-        ]
-      },
-      {
-        "cue": 6,
+        "cue": 5,
         "start": 14.51,
         "end": 16.44,
         "text": "เดี๋ยวออกชิ้นแรก",
@@ -2470,7 +2443,7 @@
         ]
       },
       {
-        "cue": 8,
+        "cue": 7,
         "start": 18.07,
         "end": 20.31,
         "text": "เดี่ยวก่อนตีต่อ",
@@ -2481,7 +2454,7 @@
         ]
       },
       {
-        "cue": 9,
+        "cue": 8,
         "start": 23.64,
         "end": 26.64,
         "text": "มานี่มา",
@@ -2492,18 +2465,18 @@
         ]
       },
       {
-        "cue": 11,
-        "start": 30.21,
+        "cue": 10,
+        "start": 31.19,
         "end": 32.19,
-        "text": "ท้ายแม่เปิดเมกะบ็อกซ์",
-        "active_fraction": 0.03,
-        "onset_drift_s": 0.56,
+        "text": "เมกะบ็อกซ์",
+        "active_fraction": 0.05,
+        "onset_drift_s": 0.06,
         "problems": [
           "little_audio_under_cue"
         ]
       },
       {
-        "cue": 12,
+        "cue": 11,
         "start": 39.43,
         "end": 41.48,
         "text": "เดี๋ยวผมจะตีพันธุ์พื้น",
@@ -2514,7 +2487,7 @@
         ]
       },
       {
-        "cue": 16,
+        "cue": 15,
         "start": 49.7,
         "end": 51.48,
         "text": "แบบคนเด่งเลย",
@@ -2525,7 +2498,7 @@
         ]
       },
       {
-        "cue": 17,
+        "cue": 16,
         "start": 51.53,
         "end": 54.17,
         "text": "แมพแล้วฝนตกด้วยนะ",
@@ -2536,7 +2509,7 @@
         ]
       },
       {
-        "cue": 18,
+        "cue": 17,
         "start": 54.22,
         "end": 56.36,
         "text": "เรียบร้อย",
@@ -2547,7 +2520,7 @@
         ]
       },
       {
-        "cue": 19,
+        "cue": 18,
         "start": 56.41,
         "end": 59.91,
         "text": "เฮ้ยอย่าไปโดน",
@@ -2558,7 +2531,7 @@
         ]
       },
       {
-        "cue": 20,
+        "cue": 19,
         "start": 59.96,
         "end": 63.81,
         "text": "อื้อหือบวิกเหรอบวิกอยู่",

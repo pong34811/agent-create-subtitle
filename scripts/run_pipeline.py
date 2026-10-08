@@ -4,6 +4,7 @@
   python scripts/run_pipeline.py transcribe [N ...]     # Gemini, resumes, needs GEMINI_API_KEY
   python scripts/run_pipeline.py cues [N ...]           # transcripts -> draft SRT (pythainlp venv)
   python scripts/run_pipeline.py verify [N ...]         # audio plausibility check
+  python scripts/run_pipeline.py check [N ...]          # Thai text proofreading rules
   python scripts/run_pipeline.py import [N ...]         # Resolve dry run (py -3.12)
   python scripts/run_pipeline.py import [N ...] --apply [--replace]
 
@@ -26,7 +27,7 @@ VENV_PY = ROOT / '.venv-aomimama' / 'Scripts' / 'python.exe'
 
 def interpreter(stage):
     """Command prefix for the interpreter a stage needs."""
-    if stage == 'cues':
+    if stage in ('cues', 'check'):
         return [str(VENV_PY)] if VENV_PY.is_file() else [sys.executable]
     if stage == 'import':
         return ['py', '-3.12']
@@ -35,9 +36,9 @@ def interpreter(stage):
 
 def build_command(stage, indices, apply=False, replace=False):
     script = {'transcribe': 'gemini_direct_transcribe.py', 'cues': 'build_gemini_cues.py',
-              'verify': 'verify_cues_audio.py', 'import': 'import_subtitles_resolve.py'}[stage]
+              'verify': 'verify_cues_audio.py', 'check': 'check_thai_text.py', 'import': 'import_subtitles_resolve.py'}[stage]
     cmd = interpreter(stage) + ['-X', 'utf8', str(SCRIPTS / script)]
-    if stage == 'verify' and indices:
+    if stage in ('verify', 'check') and indices:
         cmd += ['--only'] + [str(i) for i in indices]
     elif stage == 'import':
         if indices:
@@ -76,7 +77,7 @@ def status():
 
 def main(argv=None):
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    parser.add_argument('stage', choices=['status', 'transcribe', 'cues', 'verify', 'import'])
+    parser.add_argument('stage', choices=['status', 'transcribe', 'cues', 'verify', 'check', 'import'])
     parser.add_argument('indices', type=int, nargs='*', help='manifest indices; default all')
     parser.add_argument('--apply', action='store_true', help='import only: actually write to Resolve')
     parser.add_argument('--replace', action='store_true', help='import only: replace an existing subtitle track')

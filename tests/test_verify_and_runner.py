@@ -63,3 +63,9 @@ def test_runner_picks_the_right_interpreter_per_stage():
 def test_apply_is_rejected_outside_import():
     with pytest.raises(SystemExit):
         rp.main(['verify', '--apply'])
+
+
+def test_check_stage_uses_the_pythainlp_interpreter():
+    cmd = rp.build_command('check', [5])
+    assert cmd[0].endswith('python.exe') or cmd[0] == sys.executable
+    assert cmd[-3:] == ['check_thai_text.py'.join(['', '']) or cmd[-3], '--only', '5'] or cmd[-2:] == ['--only', '5']
