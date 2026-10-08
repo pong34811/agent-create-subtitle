@@ -1,5 +1,38 @@
 # Changelog
 
+## v0.4.0
+
+Project audit: skills brought in line with the real (Gemini) pipeline, the
+archived Whisper pipeline moved aside, clutter removed, weaknesses documented.
+
+### Added
+- `docs/REVIEW-th.md`: Thai review of the skills and of the project's weak points
+  when instructing an agent to make Thai subtitles.
+- `scripts/sync_skills.py` (`--check`): `.agents/skills` is the source of truth,
+  `.claude/skills` is the mirror Claude Code actually loads.
+- `GEMINI_API_KEY` from the environment is accepted by `gemini_direct_transcribe.py`.
+
+### Changed
+- `thai-subtitles-resolve`: the repo copy was stale. The Gemini-ASR version and
+  `references/gemini-asr-pipeline.md`, which v0.3.0 claimed to ship but only
+  existed in the Hermes skills folder, are now in the repository.
+- `thai-proofread`: synced with the maintained copy.
+- `create-subtitle`: rewritten. Gemini ASR is the default route, Whisper is
+  documented as legacy, and the six pipeline steps are tied to their scripts and
+  sibling skills.
+- `AGENTS.md`: rewritten for the current layout and commands.
+- Six scripts no longer hard-code `C:/Users/warit/...`; the run root comes from
+  `AOMIMAMA_RUN_ROOT` or the script location.
+- The K404 Whisper batch moved to `legacy/k404-whisper/` (scripts, transcripts,
+  captions, job list, Mitr font), self-contained.
+
+### Removed
+- `work/2026-10-02_190418/` (41 scratch files incl. `speech.wav`), `transcript-work/`,
+  root-level K404_29 sample captions and `caption-sample*.png`.
+- `.hermes/skills/` (byte-identical duplicate of `.claude/skills`).
+- Local-only renders: 2 root `.mov` and `caption_assets_final/rendered/` (~930 MB),
+  all regenerable from the ASS files; plus pytest and `__pycache__` caches.
+
 ## v0.3.0
 
 Full Gemini-ASR subtitle run for the `aomimama-2026-09-p1` project: 49 timelines

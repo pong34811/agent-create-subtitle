@@ -13,7 +13,9 @@ import time
 import urllib.request
 from pathlib import Path
 
-RUN_ROOT = Path('C:/Users/warit/Desktop/agent-create-subtitle/runs/aomimama-2026-09-p1')
+# Override with AOMIMAMA_RUN_ROOT; default resolves from this script, not a fixed drive path.
+import os as _os
+RUN_ROOT = Path(_os.environ.get('AOMIMAMA_RUN_ROOT') or Path(__file__).resolve().parents[1] / 'runs' / 'aomimama-2026-09-p1')
 PROXY = 'http://127.0.0.1:8645/v1/chat/completions'
 MODEL = 'google/gemini-3.8-flash'
 AUTH = 'Bearer local-proxy'

@@ -13,7 +13,9 @@ import urllib.error
 import urllib.request
 from pathlib import Path
 
-RUN_ROOT = Path('C:/Users/warit/Desktop/agent-create-subtitle/runs/aomimama-2026-09-p1')
+# Override with AOMIMAMA_RUN_ROOT; default resolves from this script, not a fixed drive path.
+import os as _os
+RUN_ROOT = Path(_os.environ.get('AOMIMAMA_RUN_ROOT') or Path(__file__).resolve().parents[1] / 'runs' / 'aomimama-2026-09-p1')
 OUT = RUN_ROOT / 'model-comparison'
 GOOGLE = 'https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent'
 GROQ = 'https://api.groq.com/openai/v1/audio/transcriptions'

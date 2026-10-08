@@ -2,47 +2,51 @@
 
 ## Project Structure & Module Organization
 
-This repository generates Thai gaming subtitles using standalone Python scripts.
+This repository makes Thai gaming subtitles. The **current pipeline** is Gemini
+ASR → SRT → DaVinci Resolve subtitle tracks (run `aomimama-2026-09-p1`). The
+original Whisper pipeline is archived under `legacy/`.
 
-- `transcribe_caption_jobs.py`: CPU Whisper transcription into `transcripts_raw/`.
-- `transcribe_thai_finetuned.py`: CUDA Thai transcription into `transcripts_thai/`.
-- `build_caption_assets.py` and `build_thai_caption_assets.py`: convert matching transcripts into SRT/ASS in `caption_assets/` and `caption_assets_final/`, respectively.
-- `timeline_caption_jobs.json`: source paths, extraction ranges, and job indices.
-- `fonts/` and sample PNGs: subtitle font and appearance references.
-- `.agents/skills/create-subtitle/`: project-specific agent workflow.
-
-There is no package layout or tests directory. Script paths resolve relative to each script's location.
+- `scripts/`: current pipeline.
+  - `gemini_direct_transcribe.py` and `transcribe_chunked.py` transcribe.
+  - `build_gemini_cues.py` builds cues and SRT.
+  - `import_subtitles_resolve.py` imports to Resolve (dry run by default).
+  - `aomimama_asr.py` and `aomimama_caption_core.py` are the phrase splitter and quality gates.
+  - `compare_asr*.py` are model comparisons.
+  - `sync_skills.py` mirrors skills.
+- `tests/`: pytest suite (32 tests).
+- `runs/<run>/`: manifests, transcripts, reviewed JSON, SRT drafts and logs for one batch. Audio and `.drp` backups are git-ignored.
+- `legacy/k404-whisper/`: K404 batch, the Whisper transcribers and builders, their transcripts, ASS/SRT and the Mitr font. Self-contained; run scripts from inside it.
+- `.agents/skills/`: project skills, the source of truth (`create-subtitle`, `thai-subtitles-resolve`, `thai-proofread`, `resolve-mitr-subtitle-presets`, `grilling`, `domain-modeling`, `grill-with-docs`). `.claude/skills/` is a generated mirror: run `python scripts/sync_skills.py` after editing.
+- `.hermes/`: plans, notes and SDD records (history, not code).
+- `TOOLING.md`: verified interpreters, packages, providers and pitfalls. `CHANGELOG.md` and `VERSION` track releases. `docs/REVIEW-th.md` records the weaknesses review.
 
 ## Build, Test, and Development Commands
 
-Run from the repository root with FFmpeg on PATH and the relevant Python dependencies installed. Both paths use NumPy; builders use PyThaiNLP. CPU transcription requires `faster-whisper`; CUDA transcription requires CUDA-enabled PyTorch, Transformers, Accelerate, and Safetensors.
+Run from the repository root with FFmpeg on PATH and `GEMINI_API_KEY` set (or in the Hermes `.env`).
 
 ```powershell
-python -X utf8 transcribe_caption_jobs.py
-python -X utf8 build_caption_assets.py
+python -X utf8 scripts/gemini_direct_transcribe.py          # transcribe with model fallback
+python -X utf8 scripts/build_gemini_cues.py                 # transcripts -> draft SRT
+py -3.12 scripts/import_subtitles_resolve.py                # dry run
+py -3.12 scripts/import_subtitles_resolve.py --apply --only 1 2
+python -m pytest tests
+python scripts/sync_skills.py --check
 ```
 
-These commands transcribe all jobs on CPU, then build captions from raw transcripts.
-
-```powershell
-python -X utf8 transcribe_thai_finetuned.py
-python -X utf8 build_thai_caption_assets.py
-```
-
-These commands use the Thai CUDA model, then build final captions. Reuse existing transcripts when only caption formatting changes. `THAI_ASR_ONLY` limits CUDA transcription to the first N jobs, not a specific index.
+Resolve writes (`--apply`) must use `py -3.12`; the `.venv-aomimama` (3.11) holds `pythainlp` but cannot load `fusionscript.dll`. Set `AOMIMAMA_RUN_ROOT` to use another run folder. Legacy commands are in `.agents/skills/create-subtitle/SKILL.md`.
 
 ## Coding Style & Naming Conventions
 
-Use four-space Python indentation, `snake_case` functions and variables, and uppercase constants. Keep JSON readable with two-space indentation and preserved Thai characters. Maintain UTF-8 JSON and UTF-8 BOM subtitle output. Preserve filenames such as `K404_01_raw.json`, `K404_01_thai.json`, and `K404_01_captions.srt`. No formatter or linter is configured.
+Four-space Python indentation, `snake_case` functions and variables, uppercase constants. Keep JSON readable with two-space indentation and preserved Thai characters. Use UTF-8 JSON and UTF-8 BOM subtitle output where the legacy builders do. Transcripts are `<timeline-id>.gemini.json`; drafts are `<timeline-id>.draft.srt`. Do not hard-code absolute paths; resolve from `__file__` or an environment variable. No formatter or linter is configured.
 
 ## Testing Guidelines
 
-No automated test framework or coverage threshold is configured. Validate changed behavior on a selected clip in a separate working folder containing copied scripts and a reduced job list. Check `caption_summary.json`, positive cue durations, clip bounds, overlaps, Thai text, and speech synchronization. Preview ASS with the bundled Mitr font when changing styling. Report which checks were performed.
+Run `python -m pytest tests` before committing script changes. For behavior changes, validate on a few timelines first (`--only N`) and check: positive cue durations, no overlaps, last cue inside the clip, Thai text, no foreign-script junk, and readback counts after import. Say whether speech sync was actually listened to; drafts are `approved: false` until a person checks them. Report the checks you performed.
 
 ## Commit & Pull Request Guidelines
 
-The available history uses `feat: <description>`. Follow that format with an appropriate prefix such as `fix:` or `docs:`. PRs should describe affected jobs, behavioral changes, validation, and related issues where applicable. Include preview images for visual changes.
+History uses `feat:`, `fix:`, `docs:`, `chore:` (with `chore(release): vX.Y.Z`). PRs describe affected timelines, behavior changes, validation and related issues. Include preview images for visual changes. Release notes are written in Thai in `.hermes/notes/release-vX.Y.Z-notes.md`.
 
 ## Configuration & Generated Outputs
 
-Verify source paths, especially existing `G:` references. Builders overwrite captions; CPU transcription overwrites transcripts, while CUDA transcription skips existing files. Preserve original inputs when processing subsets. Subtitle times are relative to extracted clips; timeline placement requires an explicit mapping. Keep secrets and large media out of commits, consistent with `.gitignore`.
+Never commit audio, `.drp` backups or rendered video (see `.gitignore`). Never commit API keys. `import_subtitles_resolve.py` skips timelines that already have a subtitle track unless `--replace`. Source media is read-only. Subtitle times are relative to the extracted audio; timeline placement needs the clip's real timeline mapping. Verify drive paths such as `G:` before running anything that reads source media.

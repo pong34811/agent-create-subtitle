@@ -16,7 +16,9 @@ import urllib.error
 import urllib.request
 from pathlib import Path
 
-RUN_ROOT = Path('C:/Users/warit/Desktop/agent-create-subtitle/runs/aomimama-2026-09-p1')
+# Override with AOMIMAMA_RUN_ROOT; default resolves from this script, not a fixed drive path.
+import os as _os
+RUN_ROOT = Path(_os.environ.get('AOMIMAMA_RUN_ROOT') or Path(__file__).resolve().parents[1] / 'runs' / 'aomimama-2026-09-p1')
 # Ordered by MEASURED Thai quality (scripts/compare_asr_v2.py, same audio), then
 # newest-generation first. Newer Gemini releases transcribe Thai markedly better:
 #   3.7/3.6/3.5-flash  newest — best names + fluency
@@ -79,6 +81,8 @@ RESPONSE_SCHEMA = {
 
 
 def api_key():
+    if os.environ.get('GEMINI_API_KEY'):
+        return os.environ['GEMINI_API_KEY'].strip()
     env = Path(os.environ.get('HERMES_HOME') or r'C:\Users\warit\AppData\Local\hermes') / '.env'
     for line in env.read_text(encoding='utf-8').splitlines():
         if line.startswith('GEMINI_API_KEY='):

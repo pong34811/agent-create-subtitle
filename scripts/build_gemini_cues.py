@@ -16,7 +16,9 @@ from pathlib import Path
 
 from pythainlp.tokenize import word_tokenize
 
-RUN_ROOT = Path('C:/Users/warit/Desktop/agent-create-subtitle/runs/aomimama-2026-09-p1')
+# Override with AOMIMAMA_RUN_ROOT; default resolves from this script, not a fixed drive path.
+import os as _os
+RUN_ROOT = Path(_os.environ.get('AOMIMAMA_RUN_ROOT') or Path(__file__).resolve().parents[1] / 'runs' / 'aomimama-2026-09-p1')
 MAX_GLYPHS = 36
 MIN_GAP = 0.05
 NEGATIONS = {'ไม่', 'ไม่ได้', 'อย่า', 'มิ', 'ไม่ต้อง', 'ไม่เคย'}
