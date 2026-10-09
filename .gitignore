@@ -23,6 +23,10 @@ venv/
 runs/*/audio/
 runs/*/backups/
 
+# All run folders (transcripts, SRT drafts, reports, logs)
+runs/
+
+
 # OS files
 .DS_Store
 Thumbs.db
