@@ -22,8 +22,9 @@ from thai_text import clean_cue_text, collapse_stutter  # noqa: E402
 # Override with AOMIMAMA_RUN_ROOT; default resolves from this script, not a fixed drive path.
 import os as _os
 RUN_ROOT = Path(_os.environ.get('AOMIMAMA_RUN_ROOT') or Path(__file__).resolve().parents[1] / 'runs' / 'aomimama-2026-09-p1')
-MAX_GLYPHS = 36
+MAX_GLYPHS = int(_os.environ.get('AOMIMAMA_MAX_GLYPHS') or 36)  # 36 = default; ~16 for vertical Shorts
 MIN_GAP = 0.05
+MAX_DISPLAY = float(_os.environ.get('AOMIMAMA_MAX_DISPLAY') or 0)  # seconds; 0 = no cap (use ~2.5 for Shorts)
 NEGATIONS = {'ไม่', 'ไม่ได้', 'อย่า', 'มิ', 'ไม่ต้อง', 'ไม่เคย'}
 PROTECTED = (
     'Alien Shooter', 'alien shooter', 'Minecraft', 'League of Legends',
@@ -105,6 +106,8 @@ def split_segment(segment, next_start):
         display = re.sub(r'\s+([,.;:!?…])', r'\1', display)
         display = strip_thai_internal_spaces(display)
         if display:
+            if MAX_DISPLAY:
+                en = min(en, st + MAX_DISPLAY)
             cues.append({'start': round(st, 3), 'end': round(max(en, st + 0.4), 3),
                          'text': display, 'source_segment': segment.get('start'),
                          'gemini_uncertain': bool(segment.get('uncertain')),

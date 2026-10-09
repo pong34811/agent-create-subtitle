@@ -161,8 +161,13 @@ def import_one(project, media_pool, tl, srt_path, fps, replace):
     if replace:
         for idx in range(tl.GetTrackCount('subtitle'), 0, -1):
             tl.DeleteTrack('subtitle', idx)
-        stale = [c for c in media_pool.GetRootFolder().GetClipList()
-                 if c.GetClipProperty('File Path') == target]
+        stale = []
+        folders = [media_pool.GetRootFolder()]
+        while folders:                      # the cached pool item may sit in any sub-bin
+            folder = folders.pop()
+            folders.extend(folder.GetSubFolderList() or [])
+            stale.extend(c for c in folder.GetClipList() or []
+                         if c.GetClipProperty('File Path') == target)
         if stale:
             media_pool.DeleteClips(stale)
 
